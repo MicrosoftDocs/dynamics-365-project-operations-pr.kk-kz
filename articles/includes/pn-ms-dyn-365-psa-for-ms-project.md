@@ -1,0 +1,1 @@
+Microsoft Project жүйесіне арналған Dynamics 365 Project Service Automation қондырмасы
