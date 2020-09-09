@@ -1,1 +1,1 @@
-Dynamics 365 (online) 9.x нұсқасындағы Project Service бағдарламасының 2.4.4.30 нұсқасына немесе бұрынғысына қолданылады
+<span data-ttu-id="3d45c-101">Dynamics 365 (online) 9.x нұсқасындағы Project Service бағдарламасының 2.4.4.30 нұсқасына немесе бұрынғысына қолданылады</span><span class="sxs-lookup"><span data-stu-id="3d45c-101">Applies to Project Service app version 2.4.4.30 or earlier on Dynamics 365 (online) version 9.x</span></span>

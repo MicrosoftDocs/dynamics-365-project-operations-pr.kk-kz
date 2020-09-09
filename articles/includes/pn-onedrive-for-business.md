@@ -1,1 +1,1 @@
-Бизнеске арналған OneDrive
+<span data-ttu-id="c9702-101">Бизнеске арналған OneDrive</span><span class="sxs-lookup"><span data-stu-id="c9702-101">OneDrive for Business</span></span>

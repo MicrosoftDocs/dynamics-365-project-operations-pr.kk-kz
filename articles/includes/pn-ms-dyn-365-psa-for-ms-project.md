@@ -1,1 +1,1 @@
-Microsoft Project жүйесіне арналған Dynamics 365 Project Service Automation қондырмасы
+<span data-ttu-id="61955-101">Microsoft Project жүйесіне арналған Dynamics 365 Project Service Automation қондырмасы</span><span class="sxs-lookup"><span data-stu-id="61955-101">Dynamics 365 Project Service Automation Add-in for Microsoft Project</span></span>

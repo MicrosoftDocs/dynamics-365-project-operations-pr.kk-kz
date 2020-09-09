@@ -1,1 +1,1 @@
-Project Service бағдарламасына қатысты 2.x және 1.x нұсқалары
+<span data-ttu-id="94d3d-101">Project Service бағдарламасына қатысты 2.x және 1.x нұсқалары</span><span class="sxs-lookup"><span data-stu-id="94d3d-101">Applies to Project Service app versions 2.x and 1.x</span></span>

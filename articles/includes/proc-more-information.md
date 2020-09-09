@@ -1,1 +1,1 @@
-Қосымша ақпарат:
+<span data-ttu-id="47ac9-101">Қосымша ақпарат:</span><span class="sxs-lookup"><span data-stu-id="47ac9-101">More information:</span></span>

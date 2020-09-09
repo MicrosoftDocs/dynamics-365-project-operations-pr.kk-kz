@@ -1,1 +1,1 @@
-iPhone
+<span data-ttu-id="cd088-101">iPhone</span><span class="sxs-lookup"><span data-stu-id="cd088-101">iPhone</span></span>
