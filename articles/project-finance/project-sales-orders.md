@@ -1,0 +1,44 @@
+---
+title: Уақыт және материалдық жобаларға арналған жобаның сату тапсырыстары
+description: Бұл тақырыпта уақыт және материалдық жобалар үшін жобаның сату тапсырыстарын құру жолы түсіндірілген.
+author: KimANelson
+manager: AnnBe
+ms.date: 04/05/2019
+ms.topic: article
+ms.prod: ''
+ms.service: dynamics-ax-applications
+ms.technology: ''
+audience: Application User
+ms.reviewer: josaw
+ms.search.scope: Core, Operations
+ms.custom: 87983
+ms.assetid: 05ab0cf6-318c-42de-ba56-3e662283497e
+ms.search.region: Global
+ms.author: knelson
+ms.search.validFrom: 2019-04-05
+ms.dyn365.ops.version: AX 10.0.2
+ms.openlocfilehash: 446c73e9491b1892847caf7e843c802292107ef9
+ms.sourcegitcommit: 8c786230ef2a497280885b827162561776e2eb00
+ms.translationtype: HT
+ms.contentlocale: kk-KZ
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3753020"
+---
+# <a name="project-sales-orders-for-time-and-material-projects"></a><span data-ttu-id="d2925-103">Уақыт және материалдық жобаларға арналған жобаның сату тапсырыстары</span><span class="sxs-lookup"><span data-stu-id="d2925-103">Project sales orders for time and material projects</span></span>
+
+[!include[banner](../includes/banner.md)]
+[!include[banner](../includes/preview-banner.md)]
+
+<span data-ttu-id="d2925-104">Бұл тақырыпта жоба үшін сату тапсырысын жасау жолы сипатталған.</span><span class="sxs-lookup"><span data-stu-id="d2925-104">This topic describes how to create a sales order for a project.</span></span> <span data-ttu-id="d2925-105">Сату тапсырыстарын тек **уақыт және материал** түріндені жобалар үшін жасауға болады.</span><span class="sxs-lookup"><span data-stu-id="d2925-105">Sales orders can only be created for projects of type **time and material**.</span></span>
+
+<span data-ttu-id="d2925-106">Егер уақыт пен материалдық жоба келісім-шартында бірнеше қаржыландыру көзіне ие болса, **Жобаны басқару және есепке алу параметрлері** бетінде **Бірнеше қаржыландыру көздері бар жобалар үшін сату тапсырыстарына рұқсат беру** параметрін қосу қажет.</span><span class="sxs-lookup"><span data-stu-id="d2925-106">If a time and material project has multiple funding sources on the project contract, you must enable the **Allow sales orders for projects with multiple funding sources** parameter on the **Project management and accounting parameters** page.</span></span> 
+
+> [!NOTE]
+> - <span data-ttu-id="d2925-107">Бірнеше қаржыландырудың көздері бар жобаның сату тапсырыстарын қолдау 10.0.2 және одан жоғары бағдарлама шығарылғаннан бастап қолжетімді.</span><span class="sxs-lookup"><span data-stu-id="d2925-107">Support for project sales orders with multiple funding sources is available starting with application release 10.0.2 and higher.</span></span>
+> - <span data-ttu-id="d2925-108">Бірнеше қаржыландыру көздері бар жобаның сату тапсырыстарын қолдауға мүмкіндік беретін параметр 2020 жылдың сәуірінде шығарылады, содан кейін функция әрдайым қосулы болады.</span><span class="sxs-lookup"><span data-stu-id="d2925-108">The parameter to enable the support for project sales orders with multiple funding sources will be removed in the April 2020 release wave, after which the functionality will always be enabled.</span></span>
+
+<span data-ttu-id="d2925-109">Жобаға негізделген сату тапсырыстарын екі жолмен жасауға болады:</span><span class="sxs-lookup"><span data-stu-id="d2925-109">You can create project-based sales orders in two ways:</span></span>
+
+- <span data-ttu-id="d2925-110">Жобаның өзіне өтіңіз.</span><span class="sxs-lookup"><span data-stu-id="d2925-110">Go to the project itself.</span></span> <span data-ttu-id="d2925-111">"Әрекеттер" тақтасында, **Басқару > Элемент тапсырмалары > Сату тапсырысы** тармағын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="d2925-111">On the Action Pane, select **Manage > Item tasks > Sales order**.</span></span> <span data-ttu-id="d2925-112">Жоба туралы ақпарат жобадағы сату тапсырысы бойынша әдепкі болады.</span><span class="sxs-lookup"><span data-stu-id="d2925-112">The project information will default to the sales order from the project.</span></span> <span data-ttu-id="d2925-113">Егер жоба келісім-шарты бірнеше қаржыландыру көзіне ие болса, тұтынушыны сату тапсырысына белгілеу үшін қаржыландыру көзін таңдауыңыз қажет.</span><span class="sxs-lookup"><span data-stu-id="d2925-113">If the project contract has more than one funding source, you will need to select the funding source to set the customer for the sales order.</span></span> <span data-ttu-id="d2925-114">Егер жобаның бір ғана қаржыландыру көзі болса, тұтынушы автоматты түрде белгіленеді.</span><span class="sxs-lookup"><span data-stu-id="d2925-114">If there is only one funding source for the project, the customer will be automatically set.</span></span>
+- <span data-ttu-id="d2925-115">**Барлық сату тапсырысы** тізімі бетіне өтіп, жаңа сату тапсырысын жасаңыз.</span><span class="sxs-lookup"><span data-stu-id="d2925-115">Go to the **All sales order** list page and create a new sales order.</span></span> <span data-ttu-id="d2925-116">Сізге сату тапсырысы үшін жобаны таңдау қажет болады.</span><span class="sxs-lookup"><span data-stu-id="d2925-116">You will need to select the project for the sales order.</span></span> <span data-ttu-id="d2925-117">Жоба таңдалғаннан кейін, тұтынушы қаржыландыру көзінен белгіленеді немесе жоба келісім-шарты бірнеше қаржыландыру көзіне ие болса, қаржыландыру көзін таңдау қажет болады.</span><span class="sxs-lookup"><span data-stu-id="d2925-117">After the project is selected, the customer will be set from the funding source or you will need to select the funding source if the project contract has multiple funding sources.</span></span>
+
