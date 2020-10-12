@@ -1,0 +1,448 @@
+- name: Dynamics 365 Project Operations
+  href: index.md
+- name: Бастау
+  items:
+    - name: Сіздегі орналастыру түрін анықтау
+      href: environment/determine-deployment-type.md
+- name: Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
+  items:
+    - name: Бастау
+      items:
+        - name: Алдын ала қарау жазылымына (ресурс/биржадан тыс негіздегі) тіркелу
+          href: environment/resource-sign-up-preview-subscription.md
+        - name: Алғышарттарды конфигурациялау
+          items:
+            - name: Жаңа LCS жобасын бастау
+              href: environment/create-lcs-project.md
+            - name: LCS жобасына Azure жазылымын қосу
+              href: environment/resource-add-azure-subscription-lcs-project.md
+        - name: Демо деректерді қолдану
+          items:
+            - name: Project Operations демо деректерін Finance бұлт қызметтеріне орналастырылған ортаға қолдану
+              href: environment/resource-apply-finance-demo-data.md
+            - name: Project Operations жүйесіне арналған Common Data Service бағдарламасында конфигурация деректерін қолдану
+              href: environment/resource-apply-pro-setup-config-data.md
+        - name: Орталарды орналастыру
+          items:
+            - name: Жаңа ортаны дайындау
+              href: environment/resource-provision-new-environment.md
+            - name: Қауіпсіздік үлгісі
+              href: environment/security-model.md
+    - name: Сату үрдісі
+      items:
+        - name: Сатылымға шолу
+          href: sales/sales-overview.md
+        - name: Орнату
+          items:
+            - name: Өнімдер
+              href: sales/sales-products.md
+            - name: Бірліктер мен бірлік топтары
+              href: sales/sales-units-unit-groups.md
+            - name: Валюта
+              href: sales/sales-currency.md
+        - name: Ықтимал тұтынушыларды басқару
+          href: sales/manage-leads.md
+        - name: Мүмкіндіктерді басқару
+          items:
+            - name: Мүмкіндік тақырыбы
+              href: sales/opportunity-header.md
+            - name: Жобаға негізделген жолдар
+              href: sales/project-based-lines.md
+            - name: Мүмкіндіктерден жоба баға ұсыныстарын жасау
+              href: sales/link-quotes-opportunities.md
+            - name: Мүмкіндікті жабу
+              href: sales/close-opportunity.md
+        - name: Баға ұсыныстарын басқару
+          items:
+            - name: Негізгі ұғымдар
+              href: sales/quotes-key-concepts.md
+            - name: Бірнеше тұтынушыны баға ұсынысы бойынша басқарыңыз
+              href: sales/manage-multiple-customers-quote.md
+            - name: Өнімге негізделген баға ұсыну жолдары
+              item:
+                - name: Өнімге негізделген баға ұсыну жолдарын есептеу
+                  href: sales/costing-product-based-quote-lines.md
+                - name: Өнімге негізделген баға ұсыну жолдары үшін күрделі бірліктерді басқарыңыз
+                  href: sales/managing-complex-units-product-based-quote-lines.md
+            - name: Жобаға негізделген баға ұсыну жолдары
+              items:
+                - name: Жоба бағатізбелерін басқарыңыз
+                  href: sales/managing-project-price-lists.md
+                - name: Баға ұсыну жолы бойынша болжам жасау
+                  href: sales/create-estimate-quote-line.md
+                - name: 'Баға ұсыну мәндерін, тұтынушы бюджеттерін және асуға болмайтын шектеулерді басқару'
+                  href: sales/manage-quoted-values-budget-limits-quote-line.md
+            - name: Жобаға негізделген баға ұсыныстарын көшіру
+              href: sales/lose-quote.md
+            - name: Баға ұсынуды жабу
+              href: sales/win-quote.md
+    - name: Баға мен құн
+      items:
+        - name: Өнім бағатізбелері
+          href: pricing-costing/product-price-list.md
+        - name: Жоба бағатізбелері
+          items:
+            - name: Бағатізбені сатылым үшін орнату
+              items:
+                - name: Сатылым бағатізбесін орнату
+                  href: pricing-costing/sales-price-list-setup.md
+        - name: Бағалар өлшемдері
+          items:
+            - name: Бағалар өлшемдеріне шолу
+              href: pricing-costing/pricing-dimensions-overview.md
+            - name: Бұрыннан бар өрісті баға өлшемі ретінде пайдалану
+              href: pricing-costing/use-existing-field-pricing-dimension.md
+            - name: Баға өлшемдері түріндегі реттемелі өрістер
+              items:
+                - name: Реттелетін өрістер мен нысандарды баға өлшемдері ретінде жасау
+                  href: pricing-costing/create-custom-fields-entities-pricing-dimensions.md
+                - name: Баға параметрлері мен транзакциялық нысандарға реттелетін өрістерді қосу
+                  href: pricing-costing/add-custom-fields-price-setup-transactional-entities.md
+                - name: 'Реттелетін өрістерді баға өлшемдері ретінде орнату '
+                  href: pricing-costing/set-up-custom-fields-pricing-dimensions.md
+            - name: Баға өлшемін өшіріңіз
+              href: pricing-costing/turning-off-pricing-dimension.md
+    - name: Жобаны басқару
+      items:
+        - name: Жобаны басқаруға шолу
+          href: project-management/project-management-overview.md
+        - name: Жоба кезеңдері
+          href: project-management/project-stages.md
+        - name: ПИ бойынша навигация
+          href: project-management/navigate-ui.md
+        - name: Жоба күйін түсіну
+          href: project-management/understand-project-status.md
+        - name: Жоба күнтізбелерін анықтау
+          href: project-management/define-project-calendars.md
+        - name: Жобаны жаңарту
+          href: project-management/update-project.md
+        - name: Жобаны көшіру
+          href: project-management/copy-project.md
+        - name: Жұмыс декомпозициясының құрылымын жоспарлау
+          items:
+            - name: Тағайындауларды жасау
+              href: project-management/create-assignments.md
+        - name: Жобалар болжамы
+          items:
+            - name: Жобалар болжамына шолу
+              href: project-management/estimating-projects-overview.md
+            - name: Ресурс болжамдары
+              href: project-management/resource-estimates.md
+            - name: Шығын болжамдарын жасау
+              href: project-management/create-expense-estimates.md
+        - name: Жобаны бақылау
+          items:
+            - name: Жобаны бақылауға шолу
+              href: project-management/project-tracking-overview.md
+            - name: Аяқтау кезіндегі құн болжамын жаңарту
+              href: project-management/update-completed-estimate.md
+        - name: Жоба тобы мүшелері
+          items:
+            - name: Жоба тобы мүшелеріне шолу
+              href: project-management/project-team-members-overview.md
+            - name: Топ мүшелерін жүргізу
+              href: project-management/maintain-team-members.md
+        - name: Бірлесіп жұмыс істеу
+          items:
+            - name: Office топтарымен іскерлесу
+              href: project-management/collaboration-groups.md
+    - name: Ресурстарды басқару
+      items:
+        - name: Негізгі ұғымдар
+          href: resource-management/resource-management-key-concepts.md
+        - name: Тапсырыстар және тағайындаулар
+          href: resource-management/booking-vs-assignment.md
+        - name: Ресурсты басқару режимдеріне шолу
+          href: resource-management/resource-management-mode-overview.md
+        - name: Кесте көмекшісіне шолу
+          href: resource-management/schedule-assistant-overview.md
+        - name: Орталықтандырылған ресурсқа тапсырыс беру
+          items:
+            - name: Ресурс талаптарын анықтау
+              href: resource-management/define-resource-requirements.md
+            - name: Ресурс талаптарын жаңарту
+              href: resource-management/update-resource-requirements.md
+        - name: Орталықтандырылмаған ресурсқа тапсырыс беру (гибридті)
+          items:
+            - name: Топ мүшесі торынан топ мүшелерін қосу
+              href: resource-management/add-team-members-grid.md
+        - name: Тағайындау әдісіне тапсырыс беру
+          href: resource-management/booking-allocation-methods.md
+        - name: Қабілеттер мен тиімділік үлгілері
+          href: resource-management/skills-proficiency-models.md
+        - name: Ресурстарды келістіру
+          items:
+            - name: Ресурстарды келістіруге шолу
+              href: resource-management/resource-reconciliation-overview.md
+    - name: Уақыт
+      items:
+        - name: Әзірлеуші ескертпелері
+          items:
+            - name: Апталық уақыт жазбасының торын реттеу
+              href: time/customize-weekly-time-entry-grid.md
+    - name: Шығыс
+      items:
+        - name: Шығысқа шолу
+          href: expense/expense-overview.md
+        - name: Жобалар үшін шығыстарды басқару тәжірибесі
+          items:
+            - name: Конфигурация және орнату
+              items:
+                - name: Саясаттарды орнату
+                  href: expense/set-up-policies.md
+                - name: Жұмыс ағындарын орнату
+                  href: expense/set-up-workflows.md
+                - name: Өкілеттікті басқару
+                  href: expense/manage-delegation.md
+                - name: Шығысты басқару параметрлерін конфигурациялау
+                  href: expense/configure-expense-management-parameters.md
+                - name: Несие картасын біріктіруін орнату
+                  href: expense/set-up-credit-card-integration.md
+                - name: Шығыс санаттарын орнату
+                  href: expense/set-up-expense-categories.md
+            - name: Шығыс туралы есептерді жасау
+              items:
+                - name: Шығыс туралы есеп бойынша тарату
+                  href: expense/distributions-expense-report.md
+            - name: Шығыс туралы есептерді бекіту
+              items:
+                - name: Шығыс туралы есептер және бірнеше бекітуші
+                  href: expense/expense-reports-multiple-approvers.md
+            - name: Шығыс туралы есептерді өткізу
+              href: expense/posting-expense-reports.md
+            - name: Іссапарға өтінім
+              href: expense/travel-requisition.md
+            - name: Ақшалай аванс
+              href: expense/cash-advance.md
+            - name: Тәуліктік
+              href: expense/per-diems.md
+            - name: Қаржыны басқару
+              items:
+                - name: ҚҚС қалпына келтіруі
+                  href: expense/vat-recovery.md
+            - name: Жаңа шығыс тәжірибесі
+              items:
+                - name: Шығыс туралы есептерге жаңа көзқарас
+                  href: expense/expense-reports-reimagined.md
+                - name: Түбіртекті шығысқа OCR арқылы сәйкестендіру
+                  href: expense/match-receipt-expense-ocr.md
+            - name: Мобильді шығысты басқару
+              href: expense/expense-using-mobile.md
+    - name: Бекітулер
+      items:
+        - name: Бекітулерге шолу
+          href: approvals/approvals-overview.md
+    - name: Қолда бар тауарлар
+      items:
+        - name: Қолда бар тауарларға шолу
+          href: actuals/actuals-overview.md
+        - name: Түзету журналдары
+          items:
+            - name: Түзету журналдарын жасау және растау
+              href: actuals/create-confirm-correction-journals.md
+    - name: Проформа-шоты
+      items:
+        - name: Проформа-шотын қолмен жасау
+          href: proforma-invoicing/create-manual-proforma-invoice.md
+        - name: Түзетілген есеп-шоттар
+          href: proforma-invoicing/corrective-invoices.md
+        - name: Есеп-шоттардың автоматты құрылуын теңшеу
+          href: proforma-invoicing/configure-automated-invoice-creation.md
+    - name: Жоба есебі
+      items:
+        - name: Жоба санаттарын конфигурациялау
+          href: project-accounting/configure-project-categories.md
+        - name: Есеп-шот ұсынылатын жобалар үшін есепті конфигурациялау
+          href: project-accounting/configure-accounting-billable-projects.md
+- name: Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі
+  items:
+    - name: Бастау
+      items:
+        - name: Алдын ала қарау жазылымына (жеңілдетілген) тіркелу
+          href: environment/lite-preview-subscription-sign-up.md
+        - name: Project Operations Lite бағдарламасын жеңілдетілген орналастыру – проформа-шотын ұсыну мәмілесі
+          href: environment/lite-deployment.md
+        - name: Демо нұсқа параметрлері мен конфигурация деректерін қолдану
+          href: environment/lite-apply-demo-setup-config-data.md
+        - name: Қауіпсіздік үлгісі
+          href: environment/security-model.md
+    - name: Сату үрдісі
+      items:
+        - name: Орнату
+          items:
+            - name: Өнімдер
+              href: sales/sales-products.md
+            - name: Бірліктер мен бірлік топтары
+              href: sales/sales-units-unit-groups.md
+            - name: Валюта
+              href: sales/sales-currency.md
+        - name: Ықтимал тұтынушыларды басқару
+          href: pro/sales/managing-leads-sales.md
+        - name: Мүмкіндіктерді басқару
+          items:
+            - name: Мүмкіндік тақырыбы
+              href: pro/sales/opportunity-header-sales.md
+            - name: Жобаға негізделген жолдар
+              href: pro/sales/project-based-lines-sales.md
+            - name: Мүмкіндіктерден жоба баға ұсыныстарын жасау
+              href: sales/link-quotes-opportunities.md
+            - name: Өнімге негізделген мүмкіндік жолдары
+              href: pro/sales/product-based-lines-sales.md
+            - name: Мүмкіндікті жабу
+              href: sales/close-opportunity.md
+        - name: Баға ұсыныстарын басқару
+          items:
+            - name: Жоба баға ұсынысының негізгі тұжырымдамалары
+              href: pro/sales/quotes-key-concepts-sales.md
+            - name: Жобаның баға ұсынысы туралы қысқаша ақпарат (сатылым)
+              href: pro/sales/quote-values-budget-limits-contract-sales.md
+            - name: Бірнеше тұтынушыны жобаның баға ұсыныстары бойынша басқару
+              href: pro/sales/manage-multiple-customers-quote-sales.md
+            - name: Өнімге негізделген баға ұсыну жолдары
+              items:
+                - name: Өнімге негізделген баға ұсыну жолдарын есептеу
+                  href: pro/sales/costing-product-based-quote-lines-sales.md
+                - name: 'Өнімге негізделген баға ұсыну жолы үшін әр пайдаланушыға, әр айда сияқты күрделі блоктарды басқару'
+                  href: pro/sales/managing-complex-units-product-based-quote-lines-sales.md
+            - name: Жобаға негізделген баға ұсыну жолдары
+              items:
+                - name: Жобаның баға ұсыныстары бойынша жоба бағатізбелерін басқару
+                  href: pro/sales/manage-project-price-lists-sales.md
+                - name: Бірнеше тұтынушыны жобаға негізделген баға ұсыну жолдары бойынша басқару
+                  href: pro/sales/manage-multiple-customers-quote-line-sales.md
+                - name: Жобалар мен тапсырмаларды жобаға негізделген баға ұсыну жолымен салыстыру
+                  href: pro/sales/mapping-projects-tasks-quote-line-sales.md
+                - name: Жобаға негізделген баға ұсыну жолын болжау
+                  href: pro/sales/create-estimate-quote-line-sales.md
+                - name: Жобаға негізделген баға ұсыну жолдары (сатылым)
+                  href: pro/sales/manage-quoted-values-budget-limits-quote-line-sales.md
+        - name: Жобаға негізделген баға ұсыныстарын көшіру
+          href: sales/lose-quote.md
+        - name: Баға ұсынуды жабу
+          href: pro/sales/win-quote-sales.md
+    - name: Баға мен құн
+      items:
+        - name: Жоба бағатізбелері
+          items:
+            - name: Бағатізбені сатылым үшін орнату
+              items:
+                - name: Сатылым бағатізбесін орнату
+                  href: pricing-costing/sales-price-list-setup.md
+        - name: Бағалар өлшемдері
+          items:
+            - name: Бұрыннан бар өрісті баға өлшемі ретінде пайдалану
+              href: pricing-costing/use-existing-field-pricing-dimension.md
+            - name: Баға өлшемі түріндегі реттемелі өрістер
+              items:
+                - name: Реттелетін өрістер мен нысандарды баға өлшемдері ретінде жасау
+                  href: pricing-costing/create-custom-fields-entities-pricing-dimensions.md
+                - name: Баға параметрлері мен транзакциялық нысандарға реттелетін өрістерді қосу
+                  href: pricing-costing/add-custom-fields-price-setup-transactional-entities.md
+                - name: 'Реттелетін өрістерді баға өлшемдері ретінде орнату '
+                  href: pricing-costing/set-up-custom-fields-pricing-dimensions.md
+            - name: Баға өлшемін өшіріңіз
+              href: pricing-costing/turning-off-pricing-dimension.md
+    - name: Жобаны басқару
+      items:
+        - name: Жобаны басқаруға шолу
+          href: project-management/project-management-overview.md
+        - name: Жоба кезеңдері
+          href: project-management/project-stages.md
+        - name: Пайдаланушы интерфейсін шолу
+          href: project-management/navigate-ui.md
+        - name: Жоба күйін түсіну
+          href: project-management/understand-project-status.md
+        - name: Жоба күнтізбелерін анықтау
+          href: project-management/define-project-calendars.md
+        - name: Жобаны жаңарту
+          href: project-management/update-project.md
+        - name: Жобаны көшіру
+          href: project-management/copy-project.md
+        - name: Жұмыс декомпозициясының құрылымын жоспарлау
+          items:
+            - name: Тағайындауларды жасау
+              href: project-management/create-assignments.md
+        - name: Жобалар болжамы
+          items:
+            - name: Жобалар болжамына шолу
+              href: project-management/estimating-projects-overview.md
+            - name: Ресурс болжамдары
+              href: project-management/resource-estimates.md
+            - name: Шығын болжамдарын жасау
+              href: project-management/create-expense-estimates.md
+        - name: Жобаны бақылау
+          items:
+            - name: Жобаны бақылауға шолу
+              href: project-management/project-tracking-overview.md
+            - name: Аяқтау кезіндегі құн болжамын жаңарту
+              href: project-management/update-completed-estimate.md
+        - name: Жоба тобы мүшелері
+          items:
+            - name: Жоба тобы мүшелеріне шолу
+              href: project-management/project-team-members-overview.md
+            - name: Топ мүшелерін жүргізу
+              href: project-management/maintain-team-members.md
+        - name: Бірлесіп жұмыс істеу
+          items:
+            - name: Office топтарымен іскерлесу
+              href: project-management/collaboration-groups.md
+    - name: Ресурстарды басқару
+      items:
+        - name: Негізгі ұғымдар
+          href: resource-management/resource-management-key-concepts.md
+        - name: Тапсырыстар және тағайындаулар
+          href: resource-management/booking-vs-assignment.md
+        - name: Ресурсты басқару режимдеріне шолу
+          href: resource-management/resource-management-mode-overview.md
+        - name: Кесте көмекшісіне шолу
+          href: resource-management/schedule-assistant-overview.md
+        - name: Орталықтандырылған ресурсқа тапсырыс беру
+          items:
+            - name: Ресурс талаптарын анықтау
+              href: resource-management/define-resource-requirements.md
+            - name: Ресурс талаптарын жаңарту
+              href: resource-management/update-resource-requirements.md
+        - name: Орталықтандырылмаған ресурсқа тапсырыс беру (гибридті)
+          items:
+            - name: Топ мүшесі торынан топ мүшелерін қосу
+              href: resource-management/add-team-members-grid.md
+        - name: Тағайындау әдісіне тапсырыс беру
+          href: resource-management/booking-allocation-methods.md
+        - name: Қабілеттер мен тиімділік үлгілері
+          href: resource-management/skills-proficiency-models.md
+        - name: Ресурстарды келістіру
+          items:
+            - name: Ресурстарды келістіруге шолу
+              href: resource-management/resource-reconciliation-overview.md
+    - name: Уақыт
+      items:
+        - name: Әзірлеуші ескертпелері
+          items:
+            - name: Апталық уақыт жазбасының торын реттеу
+              href: time/customize-weekly-time-entry-grid.md
+    - name: Шығыс
+      items:
+        - name: Шығысқа шолу
+          href: expense/expense-overview.md
+        - name: Шығыс жазбасы (жеңілдетілген)
+          href: expense/basic-expense.md
+    - name: Бекітулер
+      items:
+        - name: Бекітулерге шолу
+          href: approvals/approvals-overview.md
+    - name: Қолда бар тауарлар
+      items:
+        - name: Қолда бар тауарларға шолу
+          href: actuals/actuals-overview.md
+        - name: Түзету журналдары
+          items:
+            - name: Түзету журналдарын жасау және растау
+              href: actuals/create-confirm-correction-journals.md
+        - name: Проформа-шоты
+          items:
+            - name: Проформа-шотын қолмен жасау
+              href: proforma-invoicing/create-manual-proforma-invoice.md
+            - name: Түзетілген есеп-шоттар
+              href: proforma-invoicing/corrective-invoices.md
+            - name: Есеп-шоттардың автоматты құрылуын теңшеу
+              href: proforma-invoicing/configure-automated-invoice-creation.md
