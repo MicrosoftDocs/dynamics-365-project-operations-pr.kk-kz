@@ -9,24 +9,24 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: suvaidya
 ms.openlocfilehash: a1fa7383e7715fe57380de0a006ccc4e020bb5a5
-ms.sourcegitcommit: 56c42d7f5995a674426a1c2a81bae897dceb391c
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3908308"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079541"
 ---
-# <a name="distributions-on-an-expense-report"></a>Шығыс туралы есеп бойынша тарату
+# <a name="distributions-on-an-expense-report"></a><span data-ttu-id="f5056-103">Шығыс туралы есеп бойынша тарату</span><span class="sxs-lookup"><span data-stu-id="f5056-103">Distributions on an expense report</span></span>
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+<span data-ttu-id="f5056-104">_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_</span><span class="sxs-lookup"><span data-stu-id="f5056-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
 
-Шығыстар туралы есепте шығыстарды енгізген кезде, оларды бірнеше жобалар, қаржылық өлшемдер немесе ұйымдағы шоттар бойынша бөлуге болады.
+<span data-ttu-id="f5056-105">Шығыстар туралы есепте шығыстарды енгізген кезде, оларды бірнеше жобалар, қаржылық өлшемдер немесе ұйымдағы шоттар бойынша бөлуге болады.</span><span class="sxs-lookup"><span data-stu-id="f5056-105">When you enter expenses on an expense report, you can distribute them across multiple projects, financial dimensions, or accounts in your organization.</span></span>
 
-Мысалы, Фабрикамның сату өкілі Нэнси Копенгагеннен Франкфуртке дейін барды. Франкфуртта Нэнси екі ұйыммен кездесті, әр ұйым үшін бөлек жобаларды талқылады. Нэнси А жобасы бойынша А ұйымымен жеті жұмыс күнін, В жобасы бойынша В ұйымымен үш жұмыс күнін өткізді.
+<span data-ttu-id="f5056-106">Мысалы, Фабрикамның сату өкілі Нэнси Копенгагеннен Франкфуртке дейін барды.</span><span class="sxs-lookup"><span data-stu-id="f5056-106">For example, Nancy, a Fabrikam sales representative, traveled from Copenhagen to Frankfurt.</span></span> <span data-ttu-id="f5056-107">Франкфуртта Нэнси екі ұйыммен кездесті, әр ұйым үшін бөлек жобаларды талқылады.</span><span class="sxs-lookup"><span data-stu-id="f5056-107">In Frankfurt, Nancy met with two organizations to discuss separate projects for each organization.</span></span> <span data-ttu-id="f5056-108">Нэнси А жобасы бойынша А ұйымымен жеті жұмыс күнін, В жобасы бойынша В ұйымымен үш жұмыс күнін өткізді.</span><span class="sxs-lookup"><span data-stu-id="f5056-108">Nancy spent seven business days working with organization A on project A, and three business days working with organization B on project B.</span></span>
 
-Франкфуртта болған кезде Нэнси екі бөлек жобада жұмыс істегендіктен, шығыстар туралы есеп берген кезде, Нэнси шығындарды әр жобаға сәйкес бөледі. Келесі кестеде Нэнсидің шығыстарды қалай бөлгендігі көрсетілген.
+<span data-ttu-id="f5056-109">Франкфуртта болған кезде Нэнси екі бөлек жобада жұмыс істегендіктен, шығыстар туралы есеп берген кезде, Нэнси шығындарды әр жобаға сәйкес бөледі.</span><span class="sxs-lookup"><span data-stu-id="f5056-109">Because Nancy worked on two separate projects while was in Frankfurt, when she enters the expense report, Nancy distributes the expenses as appropriate for each project.</span></span> <span data-ttu-id="f5056-110">Келесі кестеде Нэнсидің шығыстарды қалай бөлгендігі көрсетілген.</span><span class="sxs-lookup"><span data-stu-id="f5056-110">The following table shows how Nancy distributed the expenses.</span></span>
 
-| Шығыс түрі | Жалпы шығыс мөлшері | А жобасына бөлінген сома | В жобасына бөлінген сома |
+| <span data-ttu-id="f5056-111">Шығыс түрі</span><span class="sxs-lookup"><span data-stu-id="f5056-111">Expense type</span></span> | <span data-ttu-id="f5056-112">Жалпы шығыс мөлшері</span><span class="sxs-lookup"><span data-stu-id="f5056-112">Total expense amount</span></span> | <span data-ttu-id="f5056-113">А жобасына бөлінген сома</span><span class="sxs-lookup"><span data-stu-id="f5056-113">Amount distributed to project A</span></span> | <span data-ttu-id="f5056-114">В жобасына бөлінген сома</span><span class="sxs-lookup"><span data-stu-id="f5056-114">Amount distributed to project B</span></span> |
 |--------------|----------------------|---------------------------------|---------------------------------|
-| Пойыз ақысы   | DKK 578              | DKK 405                         | DKK 173                         |
-| Қонақүй        | EUR 725              | EUR 557                         | EUR 168                         |
-| Тамақтану        | EUR 346              | EUR 284                         | EUR 62                          |
+| <span data-ttu-id="f5056-115">Пойыз ақысы</span><span class="sxs-lookup"><span data-stu-id="f5056-115">Train fare</span></span>   | <span data-ttu-id="f5056-116">DKK 578</span><span class="sxs-lookup"><span data-stu-id="f5056-116">DKK 578</span></span>              | <span data-ttu-id="f5056-117">DKK 405</span><span class="sxs-lookup"><span data-stu-id="f5056-117">DKK 405</span></span>                         | <span data-ttu-id="f5056-118">DKK 173</span><span class="sxs-lookup"><span data-stu-id="f5056-118">DKK 173</span></span>                         |
+| <span data-ttu-id="f5056-119">Қонақүй</span><span class="sxs-lookup"><span data-stu-id="f5056-119">Hotel</span></span>        | <span data-ttu-id="f5056-120">EUR 725</span><span class="sxs-lookup"><span data-stu-id="f5056-120">EUR 725</span></span>              | <span data-ttu-id="f5056-121">EUR 557</span><span class="sxs-lookup"><span data-stu-id="f5056-121">EUR 557</span></span>                         | <span data-ttu-id="f5056-122">EUR 168</span><span class="sxs-lookup"><span data-stu-id="f5056-122">EUR 168</span></span>                         |
+| <span data-ttu-id="f5056-123">Тамақтану</span><span class="sxs-lookup"><span data-stu-id="f5056-123">Meals</span></span>        | <span data-ttu-id="f5056-124">EUR 346</span><span class="sxs-lookup"><span data-stu-id="f5056-124">EUR 346</span></span>              | <span data-ttu-id="f5056-125">EUR 284</span><span class="sxs-lookup"><span data-stu-id="f5056-125">EUR 284</span></span>                         | <span data-ttu-id="f5056-126">EUR 62</span><span class="sxs-lookup"><span data-stu-id="f5056-126">EUR 62</span></span>                          |

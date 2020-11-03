@@ -1,51 +1,41 @@
 ---
 title: Жалпы ресурс талабын орындау
-description: Бұл тақырыпта жалпы ресурс талабы үшін аталған ресурстарды тіркеу туралы ақпарат берілген.
+description: Бұл тақырыпта жалпы ресурс талабы үшін аталған ресурстарды қалай тіркеу керектігі туралы ақпарат берілген.
 author: ruhercul
 manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
-ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
-audience: Application User
 ms.reviewer: kfend
-ms.search.scope: ''
-ms.custom: ''
-ms.assetid: ''
-ms.search.region: Global
-ms.search.industry: Service industries
 ms.author: ruhercul
-ms.dyn365.ops.version: ''
-ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 76dd47fa2451b5cb61298ff332d77bae646a288a
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 6bb7c185656ff87bb3ca24209594c07d25862d70
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3897593"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079605"
 ---
-# <a name="generic-resource-requirement-fulfillment"></a>Жалпы ресурс талабын орындау
+# <a name="generic-resource-requirement-fulfillment"></a><span data-ttu-id="3736f-103">Жалпы ресурс талабын орындау</span><span class="sxs-lookup"><span data-stu-id="3736f-103">Generic resource requirement fulfillment</span></span>
 
-_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
+<span data-ttu-id="3736f-104">_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_</span><span class="sxs-lookup"><span data-stu-id="3736f-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Ресурс талабы бар жалпы ресурсты ауыстыру үшін аталған ресурсты тіркеуге болады.
+<span data-ttu-id="3736f-105">Ресурс талабы бар жалпы ресурсты ауыстыру үшін аталған ресурсты тіркеуге болады.</span><span class="sxs-lookup"><span data-stu-id="3736f-105">You can book a named resource to replace generic resource that has a resource requirement.</span></span>
 
-1. **Жобалар** бетінде **Топ** қойыншасын таңдаңыз.
-2. Тізімнен ресурс талабы бар жалпы ресурсты таңдаңыз, содан кейін **Тапсырыс беру** пәрменін таңдаңыз. Немесе ресурс талабын ашып, **Тіркеу** пәрменін таңдаңыз.
-3. **Жоспарлау көмекшісі** бетінде, жоба тобына тіркегіңіз келетін аты бар ресурсты, содан кейін **Тіркеу** түймешігін таңдаңыз.
+1. <span data-ttu-id="3736f-106">**Жобалар** бетінде **Топ** қойыншасын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="3736f-106">On the **Projects** page, select the **Team** tab.</span></span>
+2. <span data-ttu-id="3736f-107">Тізімнен ресурс талабы бар жалпы ресурсты таңдаңыз, содан кейін **Тапсырыс беру** пәрменін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="3736f-107">Select the generic resource that has a resource requirement from the list, and then select **Book**.</span></span> <span data-ttu-id="3736f-108">Немесе ресурс талабын ашып, **Тіркеу** пәрменін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="3736f-108">Or, open the resource requirement and then select **Book**.</span></span>
+3. <span data-ttu-id="3736f-109">**Жоспарлау көмекшісі** бетінде, жоба тобына тіркегіңіз келетін аты бар ресурсты, содан кейін **Тіркеу** түймешігін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="3736f-109">On the **Schedule Assistant** page, select a named resource to book onto your project team and then select **Book**.</span></span>
 
-Тіркеу аяқталған және аталған ресурспен орындалған кезде, жалпы ресурс аталған ресурспен ауыстырылады.
+<span data-ttu-id="3736f-110">Тіркеу аяқталған және аталған ресурспен орындалған кезде, жалпы ресурс аталған ресурспен ауыстырылады.</span><span class="sxs-lookup"><span data-stu-id="3736f-110">When the booking is complete and fulfilled by a named resource, the generic resource is replaced with the named resource.</span></span>
 
-Аталған ресурспен бірге кестедегі тағайындаулар да жаңартылады.
+<span data-ttu-id="3736f-111">Аталған ресурспен бірге кестедегі тағайындаулар да жаңартылады.</span><span class="sxs-lookup"><span data-stu-id="3736f-111">The assignments on the schedule are updated with the named resource as well.</span></span>
 
-## <a name="fulfill-a-generic-resource-with-multiple-named-resources"></a>Жалпы ресурсты бірнеше аталған ресурстармен толықтырыңыз
-Бірнеше аталған ресурстары бар жалпы ресурсқа сұранысты орындау жалғыз аталған ресурсты тағайындаумен бірдей. Мысалы, ұзақтығы бес күн және 120 сағаттық жұмысты қажет ететін тапсырма бар. Бұл тапсырманы бес күндік аптада әдетте сегіз сағат жұмыс істейтін бір ресурс арқылы орындау мүмкін емес. 
+## <a name="fulfill-a-generic-resource-with-multiple-named-resources"></a><span data-ttu-id="3736f-112">Жалпы ресурсты бірнеше аталған ресурстармен толықтырыңыз</span><span class="sxs-lookup"><span data-stu-id="3736f-112">Fulfill a generic resource with multiple named resources</span></span>
+<span data-ttu-id="3736f-113">Бірнеше аталған ресурстары бар жалпы ресурсқа сұранысты орындау жалғыз аталған ресурсты тағайындаумен бірдей.</span><span class="sxs-lookup"><span data-stu-id="3736f-113">Fulfilling a requirement for a generic resource with multiple named resources is similar to assigning a single named resource.</span></span> <span data-ttu-id="3736f-114">Мысалы, ұзақтығы бес күн және 120 сағаттық жұмысты қажет ететін тапсырма бар.</span><span class="sxs-lookup"><span data-stu-id="3736f-114">For example, there is a task with a duration of five days and 120 hours of effort.</span></span> <span data-ttu-id="3736f-115">Бұл тапсырманы бес күндік аптада әдетте сегіз сағат жұмыс істейтін бір ресурс арқылы орындау мүмкін емес.</span><span class="sxs-lookup"><span data-stu-id="3736f-115">This task can't be completed by one resource that works a typical eight-hour day over a five-day week.</span></span> 
 
-Бес күн ішінде 120 сағат, яғни күніне 24 сағат роботты техника жұмысы талап етіледі.
+<span data-ttu-id="3736f-116">Бес күн ішінде 120 сағат, яғни күніне 24 сағат роботты техника жұмысы талап етіледі.</span><span class="sxs-lookup"><span data-stu-id="3736f-116">The requirement is for 120 hours of robotics engineering over five days, which is 24 hours per day.</span></span>
 
-Бұл жалпы ресурстық сұранысты орындау үшін бірнеше аталған ресурстар қажет болған кездегі мысал. Талапты орындау үшін бірнеше ресурсты тіркеу қажет.
+<span data-ttu-id="3736f-117">Бұл жалпы ресурстық сұранысты орындау үшін бірнеше аталған ресурстар қажет болған кездегі мысал.</span><span class="sxs-lookup"><span data-stu-id="3736f-117">This is an example of when multiple named resources are needed to fulfill a generic resource request.</span></span> <span data-ttu-id="3736f-118">Талапты орындау үшін бірнеше ресурсты тіркеу қажет.</span><span class="sxs-lookup"><span data-stu-id="3736f-118">You will need to book multiple resources to fulfill the requirement.</span></span>
 
-Бұл сценарийдегі басты айырмашылық — жалпы ресурс тапсырмаға тағайындалған топта қалады, ал тіркелген аталған ресурс тобының мүшелері лауазым бөлігі ретінде тағайындалмайды. Жоба менеджері жұмысты аталған ресурстарға сәйкес тағайындай алады. **Салыстырып тексеру** көрінісі жоба менеджеріне бірнеше ресурстар бойынша тапсырыстарды тапсырма тағайындауларына бөлуге көмектеседі. Ол автоматты түрде жасалмайды, себебі кез келген сценарийде жоғарыдағы қарапайым мысалдан гөрі күрделі, мысалы, сізде талапты жасайтын тапсырма жинағы немесе жоба менеджері қалай тағайындағысы келетіндігі туралы ниет болса, оны жүйеге қабылдауға тура келеді. Себебі жүйе ниетті түсінбейді, болжамдар күткендегіден басқа болуы және қате немесе күтпеген нәтиженің орын алуы әбден мүмкін. Болжауға болатын нәтиже — жоба менеджері **Салыстырып тексеру** көрінісінің көмегімен тағайындауларды әдейі жасамайынша жалпы ресурстың тағайындалған күйде қалуы.
+<span data-ttu-id="3736f-119">Бұл сценарийдегі басты айырмашылық — жалпы ресурс тапсырмаға тағайындалған топта қалады, ал тіркелген аталған ресурс тобының мүшелері лауазым бөлігі ретінде тағайындалмайды.</span><span class="sxs-lookup"><span data-stu-id="3736f-119">The main difference in this scenario is that the generic resource remains on the team assigned to the task, and the booked named resource team members are not assigned as part of the position.</span></span> <span data-ttu-id="3736f-120">Жоба менеджері жұмысты аталған ресурстарға сәйкес тағайындай алады.</span><span class="sxs-lookup"><span data-stu-id="3736f-120">The project manager can assign the work as appropriate to the named resources.</span></span> <span data-ttu-id="3736f-121">**Салыстырып тексеру** көрінісі жоба менеджеріне бірнеше ресурстар бойынша тапсырыстарды тапсырма тағайындауларына бөлуге көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="3736f-121">The **Reconciliation** view can assist a project manager in breaking up the bookings across multiple resources to task assignments.</span></span> <span data-ttu-id="3736f-122">Ол автоматты түрде жасалмайды, себебі кез келген сценарийде жоғарыдағы қарапайым мысалдан гөрі күрделі, мысалы, сізде талапты жасайтын тапсырма жинағы немесе жоба менеджері қалай тағайындағысы келетіндігі туралы ниет болса, оны жүйеге қабылдауға тура келеді.</span><span class="sxs-lookup"><span data-stu-id="3736f-122">This is not done automatically because in any scenario more complicated than the simple example above, such as where you have a bundle of tasks making up the requirement or the intent of how the project manager wants to assign, needs to be assumed by the system.</span></span> <span data-ttu-id="3736f-123">Себебі жүйе ниетті түсінбейді, болжамдар күткендегіден басқа болуы және қате немесе күтпеген нәтиженің орын алуы әбден мүмкін.</span><span class="sxs-lookup"><span data-stu-id="3736f-123">Because the system can't understand intent, it's likely that the assumptions will be different than intended and an incorrect or unpredictable result will occur.</span></span> <span data-ttu-id="3736f-124">Болжауға болатын нәтиже — жоба менеджері **Салыстырып тексеру** көрінісінің көмегімен тағайындауларды әдейі жасамайынша жалпы ресурстың тағайындалған күйде қалуы.</span><span class="sxs-lookup"><span data-stu-id="3736f-124">The predictable outcome is that the generic resource remains assigned until the project manager deliberately creates assignments, with the assistance of the **Reconciliation** view.</span></span>
 
 

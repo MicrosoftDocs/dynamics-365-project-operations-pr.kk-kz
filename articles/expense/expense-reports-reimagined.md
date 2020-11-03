@@ -7,7 +7,6 @@ ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,66 +15,66 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: cd0d415b9cc85bac91de8fb9427da290ae0c6108
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 47c1bce0c886897b295a3c1a355f4db843c4b73a
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3897143"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079726"
 ---
-# <a name="expense-reports-reimagined"></a>Шығыс туралы есептерге жаңа көзқарас
+# <a name="expense-reports-reimagined"></a><span data-ttu-id="a494d-103">Шығыс туралы есептерге жаңа көзқарас</span><span class="sxs-lookup"><span data-stu-id="a494d-103">Expense reports reimagined</span></span>
 
-Шығындар туралы есеп енгізу процесті жеңілдету және есепті аяқтауға кететін уақытты қысқарту үшін қайта жасалды. Шығыстардың жаңа тәжірибесінің негізгі компоненттері:
+<span data-ttu-id="a494d-104">Шығындар туралы есеп енгізу процесті жеңілдету және есепті аяқтауға кететін уақытты қысқарту үшін қайта жасалды.</span><span class="sxs-lookup"><span data-stu-id="a494d-104">Expense report entry has been redesigned to simplify the process and reduce the time needed to complete a report.</span></span> <span data-ttu-id="a494d-105">Шығыстардың жаңа тәжірибесінің негізгі компоненттері:</span><span class="sxs-lookup"><span data-stu-id="a494d-105">Here are the major components of the new expense experience:</span></span>
 
-- Сіздің делегатыңыздың шығыстарына қол жеткізуге мүмкіндік беретін шығындарды басқарудың жаңа кеңістігі.
-- Тақырып деңгейіндегі түбіртектерді жақсырақ көрсету және түбіртектерді шығындар желісіне қосу процесін жеңілдету үшін жаңа түбіртектің сәйкестігі.
-- Көптеген шығындар сызықтары мен қосымша мәліметтер бағандарын көруге мүмкіндік беретін тек оқуға арналған жаңа тор. Енді сіз барлық жекеленген және бөлінген сызықтарды олардың негізгі шығындарымен бірге көре аласыз.
-- Шығындарды өңдеуге арналған жеңілдетілген тақта.
-- Қате, ескерту және саясат туралы хабарлар мәселенің дұрыс мазмұны мен түсінігін және оны қалай шешуге болатындығын қамтамасыз ету үшін қайта жасалған. Пайдаланушылар өз міндеттерін орындап, мәселелерді шеше алмай тұрып пайда болған бірнеше хабарламаларды жойдық.
-- Қажетті өрістерді, қосымша өрістерді және оған қосылуға болмайтын өрістерді көрсететін жаңа бет. Бұл бет орнатылатын өрістердің санын азайтуға көмектеседі.
-- Есептер бұдан былай есеп беру қызметкерлері үшін жасалынған сияқты болып көрінбейтін шығындар туралы есептерге жаңа көзқарас.
+- <span data-ttu-id="a494d-106">Сіздің делегатыңыздың шығыстарына қол жеткізуге мүмкіндік беретін шығындарды басқарудың жаңа кеңістігі.</span><span class="sxs-lookup"><span data-stu-id="a494d-106">A new expense management workspace that lets you access your delegate's expenses.</span></span>
+- <span data-ttu-id="a494d-107">Тақырып деңгейіндегі түбіртектерді жақсырақ көрсету және түбіртектерді шығындар желісіне қосу процесін жеңілдету үшін жаңа түбіртектің сәйкестігі.</span><span class="sxs-lookup"><span data-stu-id="a494d-107">A new receipt matching experience to better show header-level receipts and simplify the process of attaching receipts to expense lines.</span></span>
+- <span data-ttu-id="a494d-108">Көптеген шығындар сызықтары мен қосымша мәліметтер бағандарын көруге мүмкіндік беретін тек оқуға арналған жаңа тор.</span><span class="sxs-lookup"><span data-stu-id="a494d-108">A new read-only grid that lets you view many more expense lines and additional columns of data.</span></span> <span data-ttu-id="a494d-109">Енді сіз барлық жекеленген және бөлінген сызықтарды олардың негізгі шығындарымен бірге көре аласыз.</span><span class="sxs-lookup"><span data-stu-id="a494d-109">You can now see all itemized and split lines, together with their parent expenses.</span></span>
+- <span data-ttu-id="a494d-110">Шығындарды өңдеуге арналған жеңілдетілген тақта.</span><span class="sxs-lookup"><span data-stu-id="a494d-110">A simplified pane for editing expenses.</span></span>
+- <span data-ttu-id="a494d-111">Қате, ескерту және саясат туралы хабарлар мәселенің дұрыс мазмұны мен түсінігін және оны қалай шешуге болатындығын қамтамасыз ету үшін қайта жасалған.</span><span class="sxs-lookup"><span data-stu-id="a494d-111">Redesigned error, warning, and policy messages to provide the correct context and understanding of the issue and how to resolve it.</span></span> <span data-ttu-id="a494d-112">Пайдаланушылар өз міндеттерін орындап, мәселелерді шеше алмай тұрып пайда болған бірнеше хабарламаларды жойдық.</span><span class="sxs-lookup"><span data-stu-id="a494d-112">We have removed several of the messages that appeared before users could complete their tasks and address the issues.</span></span>
+- <span data-ttu-id="a494d-113">Қажетті өрістерді, қосымша өрістерді және оған қосылуға болмайтын өрістерді көрсететін жаңа бет.</span><span class="sxs-lookup"><span data-stu-id="a494d-113">A new page to specify required fields, optional fields, and the fields that should not be included.</span></span> <span data-ttu-id="a494d-114">Бұл бет орнатылатын өрістердің санын азайтуға көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="a494d-114">This page helps to reduce the number of fields that must be set.</span></span>
+- <span data-ttu-id="a494d-115">Есептер бұдан былай есеп беру қызметкерлері үшін жасалынған сияқты болып көрінбейтін шығындар туралы есептерге жаңа көзқарас.</span><span class="sxs-lookup"><span data-stu-id="a494d-115">A new look and feel for expense reports, so that the reports no longer seem as though they were designed for accounting personas.</span></span>
 
-Жаңа тәжірибені қосу үшін, **Шығындар туралы есептер қайта қаралды** мүмкіндігін қосу үшін **Мүмкіндіктерді басқару** жұмыс кеңістігін пайдаланыңыз. Бұл мүмкіндікті қосқан кезде келесі әрекеттер орын алады:
+<span data-ttu-id="a494d-116">Жаңа тәжірибені қосу үшін, **Шығындар туралы есептер қайта қаралды** мүмкіндігін қосу үшін **Мүмкіндіктерді басқару** жұмыс кеңістігін пайдаланыңыз.</span><span class="sxs-lookup"><span data-stu-id="a494d-116">To turn on the new experience, use the **Feature management** workspace to turn on the **Expense reports reimagined** feature.</span></span> <span data-ttu-id="a494d-117">Бұл мүмкіндікті қосқан кезде келесі әрекеттер орын алады:</span><span class="sxs-lookup"><span data-stu-id="a494d-117">When you turn on this feature, the following actions occur:</span></span>
 
-- Қолданыстағы шығыс жұмыс кеңістігі жаңа жұмыс кеңістігімен ауыстырылды.
-- Шығыс өрісінің көрінуіне арналған мәзірдің жаңа тармағы қосылды.
-- Шығындар туралы есептерге арналған мәзір элементтері (бар бет) немесе шығындар туралы есеп өрістері жойылмайды.
-- Жұмыс ағындары және кез келген растау сізді шығыс туралы есептер бетіне апарады.
+- <span data-ttu-id="a494d-118">Қолданыстағы шығыс жұмыс кеңістігі жаңа жұмыс кеңістігімен ауыстырылды.</span><span class="sxs-lookup"><span data-stu-id="a494d-118">The existing expense workspace is replaced with the new workspace.</span></span>
+- <span data-ttu-id="a494d-119">Шығыс өрісінің көрінуіне арналған мәзірдің жаңа тармағы қосылды.</span><span class="sxs-lookup"><span data-stu-id="a494d-119">A new menu item for expense field visibility is added.</span></span>
+- <span data-ttu-id="a494d-120">Шығындар туралы есептерге арналған мәзір элементтері (бар бет) немесе шығындар туралы есеп өрістері жойылмайды.</span><span class="sxs-lookup"><span data-stu-id="a494d-120">No existing menu items for expense reports (the existing page) or expense report fields are removed.</span></span>
+- <span data-ttu-id="a494d-121">Жұмыс ағындары және кез келген растау сізді шығыс туралы есептер бетіне апарады.</span><span class="sxs-lookup"><span data-stu-id="a494d-121">Workflows and any approvals still take you to the existing expense reports page.</span></span>
 
-## <a name="getting-started-video-for-new-users"></a>Жаңа пайдаланушыларға арналған бейнені бастау
+## <a name="getting-started-video-for-new-users"></a><span data-ttu-id="a494d-122">Жаңа пайдаланушыларға арналған бейнені бастау</span><span class="sxs-lookup"><span data-stu-id="a494d-122">Getting started video for new users</span></span>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Y7gO]
 
-[Dynamics 365 for Finance and Operations жүйесіндегі шығыс тәжірибесі](https://youtu.be/Ocy-MsTvEE0) бейнесі (жоғарыда көрсетілген) YouTube бағдарламасында қолжетімді[Finance and Operations ойнату тізімінде](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) қосылған.
+<span data-ttu-id="a494d-123">[Dynamics 365 for Finance and Operations жүйесіндегі шығыс тәжірибесі](https://youtu.be/Ocy-MsTvEE0) бейнесі (жоғарыда көрсетілген) YouTube бағдарламасында қолжетімді[Finance and Operations ойнату тізімінде](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) қосылған.</span><span class="sxs-lookup"><span data-stu-id="a494d-123">The [Expense experience in Dynamics 365 for Finance and Operations](https://youtu.be/Ocy-MsTvEE0) video (shown above) is included in the [Finance and Operations playlist](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) available on YouTube.</span></span>
 
-## <a name="new-features"></a>Жаңа мүмкіндіктер
+## <a name="new-features"></a><span data-ttu-id="a494d-124">Жаңа мүмкіндіктер</span><span class="sxs-lookup"><span data-stu-id="a494d-124">New features</span></span>
 
-| Жаңа мүмкіндік | Сипаттамасы |
+| <span data-ttu-id="a494d-125">Жаңа мүмкіндік</span><span class="sxs-lookup"><span data-stu-id="a494d-125">New feature</span></span> | <span data-ttu-id="a494d-126">Сипаттамасы</span><span class="sxs-lookup"><span data-stu-id="a494d-126">Description</span></span> |
 |---|----|
-| Шығыс өрісінің көрінісі | Жаңа орнату беті ұйым үшін қандай өрістерді өшіру керек, қандай өрістер қажет болуы керек және қандай өрістер ұсынылатынын көрсетуге мүмкіндік береді. |
-| Талап етілетін өрісте | Жаңа қарапайым конфигурация сізге кейбір саясат өрістерін пайдаланбай талап етілетін өрістер жасауға мүмкіндік береді. |
-| Қосымша өрістер | Қосымша өрістерге арналған екінші бет қосылады. Осылайша, қызметкерлер өрістерді орнату керек сияқты сезінбейді, бірақ өрістерге әлі де қол жетімді. |
-| Тіркелмеген түбіртектерді қосыңыз | Тіркелмеген түбіртектерді шығындар есебіне қосу мүмкіндігі жұмыс кеңістігінде және шығындар туралы есепте көбірек көрінеді. |
-| Жақсартылған хабарламалар | Ескерту немесе қателіктері бар шығындар желісіне жақсы көріну мүмкіндігі бар. |
-| Хабарлар жолағындағы хабарламалардың азаюы| Инфологиялық хабарламалар саны азайып, көптеген жағдайларда қайталанатын хабарламалардың пайда болуына жол бермеуге күш салынды. |
-| Бірге топталған ортақ әрекеттер | Интерфейс жалпы жол деңгейіндегі іс-әрекеттердің көпшілігіне жаңа әрекеттер батырмасымен және тақырып үшін эллипсис батырмасымен (...) және басқа сирек кездесетін әрекеттермен тазартылды. |
-| Көріністі арттыру үшін жаңа жұмыс кеңістігі | Жаңа жұмыс кеңістігі пайдаланушыларға әртүрлі аймақтарға ауысуға мүмкіндік беретін мүмкіндіктер мен сілтемелерді біріктіреді. |
-| Шығындарды құру кезінде бар шығындар мен түбіртектерді қосу | Шығындар туралы есептер жасаған кезде сіз барлық немесе таңдалған шығындар мен түбіртектерді қоса аласыз. |
-| Айырбас бағамының есептегіші | Қолма-қол көп валюталық транзакциялар үшін айырбастау бағамын есептеуге мүмкіндік беретін айырбастау бағамының есептегіші қосылды. |
-| Жаңа шығыстарды сақтау және қосу | **Сақтау** және **Жаңа** түймешіктері жаңа шығыстар енгізілген кезде қолжетімді, бұл сізге шығыс жолдарын жылдам енгізуге көмектеседі. |
-| Бөлінген және егжей-тегжейлі жолдардың жақсартылған көрінісі | Бөлшектелген және бөлінген сызықтар көрнекілікті арттыру үшін қателер бар-жоғын анықтауға көмектесетін шығындар тізіміне тікелей қосылады. |
-| Талдап тексеру кезінде түбіртектерді көрсету | Түбіртектер талдап тексеру кезінде көрсетілуі мүмкін. |
+| <span data-ttu-id="a494d-127">Шығыс өрісінің көрінісі</span><span class="sxs-lookup"><span data-stu-id="a494d-127">Expense field visibility</span></span> | <span data-ttu-id="a494d-128">Жаңа орнату беті ұйым үшін қандай өрістерді өшіру керек, қандай өрістер қажет болуы керек және қандай өрістер ұсынылатынын көрсетуге мүмкіндік береді.</span><span class="sxs-lookup"><span data-stu-id="a494d-128">A new setup page lets you specify which fields should be disabled for an organization, which fields should be required, and which fields are recommended.</span></span> |
+| <span data-ttu-id="a494d-129">Талап етілетін өрісте</span><span class="sxs-lookup"><span data-stu-id="a494d-129">Required fields</span></span> | <span data-ttu-id="a494d-130">Жаңа қарапайым конфигурация сізге кейбір саясат өрістерін пайдаланбай талап етілетін өрістер жасауға мүмкіндік береді.</span><span class="sxs-lookup"><span data-stu-id="a494d-130">New simple configuration lets you make some fields required without having to use the policy framework.</span></span> |
+| <span data-ttu-id="a494d-131">Қосымша өрістер</span><span class="sxs-lookup"><span data-stu-id="a494d-131">Optional fields</span></span> | <span data-ttu-id="a494d-132">Қосымша өрістерге арналған екінші бет қосылады.</span><span class="sxs-lookup"><span data-stu-id="a494d-132">A second page for optional fields is added.</span></span> <span data-ttu-id="a494d-133">Осылайша, қызметкерлер өрістерді орнату керек сияқты сезінбейді, бірақ өрістерге әлі де қол жетімді.</span><span class="sxs-lookup"><span data-stu-id="a494d-133">In this way, employees won't feel as if they must set the fields, but the fields are still easily accessible.</span></span> |
+| <span data-ttu-id="a494d-134">Тіркелмеген түбіртектерді қосыңыз</span><span class="sxs-lookup"><span data-stu-id="a494d-134">Add unattached receipts</span></span> | <span data-ttu-id="a494d-135">Тіркелмеген түбіртектерді шығындар есебіне қосу мүмкіндігі жұмыс кеңістігінде және шығындар туралы есепте көбірек көрінеді.</span><span class="sxs-lookup"><span data-stu-id="a494d-135">The ability to add unattached receipts to expense report is more visible from the workspace and on the expense report.</span></span> |
+| <span data-ttu-id="a494d-136">Жақсартылған хабарламалар</span><span class="sxs-lookup"><span data-stu-id="a494d-136">Improved messaging</span></span> | <span data-ttu-id="a494d-137">Ескерту немесе қателіктері бар шығындар желісіне жақсы көріну мүмкіндігі бар.</span><span class="sxs-lookup"><span data-stu-id="a494d-137">There is better visibility into expense lines that have warnings or errors.</span></span> |
+| <span data-ttu-id="a494d-138">Хабарлар жолағындағы хабарламалардың азаюы</span><span class="sxs-lookup"><span data-stu-id="a494d-138">Reduction in messages in the message bar</span></span>| <span data-ttu-id="a494d-139">Инфологиялық хабарламалар саны азайып, көптеген жағдайларда қайталанатын хабарламалардың пайда болуына жол бермеуге күш салынды.</span><span class="sxs-lookup"><span data-stu-id="a494d-139">The number of Infolog messages was decreased, and an effort was made to prevent duplicate messages from appearing in many cases.</span></span> |
+| <span data-ttu-id="a494d-140">Бірге топталған ортақ әрекеттер</span><span class="sxs-lookup"><span data-stu-id="a494d-140">Grouped together common actions</span></span> | <span data-ttu-id="a494d-141">Интерфейс жалпы жол деңгейіндегі іс-әрекеттердің көпшілігіне жаңа әрекеттер батырмасымен және тақырып үшін эллипсис батырмасымен (...) және басқа сирек кездесетін әрекеттермен тазартылды.</span><span class="sxs-lookup"><span data-stu-id="a494d-141">The interface was cleaned up with the addition of a new actions button for most of the common line-level actions and the addition of an ellipsis button (...) for header and other less frequent actions.</span></span> |
+| <span data-ttu-id="a494d-142">Көріністі арттыру үшін жаңа жұмыс кеңістігі</span><span class="sxs-lookup"><span data-stu-id="a494d-142">New workspace to increase visibility</span></span> | <span data-ttu-id="a494d-143">Жаңа жұмыс кеңістігі пайдаланушыларға әртүрлі аймақтарға ауысуға мүмкіндік беретін мүмкіндіктер мен сілтемелерді біріктіреді.</span><span class="sxs-lookup"><span data-stu-id="a494d-143">A new workspace unifies features and links that let users move to different areas.</span></span> |
+| <span data-ttu-id="a494d-144">Шығындарды құру кезінде бар шығындар мен түбіртектерді қосу</span><span class="sxs-lookup"><span data-stu-id="a494d-144">Add existing expenses and receipts during expense creation</span></span> | <span data-ttu-id="a494d-145">Шығындар туралы есептер жасаған кезде сіз барлық немесе таңдалған шығындар мен түбіртектерді қоса аласыз.</span><span class="sxs-lookup"><span data-stu-id="a494d-145">When you create expense reports, you can add all or selected expenses and receipts.</span></span> |
+| <span data-ttu-id="a494d-146">Айырбас бағамының есептегіші</span><span class="sxs-lookup"><span data-stu-id="a494d-146">Exchange rate calculator</span></span> | <span data-ttu-id="a494d-147">Қолма-қол көп валюталық транзакциялар үшін айырбастау бағамын есептеуге мүмкіндік беретін айырбастау бағамының есептегіші қосылды.</span><span class="sxs-lookup"><span data-stu-id="a494d-147">An exchange rate calculator is added that lets you calculate the exchange rate for out-of-pocket multicurrency transactions.</span></span> |
+| <span data-ttu-id="a494d-148">Жаңа шығыстарды сақтау және қосу</span><span class="sxs-lookup"><span data-stu-id="a494d-148">Save and add new expense lines</span></span> | <span data-ttu-id="a494d-149">**Сақтау** және **Жаңа** түймешіктері жаңа шығыстар енгізілген кезде қолжетімді, бұл сізге шығыс жолдарын жылдам енгізуге көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="a494d-149">**Save** and **New** buttons are available when new expenses are entered, to help you quickly enter expense lines.</span></span> |
+| <span data-ttu-id="a494d-150">Бөлінген және егжей-тегжейлі жолдардың жақсартылған көрінісі</span><span class="sxs-lookup"><span data-stu-id="a494d-150">Better visibility into split and itemized lines</span></span> | <span data-ttu-id="a494d-151">Бөлшектелген және бөлінген сызықтар көрнекілікті арттыру үшін қателер бар-жоғын анықтауға көмектесетін шығындар тізіміне тікелей қосылады.</span><span class="sxs-lookup"><span data-stu-id="a494d-151">Itemized and split lines are added directly to the list of expenses to increase visibility and help you easily determine whether there are any errors.</span></span> |
+| <span data-ttu-id="a494d-152">Талдап тексеру кезінде түбіртектерді көрсету</span><span class="sxs-lookup"><span data-stu-id="a494d-152">Show receipts during itemization</span></span> | <span data-ttu-id="a494d-153">Түбіртектер талдап тексеру кезінде көрсетілуі мүмкін.</span><span class="sxs-lookup"><span data-stu-id="a494d-153">Receipts can be shown during itemization.</span></span> |
 
-Бастапқы шығарылым шығыстарды енгізу сценарийлеріне бағытталған. Кез-келген шығындар туралы есепті тексеру немесе бекіту сценарийі қолданыстағы шығындарды енгізу бетін пайдалануды жалғастырады.
+<span data-ttu-id="a494d-154">Бастапқы шығарылым шығыстарды енгізу сценарийлеріне бағытталған.</span><span class="sxs-lookup"><span data-stu-id="a494d-154">The initial release is focused on expense entry scenarios.</span></span> <span data-ttu-id="a494d-155">Кез-келген шығындар туралы есепті тексеру немесе бекіту сценарийі қолданыстағы шығындарды енгізу бетін пайдалануды жалғастырады.</span><span class="sxs-lookup"><span data-stu-id="a494d-155">Any expense report review or approval scenario will continue to use the existing expense entry page.</span></span>
 
-Келесі мүмкіндіктер қолданыстағы бетте бар, бірақ жаңа бетте әлі жоқ. Бұл мүмкіндіктер келесі бірнеше шығарылымдарда қайта енгізіледі:
+<span data-ttu-id="a494d-156">Келесі мүмкіндіктер қолданыстағы бетте бар, бірақ жаңа бетте әлі жоқ.</span><span class="sxs-lookup"><span data-stu-id="a494d-156">The following features are present on the existing page but aren't yet present on the new page.</span></span> <span data-ttu-id="a494d-157">Бұл мүмкіндіктер келесі бірнеше шығарылымдарда қайта енгізіледі:</span><span class="sxs-lookup"><span data-stu-id="a494d-157">These features will be reintroduced over the next several releases:</span></span>
 
-- Бекітулер
-- Кредиторлық берешекті бекіту және бухгалтерлік есепті өңдеу мүмкіндігі
-- Бірнеше енгізу нүктелері
-- Іссапарға өтінім интеграциясы
-- Шығындар өрісінің көрінуіне арналған мәліметтер нысаны
-- Тәуліктік шығындарға жазба
-- Жол деңгейіндегі жұмыс ағыны
-- Бекітуші тұлғаны уақытша қолдау
-- Кеңейтілген талдап тексеру
+- <span data-ttu-id="a494d-158">Бекітулер</span><span class="sxs-lookup"><span data-stu-id="a494d-158">Approvals</span></span>
+- <span data-ttu-id="a494d-159">Кредиторлық берешекті бекіту және бухгалтерлік есепті өңдеу мүмкіндігі</span><span class="sxs-lookup"><span data-stu-id="a494d-159">Accounts payable approvals and the ability to edit the accounting</span></span>
+- <span data-ttu-id="a494d-160">Бірнеше енгізу нүктелері</span><span class="sxs-lookup"><span data-stu-id="a494d-160">Multiple entry points</span></span>
+- <span data-ttu-id="a494d-161">Іссапарға өтінім интеграциясы</span><span class="sxs-lookup"><span data-stu-id="a494d-161">Travel requisition integration</span></span>
+- <span data-ttu-id="a494d-162">Шығындар өрісінің көрінуіне арналған мәліметтер нысаны</span><span class="sxs-lookup"><span data-stu-id="a494d-162">Data entity for expense field visibility</span></span>
+- <span data-ttu-id="a494d-163">Тәуліктік шығындарға жазба</span><span class="sxs-lookup"><span data-stu-id="a494d-163">Entry for per-diem expenses</span></span>
+- <span data-ttu-id="a494d-164">Жол деңгейіндегі жұмыс ағыны</span><span class="sxs-lookup"><span data-stu-id="a494d-164">Line-level workflow</span></span>
+- <span data-ttu-id="a494d-165">Бекітуші тұлғаны уақытша қолдау</span><span class="sxs-lookup"><span data-stu-id="a494d-165">Interim approver support</span></span>
+- <span data-ttu-id="a494d-166">Кеңейтілген талдап тексеру</span><span class="sxs-lookup"><span data-stu-id="a494d-166">Advanced itemization</span></span>

@@ -8,71 +8,74 @@ ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: ffcfa8a9c8e31c5665acd3c3919fa90d36a3f3ca
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: e875d1765b5038e60830d626abb5bcd61749ece1
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3896738"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079545"
 ---
-# <a name="security-model"></a>Қауіпсіздік үлгісі
+# <a name="security-model"></a><span data-ttu-id="267fa-103">Қауіпсіздік үлгісі</span><span class="sxs-lookup"><span data-stu-id="267fa-103">Security Model</span></span>
 
-_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
+<span data-ttu-id="267fa-104">_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_</span><span class="sxs-lookup"><span data-stu-id="267fa-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Microsoft Dynamics 365 Project Operations бағдарламасы Microsoft Office Groups жүйесімен бірге жұмыс істейтін рөлге негізделген бизнес қауіпсіздігі үлгісіне рұқсат беретін бірегей қауіпсіздік үлгісін қамтиды. 
+<span data-ttu-id="267fa-105">Microsoft Dynamics 365 Project Operations бағдарламасы Microsoft Office Groups жүйесімен бірге жұмыс істейтін рөлге негізделген бизнес қауіпсіздігі үлгісіне рұқсат беретін бірегей қауіпсіздік үлгісін қамтиды.</span><span class="sxs-lookup"><span data-stu-id="267fa-105">Microsoft Dynamics 365 Project Operations contains a unique security model that allows for a role-based business security model that collaborates with Microsoft Office Groups.</span></span> 
 
 
-## <a name="security-roles"></a>Қауіпсіздік рөлдері
-Project Operations жүйесінің алдыңғы мүмкіндіктері келесі рөлдерді қамтиды:
+## <a name="security-roles"></a><span data-ttu-id="267fa-106">Қауіпсіздік рөлдері</span><span class="sxs-lookup"><span data-stu-id="267fa-106">Security roles</span></span>
+<span data-ttu-id="267fa-107">Project Operations жүйесінің алдыңғы мүмкіндіктері келесі рөлдерді қамтиды:</span><span class="sxs-lookup"><span data-stu-id="267fa-107">Project Operations front-end capabilities include the following roles:</span></span>
 
-| Рөл                          | Сипаттамасы                                                                                                                                                                 | Scope |
+| <span data-ttu-id="267fa-108">Рөл</span><span class="sxs-lookup"><span data-stu-id="267fa-108">Role</span></span>                          | <span data-ttu-id="267fa-109">Сипаттамасы</span><span class="sxs-lookup"><span data-stu-id="267fa-109">Description</span></span>                                                                                                                                                                 | <span data-ttu-id="267fa-110">Scope</span><span class="sxs-lookup"><span data-stu-id="267fa-110">Scope</span></span> |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| Тәжірибе басқарушысы              | Жобааралық есеп беруді қолдайды.                                                                                                            | Бөлімше              |
-| Жоба бекітушісі              | Жоба бойынша уақытты және шығыстарды бекітеді.                                                                                                                              | Бөлімше |
-| Жобаны ұсынатын әкімші | Шот-фактура ұсынысын жасайды.                                                                                                                                                 | Бөлімше |
-| Жоба менеджері               | Жоба жоспарын жасайды және ресурстарға сұраныс жасайды.                                                                                                                              | Бөлімше |
-| Жоба ресурсы              | Тапсырыс беруге болатын және уақыт туралы есеп беретін топ мүшелері.                                                                                                          | Бөлімше|
-| Ресурс менеджері              | Ресурстарды басқарудың барлық функциялары, мысалы, гибридті жоба менеджері + Ресурс менеджерінің конфигурациясы және бірыңғай және орталықтандырылған Ресурстар менеджері рөлін қолдау үшін бөлінген ресурстық сұраныстар мен тапсырыс беруді орындау. | Бөлімше |
+| <span data-ttu-id="267fa-111">Тәжірибе басқарушысы</span><span class="sxs-lookup"><span data-stu-id="267fa-111">Practice manager</span></span>              | <span data-ttu-id="267fa-112">Жобааралық есеп беруді қолдайды.</span><span class="sxs-lookup"><span data-stu-id="267fa-112">Supports cross-project reporting.</span></span>                                                                                                            | <span data-ttu-id="267fa-113">Бөлімше</span><span class="sxs-lookup"><span data-stu-id="267fa-113">Business unit</span></span>              |
+| <span data-ttu-id="267fa-114">Жоба бекітушісі</span><span class="sxs-lookup"><span data-stu-id="267fa-114">Project approver</span></span>              | <span data-ttu-id="267fa-115">Жоба бойынша уақытты және шығыстарды бекітеді.</span><span class="sxs-lookup"><span data-stu-id="267fa-115">Approves time and expenses against a project.</span></span>                                                                                                                              | <span data-ttu-id="267fa-116">Бөлімше</span><span class="sxs-lookup"><span data-stu-id="267fa-116">Business unit</span></span> |
+| <span data-ttu-id="267fa-117">Жобаны ұсынатын әкімші</span><span class="sxs-lookup"><span data-stu-id="267fa-117">Project billing administrator</span></span> | <span data-ttu-id="267fa-118">Шот-фактура ұсынысын жасайды.</span><span class="sxs-lookup"><span data-stu-id="267fa-118">Creates the invoice proposal.</span></span>                                                                                                                                                 | <span data-ttu-id="267fa-119">Бөлімше</span><span class="sxs-lookup"><span data-stu-id="267fa-119">Business unit</span></span> |
+| <span data-ttu-id="267fa-120">Жоба менеджері</span><span class="sxs-lookup"><span data-stu-id="267fa-120">Project manager</span></span>               | <span data-ttu-id="267fa-121">Жоба жоспарын жасайды және ресурстарға сұраныс жасайды.</span><span class="sxs-lookup"><span data-stu-id="267fa-121">Creates the project plan and requests resources.</span></span>                                                                                                                              | <span data-ttu-id="267fa-122">Бөлімше</span><span class="sxs-lookup"><span data-stu-id="267fa-122">Business unit</span></span> |
+| <span data-ttu-id="267fa-123">Жоба ресурсы</span><span class="sxs-lookup"><span data-stu-id="267fa-123">Project resource</span></span>              | <span data-ttu-id="267fa-124">Тапсырыс беруге болатын және уақыт туралы есеп беретін топ мүшелері.</span><span class="sxs-lookup"><span data-stu-id="267fa-124">Team members who can be booked and report time.</span></span>                                                                                                          | <span data-ttu-id="267fa-125">Бөлімше</span><span class="sxs-lookup"><span data-stu-id="267fa-125">Business unit</span></span>|
+| <span data-ttu-id="267fa-126">Ресурс менеджері</span><span class="sxs-lookup"><span data-stu-id="267fa-126">Resource manager</span></span>              | <span data-ttu-id="267fa-127">Ресурстарды басқарудың барлық функциялары, мысалы, гибридті жоба менеджері + Ресурс менеджерінің конфигурациясы және бірыңғай және орталықтандырылған Ресурстар менеджері рөлін қолдау үшін бөлінген ресурстық сұраныстар мен тапсырыс беруді орындау.</span><span class="sxs-lookup"><span data-stu-id="267fa-127">All resource management functions, such as fulfill resource requests and bookings, separated to support a hybrid Project manager + Resource manager configuration and a single and centralized Resource manager role.</span></span> | <span data-ttu-id="267fa-128">Бөлімше</span><span class="sxs-lookup"><span data-stu-id="267fa-128">Business unit</span></span> |
 
 
-Интернетке арналған Microsoft Project келесі рөлдерді қамтиды:
-| Рөл                          | Сипаттамасы                                                                                                          | Scope |                                                       
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Жоба пайдаланушысы | Өз жобаларын құруға және олармен бөліскен кез-келген жобаларды көруге қабілетті жобаның бірлескен пайдаланушысы.| Пайдаланушы|
-| Жоба жүйесі | Бағдарлама контекстінде пайдаланылатын рөл. Тұтынушылар бұл жүйенің рөлін пайдаланбауы тиіс. | Глобалдық|
+<span data-ttu-id="267fa-129">Интернетке арналған Microsoft Project келесі рөлдерді қамтиды:</span><span class="sxs-lookup"><span data-stu-id="267fa-129">Microsoft Project for the Web includes the following roles:</span></span>
 
-## <a name="security-enforcement"></a>Қауіпсіздікті қамтамасыз ету
-Жоба деңгейінде орындалатын әрекеттер кірген пайдаланушының контекстінде орындалады. Бұл дегеніміз, жобаны құру, ашу немесе жою үшін пайдаланушыға CDS қызметінде қолжетімділік қажет. CDS қызметіне қолжетімділік платформаға енгізілген кез келген мүмкін механизмдер арқылы берілуі мүмкін. Мысалы, егер пайдаланушыға рұқсат беретін нақты жобаны бөлісу әрекеті орындалса, ауқымы кеңірек пайдаланушы жобаға кіре алады.
+| <span data-ttu-id="267fa-130">Рөл</span><span class="sxs-lookup"><span data-stu-id="267fa-130">Role</span></span>           | <span data-ttu-id="267fa-131">Сипаттамасы</span><span class="sxs-lookup"><span data-stu-id="267fa-131">Description</span></span>                                                                                                        | <span data-ttu-id="267fa-132">Scope</span><span class="sxs-lookup"><span data-stu-id="267fa-132">Scope</span></span>  |
+|----------------|--------------------------------------------------------------------------------------------------------------------|--------|
+| <span data-ttu-id="267fa-133">Жоба пайдаланушысы</span><span class="sxs-lookup"><span data-stu-id="267fa-133">Project user</span></span>   | <span data-ttu-id="267fa-134">Өз жобаларын жасауға және олармен бөліскен кез келген жобаларды көруге қабілетті жобаның бірлескен пайдаланушысы.</span><span class="sxs-lookup"><span data-stu-id="267fa-134">Collaborative user of Project   who is able to create their own projects and view any projects shared with   them.</span></span> | <span data-ttu-id="267fa-135">Пайдаланушы</span><span class="sxs-lookup"><span data-stu-id="267fa-135">User</span></span>   |
+| <span data-ttu-id="267fa-136">Жоба жүйесі</span><span class="sxs-lookup"><span data-stu-id="267fa-136">Project system</span></span> | <span data-ttu-id="267fa-137">Бағдарлама контекстінде пайдаланылатын рөл.</span><span class="sxs-lookup"><span data-stu-id="267fa-137">Role used for application   context.</span></span> <span data-ttu-id="267fa-138">Тұтынушылар бұл жүйенің рөлін пайдаланбауы тиіс.</span><span class="sxs-lookup"><span data-stu-id="267fa-138">Customers should not use this system role.</span></span>                                    | <span data-ttu-id="267fa-139">Глобалдық</span><span class="sxs-lookup"><span data-stu-id="267fa-139">Global</span></span> |
 
-Project Operations жүйесінде жобаларды жасау кезінде осыны ескеру маңызды.
+## <a name="security-enforcement"></a><span data-ttu-id="267fa-140">Қауіпсіздікті қамтамасыз ету</span><span class="sxs-lookup"><span data-stu-id="267fa-140">Security enforcement</span></span>
+<span data-ttu-id="267fa-141">Жоба деңгейінде орындалатын әрекеттер кірген пайдаланушының контекстінде орындалады.</span><span class="sxs-lookup"><span data-stu-id="267fa-141">Actions that are performed at the project level are performed in the context of the logged in user.</span></span> <span data-ttu-id="267fa-142">Бұл дегеніміз, жобаны құру, ашу немесе жою үшін пайдаланушыға CDS қызметінде қолжетімділік қажет.</span><span class="sxs-lookup"><span data-stu-id="267fa-142">This means that in order to create, open, or delete a project, the user is required to have access available in CDS.</span></span> <span data-ttu-id="267fa-143">CDS қызметіне қолжетімділік платформаға енгізілген кез келген мүмкін механизмдер арқылы берілуі мүмкін.</span><span class="sxs-lookup"><span data-stu-id="267fa-143">Access in CDS may be granted through any of the possible mechanisms included in the platform.</span></span> <span data-ttu-id="267fa-144">Мысалы, егер пайдаланушыға рұқсат беретін нақты жобаны бөлісу әрекеті орындалса, ауқымы кеңірек пайдаланушы жобаға кіре алады.</span><span class="sxs-lookup"><span data-stu-id="267fa-144">For example, a user with a larger scope may access the project or if an explicit project share action has been performed which grants the user access.</span></span>
 
-## <a name="modern-group-collaboration-with-project-operations"></a>Project Operations жүйесімен заманауи топтық бірлескен жұмыс
-Вебке арналған жоба және Project Operations бірге жұмыс істеу үшін заманауи топтарды қолдайды. Топ арқылы жобаға қосылған пайдаланушылар жоба жоспарын өңдей алады.
+<span data-ttu-id="267fa-145">Project Operations жүйесінде жобаларды жасау кезінде осыны ескеру маңызды.</span><span class="sxs-lookup"><span data-stu-id="267fa-145">It's important to consider this when creating projects in Project Operations.</span></span>
 
-Вебке арналған жоба тағайындалған кезде пайдаланушыларды автоматты түрде топқа қосады.
+## <a name="modern-group-collaboration-with-project-operations"></a><span data-ttu-id="267fa-146">Project Operations жүйесімен заманауи топтық бірлескен жұмыс</span><span class="sxs-lookup"><span data-stu-id="267fa-146">Modern group collaboration with Project Operations</span></span>
+<span data-ttu-id="267fa-147">Вебке арналған жоба және Project Operations бірге жұмыс істеу үшін заманауи топтарды қолдайды.</span><span class="sxs-lookup"><span data-stu-id="267fa-147">Project for the Web and Project Operations support modern groups for collaboration.</span></span> <span data-ttu-id="267fa-148">Топ арқылы жобаға қосылған пайдаланушылар жоба жоспарын өңдей алады.</span><span class="sxs-lookup"><span data-stu-id="267fa-148">Users added to the project through a group are able to edit the project plan.</span></span>
 
-Топтар жобаның рұқсаттарын және бірлескен артефактілерді бірлесіп өңдеуге мүмкіндік береді. Төмендегі диаграмма топтарды тағайындау кезінде болатын оқиғалар мен күйлерді бейнелейді.
+<span data-ttu-id="267fa-149">Вебке арналған жоба тағайындалған кезде пайдаланушыларды автоматты түрде топқа қосады.</span><span class="sxs-lookup"><span data-stu-id="267fa-149">Project for the Web adds users to the group automatically upon assignment.</span></span>
 
-Project Operations жүйесі топты жасырын әрекеттер арқылы жасамайды және тек басу топтарының айқын әрекеті арқылы жасайды.
+<span data-ttu-id="267fa-150">Топтар жобаның рұқсаттарын және бірлескен артефактілерді бірлесіп өңдеуге мүмкіндік береді.</span><span class="sxs-lookup"><span data-stu-id="267fa-150">Groups allow the permissions of the project and supporting collaboration artifacts to be worked on collaboratively.</span></span> <span data-ttu-id="267fa-151">Төмендегі диаграмма топтарды тағайындау кезінде болатын оқиғалар мен күйлерді бейнелейді.</span><span class="sxs-lookup"><span data-stu-id="267fa-151">The following diagram depicts the events and state changes that happen during the group assignment process.</span></span>
 
-**Топты басқару** диалогтік терезесіндегі топ мүшесі ортаның қауіпсіздік тобының бөлігі ретінде белгіленеді. Қосымша ақпаратты [Пайдаланушының орталарға қатынасын басқарыңыз: қауіпсіздік топтары және лицензиялар](https://docs.microsoft.com/power-platform/admin/control-user-access) бөлімінде қараңыз.
+<span data-ttu-id="267fa-152">Project Operations жүйесі топты жасырын әрекеттер арқылы жасамайды және тек басу топтарының айқын әрекеті арқылы жасайды.</span><span class="sxs-lookup"><span data-stu-id="267fa-152">Project Operations does not create a group through implicit action and only does so through the explicit action of pressing groups.</span></span>
 
-1. Жоба жасалған және жасаушы пайдаланушыға тиесілі.
-2. Жоба иесі топқа жаңартылды.
-3. Иеленуші топ көрсетілген немесе жасалған Office тобымен салыстырылады.
-4. Жобаның негізгі иесі Office тобына қосылды.
+<span data-ttu-id="267fa-153">**Топты басқару** диалогтік терезесіндегі топ мүшесі ортаның қауіпсіздік тобының бөлігі ретінде белгіленеді.</span><span class="sxs-lookup"><span data-stu-id="267fa-153">Group member search in the **Group management** dialog, is limited to those who are set as part of the environment's security group.</span></span> <span data-ttu-id="267fa-154">Қосымша ақпаратты [Пайдаланушының орталарға қатынасын басқарыңыз: қауіпсіздік топтары және лицензиялар](https://docs.microsoft.com/power-platform/admin/control-user-access) бөлімінде қараңыз.</span><span class="sxs-lookup"><span data-stu-id="267fa-154">For more information, see [Control user access to environments: security groups and licenses](https://docs.microsoft.com/power-platform/admin/control-user-access).</span></span>
 
-## <a name="deployment-recommendation"></a>Орналастыру ұсынысы
-Office тобының бірлесіп жұмыс істеу үлгісі дамып келе жатқанда, уақыт өте келе толығырақ бақылауды қамтамасыз ететін функционалдылық қосылады. Project Operations жүйесін орналастыратын тұтынушыларға бүгінгі таңда Microsoft Dynamics 365 дәстүрлі қауіпсіздік үлгісіне назар аудару ұсынылады.
+![Топ режимі](./media/groupsmode.png)
 
-Толығырақ ақпарат алу үшін [Common Data Service қызметіндегі қауіпсіздік](https://docs.microsoft.com/power-platform/admin/wp-security) тақырыбын қараңыз.
+1. <span data-ttu-id="267fa-156">Жоба жасалған және жасаушы пайдаланушыға тиесілі.</span><span class="sxs-lookup"><span data-stu-id="267fa-156">The Project is created and owned by the creating User.</span></span>
+2. <span data-ttu-id="267fa-157">Жоба иесі топқа жаңартылды.</span><span class="sxs-lookup"><span data-stu-id="267fa-157">The Project owner is updated to the team.</span></span>
+3. <span data-ttu-id="267fa-158">Иеленуші топ көрсетілген немесе жасалған Office тобымен салыстырылады.</span><span class="sxs-lookup"><span data-stu-id="267fa-158">The Owner team is mapped to the specified or created Office Group.</span></span>
+4. <span data-ttu-id="267fa-159">Жобаның негізгі иесі Office тобына қосылды.</span><span class="sxs-lookup"><span data-stu-id="267fa-159">The original owner of the Project is added to the Office Group.</span></span>
 
-## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Project Operations және Microsoft Dynamics 365 Finance қауіпсіздігі
-Project Operations келесі рөлдерді қамтиды:
+## <a name="deployment-recommendation"></a><span data-ttu-id="267fa-160">Орналастыру ұсынысы</span><span class="sxs-lookup"><span data-stu-id="267fa-160">Deployment recommendation</span></span>
+<span data-ttu-id="267fa-161">Office тобының бірлесіп жұмыс істеу үлгісі дамып келе жатқанда, уақыт өте келе толығырақ бақылауды қамтамасыз ететін функционалдылық қосылады.</span><span class="sxs-lookup"><span data-stu-id="267fa-161">As the Office group collaboration model evolves, functionality will be added to provide more detailed control over time.</span></span> <span data-ttu-id="267fa-162">Project Operations жүйесін орналастыратын тұтынушыларға бүгінгі таңда Microsoft Dynamics 365 дәстүрлі қауіпсіздік үлгісіне назар аудару ұсынылады.</span><span class="sxs-lookup"><span data-stu-id="267fa-162">Customers that deploy Project Operations today are encouraged to focus on a traditional Microsoft Dynamics 365 security model.</span></span>
 
-- Жоба менеджері
-- Жоба бухгалтері
+<span data-ttu-id="267fa-163">Толығырақ ақпарат алу үшін [Common Data Service қызметіндегі қауіпсіздік](https://docs.microsoft.com/power-platform/admin/wp-security) тақырыбын қараңыз.</span><span class="sxs-lookup"><span data-stu-id="267fa-163">For more information, see [Security in Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).</span></span>
 
-Finance бөліміндегі қауіпсіздік туралы қосымша ақпаратты мына жерден қараңыз[Рөлдік қауіпсіздік](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).
+## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a><span data-ttu-id="267fa-164">Project Operations және Microsoft Dynamics 365 Finance қауіпсіздігі</span><span class="sxs-lookup"><span data-stu-id="267fa-164">Project Operations and Microsoft Dynamics 365 Finance security</span></span>
+<span data-ttu-id="267fa-165">Project Operations келесі рөлдерді қамтиды:</span><span class="sxs-lookup"><span data-stu-id="267fa-165">Project Operations includes the following roles:</span></span>
+
+- <span data-ttu-id="267fa-166">Жоба менеджері</span><span class="sxs-lookup"><span data-stu-id="267fa-166">Project manager</span></span>
+- <span data-ttu-id="267fa-167">Жоба бухгалтері</span><span class="sxs-lookup"><span data-stu-id="267fa-167">Project accountant</span></span>
+
+<span data-ttu-id="267fa-168">Finance бөліміндегі қауіпсіздік туралы қосымша ақпаратты мына жерден қараңыз[Рөлдік қауіпсіздік](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).</span><span class="sxs-lookup"><span data-stu-id="267fa-168">For more information about security in Finance, see [Role-based security](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).</span></span>
 
 

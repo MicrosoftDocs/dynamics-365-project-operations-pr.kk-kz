@@ -7,7 +7,6 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,32 +17,32 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: ea5399368214a293ca7c10fabf21d82407b5c76f
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 345a4f38ad0bc5acddb90cfd8cb3e92154e46513
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898763"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079783"
 ---
-# <a name="units-and-unit-groups"></a>Бірліктер мен бірлік топтары
+# <a name="units-and-unit-groups"></a><span data-ttu-id="a0ec3-103">Бірліктер мен бірлік топтары</span><span class="sxs-lookup"><span data-stu-id="a0ec3-103">Units and unit groups</span></span>
 
-_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
+<span data-ttu-id="a0ec3-104">_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_</span><span class="sxs-lookup"><span data-stu-id="a0ec3-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Бірліктер - өнімдер не қызметтер сатылатын сандар немесе өлшемдер. Мысалы, бақша жабдықтары сатылса, дәндерді бумаларда, қораптарда және тұғырларда сатуға болады. Бірлік тобы - осы әр түрлі бірліктер топтамасы.
+<span data-ttu-id="a0ec3-105">Бірліктер - өнімдер не қызметтер сатылатын сандар немесе өлшемдер.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-105">Units are the quantities or measurements that you sell your products or services in.</span></span> <span data-ttu-id="a0ec3-106">Мысалы, бақша жабдықтары сатылса, дәндерді бумаларда, қораптарда және тұғырларда сатуға болады.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-106">For example, if you sell gardening supplies, you might sell seeds in units of packets, boxes, and pallets.</span></span> <span data-ttu-id="a0ec3-107">Бірлік тобы - осы әр түрлі бірліктер топтамасы.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-107">A unit group is a collection of these different units.</span></span>
 
-Осы тақырыптағы қадамдарды орындау үшін жүйе әкімшісі немесе Sales Professional менеджер рөліне тағайындалғаныңызға немесе балама рұқсаттарыңыз бар екеніне көз жеткізіңіз.
+<span data-ttu-id="a0ec3-108">Осы тақырыптағы қадамдарды орындау үшін жүйе әкімшісі немесе Sales Professional менеджер рөліне тағайындалғаныңызға немесе балама рұқсаттарыңыз бар екеніне көз жеткізіңіз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-108">To complete the steps in this topic, make sure that you have been assigned to the System Administrator or Sales Professional Manager role or have equivalent permissions.</span></span>
 
-## <a name="create-a-unit-group"></a>Бірлік тобын жасау
+## <a name="create-a-unit-group"></a><span data-ttu-id="a0ec3-109">Бірлік тобын жасау</span><span class="sxs-lookup"><span data-stu-id="a0ec3-109">Create a unit group</span></span>
 
-1. Торап картасынан **Бірліктер** параметрін таңдаңыз.
-2. **Жаңа** түймешігін таңдаңыз және **Бірлік тобын жасау** диалогтық терезесінде бірлік атын енгізіңіз.
-3. **Басты бірлік** өрісінде, өнім сатылатын ең төменгі жалпы өлшем бірлігін енгізіңіз. Мысалы, "бөлік" немесе "унция" енгізе аласыз.
-4. **OK** пәрменін таңдаңыз.
+1. <span data-ttu-id="a0ec3-110">Торап картасынан **Бірліктер** параметрін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-110">In the site map, select **Units**.</span></span>
+2. <span data-ttu-id="a0ec3-111">**Жаңа** түймешігін таңдаңыз және **Бірлік тобын жасау** диалогтық терезесінде бірлік атын енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-111">Select **New** , and in the **Create Unit Group** dialog box, enter the unit name.</span></span>
+3. <span data-ttu-id="a0ec3-112">**Басты бірлік** өрісінде, өнім сатылатын ең төменгі жалпы өлшем бірлігін енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-112">In the **Primary unit** field, enter the lowest common unit of measure that the product will be sold in.</span></span> <span data-ttu-id="a0ec3-113">Мысалы, "бөлік" немесе "унция" енгізе аласыз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-113">For example, you might enter "piece" or "ounce".</span></span>
+4. <span data-ttu-id="a0ec3-114">**OK** пәрменін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-114">Select **OK**.</span></span>
 
-## <a name="add-units-to-a-unit-group"></a>Бірліктер тобына бірліктер қосу
+## <a name="add-units-to-a-unit-group"></a><span data-ttu-id="a0ec3-115">Бірліктер тобына бірліктер қосу</span><span class="sxs-lookup"><span data-stu-id="a0ec3-115">Add units to a unit group</span></span>
 
-1. Бірліктер тобын ашып, **Қатысты** қойыншасында **Бірліктер** түймешігін таңдаңыз. Әлдеқашан қосылған басты бірлікті көресіз.
-2. **Жаңа бірлік қосу** түймешігін таңдаңыз және **Жылдам жасау: Бірлік** бетіндегі **Аты** өрісінде бірлік атын енгізіңіз.
-3. **Мөлшер** өрісінде бірлік қамтитын мөлшерді енгізіңіз. Мысалы, өрісте екі бөлік қамтылса, "2" деп енгізіңіз. 
-4. **Негізгі бірлік** өрісінде, бірлік үшін ең төменгі өлшем бірлігін орнату үшін негізгі бірлікті таңдаңыз. Мысалы, "Бөлік" нұсқасын таңдай аласыз.
-5. **Сақтау** пәрменін таңдаңыз:
+1. <span data-ttu-id="a0ec3-116">Бірліктер тобын ашып, **Қатысты** қойыншасында **Бірліктер** түймешігін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-116">Open a unit group, and on the **Related** tab, select **Units**.</span></span> <span data-ttu-id="a0ec3-117">Әлдеқашан қосылған басты бірлікті көресіз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-117">You will see that the primary unit is already added.</span></span>
+2. <span data-ttu-id="a0ec3-118">**Жаңа бірлік қосу** түймешігін таңдаңыз және **Жылдам жасау: Бірлік** бетіндегі **Аты** өрісінде бірлік атын енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-118">Select **Add New Unit** , and on the **Quick Create: Unit** page, in the **Name** field, enter the nanem of the unit.</span></span>
+3. <span data-ttu-id="a0ec3-119">**Мөлшер** өрісінде бірлік қамтитын мөлшерді енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-119">In the **QUantity** field, enter the quantity that the unit will contain.</span></span> <span data-ttu-id="a0ec3-120">Мысалы, өрісте екі бөлік қамтылса, "2" деп енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-120">For example, if a box contains two pieces, enter "2".</span></span> 
+4. <span data-ttu-id="a0ec3-121">**Негізгі бірлік** өрісінде, бірлік үшін ең төменгі өлшем бірлігін орнату үшін негізгі бірлікті таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-121">In the **Base unit** field, select a base unit to establish the lowest unit of measurement for the unit.</span></span> <span data-ttu-id="a0ec3-122">Мысалы, "Бөлік" нұсқасын таңдай аласыз.</span><span class="sxs-lookup"><span data-stu-id="a0ec3-122">For example, you might select "Piece".</span></span>
+5. <span data-ttu-id="a0ec3-123">**Сақтау** пәрменін таңдаңыз:</span><span class="sxs-lookup"><span data-stu-id="a0ec3-123">Select **Save** :</span></span>

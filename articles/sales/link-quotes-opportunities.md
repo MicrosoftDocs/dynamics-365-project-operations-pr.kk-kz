@@ -9,50 +9,50 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: rumant
 ms.openlocfilehash: 606098473db479d0015e3a7a3c01a3d3b6de9db1
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898539"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079572"
 ---
-# <a name="create-project-quotes-from-opportunities"></a>Мүмкіндіктерден жоба баға ұсыныстарын жасау
+# <a name="create-project-quotes-from-opportunities"></a><span data-ttu-id="a3834-103">Мүмкіндіктерден жоба баға ұсыныстарын жасау</span><span class="sxs-lookup"><span data-stu-id="a3834-103">Create project quotes from opportunities</span></span>
 
-_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
+<span data-ttu-id="a3834-104">_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_</span><span class="sxs-lookup"><span data-stu-id="a3834-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Баға ұсыныстарын жоба мүмкіндіктерінен келесі жолдармен жасауға болады:
+<span data-ttu-id="a3834-105">Баға ұсыныстарын жоба мүмкіндіктерінен келесі жолдармен жасауға болады:</span><span class="sxs-lookup"><span data-stu-id="a3834-105">Quotes can be created from project opportunities in the following ways:</span></span>
 
-- **Жоба мүмкіндігі** бетіндегі **Баға ұсыныстары** қойыншасынан
-- Мүмкіндік сатылымының процестік ағынан
-- Қолданыстағы баға ұсынысы бойынша мүмкіндік анықтамасын жаңарту арқылы
+- <span data-ttu-id="a3834-106">**Жоба мүмкіндігі** бетіндегі **Баға ұсыныстары** қойыншасынан</span><span class="sxs-lookup"><span data-stu-id="a3834-106">From the **Quotes** tab on the **Project Opportunity** page</span></span>
+- <span data-ttu-id="a3834-107">Мүмкіндік сатылымының процестік ағынан</span><span class="sxs-lookup"><span data-stu-id="a3834-107">From the Opportunity sales process flow</span></span>
+- <span data-ttu-id="a3834-108">Қолданыстағы баға ұсынысы бойынша мүмкіндік анықтамасын жаңарту арқылы</span><span class="sxs-lookup"><span data-stu-id="a3834-108">By updating the opportunity reference on an existing quote</span></span>
 
-## <a name="from-the-quotes-tab-of-the-project-opportunity-page"></a>Жоба мүмкіндігі бетінің Баға ұсыныстары қойыншасынан
+## <a name="from-the-quotes-tab-of-the-project-opportunity-page"></a><span data-ttu-id="a3834-109">Жоба мүмкіндігі бетінің Баға ұсыныстары қойыншасынан</span><span class="sxs-lookup"><span data-stu-id="a3834-109">From the Quotes tab of the Project Opportunity page</span></span>
 
-Мүмкіндіктен жоба ұсынысын жасау үшін келесі қадамдарды орындаңыз.
+<span data-ttu-id="a3834-110">Мүмкіндіктен жоба ұсынысын жасау үшін келесі қадамдарды орындаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-110">To create a project quote from an opportunity, complete the following steps.</span></span>
 
-1. **Жоба мүмкіндігі** бетін ашып, **Баға ұсыныстары** қойыншасын таңдаңыз. 
-2. **Баға ұсыныстары** ішкі торында мүмкіндікке негізделген жаңа жоба баға ұсынысын жасау үшін **+** таңдаңыз. Барлық мүмкіндік жолдары мен байланысты жобаның бағатізбелері мүмкіндіктің жаңа баға ұсынысына көшіріледі.
+1. <span data-ttu-id="a3834-111">**Жоба мүмкіндігі** бетін ашып, **Баға ұсыныстары** қойыншасын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-111">Open the **Project Opportunity** page and select the **Quotes** tab.</span></span> 
+2. <span data-ttu-id="a3834-112">**Баға ұсыныстары** ішкі торында мүмкіндікке негізделген жаңа жоба баға ұсынысын жасау үшін **+** таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-112">On the **Quotes** sub-grid, select the **+** to create a new project quote based on the opportunity.</span></span> <span data-ttu-id="a3834-113">Барлық мүмкіндік жолдары мен байланысты жобаның бағатізбелері мүмкіндіктің жаңа баға ұсынысына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="a3834-113">All of the opportunity lines and related Project price lists are copied to the new quote from the opportunity.</span></span>
 
-## <a name="from-the-opportunity-sales-process-flow"></a>Мүмкіндік сатылымының процестік ағынан
+## <a name="from-the-opportunity-sales-process-flow"></a><span data-ttu-id="a3834-114">Мүмкіндік сатылымының процестік ағынан</span><span class="sxs-lookup"><span data-stu-id="a3834-114">From the Opportunity sales process flow</span></span>
 
-Мүмкіндік сатылымының процестік ағынынан баға ұсынысын жасау үшін келесі қадамдарды орындаңыз.
+<span data-ttu-id="a3834-115">Мүмкіндік сатылымының процестік ағынынан баға ұсынысын жасау үшін келесі қадамдарды орындаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-115">To create a quote from the Opportunity sales process flow, complete the following steps.</span></span>
 
-1. Мүмкіндік сатылымының процестік ағынынан мүмкіндікті ашыңыз.
-2. **Нақтылау** кезеңін таңдаңыз. 
-3. Жаңа баға ұсынысын жасау үшін **Келесі**, содан соң **+ Жасау** опцияларын таңдаңыз. Осы жаңа баға ұсынысының **Жиынтық** қойыншасындағы ақпараттың бөлігі әдепкі бойынша мүмкіндіктен жойылады. 
-4. Қолданыста жоқ кез-келген қажетті ақпаратты енгізіңіз немесе **Жиынтық** қойыншасында қажетінше әдепкі мәндерді жаңартыңыз.
-5. **Сақтау** опциясын таңдаңыз. Жаға баға ұсынысы жасалып, мүмкіндікке байланыстырылады. **Мүмкіндік** бетінің **Баға ұсыныстары** қойыншасында баға ұсынысы ақпаратын қарауға болады. 
+1. <span data-ttu-id="a3834-116">Мүмкіндік сатылымының процестік ағынынан мүмкіндікті ашыңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-116">From the Opportunity sales process flow, open the Opportunity.</span></span>
+2. <span data-ttu-id="a3834-117">**Нақтылау** кезеңін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-117">Select the **Qualify** stage.</span></span> 
+3. <span data-ttu-id="a3834-118">Жаңа баға ұсынысын жасау үшін **Келесі** , содан соң **+ Жасау** опцияларын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-118">Select **Next** and then select **+ Create** to create a new quote.</span></span> <span data-ttu-id="a3834-119">Осы жаңа баға ұсынысының **Жиынтық** қойыншасындағы ақпараттың бөлігі әдепкі бойынша мүмкіндіктен жойылады.</span><span class="sxs-lookup"><span data-stu-id="a3834-119">Most of the information on the **Summary** tab for this new quote will have defaulted from the opportunity.</span></span> 
+4. <span data-ttu-id="a3834-120">Қолданыста жоқ кез-келген қажетті ақпаратты енгізіңіз немесе **Жиынтық** қойыншасында қажетінше әдепкі мәндерді жаңартыңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-120">Enter in any required information that is missing, or update defaulted values as necessary on the **Summary** tab,</span></span>
+5. <span data-ttu-id="a3834-121">**Сақтау** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-121">Select **Save**.</span></span> <span data-ttu-id="a3834-122">Жаға баға ұсынысы жасалып, мүмкіндікке байланыстырылады.</span><span class="sxs-lookup"><span data-stu-id="a3834-122">The new quote is created and associated to the opportunity.</span></span> <span data-ttu-id="a3834-123">**Мүмкіндік** бетінің **Баға ұсыныстары** қойыншасында баға ұсынысы ақпаратын қарауға болады.</span><span class="sxs-lookup"><span data-stu-id="a3834-123">You can now view the quote information on the **Quotes** tab of the **Opportunity** page.</span></span> 
 
-   Мүмкіндік сатылымы процесі **Ұсына** келесі кезеңіне өтеді.
+   <span data-ttu-id="a3834-124">Мүмкіндік сатылымы процесі **Ұсына** келесі кезеңіне өтеді.</span><span class="sxs-lookup"><span data-stu-id="a3834-124">The Opportunity sales process moves to the next stage, **Propose**.</span></span>
 
 
-## <a name="by-updating-the-opportunity-reference-on-an-existing-quote"></a>Қолданыстағы баға ұсынысы бойынша мүмкіндік анықтамасын жаңарту арқылы
+## <a name="by-updating-the-opportunity-reference-on-an-existing-quote"></a><span data-ttu-id="a3834-125">Қолданыстағы баға ұсынысы бойынша мүмкіндік анықтамасын жаңарту арқылы</span><span class="sxs-lookup"><span data-stu-id="a3834-125">By updating the opportunity reference on an existing quote</span></span>
 
-Қолданыстағы баға ұсынысын мүмкіндікпен байланыстыруға болады. Қолданыстағы баға ұсынысында мүмкіндік ақпаратын жаңарту үшін келесі қадамдарды орындаңыз.
+<span data-ttu-id="a3834-126">Қолданыстағы баға ұсынысын мүмкіндікпен байланыстыруға болады.</span><span class="sxs-lookup"><span data-stu-id="a3834-126">An existing quote can be linked to an Opportunity.</span></span> <span data-ttu-id="a3834-127">Қолданыстағы баға ұсынысында мүмкіндік ақпаратын жаңарту үшін келесі қадамдарды орындаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-127">Complete the following steps to update the Opportunity information on an existing quote.</span></span>
 
-1. **Баға ұсынысы** бетін ашып, **Жиынтық** қойыншасын таңдаңыз.
-2. **Мүмкіндік** өрісінде баға ұсынысын байланыстыру қажет мүмкіндікті таңдаңыз. Баға ұсынысын мүмкіндіктің **Баға ұсыныстары** торында қарауға болады. 
-3. Мүмкіндік сатылымы процесі арқылы мүмкіндікті келесі **Ұсыну** кезеңіне ауыстыруға болады. 
+1. <span data-ttu-id="a3834-128">**Баға ұсынысы** бетін ашып, **Жиынтық** қойыншасын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-128">Open the **Quote** page and select the **Summary** tab.</span></span>
+2. <span data-ttu-id="a3834-129">**Мүмкіндік** өрісінде баға ұсынысын байланыстыру қажет мүмкіндікті таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-129">In the **Opportunity** field, select the opportunity that you want to link to the quote.</span></span> <span data-ttu-id="a3834-130">Баға ұсынысын мүмкіндіктің **Баға ұсыныстары** торында қарауға болады.</span><span class="sxs-lookup"><span data-stu-id="a3834-130">You can see the quote in the **Quotes** grid of the Opportunity.</span></span> 
+3. <span data-ttu-id="a3834-131">Мүмкіндік сатылымы процесі арқылы мүмкіндікті келесі **Ұсыну** кезеңіне ауыстыруға болады.</span><span class="sxs-lookup"><span data-stu-id="a3834-131">Using the Opportunity sales process, the opportunity can be moved to the next stage, **Propose**.</span></span> 
 
-   Мүмкіндікті осы кезеңге ауыстырған кезде, сіз осы баға ұсынысын осы мүмкіндікке байланысты баға ұсыныстары тізімінен таңдай аласыз. Бұл баға ұсынысын таңдау сіз онымен ілгері жылжитыныңызды білдіреді.
+   <span data-ttu-id="a3834-132">Мүмкіндікті осы кезеңге ауыстырған кезде, сіз осы баға ұсынысын осы мүмкіндікке байланысты баға ұсыныстары тізімінен таңдай аласыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-132">When you move an opportunity to this stage, you can select this quote from a list of quotes associated with this opportunity.</span></span> <span data-ttu-id="a3834-133">Бұл баға ұсынысын таңдау сіз онымен ілгері жылжитыныңызды білдіреді.</span><span class="sxs-lookup"><span data-stu-id="a3834-133">Selecting this quote indicates that you're moving forward with it.</span></span>
 
-   Мүмкіндікке қатысты барлық басқа сілтемелер олардың біреуі жеңіске жеткенше қолжетімді және белсенді болады. Сіз сату процесін алдыңғы **Нақтылау** кезеңіне ауыстыра аласыз және алға жылжу үшін тағы бір баға ұсынысын таңдаңыз.
+   <span data-ttu-id="a3834-134">Мүмкіндікке қатысты барлық басқа сілтемелер олардың біреуі жеңіске жеткенше қолжетімді және белсенді болады.</span><span class="sxs-lookup"><span data-stu-id="a3834-134">All the other quotes associated with the Opportunity will still be available and active until one of them is won.</span></span> <span data-ttu-id="a3834-135">Сіз сату процесін алдыңғы **Нақтылау** кезеңіне ауыстыра аласыз және алға жылжу үшін тағы бір баға ұсынысын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="a3834-135">You can move the sales process back to the previous stage **Qualify** , and pick another quote to move forward with.</span></span>
