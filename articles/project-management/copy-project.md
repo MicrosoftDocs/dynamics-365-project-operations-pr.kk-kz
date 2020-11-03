@@ -3,23 +3,23 @@ title: Жобаны көшіру
 description: Бұл тақырыпта Dynamics 365 Project Operations жобаларын көшіру туралы ақпарат берілген.
 author: ruhercul
 manager: AnnBe
-ms.date: 10/01/2020
+ms.date: 10/07/2020
 ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: e35dc725e7938e9f59f7151dd1b37500fabf77a4
-ms.sourcegitcommit: 56c42d7f5995a674426a1c2a81bae897dceb391c
+ms.openlocfilehash: cf80f2a1cd27aae33d123e45dee70d94ea4d01a9
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3908319"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079601"
 ---
 # <a name="copy-a-project"></a>Жобаны көшіру
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Dynamics 365 Project Operations көмегімен **Жобалар** пішініндегі **Жобаны көшіру** әрекетін пайдалану арқылы жаңа жобалар жылдам жасауға болады. Жобаны көшіру үшін жобаны таңдап, **Көшіру** опциясын таңдаңыз. Әрекет келесіні көшіреді:
+Dynamics 365 Project Operations көмегімен **Жобалар** пішініндегі **Жобаны көшіру** әрекетін таңдау арқылы жаңа жобалар жылдам жасауға болады. Жобаны көшіру үшін көшіру керек жобаны ашып, **Жобаны көшіру** әрекетін таңдаңыз. Әрекет келесіні көшіреді:
 
 - Жоба сипаттары
 - Жұмыс декомпозициясының құрылымы
@@ -58,4 +58,6 @@ Dynamics 365 Project Operations көмегімен **Жобалар** пішін
 
 ## <a name="estimates"></a>Болжамдар
 
-Жоба көшірілген кезде, ресурстар мен шығыстар болжамының жолдары бастапқы жобадан көшіріледі.
+Жоба көшірілген кезде, ресурстар мен шығыстар болжамының жолдары бастапқы жобадан көшіріледі. 
+
+Copy Project бағдарламасына бағдарламалы түрде қатынасу жолы туралы ақпаратты [ Copy Project көмегімен жоба үлгілерін жасау](dev-copy-project.md) бөлімінен қараңыз.

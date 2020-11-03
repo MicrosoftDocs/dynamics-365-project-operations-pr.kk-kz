@@ -9,11 +9,11 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: rumant
 ms.openlocfilehash: 741230e69302138cce8f7379f520f7178e1c80af
-ms.sourcegitcommit: fd8ea1779db2bb39a428f459ae3293c4fd785572
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "3965826"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079592"
 ---
 # <a name="managing-complex-units-such-as-per-user-per-month-for-product-based-quote-lines"></a>Өнімге негізделген баға ұсыну жолы үшін әр пайдаланушыға, әр айда сияқты күрделі блоктарды басқару
 
@@ -29,8 +29,8 @@ Project Operations бағдарламасы сандық деректер түр
 
 Мысалы, Dynamics 365 Sales жүйесі келесі сипаттарға ие болуы мүмкін:
 
-- **Пайдаланушылар саны**: Пайдаланушылар саны
-- **Айлар саны**: Жазылым айларының саны
+- **Пайдаланушылар саны** : Пайдаланушылар саны
+- **Айлар саны** : Жазылым айларының саны
 - **Өнімнің SKU нөмірі**
 
 **Пайдаланушылар №** және **Айлар №** сипаттарын өнім жолын өңдеу арқылы сандық факторлар ретінде белгілеуге болады.

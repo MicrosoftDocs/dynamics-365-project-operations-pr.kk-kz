@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 42e02f393e89d20b2a462645f519a3792bee8f2f
-ms.sourcegitcommit: b9d8bf00239815f31686e9b28998ac684fd2fca4
+ms.openlocfilehash: 33b85115963f3561718b8951e5b518fd34de7723
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "3948947"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079525"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations-lite-deployment---deal-to-proforma-invoicing"></a>Project Operations қарапайым орналастыруы үшін демо баптау және конфигурация деректерін қолдану - проформа-шотын ұсыну мәмілесі
 
@@ -21,11 +21,11 @@ _**Жеңілдетілген орналастыру - проформа-шоты
 
 1. [Негізгі деректер бумасын](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData%20-%20CE%20only%20CMT.zip) жүктеп алыңыз. 
 2. *ProjOpsDemoDataSetupAndMaster - біріктірілген CMT* өтіп, орындалатын файлды *DataMigrationUtility* орындалатын файлды іске қосыңыз.
-3. Common Data Service конфигурацияны тасымалдау (CMT) шеберінің 1-бетінде**Деректерді импорттау**, содан кейін **Жалғастыру** опцияларын таңдаңыз.
+3. Common Data Service конфигурацияны тасымалдау (CMT) шеберінің 1-бетінде **Деректерді импорттау** , содан кейін **Жалғастыру** опцияларын таңдаңыз.
 
 ![Конфигурацияны тасымалдау](./media/1ConfigurationMigration.png)
 
-4. CMT шеберінің 2-бетінде **Орналастыру түрі** ретінде **Office 365** қызметін таңдаңыз.
+4. CMT шеберінің 2-бетінде **Орналастыру түрі** ретінде **Microsoft 365** қызметін таңдаңыз.
 5. **Қолжетімді ұйымдар тізімін көрсету** және **Кеңейтілген түрде көрсету** өрістеріне құсбелгі қойыңыз.
 6. Қатысушы аймағын таңдап, тіркелу деректеріңізді енгізіп, содан кейін **Жүйеге кіру** опциясын таңдаңыз.
 
