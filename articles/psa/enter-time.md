@@ -3,7 +3,7 @@ title: Уақытты енгізу
 description: Project Service жүйесіне уақыт енгізу жолы
 author: revathimuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 4db1e62e062aa5024c8b8807e155fbd543af1059
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: b06062cf21cacedda759cc7bf7f940fc33f16bd0
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079863"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132880"
 ---
 # <a name="enter-time-project-service"></a>Уақыт енгізу (Project Service)
 
@@ -51,7 +51,7 @@ ms.locfileid: "4079863"
   
    Егер ұялы бағдарлама пайдалануда болсаңыз:  
   
-9. Мәзірден **Уақыт жазбалары** опциясына өтіңіз.     **Күн** , **Апта** немесе **Ай** көрінісіне ауыстыруға немесе алдыңғы немесе келесі уақыт кезеңіне өтуге болады.  
+9. Мәзірден **Уақыт жазбалары** опциясына өтіңіз.     **Күн**, **Апта** немесе **Ай** көрінісіне ауыстыруға немесе алдыңғы немесе келесі уақыт кезеңіне өтуге болады.  
   
 10. **…** түймешігін түртіңіз және **Жаңа** түймешігін түртіңіз.  
   

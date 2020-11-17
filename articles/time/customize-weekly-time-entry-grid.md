@@ -5,15 +5,15 @@ author: stsporen
 manager: Annbe
 ms.date: 10/08/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 190ad9e1f9ced690aee953ed992bf7aa2844c3b3
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: d9c14f0550d4429ac794607a3fb61717566207e4
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079559"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124645"
 ---
 # <a name="extending-time-entries"></a>Уақыт жазбаларының мерзімін ұзарту
 
@@ -57,7 +57,7 @@ Dynamics 365 Project Operations уақыт жазбасының ұзартыла
     - **msdyn_end**
     - **msdyn_duration**
 
-- Өрістер, **msdyn_start** және **msdyn_end** уақыт белдеуін біледі.
+- Өрістер,**msdyn_start** және **msdyn_end** уақыт белдеуін біледі.
 - Тек **msdyn_date** және **msdyn_duration** көрсетілген уақыт жазбалары түн ортасында басталады. **msdyn_start** және **msdyn_end** өрістері сәйкесінше жаңартылады.
 
 #### <a name="time-entry-types"></a>Уақыт жазбасының түрлері

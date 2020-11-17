@@ -1,21 +1,21 @@
 ---
-title: Өнімге негізделген баға ұсыну жолы үшін әр пайдаланушыға, әр айда сияқты күрделі блоктарды басқару
+title: Өнімге негізделген баға ұсыну жолы үшін әр пайдаланушыға, әр айда сияқты күрделі блоктарды басқару - жеңілдетілген
 description: Бұл тақырыпта өнімге негізделген баға ұсыну жолдары үшін күрделі бірліктерді басқару туралы ақпарат берілген.
 author: rumant
 manager: Annbe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 741230e69302138cce8f7379f520f7178e1c80af
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 2ee46da2f663ef4f5f8fc7f9f89b6fcfd09a1798
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079592"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4175583"
 ---
-# <a name="managing-complex-units-such-as-per-user-per-month-for-product-based-quote-lines"></a>Өнімге негізделген баға ұсыну жолы үшін әр пайдаланушыға, әр айда сияқты күрделі блоктарды басқару
+# <a name="managing-complex-units-such-as-per-user-per-month-for-product-based-quote-lines---lite"></a>Өнімге негізделген баға ұсыну жолы үшін әр пайдаланушыға, әр айда сияқты күрделі блоктарды басқару - жеңілдетілген
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 
@@ -29,8 +29,8 @@ Project Operations бағдарламасы сандық деректер түр
 
 Мысалы, Dynamics 365 Sales жүйесі келесі сипаттарға ие болуы мүмкін:
 
-- **Пайдаланушылар саны** : Пайдаланушылар саны
-- **Айлар саны** : Жазылым айларының саны
+- **Пайдаланушылар саны**: Пайдаланушылар саны
+- **Айлар саны**: Жазылым айларының саны
 - **Өнімнің SKU нөмірі**
 
 **Пайдаланушылар №** және **Айлар №** сипаттарын өнім жолын өңдеу арқылы сандық факторлар ретінде белгілеуге болады.

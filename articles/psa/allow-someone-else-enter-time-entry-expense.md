@@ -3,7 +3,7 @@ title: Басқа біреуге уақытты немесе шығысты ен
 description: Басқалардың Project Service жүйесіндегі уақыт жазбасын немесе шығысты енгізуге мүмкіндік беру жолы
 author: revathiMuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f56fae115b383d66a59cbcb08fffe95c83c83e17
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 50c54e73cf4898ce525492b8ef7c8b8cf6dc36cd
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079633"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4130382"
 ---
 # <a name="allow-someone-else-to-enter-your-time-entry-or-expense-project-service"></a>Басқа біреуге уақыт жазбасын немесе шығысты енгізуге рұқсат беру (Project Service)
 
@@ -37,13 +37,13 @@ ms.locfileid: "4079633"
   
 2.  Пәрмен жолағында **Жаңа** түймешігін басыңыз.  
   
-3. **Аты** : Жазба атын енгізіңіз.  
+3. **Аты**: Жазба атын енгізіңіз.  
   
-4. **Түрі** : Өкілдің сіздің атыңыздан уақыт немесе шығыс жазбаларын енгізуін таңдаңыз.  
+4. **Түрі**: Өкілдің сіздің атыңыздан уақыт немесе шығыс жазбаларын енгізуін таңдаңыз.  
   
-5. **Өкіл** : Өкіл еткіңіз келетін адамның атын таңдаңыз.  
+5. **Өкіл**: Өкіл еткіңіз келетін адамның атын таңдаңыз.  
   
-6. **Басталу және аяқталу күндері** : Өкілдік басталатын және аяқталатын күндерді таңдаңыз.  
+6. **Басталу және аяқталу күндері**: Өкілдік басталатын және аяқталатын күндерді таңдаңыз.  
   
 7.  Орындап болғаннан кейін **Сақтау және жабу** түймешігін басыңыз.  
   

@@ -5,17 +5,17 @@ author: sigitac
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 0b5703542ac58adcc710890d9676dd0090a82f25
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: e741f35f9b229d2897cec06054d91ae620397228
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079531"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4175808"
 ---
-# <a name="add-an-azure-subscription-to-lcs-project"></a>LCS жобасына Azure жазылымын қосу
+# <a name="add-an-azure-subscription-to-an-lcs-project"></a>LCS жобасына Azure жазылымын қосу
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
@@ -27,7 +27,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 ![Microsoft Azure параметрлері](./media/1MicrosoftAzureSettings.png)
 
-2. **Жоба параметрлері** бетінде, **Azure коннекторлары** қойындысынан **Рұқсат ету** опциясын таңдаңыз. Бұл қоршаған ортаны осы жобаға орналастыруға мүмкіндік береді.
+2. **Жоба параметрлері** бетінде, **Azure коннекторлары** қойыншасынан **Рұқсат ету** опциясын таңдаңыз. Бұл қоршаған ортаны осы жобаға орналастыруға мүмкіндік береді.
 
 ![Azure коннекторлары](./media/2AzureConnectors.png)
 

@@ -3,7 +3,7 @@ title: Шығыстарды енгізу
 description: Project Service жүйесіне шығыстар енгізу жолы
 author: revathimuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 360e2c6b103f3d441fd89995751ba038036563c4
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 34510b38773031795d3877c2736275fe67dbdd7b
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079864"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132925"
 ---
 # <a name="enter-expenses-project-service"></a>Шығыстарды енгізу (Project Service)
 
@@ -49,7 +49,7 @@ ms.locfileid: "4079864"
   
    Егер ұялы бағдарлама пайдалануда болсаңыз:  
   
-8. Мәзірден **Шығыстар** опциясына өтіңіз.     **Күн** , **Апта** немесе **Ай** көрінісіне ауыстыруға не алдыңғы немесе келесі уақыт кезеңіне өтуге болады.  
+8. Мәзірден **Шығыстар** опциясына өтіңіз.     **Күн**, **Апта** немесе **Ай** көрінісіне ауыстыруға не алдыңғы немесе келесі уақыт кезеңіне өтуге болады.  
   
 9. **…** түймешігін түртіңіз және **Жаңа** түймешігін түртіңіз.  
   

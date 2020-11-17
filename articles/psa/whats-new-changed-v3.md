@@ -2,7 +2,7 @@
 title: Project Service Automation бағдарламасының 3 нұсқасындағы жаңалықтар немесе өзгерістер
 description: Бұл тақырыпта Project Service Automation бағдарламасының 3 нұсқасындағы жаңалықтар мен өзгерістер туралы ақпарат беріледі.
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 11/28/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0c198a0fd293008b73422f3f60ea023f918e0ddc
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 46cbbc3ff3b0efcecd3cba30b265a782f6cdcf60
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079622"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4120010"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3"></a>Project Service Automation бағдарламасының 3 нұсқасындағы жаңалықтар немесе өзгерістер
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]

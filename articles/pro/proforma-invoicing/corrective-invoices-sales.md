@@ -1,21 +1,21 @@
 ---
-title: Кредиттер және түзетілген есеп-шоттар
+title: Түзетілген есеп-шоттар - жеңілдетілген
 description: Бұл тақырыпта Project Operations бағдарламасындағы түзетілген есеп-шоттар туралы ақпарат берілген
 author: rumant
 manager: Annbe
 ms.date: 10/15/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: d2187627439d42b37222dce0a491c62dafc358d5
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 55bec8ad1d9c2b55cabb453321f13df8b7cd1614
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079771"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4176438"
 ---
-# <a name="credits-and-corrected-invoices"></a>Кредиттер және түзетілген есеп-шоттар
+# <a name="corrected-invoices---lite"></a>Түзетілген есеп-шоттар - жеңілдетілген
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 

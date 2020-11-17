@@ -3,17 +3,17 @@ title: Жаңа ортаны дайындау
 description: Бұл тақырып жаңа Project Operations ортасын дайындау туралы ақпарат береді.
 author: sigitac
 manager: Annbe
-ms.date: 10/07/2020
+ms.date: 10/26/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: a43b947207b6d4276ef27ec996713bf3883e7906
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 044a942a068b33318b98041cc94944d90c1d63c3
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079547"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4121180"
 ---
 # <a name="provision-a-new-environment"></a>Жаңа ортаны дайындау
 
@@ -185,4 +185,10 @@ Project Operations жүйесі бағдарлама нұсқасының **10.0
 
 ![Барлық салыстырулар орындалуда](./media/22AllMapsRunning.png)
 
-Енді Project Operations ортасы дайындалған және конфигурацияланған.
+
+## <a name="apply-configuration-data-in-cds-for-project-operations-optional"></a>Project Operations жүйесіне арналған CDS бағдарламасында конфигурация деректерін қолдану (міндетті емес)
+
+Егер сіз демо-деректерді Finance ортасына қолданған болсаңыз, демо-деректерді CDS ортасына қолдану үшін [Project Operations жүйесіне арналған Common Data Service қызметінде конфигурация деректерін орнату және қолдану](resource-apply-pro-setup-config-data.md) бөлімін қараңыз.
+
+
+Енді Project Operations ортасы дайындалған және конфигурацияланған. 

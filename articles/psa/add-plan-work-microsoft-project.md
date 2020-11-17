@@ -3,7 +3,7 @@ title: Microsoft Project бағдарламасында жұмысты жосп�
 description: Бұл тақырыпта Microsoft Project Service үшін Microsoft Project қондырмасын қосу, конфигурациялау және пайдалану жолы туралы ақпарат берілген.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 04/06/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1d988419ae5a9d57532902d2553cd7de147e27c1
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 6bc74442866caccc02e53afc913a55aab81f9629
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079790"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129685"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Microsoft Project бағдарламасында жұмысты жоспарлау үшін Project Service Automation қосылатын модулін пайдалану
 

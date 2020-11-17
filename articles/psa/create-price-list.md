@@ -3,7 +3,7 @@ title: Бағатізбе жасау
 description: Project Service жүйесінде бағатізбе жасау жолы
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: bf75286fd1837e27a9b6053ccb21b60771ee197d
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 08d93ad86d782922df6b22370749628ddbdc0718
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079696"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122035"
 ---
 # <a name="create-a-price-list-project-service"></a>Бағатізбе жасау (Project Service)
 
@@ -39,7 +39,7 @@ ms.locfileid: "4079696"
   
 2.  **Жаңа** түймесін басыңыз.  
   
-3.  **Мәтінмән** ішінен **Құн** , **Сатып алу** немесе **Сатылым** бағатізбесін таңдаңыз.  
+3.  **Мәтінмән** ішінен **Құн**, **Сатып алу** немесе **Сатылым** бағатізбесін таңдаңыз.  
   
 4.  **Ат** ішіне бағатізбе атын енгізіңіз.  
   
@@ -47,7 +47,7 @@ ms.locfileid: "4079696"
   
 6.  **Уақыт бірлігі** өрісінде күн немесе сағат сияқты баға қолданылатын уақыт кезеңін көрсетіңіз.  
   
-7.  **Басталу күні** , **Аяқталу күні** және **Сипаттама** өрістерін қажетінше толтырыңыз.  
+7.  **Басталу күні**, **Аяқталу күні** және **Сипаттама** өрістерін қажетінше толтырыңыз.  
   
 8.  Өңдеуді жалғастыра алу үшін жазбаны жасауға **Сақтау** түймесін басыңыз.  
   

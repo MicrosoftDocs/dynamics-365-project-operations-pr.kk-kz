@@ -3,7 +3,7 @@ title: Ресурс рөлдерін қосу
 description: Project Service ресурстарына рөл тағайындау жолы
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 47bb6bc5e52553db77d6fe0eda2181069ddcbc2b
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 378c43e206f9295d445b1323b1c67f9d573df713
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079856"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129595"
 ---
 # <a name="add-resource-roles-project-service"></a>Ресурс рөлдерін қосу (Project Service)
 
@@ -31,7 +31,7 @@ ms.locfileid: "4079856"
 
 Әрбір рөлге мақсатты қолданыс деңгейлерін орнатыңыз. Осы параметрлер жобаларды басқару және нақты мәндерді талдау кезінде ресурс қолжетімділігі мен қолданысын анықтайды.  
   
-1.  Қолданысын теңшеу керек ресурсқа өтіңіз ( **Project Service > Ресурс рөлі** ).  
+1.  Қолданысын теңшеу керек ресурсқа өтіңіз (**Project Service > Ресурс рөлі**).  
   
 2.  Экранның үстіндегі ресурс рөлінен кейінгі төменгі көрсеткіні басыңыз.  
   

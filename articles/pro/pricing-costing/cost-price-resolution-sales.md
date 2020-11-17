@@ -1,25 +1,25 @@
 ---
-title: Шығындарды болжамдар мен нақты көрсеткіштерге бөлу
+title: Болжамдар мен нақты көрсеткіштер бойынша шығындарды шешу - жеңілдетілген
 description: Бұл тақырыпта шығындарды болжамдар және нақты көрсеткіштерге бөлу жолы туралы ақпарат берілген.
 author: rumant
 manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: bad8f4b95ac5803d3f334e1b306d2a9d27a6645d
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 3fedf7b577e2372fb10ea85ea1e3caa9bf2f5ad0
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079570"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4176798"
 ---
-# <a name="resolving-cost-prices-on-estimates-and-actuals"></a>Шығындарды болжамдар мен нақты көрсеткіштерге бөлу
+# <a name="resolve-cost-prices-on-estimates-and-actuals---lite"></a>Болжамдар мен нақты көрсеткіштер бойынша шығындарды шешу - жеңілдетілген
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Болжамдар мен нақты көрсеткіштер үшін шығындарды және құн бағатізбесін анықтау үшін жүйе қатысты жобаның **Күн** , **Валюта** және **Келісілген бірлік** өрістеріндегі ақпаратты пайдаланады. Құн бағатізбесі шешілгеннен кейін, бағдарлама құн мөлшерін шешеді.
+Болжамдар мен нақты көрсеткіштер үшін шығындарды және құн бағатізбесін анықтау үшін жүйе қатысты жобаның **Күн**, **Валюта** және **Келісілген бірлік** өрістеріндегі ақпаратты пайдаланады. Құн бағатізбесі шешілгеннен кейін, бағдарлама құн мөлшерін шешеді.
 
 ## <a name="resolving-cost-rates-on-actual-and-estimate-lines-for-time"></a>Уақыт үшін құн мөлшерін нақты және болжамды жолдарға бөлу
 

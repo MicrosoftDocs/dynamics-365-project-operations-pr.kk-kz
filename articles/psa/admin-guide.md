@@ -3,7 +3,7 @@ title: Әкімші нұсқаулығы
 description: Project Service әкімшілігінің қадамдық нұсқаулары
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7462a57ad750f255cfb48dbbeda7f899f51ecfa7
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 7bce13430f56b4c72453c90a259e3ffb3a63d8a3
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079697"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129549"
 ---
 # <a name="administrator-guide-project-service"></a>Әкімші нұсқаулығы (Project Service)
 
@@ -36,7 +36,7 @@ ms.locfileid: "4079697"
 - [Project Service Automation қолданбасын конфигурациялау](configure.md)
 - [Уақыт бірліктерін реттеу](set-up-time-units.md)
 - [Валюталарды және айырбас бағамдарын реттеу](set-up-currencies-exchange-rates.md)
-- [Бөлімшелер жасау](create-organizational-units.md)
+- [Ұйым бөлімшелерін жасау](create-organizational-units.md)
 - [Есеп-шот жиіліктерін орнату](set-up-invoice-frequencies.md)
 - [Транзакция санаттарын конфигурациялау](configure-transaction-categories.md)
 - [Шығыс санаттарын конфигурациялау](configure-expense-categories.md)

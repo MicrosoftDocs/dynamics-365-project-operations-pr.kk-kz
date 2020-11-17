@@ -3,7 +3,7 @@ title: Мен неліктен Нақты көрсеткіштер нысаны�
 description: Бұл тақырыпта нақты мәндер нысанынан жазбалар неліктен жойылмайтыны туралы ақпарат берілген.
 author: JPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 11/6/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f47e7ccd46642dc6129fbb3beac3c9490160d046
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: b9b45e3ae0cd9273af4d2a5cd9cce30502c0aa78
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079786"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4127165"
 ---
 # <a name="why-cant-i-delete-records-from-the-actuals-entity"></a>Мен неліктен Нақты көрсеткіштер нысанынан жазбаларды жоя алмаймын?
 
