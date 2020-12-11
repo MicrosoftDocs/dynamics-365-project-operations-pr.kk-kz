@@ -38,6 +38,8 @@
               href: environment/resource-configure-integration-per-legal-entity.md
     - name: Жаңалықтар
       items:
+        - name: 'Желтоқсан, 2020 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-dec-2020-resource-based.md
         - name: 'Қараша, 2020 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-nov-2020-resource-based.md
     - name: Жобаның сату үрдісі
@@ -87,7 +89,7 @@
                 - name: Бірнеше тұтынушыны жобаға негізделген баға ұсыну жолдары бойынша басқару
                   href: sales/manage-multiple-customers-quote-line.md
                 - name: Жобаның баға ұсыну жолының ақылы құрамдастарын конфигурациялау
-                  href: pro/sales/configure-chargeable-components-quote-line-sales.md
+                  href: sales/configure-chargeable-quoteline.md
                 - name: Баға ұсыну жолы бойынша болжамдар жасау
                   href: sales/create-estimate-quote-line.md
                 - name: Болжамдарды жобадан жобаға негізделген баға ұсыну жолына импорттау
@@ -109,7 +111,7 @@
             - name: Жоба келісім-шарттары бойынша жоба бағатізбелерін басқару
               href: sales/contracts-manage-project-price-lists.md
             - name: Бірнеше тұтынушыны жоба келісім-шарттары бойынша басқару
-              href: sales/contracts-manage-project-price-lists.md
+              href: sales/manage-multiple-customers-contract.md
             - name: Жобаға негізделген келісім-шарт жолдары
               items:
                 - name: Жобаға негізделген келісім-шарт жолдарына шолу
@@ -128,6 +130,14 @@
               href: pro/sales/confirm-contract-sales.md
             - name: Жоба келісім-шартын көшіру
               href: pro/sales/copy-project-contracts-sales.md
+            - name: Аванстар мен қаламақылар
+              items:
+                - name: Аванстар және қаламақыға негізделген келісім-шарттар - жеңілдетілген
+                  href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
+                - name: Қаламақы кестесін орнату - жеңілдетілген
+                  href: pro/sales/set-up-schedule-retainers-sales.md
+                - name: Келісім-шартта арнайы аванс жасау - жеңілдетілген
+                  href: pro/sales/create-ad-hoc-advance-sales.md
     - name: Баға мен құн
       items:
         - name: Бағатізбені орнату
@@ -158,19 +168,29 @@
           items:
             - name: Бағалар өлшемдеріне шолу
               href: pricing-costing/pricing-dimensions-overview.md
+            - name: Реттелетін баға өлшемдері үшін шешім жасау
+              href: sales/create-solution-custompd.md
             - name: Бұрыннан бар өрістерді бағалар өлшемдері ретінде пайдалану
               items:
                 - name: Бағалар өлшемдері түріндегі Project Operations өрістері
                   href: pricing-costing/use-existing-field-pricing-dimension.md
+                - name: Тапсырыс беруге болатын ресурсты баға өлшемі ретінде пайдалану
+                  href: sales/use-br-as-pd.md
+                - name: Транзакция санатын баға өлшемі ретінде пайдалану
+                  href: pricing-costing/use-transaction-category-as-pd.md
+                - name: Жобада бірнеше рөлі бар тапсырыс берілетін ресурс
+                  href: sales/br-playing-multiple-roles.md
             - name: Бағалар өлшемдері түріндегі реттемелі өрістер
               items:
-                - name: Реттелетін өрістер мен нысандарды баға өлшемдері ретінде жасау
+                - name: Реттелетін өрістер мен нысандарды бағалар өлшемдері ретінде жасау
                   href: pricing-costing/create-custom-fields-entities-pricing-dimensions.md
                 - name: Баға параметрлері мен транзакциялық нысандарға реттелетін өрістерді қосу
                   href: pricing-costing/add-custom-fields-price-setup-transactional-entities.md
                 - name: 'Реттелетін өрістерді баға өлшемдері ретінде орнату '
                   href: pricing-costing/set-up-custom-fields-pricing-dimensions.md
-            - name: Баға өлшемін өшіріңіз
+                - name: Жаңа баға өлшемдерін қосу үшін қосылатын модуль төлсипаттарын жаңарту
+                  href: pricing-costing/update-plugin-attributes-pd.md
+            - name: Баға өлшемін өшіру
               href: pricing-costing/turning-off-pricing-dimension.md
     - name: Жобаны басқару
       items:
@@ -250,12 +270,18 @@
               href: resource-management/generic-resource-requirement-fulfillment.md
         - name: Ресурстарды басқару
           items:
+            - name: Ресурстарды жасау
+              href: resource-management/create-resources.md
             - name: Қабілеттер мен тиімділіктерді анықтау
               href: resource-management/define-skills-proficiencies.md
+            - name: Рөлдерді анықтау
+              href: resource-management/define-roles.md
             - name: Ресурс күнтізбелерін анықтау
               href: resource-management/define-resource-calendars.md
         - name: Тағайындау әдісіне тапсырыс беру
           href: resource-management/booking-allocation-methods.md
+        - name: Тапсырыс беру күйлері
+          href: resource-management/booking-status.md
         - name: Қабілеттер мен тиімділік үлгілері
           href: resource-management/skills-proficiency-models.md
         - name: Ресурстарды келістіру
@@ -354,6 +380,8 @@
           href: proforma-invoicing/create-manual-proforma-invoice.md
         - name: Жобаның есеп-шотын басқару
           href: proforma-invoicing/manage-proforma-invoice.md
+        - name: Есеп-шотқа немесе авансқа шот ұсыну
+          href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
         - name: Жобаның есеп-шотын растау
           href: proforma-invoicing/confirm-proforma-invoice.md
         - name: Жоба есеп-шотын автоматтандыруды конфигурациялау
@@ -370,6 +398,32 @@
           href: project-accounting/configure-accounting-billable-projects.md
         - name: Project Operations бағдарламасындағы біріктіру журналы
           href: project-accounting/project-operations-integration-journal.md
+        - name: Компанияаралық шот жіберу
+          items:
+            - name: Компанияаралық шот жіберуге шолу
+              href: project-accounting/intercompany-invoicing-overview.md
+            - name: Компанияаралық шот ұсынуды конфигурациялау
+              href: project-accounting/configure-intercompany-invoicing.md
+            - name: Тұтынушылар мен жеткізушілердің компанияаралық есеп-шоттарын жасау
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
+            - name: Компанияаралық транзакцияларды жасау
+              href: project-accounting/create-intercompany-transactions.md
+    - name: Табысты тану
+      items:
+        - name: Табысты тануға шолу
+          href: revenue-recognition/revenue-recognition-overview.md
+        - name: Табысты тануды орнату
+          items:
+            - name: Кезең түрлерін орнату
+              href: project-accounting/period-types.md
+            - name: Құн үлгілерін орнату
+              href: revenue-recognition/rev-rec-cost-templates.md
+        - name: Табыс болжамдарын басқару
+          href: revenue-recognition/rev-rec-completed-contract-method.md
+        - name: Бекітілген бағадағы табыс болжамы жобалары
+          href: revenue-recognition/rev-rec-percentage-completion-method.md
+        - name: Әдістерді аяқтау құны
+          href: revenue-recognition/cost-complete-methods.md
 - name: Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі
   items:
     - name: Бастау
@@ -386,6 +440,8 @@
           href: environment/security-model.md
     - name: Жаңалықтар
       items:
+        - name: 2020 жылдың желтоқсан айындағы жаңалықтар - жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі
+          href: pro/whats-new/whats-new-dec-2020-lite.md
         - name: 2020 жылдың қараша айындағы жаңалықтар - жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі
           href: pro/whats-new/whats-new-nov-2020-lite.md
     - name: Жобаның сату үрдісі
@@ -538,19 +594,29 @@
           items:
             - name: Бағалар өлшемдеріне шолу
               href: pricing-costing/pricing-dimensions-overview.md
+            - name: Реттелетін баға өлшемдері үшін шешім жасау
+              href: sales/create-solution-custompd.md
             - name: Бұрыннан бар өрістерді бағалар өлшемдері ретінде пайдалану
               items:
-                - name: Бұрыннан бар өрісті баға өлшемі ретінде пайдалану
+                - name: Бағалар өлшемдері түріндегі Project Operations өрістері
                   href: pricing-costing/use-existing-field-pricing-dimension.md
+                - name: Тапсырыс беруге болатын ресурсты баға өлшемі ретінде пайдалану
+                  href: sales/use-br-as-pd.md
+                - name: Транзакция санатын баға өлшемі ретінде пайдалану
+                  href: pricing-costing/use-transaction-category-as-pd.md
+                - name: Жобада бірнеше рөлі бар тапсырыс берілетін ресурс
+                  href: sales/br-playing-multiple-roles.md
             - name: Бағалар өлшемдері түріндегі реттемелі өрістер
               items:
-                - name: Реттелетін өрістер мен нысандарды баға өлшемдері ретінде жасау
+                - name: Реттелетін өрістер мен нысандарды бағалар өлшемдері ретінде жасау
                   href: pricing-costing/create-custom-fields-entities-pricing-dimensions.md
                 - name: Баға параметрлері мен транзакциялық нысандарға реттелетін өрістерді қосу
                   href: pricing-costing/add-custom-fields-price-setup-transactional-entities.md
                 - name: 'Реттелетін өрістерді баға өлшемдері ретінде орнату '
                   href: pricing-costing/set-up-custom-fields-pricing-dimensions.md
-            - name: Баға өлшемін өшіріңіз
+                - name: Жаңа баға өлшемдерін қосу үшін қосылатын модуль төлсипаттарын жаңарту
+                  href: pricing-costing/update-plugin-attributes-pd.md
+            - name: Баға өлшемін өшіру
               href: pricing-costing/turning-off-pricing-dimension.md
     - name: Жобаны басқару
       items:
@@ -626,12 +692,18 @@
               href: resource-management/generic-resource-requirement-fulfillment.md
         - name: Ресурстарды басқару
           items:
+            - name: Ресурстарды жасау
+              href: resource-management/create-resources.md
             - name: Қабілеттер мен тиімділіктерді анықтау
               href: resource-management/define-skills-proficiencies.md
+            - name: Рөлдерді анықтау
+              href: resource-management/define-roles.md
             - name: Ресурс күнтізбелерін анықтау
               href: resource-management/define-resource-calendars.md
         - name: Тағайындау әдісіне тапсырыс беру
           href: resource-management/booking-allocation-methods.md
+        - name: Тапсырыс беру күйлері
+          href: resource-management/booking-status.md
         - name: Қабілеттер мен тиімділік үлгілері
           href: resource-management/skills-proficiency-models.md
         - name: Ресурстарды келістіру
@@ -688,7 +760,7 @@
           href: pro/proforma-invoicing/create-manual-proforma-invoice-sales.md
         - name: Жобаның есеп-шотын басқару
           href: pro/proforma-invoicing/manage-proforma-invoice-sales.md
-        - name: Есеп-шотқа немесе авансқа шот жіберу
+        - name: Есеп-шотқа немесе авансқа шот ұсыну
           href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
         - name: Жобаның есеп-шотын растау
           href: pro/proforma-invoicing/confirm-proforma-invoice-sales.md
@@ -832,8 +904,10 @@
       href: psa/overview.md
     - name: Жаңалықтар
       items:
-        - name: Project Service бағдарламасының 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
+        - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 26-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-26.md
         - name: 25-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-25.md
         - name: 24-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
@@ -930,19 +1004,19 @@
               href: psa/field-references.md
             - name: 'Реттелетін өрістерді баға өлшемдері ретінде орнату '
               href: psa/set-up-pricing-dimensions.md
-            - name: Жаңа баға өлшемдерін қосу үшін қосылатын модуль атрибуттарын жаңарту
+            - name: Жаңа баға өлшемдерін қосу үшін қосылатын модуль төлсипаттарын жаңарту
               href: psa/update-plug-in-attributes.md
             - name: Бұрыннан бар өрісті баға өлшемі ретінде пайдалану
               items:
                 - name: Бұрыннан бар Project Service қызметін баға өлшемі ретінде пайдалану
                   href: psa/use-existing-field.md
-                - name: Тапсырыс беруге болатын ресурсты баға өлшемі ретінде пайдаланыңыз
+                - name: Тапсырыс беруге болатын ресурсты баға өлшемі ретінде пайдалану
                   href: psa/bookable-resource-pricing-dimension.md
-                - name: Транзакция санатын баға өлшемі ретінде пайдаланыңыз
+                - name: Транзакция санатын баға өлшемі ретінде пайдалану
                   href: psa/transaction-category-pricing-dimension.md
             - name: Жобада бірнеше рөлі бар тапсырыс берілетін ресурс
               href: psa/bookable-resource-multiple-roles.md
-            - name: Баға өлшемін өшіріңіз
+            - name: Баға өлшемін өшіру
               href: psa/turn-off-pricing-dimension.md
         - name: 'Баға ұсыну, баға белгілеу және шот ұсыну'
           items:
