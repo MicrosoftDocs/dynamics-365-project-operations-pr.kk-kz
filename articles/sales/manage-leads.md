@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 4c99485a1d0c54ae848e5fbed4c4590e96cba9fd
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 16f5dbb283eee12cf10ca7145ea9e17c5ef8923e
+ms.sourcegitcommit: 869bde007805ef255f61b03937e4a44aeef61df9
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181774"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "4513841"
 ---
 # <a name="manage-leads"></a>Ықтимал тұтынушыларды басқару
 
@@ -53,9 +53,9 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 - Ықтимал тұтынушыдағы **Компания** өрісін пайдаланатын тіркелгі.
 - Ықтимал тұтынушыдағы **Аты** және **Тегі** өрістеріндегі мәндерге негізделген тіркелгіге байланысты контакт жазбасы.
-- **Түр** өрісі **Жұмысқа негізделген** күйіне орнатылған жобаға негізделген мүмкіндік.
+- **Түрі** өрісі **Жұмысқа негізделген** күйіне орнатылған жобаға негізделген мүмкіндік.
 
-Ықтимал тұтынушыларды нақтылау туралы қосымша ақпарат алу үшін,[Ықтимал тұтынушыларды нақтылау немесе түрлендіру](https://docs.microsoft.com/dynamics365/sales-enterprise/qualify-lead-convert-opportunity-sales) бөлімін қараңыз.
+Ықтимал тұтынушыларды нақтылау туралы қосымша ақпарат алу үшін [Ықтимал тұтынушыларды нақтылау немесе түрлендіру](https://docs.microsoft.com/dynamics365/sales-enterprise/qualify-lead-convert-opportunity-sales) бөлімін қараңыз.
 
 ## <a name="lead-qualification-and-legal-entity-information"></a>Ықтимал тұтынушыны нақтылау және заңды тұлға туралы ақпарат 
 
