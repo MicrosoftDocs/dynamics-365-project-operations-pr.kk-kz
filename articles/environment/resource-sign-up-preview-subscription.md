@@ -8,16 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: dc3b353f19b915f645aed91dc2a8127117027034
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: a6dfa51f59119834230b7c9f8859a9d85eaae999
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121135"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642972"
 ---
 # <a name="sign-up-for-project-operations-preview-subscriptions-for-resource-non-stocked-scenarios"></a>Project Operations ресурстық/қосалқы емес сценарийлерге арналған Project Operations алдын ала қарау жазылымдарына кіру
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Бұл тақырып алдын-ала қарау/серіктестік ұсынысқа жазылуды және ресурстық/қосалқы негіздегі сценарийлер үшін Project Operations ортасын орналастыру туралы ақпарат береді.
 
@@ -31,18 +33,18 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 Сіздегі [алдын ала қарауды сұрау](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) расталған кезде, сізге Microsoft корпорациясынан электрондық пошта арқылы үш ұсыныс жіберіледі. Бұл ұсыныстар Project Operations алдын-ала қарауын орналастыруға мүмкіндік береді:
 
-- Dynamics 365 Project Operations (CRM) - алдын-ала қарау нұсқасы
+- Dynamics 365 Project Operations (CRM) - алдын ала қарау сынақ нұсқасы
 - Office 365 Project Operations - алдын ала қарау сынақ нұсқасы
 - Dynamics 365 Finance - алдын ала қарау сынақ нұсқасы
 
 > [!IMPORTANT]
 > Бұл тапсырманы ұйымда тек бір адам, яғни қатысушы әкімші орындауы қажет. Егер сіз осы шығарылымның жазылушысы болмасаңыз, ұйымның тіркеліп, пайдаланушы тіркелгі деректерін алғанға дейін күтіңіз.
 
-### <a name="dynamics-365-project-operations-crm---preview-trial"></a>Dynamics 365 Project Operations (CRM) - алдын-ала қарау нұсқасы 
+### <a name="dynamics-365-project-operations-crm---preview-trial"></a>Dynamics 365 Project Operations (CRM) - алдын ала қарау сынақ нұсқасы 
 
 Бастамас бұрын, браузерге Project Operations алдын ала қарауды қалайтын пайдаланушының жұмыс тіркелгісімен кіргеніңізге көз жеткізіңіз.
 
-1. Бірінші ұсыныс кодын **Dynamics 365 Project Operations (CRM) - алдын ала қарау сынақ нұсқасы** браузердің URL мекенжайына қою арқылы оны белсендіріңіз.
+1. **Dynamics 365 Project Operations (CRM) - алдын ала қарау сынақ нұсқасы** бірінші ұсыныс кодын шолғыш URL мекенжайына қою арқылы оны белсендіріңіз.
 
 ![Ұсынысты белсендіру](./media/16RedeemFirstOfferNew.png)
 
@@ -75,7 +77,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 ![Лицензияларды тағайындау](./media/15AssignLicenses.png)
 
-3. **Dynamics 365 Project Operations (CRM) алдын-ала қарау** және **Office 365 Project Operations - алдын ала қарау** лицензиясы таңдалғанын тексеріп, **Өзгерістерді сақтау** пәрменін таңдаңыз.
+3. **Dynamics 365 Project Operations (CRM) алдын ала қарау** және **Office 365 Project Operations - алдын ала қарау** лицензиясының таңдалғанын тексеріп, **Өзгерістерді сақтау** түймесін таңдаңыз.
 
 > [!NOTE]
 > Finance сынақ ұсынысын пайдаланушыға тағайындаудың қажеті жоқ.

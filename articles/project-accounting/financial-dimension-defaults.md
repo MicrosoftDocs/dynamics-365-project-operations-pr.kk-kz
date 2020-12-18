@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: aa6771ba5346fd4133b82c3e670badfa7655299f
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 03b9a9028c1610b191db9c1bfb0163adc88bdf3e
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131890"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642370"
 ---
 # <a name="financial-dimension-defaults"></a>Қаржылық өлшемнің әдепкі мәндері
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Dynamics 365 Project Operations жүйесі жобалық қосалқы кітап пен жалпы қосалқы кітап транзакциялары туралы қосымша түсініктер беру үшін Dynamics 365 Finance жүйесіндегі [Қаржылық өлшемдер](https://docs.microsoft.com/dynamics365/finance/general-ledger/financial-dimensions) құрылымын пайдаланады.
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+Dynamics 365 Project Operations бағдарламасы жобалық қосалқы және бас кітап транзакциялары туралы қосымша мәліметтер беру үшін Dynamics 365 Finance жүйесіндегі [Қаржылық өлшемдер](https://docs.microsoft.com/dynamics365/finance/general-ledger/financial-dimensions) құрылымын пайдаланады.
 
 Әдепкі қаржылық өлшемдер тапсырыс беруші, жобаны қаржыландыру көзі, аралық кезең, жобаның келісім-шарт жолы немесе жоба бойынша белгіленуі мүмкін.
 

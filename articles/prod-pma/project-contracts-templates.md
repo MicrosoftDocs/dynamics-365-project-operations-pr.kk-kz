@@ -17,16 +17,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-13
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 9e4f11ec0bb88ed0971a3d082e7ca7823fcf8453
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 0b3bc159fff25c4f6e5b1ed1b2eabbba675fb0f5
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079794"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642640"
 ---
 # <a name="synchronize-project-contracts-and-projects-directly-from-project-service-automation-to-finance-and-operations"></a>Жоба келісім-шарттары мен жобаларын тікелей Project Service Automation бағдарламасынан Finance and Operations бағдарламасына тікелей синхрондау
 
 [!include[banner](../includes/banner.md)]
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Бұл тақырыпта үлгі мен жобаның келісім-шарттары мен жобаларын Dynamics 365 Project Service Automation бағдарламасынан Dynamics 365 Finance жүйесіне синхрондау үшін пайдаланылатын негізгі тапсырмалар сипатталады.
 
@@ -133,9 +135,9 @@ Power Query бағдарламасын пайдалану қажет болса,
 ## <a name="template-mapping-in-data-integration"></a>Деректерді біріктіруде үлгіні салыстыру
 
 > [!NOTE] 
-> **CustomerReference** , **AddressCity** , **AddressCountryRegionID** , **AddressDescription** , **AddressLine1** , **AddressLine2** , **AddressState** және **AddressZipCode** өрістері жобалық келісім-шарттарға арналған әдепкі салыстыруда қамтылмаған. Осы деректердің жобалық келісім-шарттар үшін синхрондалуы қажет болса, салыстыруларды қосуға болады.
+> **CustomerReference**, **AddressCity**, **AddressCountryRegionID**, **AddressDescription**, **AddressLine1**, **AddressLine2**, **AddressState** және **AddressZipCode** өрістері жобалық келісім-шарттарға арналған әдепкі салыстыруда қамтылмаған. Осы деректердің жобалық келісім-шарттар үшін синхрондалуы қажет болса, салыстыруларды қосуға болады.
 >
-> **Description** , **ParentID** , **ProjectGroup** , **ProjectManagerPersonnelNumber** және **ProjectType** өрістері жобаларға арналған әдепкі салыстыруда қамтылмайды. Осы деректердің жобалар үшін синхрондалуы қажет болса, салыстыруларды қосуға болады.
+> **Description**, **ParentID**, **ProjectGroup**, **ProjectManagerPersonnelNumber** және **ProjectType** өрістері жобаларға арналған әдепкі салыстыруда қамтылмайды. Осы деректердің жобалар үшін синхрондалуы қажет болса, салыстыруларды қосуға болады.
 
 Келесі суреттер деректерді біріктіру қызметіндегі үлгі тапсырмасын салыстырулар мысалдарын көрсетеді. Картада Project Service Automation бағдарламасынан Finance бағдарламасына синхрондалатын өріс туралы ақпарат көрсетілген.
 

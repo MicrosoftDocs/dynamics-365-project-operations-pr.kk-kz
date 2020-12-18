@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 044a942a068b33318b98041cc94944d90c1d63c3
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 9ed502a1312b702e029d8910d62f72b8e0e4df06
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121180"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642985"
 ---
 # <a name="provision-a-new-environment"></a>Жаңа ортаны дайындау
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырып ресурстарға/қосалқы емес негіздегі сценарийлер үшін жаңа Dynamics 365 Project Operations ортасын дайындау жолы туралы ақпарат береді.
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+Бұл тақырыпта ресурс/биржадан тыс негіздегі сценарийлерге арналған жаңа Dynamics 365 Project Operations ортасын дайындау жолдары туралы ақпарат беріледі.
 
 ## <a name="enable-project-operations-automated-provisioning-in-an-lcs-project"></a>LCS жобасында Project Operations автоматтандырылған дайындық жүргізу процесін қосу
 
@@ -120,7 +122,7 @@ Project Operations жүйесі бағдарлама нұсқасының **10.0
 
 ![Шешімдерді қолдану](./media/13ApplySolutions.png)
 
-5. Екі шешімді, **Dynamics 365 Finance and Operations қос жазу нысан картасын** және **Dynamics 365 Project Operations қос жазу нысан карталарын** таңдап, содан соң **Қолдану** опциясын таңдаңыз.
+5. **Dynamics 365 Finance and Operations қос жазу нысан картасы** және **Dynamics 365 Project Operations қос жазу нысан карталары** шешімдерінің екеуін де таңдап, содан соң **Қолдану** түймесін таңдаңыз.
 
 ![Шешімдерді растау](./media/14ConfirmSolutions.png)
 
@@ -158,9 +160,10 @@ Project Operations жүйесі бағдарлама нұсқасының **10.0
 
 | **Нысан картасы** | **Нысанды жаңарту** | **Бастапқы синхрондау** | **Бастапқы синхрондау шебері** | **Алғышарттарды орындау** | **Алғышарттарды бастапқы синхрондау** |
 | --- | --- | --- | --- | --- | --- |
-| **Барлық компанияларға арналған жобалық ресурстардың рөлі (тапсырыс беруге болатын ресурс санаттары)** | № | Иә | Common Data Service | № | Қолданылмайды |
-| **Заңды нысандар (cdm\_companies)** | № | Иә | Finance and Operations бағдарламалары | № | Қолданылмайды |
-| **Project Operations интеграциясының нақты мәндері (msdyn\_ нақты)** | № | № | Қолданылмайды | Иә | № |
+| **Барлық компанияларға арналған жобалық ресурстардың рөлі (тапсырыс беруге болатын ресурс санаттары)** | No | Иә | Common Data Service | No | Қолданылмайды |
+| **Заңды нысандар (cdm\_companies)** | No | Иә | Finance and Operations бағдарламалары | No | Қолданылмайды |
+| **Кітап (msdyn_ledgers)** | No | Иә | Finance and Operations бағдарламалары | Иә | Иә, Finance and Operations бағдарламалары |
+| **Project Operations интеграциясының нақты мәндері (msdyn\_ нақты)** | No | № | Қолданылмайды | Иә | № |
 | **Жобаға негізделген келісім-шарт жолдары (сатылым тапсырысы туралы деректер)** | № | № | Қолданылмайды | № | № |
 | **Жобалық транзакция қатынастарына арналған интеграциялық нысан (msdyn\_ транзакциялар)** | № | № | Қолданылмайды | № | Қолданылмайды |
 | **Project Operations интеграциясы келісім-шарт жолының негізгі кезеңдері (msdyn\_келісімшарттар кестесінің мәндері)** | № | № | Қолданылмайды | № | Қолданылмайды |

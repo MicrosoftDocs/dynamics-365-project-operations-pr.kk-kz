@@ -1,6 +1,6 @@
 ---
 title: Қауіпсіздік үлгісі
-description: Бұл тақырыпта Dynamics 365 Project Operations бағдарламасындағы қауіпсіздік үлгісі туралы ақпарат берілген.
+description: Бұл тақырып Dynamics 365 Project Operations жүйесіндегі қауіпсіздік үлгісі туралы ақпарат береді.
 author: stsporen
 manager: Annbe
 ms.date: 10/01/2020
@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 3fc4101d0ea4b8e2a4ba8f1d43540d57239cf402
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: b01f3d88dd021895933bc863b762f019ae50eed6
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124375"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642910"
 ---
 # <a name="security-model"></a>Қауіпсіздік үлгісі
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Microsoft Dynamics 365 Project Operations бағдарламасы Microsoft Office Groups жүйесімен бірге жұмыс істейтін рөлге негізделген бизнес қауіпсіздігі үлгісіне рұқсат беретін бірегей қауіпсіздік үлгісін қамтиды. 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+Microsoft Dynamics 365 Project Operations бағдарламасы Microsoft Office топтарымен бірге жұмыс істейтін рөлге негізделген бизнес-қауіпсіздік үлгісіне мүмкіндік беретін бірегей қауіпсіздік үлгісін қамтиды. 
 
 
 ## <a name="security-roles"></a>Қауіпсіздік рөлдері
