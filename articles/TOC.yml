@@ -22,10 +22,8 @@
               href: environment/create-lcs-project.md
             - name: LCS жобасына Azure жазылымын қосу
               href: environment/resource-add-azure-subscription-lcs-project.md
-        - name: Демо деректерді қолдану
+        - name: Демо нұсқадағы деректерді қолдану
           items:
-            - name: Демо деректерді Finance бұлт қызметтеріне орналастырылған ортаға қолдану
-              href: environment/resource-apply-finance-demo-data.md
             - name: Конфигурация деректерін Common Data Service қызметінде қолдану
               href: environment/resource-apply-pro-setup-config-data.md
         - name: Орталарды орналастыру
@@ -38,13 +36,17 @@
               href: environment/resource-configure-integration-per-legal-entity.md
     - name: Жаңалықтар
       items:
+        - name: 'Ақпан, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-feb-2021-resource-based.md
+        - name: 'Қаңтар, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-jan-2021-resource-based.md
         - name: 'Желтоқсан, 2020 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-dec-2020-resource-based.md
         - name: 'Қараша, 2020 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-nov-2020-resource-based.md
-    - name: Жобаның сату үрдісі
+    - name: Жобаның сату процесі
       items:
-        - name: Жобаның сату үрдісіне шолу
+        - name: Жобаның сату процесіне шолу
           href: sales/sales-overview.md
         - name: Орнату
           items:
@@ -132,11 +134,11 @@
               href: pro/sales/copy-project-contracts-sales.md
             - name: Аванстар мен қаламақылар
               items:
-                - name: Аванстар және қаламақыға негізделген келісім-шарттар - жеңілдетілген
+                - name: Аванстар мен қаламақыға негізделген келісім-шарттар
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
-                - name: Қаламақы кестесін орнату - жеңілдетілген
+                - name: Қаламақы кестесін орнату
                   href: pro/sales/set-up-schedule-retainers-sales.md
-                - name: Келісім-шартта арнайы аванс жасау - жеңілдетілген
+                - name: Келісім-шартта арнайы аванс жасау
                   href: pro/sales/create-ad-hoc-advance-sales.md
     - name: Баға мен құн
       items:
@@ -210,9 +212,11 @@
           href: project-management/copy-project.md
         - name: Жұмыс декомпозициясының құрылымын жоспарлау
           items:
-            - name: Тағайындауларды жасау
+            - name: Жұмыс декомпозициясының құрылымын жасау
+              href: project-management/create-wbs.md
+            - name: Тағайындаулар жасау
               href: project-management/create-assignments.md
-        - name: Жобалар болжамы
+        - name: Жобаларды болжау
           items:
             - name: Жобалар болжамына шолу
               href: project-management/estimating-projects-overview.md
@@ -226,15 +230,17 @@
               href: project-management/project-tracking-overview.md
             - name: Аяқтау кезіндегі құн болжамын жаңарту
               href: project-management/update-completed-estimate.md
-        - name: Жоба тобы мүшелері
+        - name: Жоба тобының мүшелері
           items:
-            - name: Жоба тобы мүшелеріне шолу
+            - name: Жоба тобының мүшелеріне шолу
               href: project-management/project-team-members-overview.md
-            - name: Топ мүшелерін жүргізу
+            - name: Топ мүшелерін қолдау
               href: project-management/maintain-team-members.md
+        - name: Тапсырмалар торында жұмыс істеу кезінде ақаулықтарды жою
+          href: project-management/projectplanningUIFAQ.md
         - name: Бірлесіп жұмыс істеу
           items:
-            - name: Office топтарымен іскерлесу
+            - name: Office топтарымен бірлесіп жұмыс істеу
               href: project-management/collaboration-groups.md
         - name: Әзірлеуші ескертпелері
           items:
@@ -262,6 +268,8 @@
               href: resource-management/book-project.md
             - name: Ұсынылған ресурстарды қарап шығу
               href: resource-management/review-proposed-resources.md
+            - name: Тапсырыстарды өңдеу
+              href: resource-management/edit-existing-bookings.md
         - name: Орталықтандырылмаған ресурсқа тапсырыс беру (гибридті)
           items:
             - name: Топ мүшесі торынан топ мүшелерін қосу
@@ -322,11 +330,13 @@
                   href: expense/manage-delegation.md
                 - name: Шығысты басқару параметрлерін конфигурациялау
                   href: expense/configure-expense-management-parameters.md
-                - name: Несие картасын біріктіруін орнату
+                - name: Несие картасы біріктіруін орнату
                   href: expense/set-up-credit-card-integration.md
                 - name: Шығыс санаттарын орнату
                   href: expense/set-up-expense-categories.md
-            - name: Шығыс туралы есептерді жасау
+            - name: Шығыс туралы есеп бойынша жеке шығындармен жұмыс істеу
+              href: expense/personal-expenses-expense-report.md
+            - name: Шығыс туралы есептер жасау
               items:
                 - name: Шығыс туралы есеп бойынша тарату
                   href: expense/distributions-expense-report.md
@@ -370,22 +380,28 @@
           items:
             - name: Түзету журналдарын жасау және растау
               href: actuals/create-confirm-correction-journals.md
-    - name: Проформа-шоты
+    - name: Шот жіберу
       items:
-        - name: Жобаның орындалмаған шот ұсыну тапсырмаларын басқару
-          href: proforma-invoicing/manage-billing-backlog.md
-        - name: Асырмау күйі мен тексерулерді басқару
-          href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
-        - name: Жобаның есеп-шотын қолмен жасау
-          href: proforma-invoicing/create-manual-proforma-invoice.md
-        - name: Жобаның есеп-шотын басқару
-          href: proforma-invoicing/manage-proforma-invoice.md
-        - name: Есеп-шотқа немесе авансқа шот ұсыну
-          href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
-        - name: Жобаның есеп-шотын растау
-          href: proforma-invoicing/confirm-proforma-invoice.md
-        - name: Жоба есеп-шотын автоматтандыруды конфигурациялау
-          href: proforma-invoicing/configure-automated-invoice-creation.md
+        - name: Шот жіберу процесіне шолу
+          href: invoicing/post-project-invoices.md
+        - name: Жоба есеп-шотының ұсыныстарын басқару
+          href: invoicing/format-update-project-invoice-proposals.md
+        - name: Проформа шоты
+          items:
+            - name: Жобаның орындалмаған шот ұсыну тапсырмаларын басқару
+              href: proforma-invoicing/manage-billing-backlog.md
+            - name: Асырмау күйі мен тексерулерді басқару
+              href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
+            - name: Жобаның есеп-шотын қолмен жасау
+              href: proforma-invoicing/create-manual-proforma-invoice.md
+            - name: Жобаның есеп-шотын басқару
+              href: proforma-invoicing/manage-proforma-invoice.md
+            - name: Есеп-шотқа немесе авансқа шот ұсыну
+              href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
+            - name: Жобаның есеп-шотын растау
+              href: proforma-invoicing/confirm-proforma-invoice.md
+            - name: Жоба есеп-шотын автоматтандыруды конфигурациялау
+              href: proforma-invoicing/configure-automated-invoice-creation.md
     - name: Жоба есебі
       items:
         - name: Қаржылық өлшемнің әдепкі мәндері
@@ -404,10 +420,10 @@
               href: project-accounting/intercompany-invoicing-overview.md
             - name: Компанияаралық шот ұсынуды конфигурациялау
               href: project-accounting/configure-intercompany-invoicing.md
-            - name: Тұтынушылар мен жеткізушілердің компанияаралық есеп-шоттарын жасау
-              href: project-accounting/create-intercompany-customer-vendor-invoices.md
             - name: Компанияаралық транзакцияларды жасау
               href: project-accounting/create-intercompany-transactions.md
+            - name: Тұтынушылар мен жеткізушілердің компанияаралық есеп-шоттарын жасау
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: Табысты тану
       items:
         - name: Табысты тануға шолу
@@ -418,12 +434,12 @@
               href: project-accounting/period-types.md
             - name: Құн үлгілерін орнату
               href: revenue-recognition/rev-rec-cost-templates.md
-        - name: Табыс болжамдарын басқару
-          href: revenue-recognition/rev-rec-completed-contract-method.md
         - name: Бекітілген бағадағы табыс болжамы жобалары
           href: revenue-recognition/rev-rec-percentage-completion-method.md
         - name: Әдістерді аяқтау құны
           href: revenue-recognition/cost-complete-methods.md
+        - name: Табыс болжамдарын басқару
+          href: revenue-recognition/rev-rec-completed-contract-method.md
 - name: Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі
   items:
     - name: Бастау
@@ -434,19 +450,23 @@
           href: environment/lite-preview-subscription-sign-up.md
         - name: Project Operations бағдарламасын орналастыру - жеңілдетілген
           href: environment/lite-deployment.md
-        - name: Демо нұсқа параметрлері мен конфигурация деректерін қолдану - жеңілдетілген
+        - name: Демо нұсқадағы параметрлер мен конфигурация деректерін қолдану - жеңілдетілген
           href: environment/lite-apply-demo-setup-config-data.md
         - name: Қауіпсіздік үлгісі
           href: environment/security-model.md
     - name: Жаңалықтар
       items:
-        - name: 2020 жылдың желтоқсан айындағы жаңалықтар - жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі
+        - name: 2021 жылдың ақпан айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-feb-2021-lite.md
+        - name: 2021 жылдың қаңтар айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-jan-2021-lite.md
+        - name: 2020 жылдың желтоқсан айындағы жаңалықтар - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-dec-2020-lite.md
-        - name: 2020 жылдың қараша айындағы жаңалықтар - жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі
+        - name: 2020 жылдың қараша айындағы жаңалықтар - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-nov-2020-lite.md
-    - name: Жобаның сату үрдісі
+    - name: Жобаның сату процесі
       items:
-        - name: Жобаның сату үрдісіне шолу
+        - name: Жобаның сату процесіне шолу
           href: sales/sales-overview.md
         - name: Орнату
           items:
@@ -636,9 +656,11 @@
           href: project-management/copy-project.md
         - name: Жұмыс декомпозициясының құрылымын жоспарлау
           items:
-            - name: Тағайындауларды жасау
+            - name: Жұмыс декомпозициясының құрылымын жасау
+              href: project-management/create-wbs.md
+            - name: Тағайындаулар жасау
               href: project-management/create-assignments.md
-        - name: Жобалар болжамы
+        - name: Жобаларды болжау
           items:
             - name: Жобалар болжамына шолу
               href: project-management/estimating-projects-overview.md
@@ -652,16 +674,22 @@
               href: project-management/project-tracking-overview.md
             - name: Аяқтау кезіндегі құн болжамын жаңарту
               href: project-management/update-completed-estimate.md
-        - name: Жоба тобы мүшелері
+        - name: Жоба тобының мүшелері
           items:
-            - name: Жоба тобы мүшелеріне шолу
+            - name: Жоба тобының мүшелеріне шолу
               href: project-management/project-team-members-overview.md
-            - name: Топ мүшелерін жүргізу
+            - name: Топ мүшелерін қолдау
               href: project-management/maintain-team-members.md
+        - name: Тапсырмалар торында жұмыс істеу кезінде ақаулықтарды жою
+          href: project-management/projectplanningUIFAQ.md
         - name: Бірлесіп жұмыс істеу
           items:
-            - name: Office топтарымен іскерлесу
+            - name: Office топтарымен бірлесіп жұмыс істеу
               href: project-management/collaboration-groups.md
+        - name: Әзірлеуші ескертпелері
+          items:
+            - name: Жобаны көшіру арқылы жоба үлгілерін әзірлеу
+              href: project-management/dev-copy-project.md
     - name: Ресурстарды басқару
       items:
         - name: Негізгі тұжырымдамалар
@@ -684,6 +712,8 @@
               href: resource-management/book-project.md
             - name: Ұсынылған ресурстарды қарап шығу
               href: resource-management/review-proposed-resources.md
+            - name: Тапсырыстарды өңдеу
+              href: resource-management/edit-existing-bookings.md
         - name: Орталықтандырылмаған ресурсқа тапсырыс беру (гибридті)
           items:
             - name: Топ мүшесі торынан топ мүшелерін қосу
@@ -772,6 +802,10 @@
   items:
     - name: Жаңалықтар
       items:
+        - name: 2021 жылдың қаңтар айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
+          href: prod-pma/whats-new/whats-new-jan-2021-stocked.md
+        - name: 2020 жылдың желтоқсан айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
+          href: prod-pma/whats-new/whats-new-dec-2020-stocked.md
         - name: 2020 жылдың қараша айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
           href: prod-pma/whats-new/whats-new-nov-2020-production-based.md
     - name: Қосалқы/өндіріске негізделген сценарийлерді орналастыруға арналған Project Operations бағдарламасына шолу
@@ -906,6 +940,14 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: '28.5-жаңарту шығарылымы, шұғыл түзетудің V3 нұсқасындағы жаңалықтар мен өзгерістер'
+          href: psa/whats-new-ur-28-5.md
+        - name: 28-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-28.md
+        - name: '27.5-жаңарту шығарылымы, шұғыл түзетудің V3 нұсқасындағы жаңалықтар мен өзгерістер'
+          href: psa/whats-new-ur-27-5.md
+        - name: 27-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-27.md
         - name: 26-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-26.md
         - name: 25-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
@@ -936,6 +978,8 @@
           href: psa/whats-new-ur-13.md
         - name: 12-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-12.md
+        - name: 'Project Service Automation 2021 жылғы шығарылымның 1-толқыны, V3.x нұсқасындағы жаңалықтар мен өзгерістер'
+          href: psa/whats-new-2021-wave1.md
         - name: 'Project Service Automation 2020 жылғы шығарылымның 1-толқыны, V3.x нұсқасындағы жаңалықтар мен өзгерістер'
           href: psa/whats-new-v3-2020-wave1.md
         - name: Project Service Automation V3 нұсқасындағы жаңалықтар мен өзгерістер
@@ -992,6 +1036,8 @@
               href: psa/project-stages.md
             - name: Жоба параметрлері
               href: psa/project-settings.md
+            - name: Microsoft Project бағдарламасында жұмысты Project Service қондырмасы көмегімен жоспарлау
+              href: psa/add-in-plan-work-projects.md
         - name: Бағалар және құн өлшемдері
           items:
             - name: '"Бағалар және құн өлшемдері" басты беті'
