@@ -17,14 +17,16 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1ae95430c368370145c7081a5d94d6161a7700b4
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: da0ac942579ba8d9b2258a011b8eeef8e64ba9c9
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079745"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147300"
 ---
 # <a name="turn-off-a-pricing-dimension"></a>Бағалар өлшемін өшіру
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 Баға стратегиясын бірнеше жылда бір рет қарап, жаңартып отыру қажет болуы мүмкін. Сіз жасаған кез келген жаңартулар қолданыстағы бағалар өлшемін өшіруді және жаңасын жасауды талап етуі мүмкін. Мысалы, сіз бұрын **Рөл** арқылы бағалаған болуыңыз мүмкін, бірақ қазір **Жұмыс тәжірибесі** арқылы бағалау туралы шешім қабылдадыңыз. Бұл **Рөл** бағалар өлшемін өшіріп, жаңа **Жұмыс тәжірибесі** бағалар жаңа өлшемін жасауды талап етуі мүмкін. 
 

@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e753dd2f5635d1e9d0d6a02ea5d1d537879dd3a5
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 09f7acb95be014034cc03d7eed9d37363d430601
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124105"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147390"
 ---
 # <a name="soft-book-requirements"></a>Талаптарды алдын ала тіркеу
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 Ресурс талаптарын түпкілікті тіркеуге болады. Түпкілікті тіркеу ресурс мүмкіндігін пайдаланатын ұсынысты жасайды. Содан кейін ұсыныс бекіту үшін сұрау салушыға қайта жіберіледі. Алдын ала тіркеу ресурсты жоба тобына алдын ала қосады және оның кесте тақтасындағы күйі өзгеше болады, бірақ ол ресурс мүмкіндігін пайдаланбайды. Ресурсты кесте тақтасынан алдын ала тіркеу үшін, **Тапсырыс беру күйі** өрісін **Алдын ала** параметріне орнатыңыз.
 

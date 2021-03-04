@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1c52a17d791b5656f13535077e4300b331db71b5
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: ec6ef1827b71d887524a04c511b44824688749fb
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4123160"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148200"
 ---
 # <a name="user-guide-for-project-resource-hub"></a>Project Resource Hub пайдаланушы нұсқаулығы
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -99,7 +101,7 @@ Project Resource Hub бағдарламасы арқылы жолда жұмыс
 ## <a name="general-information-on-how-to-use-the-mobile-app"></a>Мобильді бағдарламаны пайдалану әдісі туралы жалпы ақпарат 
 [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Мобильді негіздер нұсқаулығы](https://docs.microsoft.com/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
 
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Project Service бағдарламасына шолу](../psa/overview.md)   
  [Уақыт, шығындар және бірлескен жұмыс нұсқаулығы](../psa/time-expense-collaboration-guide.md)   
  

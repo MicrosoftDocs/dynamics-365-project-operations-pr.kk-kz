@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e7b088ce2718901ab5af953f5fa1094188a4c954
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 5d957f793b7909893a7fa311e6572a8ace9fde0f
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129505"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5145815"
 ---
 # <a name="add-resources-project-service"></a>Ресурстар қосу (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -51,5 +53,5 @@ ms.locfileid: "4129505"
   
 9. Өзгерістер жасап болған кезде экранның төменгі оң жақ бұрышында **Сақтау** түймешігін басыңыз.  
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Ресурстарды реттеу](../psa/set-up-resources.md)

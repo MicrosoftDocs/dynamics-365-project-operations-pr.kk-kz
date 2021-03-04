@@ -18,18 +18,20 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6bed91df141d19bf93703f6cad51432d6a1ffefa
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 7d375616038381bda05a02870f9e4edb06fb3307
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4132053"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148290"
 ---
 # <a name="project-manager-guide-project-service"></a>Жобаны басқару нұсқаулығы (Project Service)
 
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-[!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] жүйесіндегі [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] мүмкіндіктері жобаның баға ұсыныстарын және келісім-шарттарын жасауға және келісім-шартты жеңіп алғаннан кейін клиенттердің жобаларын жасауға және басқаруға көмектеседі. Сонымен қатар, олар аналитиктерге жобалар ықтимал және табысты екендігін көрсетеді. Жобаларды, материалдарды немесе бекітілген бағалы негізде орнатуға болады.  
+[!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] жүйесіндегі [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] мүмкіндіктері жобаның баға ұсыныстарын және келісім-шарттарын жасауға және келісім-шартты жеңіп алғаннан кейін клиенттердің жобаларын жасауға және басқаруға көмектеседі. Сонымен қатар олар аналитиктерге жобалар ықтимал және табысты екендігін көрсетеді. Жобаларды, материалдарды немесе бекітілген бағалы негізде орнатуға болады.  
   
  Жобаны басқару құралдары мыналар бойынша көмектеседі:  
   
@@ -86,7 +88,7 @@ ms.locfileid: "4132053"
   
 -   [Ресурс рөлдерін қосу](../psa/add-resource-roles.md). Ресурс талаптарын және жоба құндарын анықтауға көмектесетін рөлдерді анықтаңыз.  
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Project Service бағдарламасына шолу](../psa/overview.md)   
  [Әкімші нұсқаулығы](../psa/admin-guide.md)   
  [Тіркелгі менеджерінің нұсқаулығы](../psa/account-manager-guide.md)   

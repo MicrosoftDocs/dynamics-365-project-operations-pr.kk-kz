@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8a219ef0166565a550a7836ffeae37ffd514a001
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: ec5381f91b1fe5198bd93ac8d6015b1fea38738d
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129190"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5146940"
 ---
 # <a name="configure-project-service"></a>Project Service жүйесін теңшеу
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -49,7 +51,7 @@ ms.locfileid: "4129190"
   
 -   [Ресурстарды реттеу](../psa/set-up-resources.md). Жобаларға керек біліктіліктерді, тиімділіктерді, ресурс рөлдерін басқа ресурс ақпаратын қосыңыз.  
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Project Service Automation бағдарламасына шолу](../psa/overview.md)   
  [Project Service Automation бағдарламасын конфигурациялау](../psa/configure.md)   
  [Тіркелгі менеджерінің нұсқаулығы](../psa/account-manager-guide.md)   

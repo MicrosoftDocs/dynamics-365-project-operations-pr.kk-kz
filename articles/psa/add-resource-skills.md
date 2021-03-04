@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 44b3d3cbb36a00e7f07160b6216ead183bc32422
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: e4da69f1b1b14f02fd0d40c7b73ef7abbe1049d7
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129640"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5145860"
 ---
 # <a name="add-resource-skills-project-service"></a>Ресурс біліктіліктерін қосу (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -43,5 +45,5 @@ ms.locfileid: "4129640"
   
    Келесі қадамда әрбір біліктілікпен кеңесші тиімділігін бағалай алу үшін тиімділік үлгілерін орнатып, жоба талап ететін тиімділікке сәйкестендіруге болады.  
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Ресурстарды реттеу](../psa/set-up-resources.md)
