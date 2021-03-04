@@ -17,54 +17,56 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a5a81893c4a804deb09cf33e0ac3f1a25b8bca36
-ms.sourcegitcommit: a2b810219d381716d3eedb14c4eb6cdefb5b5845
+ms.openlocfilehash: aabee3fe755e33d2c0f01a96b6f53a68957bc041
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "4183550"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5143764"
 ---
-# <a name="whats-new-or-changed-in-project-service-automation-update-release-25-v3"></a><span data-ttu-id="37085-103">Project Service Automation бағдарламасының 25-жаңарту шығарылымы, 3-нұсқасындағы жаңалықтар немесе өзгерістер</span><span class="sxs-lookup"><span data-stu-id="37085-103">What's new or changed in Project Service Automation Update Release 25, V3</span></span>
+# <a name="whats-new-or-changed-in-project-service-automation-update-release-25-v3"></a><span data-ttu-id="2fe33-103">Project Service Automation бағдарламасының 25-жаңарту шығарылымы, 3-нұсқасындағы жаңалықтар немесе өзгерістер</span><span class="sxs-lookup"><span data-stu-id="2fe33-103">What's new or changed in Project Service Automation Update Release 25, V3</span></span>
 
-<span data-ttu-id="37085-104">Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз.</span><span class="sxs-lookup"><span data-stu-id="37085-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="37085-105">Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды.</span><span class="sxs-lookup"><span data-stu-id="37085-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="37085-106">Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді.</span><span class="sxs-lookup"><span data-stu-id="37085-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="37085-107">Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз.</span><span class="sxs-lookup"><span data-stu-id="37085-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="37085-108">Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.</span><span class="sxs-lookup"><span data-stu-id="37085-108">For more information, see [Install, update, or remove a preferred solution](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span></span>
+[!include [banner](../includes/psa-now-project-operations.md)]
 
-<span data-ttu-id="37085-109">Бұл тақырыпта Project Service Automation бағдарламасының 25-жаңарту шығарылымының 3 нұсқасы үшін жаңартылған немесе өзгертілген мүмкіндіктер мен түзетулер көрсетілген. Бұл нұсқада 3.10.43.76 нұсқасының құрылым нөмірі бар және ол 2020 жылдың қазан айындағы өзін-өзі жаңартуы арқылы қолжетімді.</span><span class="sxs-lookup"><span data-stu-id="37085-109">This topic lists the features and fixes that are new or changed for Project Service Automation V3, Update Release 25 This version has a build number of V 3.10.43.76 and is generally available through a self-update in October 2020.</span></span>
+<span data-ttu-id="2fe33-104">Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз.</span><span class="sxs-lookup"><span data-stu-id="2fe33-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="2fe33-105">Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды.</span><span class="sxs-lookup"><span data-stu-id="2fe33-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="2fe33-106">Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді.</span><span class="sxs-lookup"><span data-stu-id="2fe33-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="2fe33-107">Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз.</span><span class="sxs-lookup"><span data-stu-id="2fe33-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="2fe33-108">Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.</span><span class="sxs-lookup"><span data-stu-id="2fe33-108">For more information, see [Install, update, or remove a preferred solution](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span></span>
 
-## <a name="update-release-25"></a><span data-ttu-id="37085-110">25-жаңарту шығарылымы</span><span class="sxs-lookup"><span data-stu-id="37085-110">Update Release 25</span></span>
+<span data-ttu-id="2fe33-109">Бұл тақырыпта Project Service Automation бағдарламасының 25-жаңарту шығарылымының 3 нұсқасы үшін жаңартылған немесе өзгертілген мүмкіндіктер мен түзетулер көрсетілген. Бұл нұсқада 3.10.43.76 нұсқасының құрылым нөмірі бар және ол 2020 жылдың қазан айындағы өзін-өзі жаңартуы арқылы қолжетімді.</span><span class="sxs-lookup"><span data-stu-id="2fe33-109">This topic lists the features and fixes that are new or changed for Project Service Automation V3, Update Release 25 This version has a build number of V 3.10.43.76 and is generally available through a self-update in October 2020.</span></span>
 
-### <a name="bug-fixes"></a><span data-ttu-id="37085-111">Қателерді түзету</span><span class="sxs-lookup"><span data-stu-id="37085-111">Bug fixes</span></span>
+## <a name="update-release-25"></a><span data-ttu-id="2fe33-110">25-жаңарту шығарылымы</span><span class="sxs-lookup"><span data-stu-id="2fe33-110">Update Release 25</span></span>
 
-<span data-ttu-id="37085-112">**Уақыт және шығыс**</span><span class="sxs-lookup"><span data-stu-id="37085-112">**Time and Expense**</span></span>
+### <a name="bug-fixes"></a><span data-ttu-id="2fe33-111">Қателерді түзету</span><span class="sxs-lookup"><span data-stu-id="2fe33-111">Bug fixes</span></span>
 
-<span data-ttu-id="37085-113">Келесі мәселе түзетілді:</span><span class="sxs-lookup"><span data-stu-id="37085-113">The following issue has been fixed:</span></span>
+<span data-ttu-id="2fe33-112">**Уақыт және шығыс**</span><span class="sxs-lookup"><span data-stu-id="2fe33-112">**Time and Expense**</span></span>
 
-- <span data-ttu-id="37085-114">Тым үлкен аралыққа негізделген қосымша деректерді көрсететін уақыт жазбасы шығарылды.</span><span class="sxs-lookup"><span data-stu-id="37085-114">Time entry chart showing additional data based on too large of an interval being retrieved.</span></span>
+<span data-ttu-id="2fe33-113">Келесі мәселе түзетілді:</span><span class="sxs-lookup"><span data-stu-id="2fe33-113">The following issue has been fixed:</span></span>
 
-<span data-ttu-id="37085-115">**Ресурсты басқару**</span><span class="sxs-lookup"><span data-stu-id="37085-115">**Resource Management**</span></span>
+- <span data-ttu-id="2fe33-114">Тым үлкен аралыққа негізделген қосымша деректерді көрсететін уақыт жазбасы шығарылды.</span><span class="sxs-lookup"><span data-stu-id="2fe33-114">Time entry chart showing additional data based on too large of an interval being retrieved.</span></span>
 
-<span data-ttu-id="37085-116">Келесі мәселе түзетілді:</span><span class="sxs-lookup"><span data-stu-id="37085-116">The following issue has been fixed:</span></span>
+<span data-ttu-id="2fe33-115">**Ресурсты басқару**</span><span class="sxs-lookup"><span data-stu-id="2fe33-115">**Resource Management**</span></span>
 
-- <span data-ttu-id="37085-117">Universal Resource Scheduling түзетуінің импортын, жоғары нұсқалы түзету бұрыннан бар болса, өткізіп жіберу үшін Package deployer құралының коды қосылды.</span><span class="sxs-lookup"><span data-stu-id="37085-117">Added package deployer code to skip the Universal Resource Scheduling patch import if a higher version patch already exists.</span></span>
+<span data-ttu-id="2fe33-116">Келесі мәселе түзетілді:</span><span class="sxs-lookup"><span data-stu-id="2fe33-116">The following issue has been fixed:</span></span>
 
-<span data-ttu-id="37085-118">**Жоба басқармасы**</span><span class="sxs-lookup"><span data-stu-id="37085-118">**Project Management**</span></span>
+- <span data-ttu-id="2fe33-117">Universal Resource Scheduling түзетуінің импортын, жоғары нұсқалы түзету бұрыннан бар болса, өткізіп жіберу үшін Package deployer құралының коды қосылды.</span><span class="sxs-lookup"><span data-stu-id="2fe33-117">Added package deployer code to skip the Universal Resource Scheduling patch import if a higher version patch already exists.</span></span>
 
-<span data-ttu-id="37085-119">Келесі мәселелер түзетілді:</span><span class="sxs-lookup"><span data-stu-id="37085-119">The following issues have been fixed:</span></span>
+<span data-ttu-id="2fe33-118">**Жоба басқармасы**</span><span class="sxs-lookup"><span data-stu-id="2fe33-118">**Project Management**</span></span>
 
-- <span data-ttu-id="37085-120">Жобаны бақылау торында дұрыс емес жоспарлы құнға әкелетін айырбас бағамының дөңгелектенуі мен сәйкессіздіктері түзетілді.</span><span class="sxs-lookup"><span data-stu-id="37085-120">Corrected rounding and exchange rate discrepancies resulting in incorrect planned cost in the project tracking grid.</span></span>
-- <span data-ttu-id="37085-121">**Жоба** пішінінде екі немесе одан да көп реакция торларын көрсету мүмкіндігіне қолдау көрсетілді.</span><span class="sxs-lookup"><span data-stu-id="37085-121">Support the ability to display two or more react grids on the **Project** form.</span></span>
-- <span data-ttu-id="37085-122">Тапсырманы күнтізбелік аяқталу күнінен бұрын тағайындау мүмкіндігін шешу үшін тексеру ұсынылды, бұл ресурстың сәтсіз тағайындалуына әкеледі.</span><span class="sxs-lookup"><span data-stu-id="37085-122">Provided validation to address the ability to assign a task past the calendar end date, which results in a failed resource assignment.</span></span>
-- <span data-ttu-id="37085-123">Төменде келтірілгеннен құрылған Null Reference Exception мүмкіндігін шешу үшін қателерді өңдеу жақсартылды:</span><span class="sxs-lookup"><span data-stu-id="37085-123">Improved error handling to address Null Reference Exception generated from the following:</span></span>
+<span data-ttu-id="2fe33-119">Келесі мәселелер түзетілді:</span><span class="sxs-lookup"><span data-stu-id="2fe33-119">The following issues have been fixed:</span></span>
 
-    - <span data-ttu-id="37085-124">**PreValidateProjectTeamMemberCreate** қосылатын модулі</span><span class="sxs-lookup"><span data-stu-id="37085-124">**PreValidateProjectTeamMemberCreate** plug-in</span></span>
-    - <span data-ttu-id="37085-125">**PreValidateProjectTaskCreate** жоба тапсырмасы байланысты жобасыз жасалған кезде</span><span class="sxs-lookup"><span data-stu-id="37085-125">**PreValidateProjectTaskCreate** when a project task is created without an associated project</span></span>
-    - <span data-ttu-id="37085-126">**PreProjectTeamMemberCreate** қосылатын модулі</span><span class="sxs-lookup"><span data-stu-id="37085-126">**PreProjectTeamMemberCreate** plug-in</span></span>
-    - <span data-ttu-id="37085-127">**PostProjectTeamMemberDelete** қосылатын модулі</span><span class="sxs-lookup"><span data-stu-id="37085-127">**PostProjectTeamMemberDelete** plug-in</span></span>
-    - <span data-ttu-id="37085-128">**PreValidateProjectTaskDelete** қосылатын модулі</span><span class="sxs-lookup"><span data-stu-id="37085-128">**PreValidateProjectTaskDelete** plug-in</span></span>
+- <span data-ttu-id="2fe33-120">Жобаны бақылау торында дұрыс емес жоспарлы құнға әкелетін айырбас бағамының дөңгелектенуі мен сәйкессіздіктері түзетілді.</span><span class="sxs-lookup"><span data-stu-id="2fe33-120">Corrected rounding and exchange rate discrepancies resulting in incorrect planned cost in the project tracking grid.</span></span>
+- <span data-ttu-id="2fe33-121">**Жоба** пішінінде екі немесе одан да көп реакция торларын көрсету мүмкіндігіне қолдау көрсетілді.</span><span class="sxs-lookup"><span data-stu-id="2fe33-121">Support the ability to display two or more react grids on the **Project** form.</span></span>
+- <span data-ttu-id="2fe33-122">Тапсырманы күнтізбелік аяқталу күнінен бұрын тағайындау мүмкіндігін шешу үшін тексеру ұсынылды, бұл ресурстың сәтсіз тағайындалуына әкеледі.</span><span class="sxs-lookup"><span data-stu-id="2fe33-122">Provided validation to address the ability to assign a task past the calendar end date, which results in a failed resource assignment.</span></span>
+- <span data-ttu-id="2fe33-123">Төменде келтірілгеннен құрылған Null Reference Exception мүмкіндігін шешу үшін қателерді өңдеу жақсартылды:</span><span class="sxs-lookup"><span data-stu-id="2fe33-123">Improved error handling to address Null Reference Exception generated from the following:</span></span>
 
-<span data-ttu-id="37085-129">**Sales**</span><span class="sxs-lookup"><span data-stu-id="37085-129">**Sales**</span></span>
+    - <span data-ttu-id="2fe33-124">**PreValidateProjectTeamMemberCreate** қосылатын модулі</span><span class="sxs-lookup"><span data-stu-id="2fe33-124">**PreValidateProjectTeamMemberCreate** plug-in</span></span>
+    - <span data-ttu-id="2fe33-125">**PreValidateProjectTaskCreate** жоба тапсырмасы байланысты жобасыз жасалған кезде</span><span class="sxs-lookup"><span data-stu-id="2fe33-125">**PreValidateProjectTaskCreate** when a project task is created without an associated project</span></span>
+    - <span data-ttu-id="2fe33-126">**PreProjectTeamMemberCreate** қосылатын модулі</span><span class="sxs-lookup"><span data-stu-id="2fe33-126">**PreProjectTeamMemberCreate** plug-in</span></span>
+    - <span data-ttu-id="2fe33-127">**PostProjectTeamMemberDelete** қосылатын модулі</span><span class="sxs-lookup"><span data-stu-id="2fe33-127">**PostProjectTeamMemberDelete** plug-in</span></span>
+    - <span data-ttu-id="2fe33-128">**PreValidateProjectTaskDelete** қосылатын модулі</span><span class="sxs-lookup"><span data-stu-id="2fe33-128">**PreValidateProjectTaskDelete** plug-in</span></span>
 
-<span data-ttu-id="37085-130">Келесі мәселелер түзетілді:</span><span class="sxs-lookup"><span data-stu-id="37085-130">The following issues have been fixed:</span></span>
+<span data-ttu-id="2fe33-129">**Sales**</span><span class="sxs-lookup"><span data-stu-id="2fe33-129">**Sales**</span></span>
 
-- <span data-ttu-id="37085-131">**Жобаны көшіру: HelperResource болжамдарын басқару** мүмкіндігінен құрылған Null Reference Exception мүмкіндігін шешу үшін қателерді өңдеу жақсартылды.</span><span class="sxs-lookup"><span data-stu-id="37085-131">Improved error handling to address Null Reference Exceptions generated from **Copy Project: Estimates HelperResource Management**.</span></span>
-- <span data-ttu-id="37085-132">**Уақыт және материалдық шоттың орындалмаған әрекеттері** тармағындағы **Есеп-шот ұсынуға дайын емес** төлем күйін өшірмейді.</span><span class="sxs-lookup"><span data-stu-id="37085-132">**Not ready to Invoice** on a **Time and Material Billing Backlog** doesn't clear the billing status.</span></span>
-- <span data-ttu-id="37085-133">**Рөл бағасы** және **Каталог элементтері** қойыншасындағы қате белгіленген **Бағалар** түймешігі түзетілді.</span><span class="sxs-lookup"><span data-stu-id="37085-133">Corrected mislabeled **Prices** buttons on the **Role Price** and **Catalog Items** tab.</span></span>
+<span data-ttu-id="2fe33-130">Келесі мәселелер түзетілді:</span><span class="sxs-lookup"><span data-stu-id="2fe33-130">The following issues have been fixed:</span></span>
+
+- <span data-ttu-id="2fe33-131">**Жобаны көшіру: HelperResource болжамдарын басқару** мүмкіндігінен құрылған Null Reference Exception мүмкіндігін шешу үшін қателерді өңдеу жақсартылды.</span><span class="sxs-lookup"><span data-stu-id="2fe33-131">Improved error handling to address Null Reference Exceptions generated from **Copy Project: Estimates HelperResource Management**.</span></span>
+- <span data-ttu-id="2fe33-132">**Уақыт және материалдық шоттың орындалмаған әрекеттері** тармағындағы **Есеп-шот ұсынуға дайын емес** төлем күйін өшірмейді.</span><span class="sxs-lookup"><span data-stu-id="2fe33-132">**Not ready to Invoice** on a **Time and Material Billing Backlog** doesn't clear the billing status.</span></span>
+- <span data-ttu-id="2fe33-133">**Рөл бағасы** және **Каталог элементтері** қойыншасындағы қате белгіленген **Бағалар** түймешігі түзетілді.</span><span class="sxs-lookup"><span data-stu-id="2fe33-133">Corrected mislabeled **Prices** buttons on the **Role Price** and **Catalog Items** tab.</span></span>
