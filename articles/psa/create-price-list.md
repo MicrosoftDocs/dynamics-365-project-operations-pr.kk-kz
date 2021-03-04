@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 08d93ad86d782922df6b22370749628ddbdc0718
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 18f6e7a7a96f374acc85ee1027c5252cbf7ab5f0
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122035"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149460"
 ---
 # <a name="create-a-price-list-project-service"></a>Бағатізбе жасау (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -67,5 +69,5 @@ ms.locfileid: "4122035"
   
 16. **Жаңа байланыс** терезесінде мәліметтерді толтырып, **Сақтау** түймесін басыңыз. Аумақ қатынастарын қажетінше қосуды жалғастырыңыз. Орындалған кезде экранның төменгі оң жақ бұрышында **Сақтау** түймесін басыңыз.  
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Project Service Automation бағдарламасын конфигурациялау](../psa/configure.md)

@@ -16,14 +16,16 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 46aab1bdce15613ce0551de5a8265b9130aa1938
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 7c63000cc9d320340dad824256e63dc445b3a921
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079671"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148560"
 ---
 # <a name="deprecated-web-resources-in-project-service-automation-3x"></a>Project Service Automation 3.x нұсқасындағы ұсынылмайтын веб-ресурстар
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 Жаңа клиент интерфейсі мен Dynamics 365 Project Service Automation шешіміне енгізілген басқа да өзгерістерге байланысты шешімге арналған кейбір веб-ресурстар енді пайдаланылмайды. Сондықтан олар 3.0 нұсқасы бойынша ескірген (ұсынылмайды).
 

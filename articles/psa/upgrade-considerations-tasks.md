@@ -18,14 +18,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0b75fd372732f42a3557aaa5eccec1f24a644941
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: cea8ce7f61fbc0f0c8c8deb522bc332be102238d
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121810"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149550"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>Жұмыс декомпозициясының құрылымы бойынша пікірлерді жаңарту
+
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 Бұл тақырыпта Project Service Automation 2.x және 3.x аралығындағы нұсқадағы жұмыс декомпозициясының құрылымын жаңарту туралы ақпарат берілген. Бұл тақырыпта сәтті жаңарту үшін қажет Project Service Automation (PSA) жобасындағы дұрыс күйді анықтайды. Сондай-ақ жаңартудың сәтсіз болуына әкелетін блоктаудың жалпы шарттары туралы ақпарат бар. Жоба кестесінде жоба тапсырмалары мен функцияларын анықтау туралы қосымша ақпаратты [Жоба кестелері](project-creating.md) бөлімінен қараңыз.
 
 ## <a name="key-entities"></a>Негізгі нысандар

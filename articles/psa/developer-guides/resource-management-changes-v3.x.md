@@ -16,20 +16,22 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5176d2c6b7b00d47d4aeb12f54bdb84d4b87304c
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 94f9adc67163254486387a1ce59d5d3e8e93c335
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079851"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148650"
 ---
 # <a name="resource-management-changes-project-service-automation-3x"></a>Ресурсты басқаруға енгізілген өзгерістер (Project Service Automation 3.x)
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 Тақырыптың бұл бөлімінде Dynamics 365 Project Service Automation 3.x нұсқасының ресурсты басқару аймағына енгізілген өзгерістер туралы ақпарат берілген.
 
 ## <a name="project-estimates"></a>Жоба болжамдары
 
-Жоба болжамдары **msdyn\_projecttask** нысанына ( **Жоба тапсырмасы** ) емес, **msdyn\_resourceassignment** нысанына ( **Ресурс тағайындауы** ) негізделеді. Ресурс тағайындаулары тапсырманы жоспарлауда және оның бағасын белгілеуде "ақиқат көзі" болды.
+Жоба болжамдары **msdyn\_projecttask** нысанына (**Жоба тапсырмасы**) емес, **msdyn\_resourceassignment** нысанына (**Ресурс тағайындауы**) негізделеді. Ресурс тағайындаулары тапсырманы жоспарлауда және оның бағасын белгілеуде "ақиқат көзі" болды.
 
 ## <a name="line-tasks"></a>Жол тапсырмалары
 
@@ -65,7 +67,7 @@ PSA 3.x нұсқасындағы тағайындалмаған тағайынд
 
 ## <a name="scheduling-fields-on-the-project-task-entity"></a>Жобаның тапсырмасы нысанындағы өрістерді жоспарлау
 
-**msdyn\_projecttask** нысанындағы өрістер ескірген немесе **msdyn\_resourceassignment** нысанына көшірілген, болмаса олардың сілтемесі ағымда **msdyn\_projectteam** нысанынан ( **Жобаның топ мүшесі** ) берілген.
+**msdyn\_projecttask** нысанындағы өрістер ескірген немесе **msdyn\_resourceassignment** нысанына көшірілген, болмаса олардың сілтемесі ағымда **msdyn\_projectteam** нысанынан (**Жобаның топ мүшесі**) берілген.
 
 | msdyn\_projecttask (Жоба тапсырмасы) нысанындағы ескірген өріс | msdyn\_resourceassignment (Ресурс тағайындауы) нысанындағы жаңа өріс | Пікір |
 |---|---|---|
@@ -77,7 +79,7 @@ PSA 3.x нұсқасындағы тағайындалмаған тағайынд
 
 ## <a name="schedule-contour"></a>Кесте контуры
 
-Кесте контуры әрбір **Ресурс тағайындауы** нысанының ( **msdyn\_resourceassignment** ) **Жоспарланған жұмыс** өрісінде ( **msdyn\_plannedwork** ) сақталады.
+Кесте контуры әрбір **Ресурс тағайындауы** нысанының (**msdyn\_resourceassignment**) **Жоспарланған жұмыс** өрісінде (**msdyn\_plannedwork**) сақталады.
 
 ### <a name="structure"></a>Құрылым
 
@@ -139,7 +141,7 @@ PSA 3.x нұсқасындағы тағайындалмаған тағайынд
 
 ## <a name="pricing-dimensions"></a>Бағалар өлшемдері
 
-PSA 3.x нұсқасында ресурсқа тән баға белгілеудің өлшемі өрістері ( **Рөл** және **Ұйымдық бөлімше** сияқты) **msdyn\_projecttask** нысанынан өшірілді. Жобаның болжамды мәндері құрылған кезде, бұл өрістерді енді ресурс тағайындауының ( **msdyn\_resourceassignment** ) сәйкес топ мүшесінен ( **msdyn\_projectteam** ) шығарып алуға болады. Жаңа **msdyn\_organizationalunit** өрісі **msdyn\_projectteam** нысанына қосылды.
+PSA 3.x нұсқасында ресурсқа тән баға белгілеудің өлшемі өрістері (**Рөл** және **Ұйымдық бөлімше** сияқты) **msdyn\_projecttask** нысанынан өшірілді. Жобаның болжамды мәндері құрылған кезде, бұл өрістерді енді ресурс тағайындауының (**msdyn\_resourceassignment**) сәйкес топ мүшесінен (**msdyn\_projectteam**) шығарып алуға болады. Жаңа **msdyn\_organizationalunit** өрісі **msdyn\_projectteam** нысанына қосылды.
 
 | msdyn\_projecttask (Жоба тапсырмасы) нысанындағы ескірген өріс | Оның орнына қолданылатын msdyn\_projectteam (Жобаның топ мүшесі) нысанынан алынған өріс |
 |---|---|
