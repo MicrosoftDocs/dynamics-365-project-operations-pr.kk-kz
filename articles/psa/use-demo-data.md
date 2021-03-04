@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 91cf4150c651794fe38ebf5a406cad936aa5105d
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: e1f3ebf8d0cd6c8e25fcab6775cd92d544867af8
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4130503"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5151125"
 ---
 # <a name="experiment-with-demo-data-project-service"></a>Демо деректермен эксперимент өткізу (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 Dynamics 365 Project Service Automation бағдарламасымен танысу үшін, алдын ала конфигурацияланған ортаны зерттеу пайдалы болып табылады. Бұл мақсатта біз осы шешімдер туралы білуді жеңілдететін бөлек үлгі деректерді орнату бумасын (қазіргі уақытта тек ағылшын тілінде) жасадық. 
 
@@ -47,7 +49,7 @@ Package Deployer құралын орнатуды орындау мына әре�
 
 
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Әкімші нұсқаулығы](../psa/admin-guide.md)   
  [Тіркелгі менеджерінің нұсқаулығы](../psa/account-manager-guide.md)   
  [Жоба менеджерінің нұсқаулығы](../psa/project-manager-guide.md)   
