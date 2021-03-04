@@ -3,6 +3,7 @@ title: Project Finder Mobile бағдарламасының мүмкіндікт
 description: Project Service жүйесіне арналған Project Finder Mobile бағдарламасы мүмкіндіктерін қосу жолы
 author: JohnPBurrows
 manager: kfend
+ms.prod: ''
 ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
@@ -18,22 +19,24 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: af267b5adc48b6edec57de196f91e338c058558c
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 1b70182125d607aa17528ef3dc4ea2345b76acd1
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4132970"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144555"
 ---
 # <a name="enable-project-finder-mobile-app-features-project-service"></a>Project Finder Mobile бағдарламасының мүмкіндіктерін қосу (Project Service)
 
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-Жұмыс істейтін жаңа жобаларды іздеу және дағдылар жиынтығын жаңарту үшін ресурстар телефондағы Project Finder Mobile бағдарламасын [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] жүйесімен пайдалана алады.  
+Жұмыс істейтін жаңа жобаларды іздеу және біліктілік жинақтарын жаңарту үшін ресурстар телефондағы Project Finder Mobile бағдарламасын [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] жүйесімен пайдалана алады.  
   
  Бағдарлама [!INCLUDE[tn_Apple_iphone](../includes/tn-apple-iphone.md)], [!INCLUDE[tn_android](../includes/tn-android.md)] телефондарына және [!INCLUDE[pn_windows_phone](../includes/pn-windows-phone.md)] жүйесіне қолжетімді.  
-  
- Пайдаланушылардың жоба ресурсының талаптарын қарауы және дағдыларын жаңартуы үшін ұйымдық бірлік параметрлеріндегі екі опцияны орнату қажет.  
+    
+ Пайдаланушылардың жоба ресурсының талаптарын қарауы және дағдыларын жаңартуы үшін ұйымдық бірлік параметрлеріндегі опцияларды таңдау қажет.
   
 > [!NOTE]
 >  Project Finder Mobile бағдарламасы тек [!INCLUDE[pn_crm_online_shortest](../includes/pn-crm-online-shortest.md)] жүйесімен (жергілікті орнатымдармен емес) жұмыс істейді.  
@@ -57,11 +60,11 @@ ms.locfileid: "4132970"
   
 |Қабылдаушы|Оқиға|  
 |---------------|-----------|  
-|Жоба менеджері|-   Ресурс Project Finder Mobile бағдарламасымен жобаға тіркелген кезде.|  
-|Ресурс|-   Ресурс тіркелген жоба жұмысын басқа ресурс орындаған кезде.<br />-   Дағдыны бекіту сұрауы бекітілген немесе қабылданбаған кезде.<br />-   Жобаға тіркелу сұрауы бекітілген немесе қабылданбаған кезде.|  
+|Жоба менеджері|- Ресурс Project Finder Mobile бағдарламасымен жобаға тіркеледі.|  
+|Ресурс|- Ресурс тіркелген жобалық жұмыс басқа ресурспен орындалды.<br />- Дағдыны бекіту сұрауы бекітілген немесе қабылданбаған.<br />- Жобаға тіркелу сұрауы бекітілген немесе қабылданбаған.|  
   
-## <a name="privacy-notice"></a>Құпиялылық ескертпесі  
+## <a name="privacy-notice"></a>Құпиялылық туралы ескертпе  
  [!INCLUDE[cc_privacy_crm_project_finder_mobile_app](../includes/cc-privacy-crm-project-finder-mobile-app.md)]  
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Ресурстарды реттеу](../psa/set-up-resources.md)

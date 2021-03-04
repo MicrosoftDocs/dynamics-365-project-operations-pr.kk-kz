@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ede8902a29bed224d7934a79e30f8c7e7fb9023b
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 4dccf7c9b3e994e5d39f50b38e50a6c423c412f6
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121900"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144240"
 ---
 # <a name="track-project-progress-and-cost-project-service"></a>Жобаның орындалу барысын және құнын бақылау (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -36,5 +38,5 @@ ms.locfileid: "4121900"
   
 Кейде тапсырмадағы бастапқы болжамдарды түзету қажет болуы мүмкін. Аумақтарға өзгерістерге немесе бастапқыда жоспарланғаннан тәжірибесі аздау адамдардың болғанына байланысты тапсырма бастапқыда күтілгеннен жылдамдау немесе баяулау жылжуы мүмкін. Негізгі сандарды өзгертпеген жөн, себебі жоба негізі жоба жоспарының және жобадағы барлық пай иелері келіскен шығын болжамдарының жарияланған көзі болып табылады.  
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Жоба менеджерінің нұсқаулығы](../psa/project-manager-guide.md)

@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 34f0c1d85311dc6ec00e892ee899bc4dad0eed32
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: f31327df6be375dd82c615b2a9e8194145fcd19c
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4125860"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144060"
 ---
 # <a name="view-and-edit-project-estimates-project-service"></a>Жоба болжамдарын көру және өңдеу (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -41,5 +43,5 @@ ms.locfileid: "4125860"
   
 5.  Шығындар қосу немесе өшіру үшін **Тор көрінісін көрсету** түймесін басыңыз. Жаңа шығыс жасау үшін **Жаңа шығыс** түймесін басыңыз. Шығысты өшіру үшін тізімнен таңдап, **Шығысты өшіру** түймесін басыңыз. Қалталарды қосу немесе шығыстарды өшіру орындалған кезде **Сақтау** опциясын басыңыз.  
   
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Жоба менеджерінің нұсқаулығы](../psa/project-manager-guide.md)
