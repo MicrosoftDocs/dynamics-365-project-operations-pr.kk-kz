@@ -1,6 +1,6 @@
 ---
 title: Шығын өкілеттігін басқару
-description: Шығындар өкілінің пайдаланушысы ұйымдағы басқа қызметкердің атынан шығындар туралы есептерді жасап, басқара алады.
+description: Шығындар өкілінің пайдаланушысы ұйымдағы басқа қызметкер үшін шығындар туралы есептер құрып, басқара алады.
 author: KimANelson
 manager: AnnBe
 ms.date: 01/10/2020
@@ -16,27 +16,28 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2020-01-10
 ms.dyn365.ops.version: 10.0.9
-ms.openlocfilehash: 2ce1d1cf35745ef4372258e07fd4d2b108ed4827
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: ebe9a47b463498e8e79058019a0b28320590639b
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079812"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960794"
 ---
-# <a name="manage-expense-delegation"></a><span data-ttu-id="6de85-103">Шығын өкілеттігін басқару</span><span class="sxs-lookup"><span data-stu-id="6de85-103">Manage expense delegation</span></span>
+# <a name="manage-expense-delegation"></a><span data-ttu-id="267f7-103">Шығыстарды өкілеттеуді басқару</span><span class="sxs-lookup"><span data-stu-id="267f7-103">Manage expense delegation</span></span>
 
-[!include [banner](../includes/banner.md)]
+<span data-ttu-id="267f7-104">Шығыстар делегаты басқа қызметкер үшін шығыстар туралы есептер жасауына және басқаруына болады.</span><span class="sxs-lookup"><span data-stu-id="267f7-104">An expense delegate can create and manage expense reports for another employee.</span></span>
 
-<span data-ttu-id="6de85-104">Шығындар өкілінің пайдаланушысы ұйымдағы басқа қызметкердің атынан шығындар туралы есептерді жасап, басқара алады.</span><span class="sxs-lookup"><span data-stu-id="6de85-104">An expense delegate user can create and manage expense reports on behalf of another employee in the organization.</span></span>
+## <a name="configure-expense-delegation"></a><span data-ttu-id="267f7-105">Шығындарды өкілеттеуді конфигурациялау</span><span class="sxs-lookup"><span data-stu-id="267f7-105">Configure expense delegation</span></span>
 
-## <a name="configuring-expense-delegation"></a><span data-ttu-id="6de85-105">Шығыстар делегациясын конфигурациялау</span><span class="sxs-lookup"><span data-stu-id="6de85-105">Configuring expense delegation</span></span>
+1. <span data-ttu-id="267f7-106">Пайдаланушыны шығын өкілі ретінде орнату үшін **Шығындарды басқару > Реттеу > Жалпы > Өкілдер** тармағына өтіңіз.</span><span class="sxs-lookup"><span data-stu-id="267f7-106">To set up a user as an expense delegate, go to **Expense management > Setup > General > Delegates**.</span></span>
+2. <span data-ttu-id="267f7-107">**Өкілдер** бетінде **Жаңа** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="267f7-107">On the **Delegates** page, select **New**.</span></span>
+3. <span data-ttu-id="267f7-108">Анықталатын өкілі бар қызметкерді таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="267f7-108">Select the employee that will have a delegate defined.</span></span> 
+4. <span data-ttu-id="267f7-109">Өкіл пайдаланушының бүркеншік атын және өкілеттік кезеңінің басталу және аяқталу күнін енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="267f7-109">Enter the alias of the delegate user and the start and end date for the delegation period.</span></span>
 
-<span data-ttu-id="6de85-106">Пайдаланушыны шығын өкілі ретінде орнату мақсатында **Өкілдер** бетін ашу үшін **Шығындарды басқару> Реттеу> Жалпы> Өкілдер** тармағына өтіңіз.</span><span class="sxs-lookup"><span data-stu-id="6de85-106">To set up a user as an expense delegate, go to **Expense management > Setup > General > Delegates** to open the **Delegates** page.</span></span> <span data-ttu-id="6de85-107">**Жаңа** опциясын таңдаңыз, содан кейін өкіл ретінде анықталатын қызметкерді таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="6de85-107">Select **New** and then select the employee that will have a delegate defined.</span></span> <span data-ttu-id="6de85-108">Өкіл пайдаланушының бүркеншік атын және өкілеттік кезеңінің басталу және аяқталу күнін енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="6de85-108">Enter the alias of the delegate user and the start and end date for the delegation period.</span></span>
+## <a name="manage-expense-delegation-for-another-employee"></a><span data-ttu-id="267f7-110">Басқа қызметкердің шығыстар өкілін басқару</span><span class="sxs-lookup"><span data-stu-id="267f7-110">Manage expense delegation for another employee</span></span>
 
-## <a name="managing-expense-delegation-on-behalf-of-another-employee"></a><span data-ttu-id="6de85-109">Басқа қызметкердің атынан шығындарды басқару өкілеттігі</span><span class="sxs-lookup"><span data-stu-id="6de85-109">Managing expense delegation on behalf of another employee</span></span>
+<span data-ttu-id="267f7-111">**Шығындар өкілдерінің тізімін қосу** функцияны басқару кілті қосылған кезде, **Маған өкілеттік берілген шығындар** тізім беті қолжетімді болады.</span><span class="sxs-lookup"><span data-stu-id="267f7-111">When the feature management key **Enable expense delegates list page** is enabled, the **Expenses delegated to me** list page will be available.</span></span> <span data-ttu-id="267f7-112">**Шығыстарды басқару** > **Менің шығыстарым** > **Өкілеттігі маған берілген шығындар** тармағына өтіңіз.</span><span class="sxs-lookup"><span data-stu-id="267f7-112">Go to **Expense management** > **My expenses** > **Expenses delegated to me**.</span></span>
 
-<span data-ttu-id="6de85-110">Егер **Шығындар өкілдерінің тізімін қосу** мүмкіндікті басқару кілті қосылған болса, **Мен өкілетті  шығындар** тізім парағы **Шығындарды басқару> Менің шығындарым> Мен өкілетті шығындар** тармағына өту арқылы қолжетімді болады.</span><span class="sxs-lookup"><span data-stu-id="6de85-110">If the feature management key **Enable expense delegates list page** is enabled, the **Expenses delegated to me** list page will be available by navigating to **Expense management > My expenses > Expenses delegated to me**.</span></span>
+<span data-ttu-id="267f7-113">Өкілетті пайдаланушы өздеріне өкілетке берілген шығындар туралы есептерді жылдам сүзгілеп, іздей алады.</span><span class="sxs-lookup"><span data-stu-id="267f7-113">A delegate user can quickly filter and search on existing expense reports that have been delegated to them.</span></span> <span data-ttu-id="267f7-114">Сонымен қатар **Жаңа шығыстар туралы есеп** опциясын таңдау арқылы басқа пайдаланушылар үшін жаңа шығындар туралы есеп жасай алады.</span><span class="sxs-lookup"><span data-stu-id="267f7-114">They can also create a new expense report for other users by selecting **New expense report**.</span></span>
 
-<span data-ttu-id="6de85-111">Өкілетті пайдаланушы пайдаланушыға өкілетті етілген шығындар туралы есептерді тез сүзіп, ішінен іздей алады.</span><span class="sxs-lookup"><span data-stu-id="6de85-111">A delegate user can quickly filter and search on existing expense reports that hae been delegated to the user.</span></span> <span data-ttu-id="6de85-112">Сонымен қатар пайдаланушы **Жаңа шығындар туралы есеп** параметріне басу арқылы басқа пайдаланушылар атынан жаңа шығындар туралы есепті жылдам жасауына болады.</span><span class="sxs-lookup"><span data-stu-id="6de85-112">The user can also quickly create a new expense report on behalf of other users by clicking **New expense report**.</span></span>
-
-<span data-ttu-id="6de85-113">Сонымен қатар өкілетті пайдаланушылар **Шығындарды басқару > Менің шығындарым > Шығындар туралы есептер** тармағына өтіп, **Басқа пайдаланушының шығындарын ашу** түймесін таңдау арқылы басқа қызметкерлердің атынан шығындар туралы есептерді жасауына және басқаруына болады.</span><span class="sxs-lookup"><span data-stu-id="6de85-113">Delegate users can also create and manage expense reports on behalf of other employees by navigating to **Expense management > My expenses > Expense reports** and clicking the **Open other user's expenses** button.</span></span>
+<span data-ttu-id="267f7-115">Өкілетті пайдаланушылар сондай-ақ **Шығындарды басқару** > **Менің шығындарым** > **Шығындар туралы есептер** тармағына өтіп, **Пайдаланушының басқа шығындарын ашу** опциясын таңдау арқылы басқа қызметкерлер үшін шығындар туралы есептерді құрып, басқара алады.</span><span class="sxs-lookup"><span data-stu-id="267f7-115">Delegate users can also create and manage expense reports for other employees by going to **Expense management** > **My expenses** > **Expense reports** and selecting **Open other user's expenses**.</span></span>
