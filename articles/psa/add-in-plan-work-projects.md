@@ -242,3 +242,6 @@ Project Service Automation бағдарламасының жобасын оқы�
 
 ### <a name="additional-resources"></a>Қосымша ресурстар
  [Жоба менеджерінің нұсқаулығы](../psa/project-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

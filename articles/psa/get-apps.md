@@ -36,3 +36,6 @@ ms.locfileid: "5149235"
   
 ### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Уақыт, шығындар және бірлескен жұмыс нұсқаулығы](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

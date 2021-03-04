@@ -316,3 +316,6 @@ WBS үлгілерінің күндері болмағандықтан, алды
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

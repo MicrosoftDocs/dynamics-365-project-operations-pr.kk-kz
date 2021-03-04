@@ -83,3 +83,6 @@ ms.locfileid: "5150450"
   
 ### <a name="additional-resources"></a>Қосымша ресурстар  
  [Ресурс менеджері нұсқаулығы](../psa/resource-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

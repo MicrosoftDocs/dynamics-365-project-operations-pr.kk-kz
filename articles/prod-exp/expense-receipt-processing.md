@@ -95,3 +95,6 @@ ms.locfileid: "4960299"
 Finance бағдарламасы өріс деректерін шығару үшін Cognitive Services қызметтерімен байланысады. Cognitive Services өңдеу кезінде сіздің түсіміңіздің көшірмесін 24 сағатқа дейін сақтайды. Өңдеу аяқталғаннан кейін Cognitive Services түсімдерді жояды. Түбіртектер әлі де Finance жүйесінде сақталады.
 
 Толық ақпарат алу үшін Form Recognizer қызметінің жаңа мүмкіндігімен түсімді түсінуді қосу бөліміне өтіңіз: [Enable receipt understanding with Form Recognizer's new capability](https://azure.microsoft.com/blog/enable-receipt-understanding-with-form-recognizer-s-new-capability/).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

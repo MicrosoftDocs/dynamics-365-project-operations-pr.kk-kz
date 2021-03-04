@@ -53,3 +53,6 @@ ms.locfileid: "5147435"
 - [Ресурс талаптарынан аталған ресурстарды тіркеу](book-named-resource.md)
 - [Ресурс сұрауын жіберу](submit-resource-request.md)
 - [Ресурс сұрауынан ұсынылған жоба ресурсын қабылдау немесе қабылдамау](accept-reject-proposed-resource.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

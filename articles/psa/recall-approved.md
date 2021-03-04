@@ -107,3 +107,6 @@ ms.locfileid: "5147848"
 Төмендегі суретте кері қайтарылған кезде бекітілген шығындар жазбаларында болатын өзгерістер көрсетілген.
 
 ![Шығындар жазбасы күйінің ауысымдары](media/ExpenseEntryStateTransitions.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

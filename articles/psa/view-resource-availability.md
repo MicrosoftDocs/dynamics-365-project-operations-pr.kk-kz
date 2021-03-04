@@ -48,3 +48,6 @@ ms.locfileid: "5143880"
 
 ### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Ресурстар менеджерінің нұсқаулығы](../psa/resource-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

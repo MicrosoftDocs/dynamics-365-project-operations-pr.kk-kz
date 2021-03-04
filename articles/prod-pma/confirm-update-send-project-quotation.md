@@ -57,3 +57,6 @@ ms.locfileid: "4079798"
 
 > [!NOTE]
 > Күйі **Жіберілді** күйіне өзгертілгеннен кейін жобаның баға ұсынысын өзгерту мүмкін емес.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

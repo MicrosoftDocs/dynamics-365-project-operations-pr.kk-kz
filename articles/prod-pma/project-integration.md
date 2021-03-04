@@ -127,3 +127,6 @@ Microsoft Project Client бағдарламасы арқылы жаңа жұмы
 8.  Ресурсқа пайдаланылатын **Күнтізбе** опциясын таңдаңыз.
 
 11. **OK** түймешігін басыңыз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -52,3 +52,6 @@ PSA бағдарламасында есеп беру туралы қосымша
 - [Project Service деректер үлгісімен жұмыс істеу](reports-working-project-service-data-model.md)
 - [Бақылау тақталары](reports-dashboards.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -82,3 +82,6 @@ Microsoft Dynamics 365 Project Service Automation бағдарламасында
 
 3. Тапсырмаға тағайындау керек ресурсты таңдаңыз.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

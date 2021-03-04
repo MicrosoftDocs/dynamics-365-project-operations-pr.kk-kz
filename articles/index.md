@@ -42,3 +42,6 @@ Project Operations жүйесі өздігінен қуатты болып ке�
 - [Project Operations жүйесіне шолу](https://dynamics.microsoft.com/en-us/project-operations/overview/)
 - [Dynamics 365 Project Operations 2020 шығарылымының 1 толқынына шолу](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/dynamics365-project-operations/)
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

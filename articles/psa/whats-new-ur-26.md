@@ -74,3 +74,6 @@ ms.locfileid: "5143565"
 - Баға ұсынуды немесе келісім-шартта жоба негізіндегі жолды таңдағанда, **Ұсыныс** түймешігі бұрыннан бар өніммен байланысты өнім негізіндегі жолды таңдаған кезде ғана көрінуі керек.
 - **Create_Product** артықшылығын **Create_ProjectContract** артықшылығынан бөліңіз.
 - Есеп-шот жолын жою **MarkReadyToInvoiceForProductContractLineAfterDeletingInvoice** қосылатын модулінде бос сілтеме қатесіне әкеледі.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

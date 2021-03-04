@@ -49,3 +49,6 @@ ms.locfileid: "4079638"
     | Аяқталған күні    | Ресурстық сыйымдылықтың жиынтығын синхрондау процесінің аяқталу күнін енгізіңіз. |
 
 [![Синхрондау процесі](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

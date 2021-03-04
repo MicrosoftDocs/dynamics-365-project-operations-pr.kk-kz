@@ -198,3 +198,6 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
         </tr>
     </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

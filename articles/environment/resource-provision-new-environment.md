@@ -209,3 +209,6 @@ Project Operations жүйесі бағдарлама нұсқасының **10.0
 
 
 Енді Project Operations ортасы дайындалған және конфигурацияланған. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

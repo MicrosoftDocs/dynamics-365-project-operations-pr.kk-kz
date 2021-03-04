@@ -73,3 +73,6 @@ ms.locfileid: "5150135"
  [Тіркелгі менеджерінің нұсқаулығы](../psa/account-manager-guide.md)   
  [Жоба менеджерінің нұсқаулығы](../psa/project-manager-guide.md)   
  [Ресурстар менеджерінің нұсқаулығы](../psa/resource-manager-guide.md)   
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

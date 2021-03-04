@@ -76,3 +76,6 @@ ms.locfileid: "5145005"
 5. **Нысанның логикалық атауы** өрісіне **msdyn_projectteam** пәрменін және **Өріс атауы** өрісіне **msdyn_bookableresourceid** пәрменін қосыңыз. Жазбаны сақтаңыз.
 
  ![Жаңа баға белгілеу өлшемі өрісі атауының пішіні](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

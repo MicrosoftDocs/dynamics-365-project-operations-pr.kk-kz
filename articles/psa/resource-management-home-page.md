@@ -41,3 +41,6 @@ ms.locfileid: "5147570"
 - [Талаптарды алдын ала резервтеу](resource-management-softbook-requirements.md)
 - [Дағдылар мен кәсіби дағдылар үлгілері](resource-management-skills-proficiency.md)
 - [Ресурстарды басқару туралы жиі қойылатын сұрақтар](resource-management-faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

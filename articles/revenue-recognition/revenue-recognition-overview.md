@@ -60,3 +60,6 @@ Dynamics 365 Project Operations бағдарламасында табысты т
 [Табыс болжамдарын басқару](rev-rec-completed-contract-method.md)
 
 [Әдістерді аяқтау құны](cost-complete-methods.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -170,3 +170,6 @@ Project Service Automation және Finance бағдарламасын бірі�
 [![Шығысты болжау транзакцияларының үлгісін салыстыру](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
 
 [![Шығыс болжамдарының үлгісін салыстыру](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

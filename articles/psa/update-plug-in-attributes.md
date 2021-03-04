@@ -68,3 +68,6 @@ ms.locfileid: "5147075"
 
 9. Plug-in Registration Tool құралын жабыңыз.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

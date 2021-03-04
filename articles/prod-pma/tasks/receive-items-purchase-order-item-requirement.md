@@ -56,3 +56,6 @@ ms.locfileid: "4079827"
 21. **Өнім түбіртегі** өрісінде, мәнді теріңіз.
 22. **OK** пәрменін таңдаңыз.
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

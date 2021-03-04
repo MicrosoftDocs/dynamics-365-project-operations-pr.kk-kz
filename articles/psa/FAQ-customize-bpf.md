@@ -107,3 +107,6 @@ ms.locfileid: "5149010"
 
    ![Жоба нысаны көріністерін өзгерту скриншоты](media/FAQ-Customize-BPF-8-720.png)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

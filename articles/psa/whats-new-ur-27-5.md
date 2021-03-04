@@ -42,3 +42,6 @@ ms.locfileid: "5151080"
 Келесі мәселелер түзетілді:
 
 - Кесте бойынша көмектің іздеу өнімділігінің төмендеуі
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

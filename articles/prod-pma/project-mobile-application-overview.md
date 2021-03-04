@@ -49,3 +49,6 @@ Dynamics 365 Project Timesheet мобильді бағдарламасы пай�
 - [Жобалық уақыт жазбасы]( project-time-entry-mobile-workspace.md)
 - [Мобильді құрылғыдағы жобалық кесте](Mobile-timesheets.md)
 - [iOS және Android құрылғысындағы Microsoft Dynamics 365 Project Timesheet мобильді бағдарламасына арналған реттелмелі өрістерді іске асыру](custom-fields-mobile.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

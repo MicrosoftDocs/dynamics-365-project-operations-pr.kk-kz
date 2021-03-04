@@ -42,3 +42,6 @@ ms.locfileid: "5146625"
 
 - Кесте бойынша көмектің іздеу өнімділігінің төмендеуі
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

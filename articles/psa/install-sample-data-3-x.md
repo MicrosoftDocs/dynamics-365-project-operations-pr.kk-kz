@@ -297,3 +297,6 @@ Field service операциялары Құрама Штаттарда, дәлі
 
 > [!div class="mx-imgBorder"]
 > ![Белсенді тапсырыс беруге болатын ресурстар скриншоты](media/sample-data-6.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

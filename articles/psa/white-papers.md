@@ -45,3 +45,6 @@ ms.locfileid: "5146985"
 
 ### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:
  [Project Service бағдарламасына шолу](../psa/overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

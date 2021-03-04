@@ -78,3 +78,6 @@ ms.locfileid: "4960254"
 - Жол деңгейіндегі жұмыс ағыны
 - Бекітуші тұлғаны уақытша қолдау
 - Кеңейтілген талдап тексеру
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

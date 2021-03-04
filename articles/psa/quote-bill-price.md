@@ -44,3 +44,6 @@ ms.locfileid: "5147880"
 - [Бірлік топтары және бірліктер](advanced-units.md)
 - [Бірнеше бірлікті валюта](advanced-currency.md)
 - [Нақты көрсеткіштерді жазу](advanced-actuals.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

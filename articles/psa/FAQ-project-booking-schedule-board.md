@@ -91,3 +91,6 @@ ms.locfileid: "5146535"
 
 4. Енді ресурс тіркеліп, тапсырмаларды қолмен белгілеу қажет.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

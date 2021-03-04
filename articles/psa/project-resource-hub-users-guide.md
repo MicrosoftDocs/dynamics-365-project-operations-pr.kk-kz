@@ -105,3 +105,6 @@ Project Resource Hub бағдарламасы арқылы жолда жұмыс
  [Project Service бағдарламасына шолу](../psa/overview.md)   
  [Уақыт, шығындар және бірлескен жұмыс нұсқаулығы](../psa/time-expense-collaboration-guide.md)   
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

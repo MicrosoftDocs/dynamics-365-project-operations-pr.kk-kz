@@ -153,3 +153,6 @@ Power Query бағдарламасын пайдалану қажет болса,
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>Жобалар және келісім-шарттар (Dynamics PSA 3.x) - v2 үлгісіндегі жобалық келісім-шарты жолы кезеңін салыстыруы:
 
 [![Екінші нұсқа үлгісі бар жоба келісім-шарт жолы кезеңін салыстыру](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

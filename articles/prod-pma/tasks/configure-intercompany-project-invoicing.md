@@ -64,3 +64,6 @@ ms.locfileid: "4079719"
 32. **Баға белгілеу** өрісіне сан енгізіңіз.
 33. **Сақтау** опциясын таңдаңыз.
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

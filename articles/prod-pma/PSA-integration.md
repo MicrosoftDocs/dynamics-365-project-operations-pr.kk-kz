@@ -75,3 +75,6 @@ Project Service Automation және Finance біріктіру шешімін п
 ## <a name="install-the-project-service-automation-to-finance-integration-solution-in-your-project-service-automation-instance"></a>Project Service Automation данасында Project Service Automation және Finance біріктіру шешімін орнатыңыз
 
 [Microsoft жүктеу орталығынан](https://www.microsoft.com/download/details.aspx?id=57016) Project Service Automation және Finance біріктіру шешімін жүктеп алыңыз және шешіммен бірге берілген нұсқауларды орындаңыз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -91,3 +91,6 @@ ms.locfileid: "4175898"
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>CDS конфигурациясын орнатып, демо деректерді реттеңіз
 
 [Демо нұсқа параметрлері мен конфигурация деректерін қолдану](lite-apply-demo-setup-config-data.md) бөліміндегі нұсқауларды орындау арқылы CDS конфигурациясын орнатып, демо деректерді реттеңіз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

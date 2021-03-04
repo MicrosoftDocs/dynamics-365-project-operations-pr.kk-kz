@@ -84,3 +84,6 @@ SalesOrderDetail (Тапсырыс жолы) | msdyn_quotelineid | msdyn_quoteli
 > Ұсынылмайтын ресурстардың толық тізімі үшін, [Project Service Automation 3.x нұсқасындағы ұсынылмайтын веб-ресурстар](../developer-guides/web-resources-deprecated-v3.x.md) бөлімін қараңыз.
 
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

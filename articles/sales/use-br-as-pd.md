@@ -78,3 +78,6 @@ ms.locfileid: "4643090"
 5. **msdyn_bookableresourceid** қосылатын модулін **Өріс атауына** қосыңыз.
 
  ![Жаңа баға белгілеу өлшемі өрісі атауының пішіні](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

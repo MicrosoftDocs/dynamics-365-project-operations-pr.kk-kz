@@ -106,3 +106,6 @@ PSA жүйесінде келісім-шарттарда немесе жобал
 
 8. Екінші қосылатын модуль үшін 1-7 қадамдарды қайталаңыз.
 9. PluginRegistrationTool құралын жабыңыз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

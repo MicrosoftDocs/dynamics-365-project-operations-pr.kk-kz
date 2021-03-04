@@ -68,3 +68,6 @@ ms.locfileid: "5144646"
 > ![Барлық қатысты құрамдастарды қоспаңыз](media/Do-not-include-required.png)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

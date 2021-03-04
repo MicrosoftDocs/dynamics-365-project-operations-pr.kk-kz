@@ -53,3 +53,6 @@ ms.locfileid: "5146760"
   
 ### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Ресурстарды реттеу](../psa/set-up-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

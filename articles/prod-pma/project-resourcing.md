@@ -55,3 +55,6 @@ ms.locfileid: "4079646"
 - [Жоба ресурстарын жоспарлау өнімділігі](project-scheduling-performance.md)
 - [Жұмыс декомпозициясының құрылымы үлгілерінде рөлдер орнату](set-up-roles-wbs-template.md)
 - [Жоспарланған ресурстарға арналған ресурстарды орындау](resource-fulfillment-planned-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -52,3 +52,6 @@ ms.locfileid: "5149190"
 
 > [!NOTE]
 > Бұл тақырып болашақтағы құжаттамалық жаңартудан жойылады. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

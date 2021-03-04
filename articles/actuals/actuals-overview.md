@@ -342,3 +342,6 @@ Project Operations жүйесі жоба барысында орын алаты�
 </tr>
 </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

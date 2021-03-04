@@ -134,3 +134,6 @@ Common Data Service (CDS) қызметінде деректерді конфиг
 13. **Сақтау** опциясын таңдаңыз. 
 
 ![Жаңартылған жоба параметрлері](./media/17UpdatedProjectParameters.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

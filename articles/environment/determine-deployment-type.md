@@ -98,3 +98,6 @@ Project Operations заңды тұлға деңгейіндегі конфигу
 
 Бұл орналастыру үшін [Алдын ала қарау жазылымдарына арналған тіркелу](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-tools/sign-up-preview-subscription?toc=/dynamics365/finance/toc.json) және [Жаңа ортаны дайындау](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment?toc=/dynamics365/finance/toc.json) бөлімдерін қараңыз. 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -429,3 +429,6 @@ final class TSTimesheetDetails_Extension
 1. Бағдарлама жоба ресурсынан әдепкі санатты қоюға әрекеттенеді. Бұл әдепкі санат **TSTimesheetSettingsService** класындағы **getCurrentUserResource** және **getDelegatedResourcesForCurrentUser** әдістерінде орнатылады.
 2. Егер әдепкі санат жобаның ресурс деңгейінде берілмесе, бағдарлама оны жоба әрекетінен алуға әрекеттенеді. Бұл әдепкі санат **TSTimesheetProjectService** класының **getActivitiesForProject** әдісінде орнатылады.
 3. Егер әдепкі санат жобаның әрекет деңгейінде берілмесе, әдепкі санат жоба параметрлерінен алынады. Бұл әдепкі санат **TSTimesheetProjectService** класының **getProjectDetailsbyRule** әдісінде орнатылады.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

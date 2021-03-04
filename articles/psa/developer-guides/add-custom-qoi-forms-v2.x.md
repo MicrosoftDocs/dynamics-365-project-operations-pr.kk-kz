@@ -96,3 +96,6 @@ Dynamics 365 Project Service Automation қондырмасы мүмкіндік,
     ```
 
 6. Реттеулерді сақтап, жариялаңыз.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

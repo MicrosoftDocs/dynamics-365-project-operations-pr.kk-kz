@@ -55,3 +55,6 @@ Dynamics 365 Project Operations бағдарламасындағы шығыс м
 ## <a name="see-also"></a>Сондай-ақ, келесіні қараңыз
 
 - [Бекітулерге шолу](../approvals/approvals-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

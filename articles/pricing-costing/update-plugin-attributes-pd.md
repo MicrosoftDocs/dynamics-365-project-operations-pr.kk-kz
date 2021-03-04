@@ -52,3 +52,6 @@ ms.locfileid: "4643225"
 7. Бетті жабу үшін **OK** түймешігін, содан кейін **Қадамды жаңарту** түймешігін басыңыз.
 8. **PreOperationQuoteLineDetail** екінші қосылатын модуль үшін 2-7 қадамдарын қайталаңыз. Осы қосылатын модуль үшін **msdyn_quotelinetransaction төлсипатын жаңарту** қадамын жаңартыңыз.
 9. **PluginRegistrationTool** құралын жабыңыз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

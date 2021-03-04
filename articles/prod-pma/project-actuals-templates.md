@@ -140,3 +140,6 @@ Project Service Automation және Finance бағдарламасын бірі�
 [![Үлгіні салыстыру - нақты көрсеткіштерді жаңарту](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
 
 [![Үлгіні салыстыру - транзакцияны жаңарту](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

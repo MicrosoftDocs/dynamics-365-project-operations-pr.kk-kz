@@ -113,3 +113,6 @@ Dynamics 365 Project Service Automation бағдарламасы Universal Resou
 Жеке ресурс туралы қосымша мәліметтерді көру үшін, ресурс картасын ашу үшін оны тінтуірдің оң жақ түймешігімен басыңыз.
 
 ![Ресурс картасы](media/Resource-Management-image71.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

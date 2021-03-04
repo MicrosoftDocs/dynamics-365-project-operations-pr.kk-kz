@@ -106,3 +106,6 @@ Project Operations бағдарламасы сыртқы жоспарлау қы
   - Project Operations жүйесі
   - Жоба жүйесі
   - Project Operations қос жазу жүйесі (бұл рөл, егер сіз Project Operations жүйесінің ресурс/биржадан тыс негіздегі сценарийлерін қолданатын болсаңыз қажет.)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

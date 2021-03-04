@@ -77,3 +77,6 @@ Dataverse ортасында Project Operations үшін жаңартулар а
 | --- | --- |
 | 10.0.17-көше | 19 наурыз, 2021 |
 | 10.0.18-көше | 16 сәуір, 2021 |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

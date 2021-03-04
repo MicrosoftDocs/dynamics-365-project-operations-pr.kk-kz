@@ -95,3 +95,6 @@ ms.locfileid: "5148290"
  [Ресурстар менеджерінің нұсқаулығы](../psa/resource-manager-guide.md)   
  [Уақыт, шығындар және бірлескен жұмыс нұсқаулығы](../psa/time-expense-collaboration-guide.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

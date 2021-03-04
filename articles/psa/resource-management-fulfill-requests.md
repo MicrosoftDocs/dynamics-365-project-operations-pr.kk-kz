@@ -46,3 +46,6 @@ ms.locfileid: "5147615"
 > ![Таңдалған ресурс](media/Resource-Management-image61.png)
 
 Жалпы топ мүшесі жоба кестесіндегі жоба тобындағы және тапсырыс тағайындауларындағы қорытынды резервтелген аталған ресурспен ауыстырылады.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

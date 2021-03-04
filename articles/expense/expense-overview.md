@@ -44,3 +44,6 @@ Project Operations жүйесінде шығысқа арналған орнал
 
 ## <a name="determine-your-expense-deployment"></a>Шығыс орналастыруын анықтау
 Негізгі шығыстарды басқаруды қолданатыныңызды анықтау үшін мекенжай URL мекенжайы **. crm.dynamics.com** деп аяқталатынына көз жеткізіңіз. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

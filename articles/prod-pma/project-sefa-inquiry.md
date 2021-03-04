@@ -104,3 +104,6 @@ ms.locfileid: "4079644"
 - Федералдық ішкі көмек каталогы
 - Түсімдер
 - Шығындар
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

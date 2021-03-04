@@ -20,3 +20,6 @@ ms.locfileid: "4514549"
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 Ұйымыңызға арналған тапсырыс беру күйлерін орнату мақсатында Dynamics 365 Field Service қызметі үшін Universal Resource Scheduling бағдарламасында берілген функцияларды пайдалана аласыз. Бұл орнатуды аяқтау туралы ақпарат алу үшін [Тапсырыс беру күйлерін орнату](https://docs.microsoft.com/dynamics365/field-service/set-up-booking-statuses) бөлімін қараңыз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

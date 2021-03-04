@@ -62,3 +62,6 @@ ms.locfileid: "5149370"
   
 ### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Жоба менеджерінің нұсқаулығы](../psa/project-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

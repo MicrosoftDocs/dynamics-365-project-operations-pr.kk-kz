@@ -55,3 +55,6 @@ ms.locfileid: "5146895"
   
 ### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Тіркелгі менеджерінің нұсқаулығы](../psa/account-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

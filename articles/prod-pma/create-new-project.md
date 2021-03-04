@@ -104,3 +104,6 @@ ms.locfileid: "4079795"
 
 3. **Сақтау** параметрін таңдап, бетті жабыңыз.
 4. **Құзыреттер** қойыншасына **ProjectMgmt** дағдысы мен **PMP** куәлігін енгізіңіз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

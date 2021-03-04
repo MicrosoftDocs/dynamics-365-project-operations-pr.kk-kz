@@ -74,3 +74,6 @@ _**Жеңілдетілген орналастыру - проформа-шоты
     -   Тапсырыс беруге болатын ресурс сипаттамасы
 
     ![Импорттауды аяқтау](./media/6CompleteImport.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

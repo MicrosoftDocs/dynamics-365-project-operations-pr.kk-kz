@@ -55,3 +55,6 @@ ms.locfileid: "5150315"
   
 ### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Project Service жүйесін теңшеу](../psa/configure.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

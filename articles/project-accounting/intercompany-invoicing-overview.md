@@ -43,3 +43,6 @@ Dynamics 365 Project Operations бағдарламасы компанияара�
 - [Компанияаралық шот ұсынуды конфигурациялау](configure-intercompany-invoicing.md)
 - [Компанияаралық транзакцияларды жазу](create-intercompany-transactions.md)
 - [Тұтынушылар мен жеткізушілердің компанияаралық есеп-шоттарын жасау](create-intercompany-customer-vendor-invoices.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

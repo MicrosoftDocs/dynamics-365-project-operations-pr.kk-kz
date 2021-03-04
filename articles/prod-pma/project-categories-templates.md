@@ -124,3 +124,6 @@ Project Service Automation бағдарламасына синхрондау к�
 > Картада Project Service Automation бағдарламасынан Finance бағдарламасына синхрондалатын өріс туралы ақпарат көрсетілген.
 
 [![Project Service Automation бағдарламасын және Finance бағдарламасының үлгісімен салыстыру](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

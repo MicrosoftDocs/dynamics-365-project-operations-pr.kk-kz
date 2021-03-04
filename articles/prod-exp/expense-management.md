@@ -58,3 +58,6 @@ ms.locfileid: "4079820"
 ### <a name="videos"></a>Бейнелер
 
 [Microsoft Dynamics 365 YouTube арнасындағы](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) қолжетімді қысқа бейнелерді тексеріңіз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

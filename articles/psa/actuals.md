@@ -330,3 +330,6 @@ PSA жүйесі жоба барысында орын алатын барлық 
 </tr>
 </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

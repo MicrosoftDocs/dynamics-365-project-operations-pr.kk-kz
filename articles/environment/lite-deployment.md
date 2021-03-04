@@ -44,3 +44,6 @@ Project Operations бірнеше орналастыру үлгілерін қо
 2. Dynamics 365 бағдарламаларын орналастыру тізімінен **Microsoft Dynamics 365 Project Operations** бағдарламасын орнатыңыз. Қосымша ақпарат алу үшін, [Dynamics 365 бағдарламаларын басқару](https://docs.microsoft.com/power-platform/admin/manage-apps) бөлімін қараңыз.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -57,3 +57,6 @@ ms.locfileid: "5143737"
 - Бекітілді: транзакция класы **Уақыт** болғанда, **UnitGroup** нысаны **QuoteLineDetails**, **JournalLine**, **InvoiceLineDetail**, және **ContractLineDetails** нысандарын қоса алғанда барлық нысандар үшін өңделмейтін болады. Дегенмен **Бірлік** тек **JournalLine** және **InvoiceLineDetails** нысандары үшін өңделмейтін болады.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

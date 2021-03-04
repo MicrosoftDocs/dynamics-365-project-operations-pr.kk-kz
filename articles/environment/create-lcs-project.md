@@ -36,3 +36,6 @@ Dynamics 365 Project Operations орталарын басқару үшін Lifec
 
 Осы LCS жобасын Project Operations ортасын орналастыру үшін пайдаланыңыз.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

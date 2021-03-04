@@ -55,3 +55,6 @@ Package Deployer құралын орнатуды орындау мына әре�
  [Жоба менеджерінің нұсқаулығы](../psa/project-manager-guide.md)   
  [Ресурстар менеджерінің нұсқаулығы](../psa/resource-manager-guide.md)   
  [Уақыт, шығындар және бірлескен жұмыс нұсқаулығы](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

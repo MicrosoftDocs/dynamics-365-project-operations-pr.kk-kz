@@ -62,3 +62,6 @@ Dynamics 365 Project Operations бағдарламасы Universal Resource Sche
 
 Жеке ресурс туралы қосымша мәліметтерді көру үшін, ресурс картасын ашу үшін оны тінтуірдің оң жақ түймешігімен басыңыз.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

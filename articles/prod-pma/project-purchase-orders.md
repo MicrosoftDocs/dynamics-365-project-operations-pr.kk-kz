@@ -76,3 +76,6 @@ ms.locfileid: "4079648"
 
 Қосымша ақпарат алу үшін [Элемент талабынан сатып алуға тапсырыс бойынша элементтерді алу](tasks/receive-items-purchase-order-item-requirement.md) бөлімін қараңыз.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

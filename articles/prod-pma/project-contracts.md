@@ -344,3 +344,6 @@ Dynamics 365 Finance жүйесінде, бір транзакция немес�
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

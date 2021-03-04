@@ -125,3 +125,6 @@ UR5 жаңарту орамасына жаңарту бөлігі ретінде
  
  ![Кітап картасын синхрондау](media/DW6.png)
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

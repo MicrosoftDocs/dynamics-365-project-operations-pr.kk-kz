@@ -113,3 +113,6 @@ ms.locfileid: "4079686"
 Қосымша ақпарат алу үшін [Компанияаралық жоба шотын жіберу конфигурациялау](tasks/configure-intercompany-project-invoicing.md) бөлімін қараңыз.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

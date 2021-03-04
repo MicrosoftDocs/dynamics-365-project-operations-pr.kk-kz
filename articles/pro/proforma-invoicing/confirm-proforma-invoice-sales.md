@@ -273,3 +273,6 @@ _**Қолданылады:** қарапайым орналастыру - про�
         </tr>
     </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

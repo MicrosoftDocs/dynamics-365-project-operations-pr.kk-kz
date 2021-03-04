@@ -71,3 +71,6 @@ Dynamics 365 Project Operations бағдарламасы әдепкі бағал
 | ----------------|-------------|----------|----------:|----------|
 | My company_Band1 | Contoso АҚШ  |Hour | 145|USD     |
 | My company_Band2 | Contoso India |Hour|   67|USD     |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

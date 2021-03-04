@@ -54,3 +54,6 @@ Dynamics 365 Finance ішінде жобаны басқару және есеп 
 ## <a name="regulatory-updates"></a>Нормативтік жаңартулар
 
 Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

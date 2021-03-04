@@ -25,3 +25,6 @@ ms.lasthandoff: 10/28/2020
 ms.locfileid: "4132126"
 ---
 # <a name="whats-new-in-project-operations"></a>Project operations жүйесіндегі жаңалық
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

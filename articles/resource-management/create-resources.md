@@ -20,3 +20,6 @@ ms.locfileid: "4514548"
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 Dynamics 365 Project Operations ортасында тапсырыс беруге болатын ресурстарды жасау үшін Dynamics 365 Field Service қызметін пайдалана аласыз. Осы ресурстарды жасау үшін [Тапсырыс беруге болатын ресурстарды орнату](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resources) бөлімін қараңыз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

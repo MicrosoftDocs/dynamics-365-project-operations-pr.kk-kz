@@ -170,3 +170,6 @@ PSA 3.x нұсқасында ресурсқа тән баға белгілеуд
 * msdyn\_actualsales
 * msdyn\_remainingcost
 * msdyn\_remainingsales
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -112,3 +112,6 @@ Dynamics 365 Project Operations бағдарламасы жобаны көшір
     }
 }
 ```
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

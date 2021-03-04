@@ -52,3 +52,6 @@ PSA бағдарламасындағы жобаны басқару құралд�
 - [Жоба үлгілері](project-templates.md)
 - [Жоба кезеңдері](project-stages.md)
 - [Жоба параметрлері](project-settings.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
