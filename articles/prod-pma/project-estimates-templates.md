@@ -1,6 +1,6 @@
 ---
 title: Жоба болжамдарын тікелей Project Service Automation бағдарламасынан Finance and Operations бағдарламасына тікелей синхрондау
-description: Бұл тақырыпта үлгілер және жобаның сағаттық болжамдары мен жобаның шығыс болжамдарын тікелей Microsoft Dynamics 365 Project Service Automation бағдарламасынан Dynamics 365 Finance жүйесіне синхрондау үшін пайдаланылатын негізгі тапсырмалар сипатталады.
+description: Бұл тақырыпта үлгілер және жобаның сағаттық болжамдары мен жобаның шығыс болжамдарын Microsoft Dynamics 365 Project Service Automation бағдарламасынан Dynamics 365 Finance жүйесіне тікелей синхрондау үшін пайдаланылатын негізгі тапсырмалар сипатталады.
 author: Yowelle
 manager: AnnBe
 ms.date: 07/20/2018
@@ -17,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 336de474c859d30d1ec07ae34bf0c3d578faeef1
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 58e204b2c1238e00ffb16533cc82dad69fbf77a9
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079788"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5289466"
 ---
 # <a name="synchronize-project-estimates-directly-from-project-service-automation-to-finance-and-operations"></a>Жоба болжамдарын тікелей Project Service Automation бағдарламасынан Finance and Operations бағдарламасына тікелей синхрондау
 

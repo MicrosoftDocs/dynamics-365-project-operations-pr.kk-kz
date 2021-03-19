@@ -18,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-04
 ms.dyn365.ops.version: 7.2999999999999998
-ms.openlocfilehash: 732b72d9819fc149c4b2c783b3dc7f7eec3f0393
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: e93d23559d1f3aca9022cd97dae3b0726bb5ca05
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079721"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5289331"
 ---
 # <a name="microsoft-project-client-integration"></a>Microsoft Project Client біріктіруі
 
@@ -122,7 +122,7 @@ Microsoft Project Client бағдарламасы арқылы жаңа жұмы
 
 6.  Қажет болса, **Жоба атауын** енгізіңіз.
 
-7.  **Жоба түрі** , **Жоба тобы** және **Жобалық келісім-шарт идентификаторы** опцияларын таңдаңыз. Балама ретінде **Жаңа** опциясын басу арқылы жаңа жобалық келісім-шартты жасауға болады.
+7.  **Жоба түрі**, **Жоба тобы** және **Жобалық келісім-шарт идентификаторы** опцияларын таңдаңыз. Балама ретінде **Жаңа** опциясын басу арқылы жаңа жобалық келісім-шартты жасауға болады.
 
 8.  Ресурсқа пайдаланылатын **Күнтізбе** опциясын таңдаңыз.
 

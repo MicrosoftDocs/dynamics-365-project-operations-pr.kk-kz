@@ -18,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.14
 ms.search.validFrom: 2020-09-01
-ms.openlocfilehash: c3f219ce0635545976a6a4639233f166e18468af
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 34c31570778f9b64c23387112cf56fa1139cd0fd
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079643"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5289016"
 ---
 # <a name="project-resource-scheduling-performance"></a>Жоба ресурстарын жоспарлау өнімділігі
 
@@ -54,7 +54,7 @@ ms.locfileid: "4079643"
  > [!NOTE]
  > Бұл жалпы деректерді ұйымыңыздағы барлық компаниялар бойынша **ResCalendarCapacity** кестесіне таратады, сондықтан топтық тапсырма тек бір заңды нысанда жүргізілуі керек. Осы топтық тапсырмадағы деректер байланысты күнтізбе арқылы ресурстар мүмкіндігін есептеу үшін қажет.
 
-8. **Жобаларды басқару және есепке алу** > **Мерзімді** > **Жоба ресурстары** > **Барлық компаниялардағы жоба ресурстарын толтыру** тармағына өтіп, **OK** түймешігін басыңыз. Бұл **ResProjectResource** , **ResCalendarDateTimeRange** және **ResEffectiveDateTimeRange** кестелеріндегі жалпы деректерге арналған деректерді жаңарту сценарийі. **PSAPRojSchedRole.RootActivity** өрісіне арналған мәндер де жаңартылады. Егер бұл іске қосылмаған болса, сіз ресурстарды жоспарлау операцияларын орындау кезінде ескерту аласыз.
+8. **Жобаларды басқару және есепке алу** > **Мерзімді** > **Жоба ресурстары** > **Барлық компаниялардағы жоба ресурстарын толтыру** тармағына өтіп, **OK** түймешігін басыңыз. Бұл **ResProjectResource**, **ResCalendarDateTimeRange** және **ResEffectiveDateTimeRange** кестелеріндегі жалпы деректерге арналған деректерді жаңарту сценарийі. **PSAPRojSchedRole.RootActivity** өрісіне арналған мәндер де жаңартылады. Егер бұл іске қосылмаған болса, сіз ресурстарды жоспарлау операцияларын орындау кезінде ескерту аласыз.
  
 ## <a name="turn-off-resource-scheduling-performance-enhancement"></a>Ресурстарды жоспарлау өнімділігін жақсарту мүмкіндігін өшіру
 
