@@ -16,15 +16,18 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 177e0a6f676000c148346f7f7b7a2391326bc78b
-ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
+ms.openlocfilehash: 32ea14941344660ae0d384c8b046a50ba98d46bd
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "4960029"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5271450"
 ---
-# <a name="per-diem-rules"></a><span data-ttu-id="c53fd-103">Тәуліктік төлем ережелері</span><span class="sxs-lookup"><span data-stu-id="c53fd-103">Per diem rules</span></span>
+# <a name="per-diem-rules"></a><span data-ttu-id="cbb23-103">Тәуліктік төлем ережелері</span><span class="sxs-lookup"><span data-stu-id="cbb23-103">Per diem rules</span></span>
 
-<span data-ttu-id="c53fd-104">*Тәуліктік төлем* — бұл іссапарға бара жатқан жұмысшыға төленетін жәрдемақы.</span><span class="sxs-lookup"><span data-stu-id="c53fd-104">A *per diem* is an allowance that is paid to a worker who is traveling for work.</span></span> <span data-ttu-id="c53fd-105">Шығынды басқаруда әр түрлі іссапар жағдайлары үшін тәуліктік шығын ережелерін жасауға болады.</span><span class="sxs-lookup"><span data-stu-id="c53fd-105">In Expense management, you can create per diem rules for various travel situations.</span></span> <span data-ttu-id="c53fd-106">Тәуліктік тарифтер жылдың уақытына, сапар орнына немесе екеуіне де байланысты болуы мүмкін.</span><span class="sxs-lookup"><span data-stu-id="c53fd-106">Per diem rates can be based on the time of year, the travel location, or both.</span></span> <span data-ttu-id="c53fd-107">Тәуліктік төлем ережесін жасаған кезде, жұмысшы тегін тамақтанса немесе қызмет алса, тәуліктік тарифтің пайыздық мөлшерінің ұсталатынын көрсетуге болады.</span><span class="sxs-lookup"><span data-stu-id="c53fd-107">When you create a per diem rule, you can specify that a percentage of the per diem rate will be withheld if a worker receives complimentary meals or services.</span></span> <span data-ttu-id="c53fd-108">Сонымен қатар жұмысшылардың сапарына қолданылатын тәуліктік тарифтің минималды және максималды сағаттарын орнатуға болады.</span><span class="sxs-lookup"><span data-stu-id="c53fd-108">You can also set a minimum and maximum number of hours that the per diem rate can apply to a worker's travel.</span></span>
+<span data-ttu-id="cbb23-104">*Тәуліктік төлем* — бұл іссапарға бара жатқан жұмысшыға төленетін жәрдемақы.</span><span class="sxs-lookup"><span data-stu-id="cbb23-104">A *per diem* is an allowance that is paid to a worker who is traveling for work.</span></span> <span data-ttu-id="cbb23-105">Шығынды басқаруда әр түрлі іссапар жағдайлары үшін тәуліктік шығын ережелерін жасауға болады.</span><span class="sxs-lookup"><span data-stu-id="cbb23-105">In Expense management, you can create per diem rules for various travel situations.</span></span> <span data-ttu-id="cbb23-106">Тәуліктік тарифтер жылдың уақытына, сапар орнына немесе екеуіне де байланысты болуы мүмкін.</span><span class="sxs-lookup"><span data-stu-id="cbb23-106">Per diem rates can be based on the time of year, the travel location, or both.</span></span> <span data-ttu-id="cbb23-107">Тәуліктік төлем ережесін жасаған кезде, жұмысшы тегін тамақтанса немесе қызмет алса, тәуліктік тарифтің пайыздық мөлшерінің ұсталатынын көрсетуге болады.</span><span class="sxs-lookup"><span data-stu-id="cbb23-107">When you create a per diem rule, you can specify that a percentage of the per diem rate will be withheld if a worker receives complimentary meals or services.</span></span> <span data-ttu-id="cbb23-108">Сонымен қатар жұмысшылардың сапарына қолданылатын тәуліктік тарифтің минималды және максималды сағаттарын орнатуға болады.</span><span class="sxs-lookup"><span data-stu-id="cbb23-108">You can also set a minimum and maximum number of hours that the per diem rate can apply to a worker's travel.</span></span>
 
-<span data-ttu-id="c53fd-109">Жалпы тәуліктік төлемді есептеу **Тәуліктік төлемдер** бетінде орнатуға болатын басталу және аяқталу күндеріне негізделген.</span><span class="sxs-lookup"><span data-stu-id="c53fd-109">The calculation of a total per diem amount is based on the start dates and end dates that you can set on the **Per diems** page.</span></span>
+<span data-ttu-id="cbb23-109">Жалпы тәуліктік төлемді есептеу **Тәуліктік төлемдер** бетінде орнатуға болатын басталу және аяқталу күндеріне негізделген.</span><span class="sxs-lookup"><span data-stu-id="cbb23-109">The calculation of a total per diem amount is based on the start dates and end dates that you can set on the **Per diems** page.</span></span>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
