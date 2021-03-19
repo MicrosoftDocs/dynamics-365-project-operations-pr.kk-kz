@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 595fda369fe19a69604fc4ab694cb844f45076b5
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 463c1e206090b8c85ff67f4fc38a15932749a834
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4175628"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5290231"
 ---
 # <a name="start-a-new-lcs-project"></a>Жаңа LCS жобасын бастау
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Dynamics 365 Project Operations орталарын басқару үшін Lifecycle Services (LCS) пайдаланыңыз. Жаңа LCS жобасын жасау үшін келесі әрекеттерді орындаңыз.
+Dynamics 365 Project Operations ортасында басқару үшін Lifecycle Services (LCS) порталын пайдаланыңыз. Жаңа LCS жобасын жасау үшін келесі әрекеттерді орындаңыз.
 
 1. [LCS](https://lcs.dynamics.com/Logon/Index) өтіп, жазылым үшін пайдаланылатын тіркелгіні пайдалану арқылы **Жүйеге кіру** опциясын таңдаңыз.
 2. Егер сұралса, заңды және құпиялылық шарттарын қабылдаңыз.

@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: c7ec9360401bf214ae867769b0e48e545a6bad48
-ms.sourcegitcommit: 64d0de964a9b66c015ffcf1db62cbb6216cb3187
+ms.openlocfilehash: f8e9bce6612e617785264470b7946ffc4795a621
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4367273"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5291851"
 ---
 # <a name="whats-new-november-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>2020 жылдың қараша айындағы жаңалықтар - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырып келесі Dynamics 365 Project Operations компоненттері мен нұсқаларына қатысты:
+Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
 - 4.4.0.70 нұсқасындағы CDS ортасындағы Project Operations жүйесі
 - 10.0.14 нұсқасындағы Dynamics 365 Finance ортасындағы жобаны басқару және есепке алу
@@ -67,7 +67,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 | Жоба есебі  | [510041](https://fix.lcs.dynamics.com/Issue/Details/?bugId=510041)           | CDS интеграциясынсыз мүмкіндікті қосу, бірнеше келісім-шарт жолдары мүмкін емес.                                                                                   |
 
 ### <a name="regulatory-updates"></a>Нормативтік жаңартулар
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ, LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

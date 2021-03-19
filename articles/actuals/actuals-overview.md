@@ -1,6 +1,6 @@
 ---
 title: Қолда бар тауарлар
-description: Бұл тақырыпта Microsoft Dynamics 365 Project Operations нақты көрсеткіштермен жұмыс істеу жолы туралы ақпарат берілген.
+description: Бұл тақырыпта Microsoft Dynamics 365 Project Operations бағдарламасында нақты көрсеткіштермен жұмыс жасау жолы туралы ақпарат берілген.
 author: rumant
 manager: AnnBe
 ms.date: 09/16/2020
@@ -16,12 +16,12 @@ ms.search.region: ''
 ms.search.industry: ''
 ms.author: rumant
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 13c429763fa805fae5324e4dcf1bf7669e842281
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 6a94bd143b0d0dad2a08511a34e592a057b6d2a1
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4126314"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5291806"
 ---
 # <a name="actuals"></a>Қолда бар тауарлар 
 
@@ -70,7 +70,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 Құнды немесе материалдағы, алымдағы, уақыттағы, шығыстағы табысты немесе салық транзакцияларының кластарын жазу үшін жазба журналдарын пайдалануға болады. Журналдарды келесі мақсаттарда пайдалануға болады:
 
 - Жоба бойынша материалдардың нақты құны мен сатылымдарын жазыңыз.
-- Транзакцияның нақты көрсеткіштерін басқа жүйеден Microsoft Dynamics 365 Project Operations жүйесіне ауыстырыңыз.
+- Транзакцияның нақты көрсеткіштерін басқа жүйеден Microsoft Dynamics 365 Project Operations бағдарламасына ауыстырыңыз.
 - Басқа жүйеде орын алған шығындарды жазыңыз. Бұл құндар сатып алу немесе қосымша келісім-шарт құнын қамтуы мүмкін.
 
 > [!IMPORTANT]
