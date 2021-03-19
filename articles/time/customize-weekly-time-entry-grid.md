@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: d9c14f0550d4429ac794607a3fb61717566207e4
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: f446e24f3a61914a46a552fdc38b986d8b924747
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124645"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5277165"
 ---
 # <a name="extending-time-entries"></a>Уақыт жазбаларының мерзімін ұзарту
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Dynamics 365 Project Operations уақыт жазбасының ұзартылатын бақылау мерзімін қамтиды. Бұл басқару келесі мүмкіндіктерді қамтиды:
+Dynamics 365 Project Operations ұзартылатын уақыт жазбасының реттелетін бақылау элементін қамтиды. Бұл басқару келесі мүмкіндіктерді қамтиды:
 
 - Уақытты бір апта ішінде көлденеңінен енгізіңіз
 - Барлығы күн, қатар немесе апта бойынша
