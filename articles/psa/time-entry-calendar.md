@@ -18,27 +18,30 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 94e580955b83b9f2eaf6c0487cc9fe8a30f51ce0
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 0188258a7d3c0e1644ae6db051995e6e02bcbf58
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150180"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5282115"
 ---
-# <a name="time-entry-calendar"></a><span data-ttu-id="bf120-103">Уақыт жазбасының күнтізбесі</span><span class="sxs-lookup"><span data-stu-id="bf120-103">Time entry calendar</span></span>
+# <a name="time-entry-calendar"></a><span data-ttu-id="31dda-103">Уақыт жазбасының күнтізбесі</span><span class="sxs-lookup"><span data-stu-id="31dda-103">Time entry calendar</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="bf120-104">**Уақыт жазбалары** бетінде күнтізбедегі уақыт жазбаларын **Басқаша көрсету**\>**Күнтізбені басқару** түймешігін таңдау арқылы көруге болады.</span><span class="sxs-lookup"><span data-stu-id="bf120-104">On the **Time Entries** page, you can view the time entries on the calendar by selecting **Show as** \> **Calendar Control**.</span></span>
+<span data-ttu-id="31dda-104">**Уақыт жазбалары** бетінде күнтізбедегі уақыт жазбаларын **Басқаша көрсету**\>**Күнтізбені басқару** түймешігін таңдау арқылы көруге болады.</span><span class="sxs-lookup"><span data-stu-id="31dda-104">On the **Time Entries** page, you can view the time entries on the calendar by selecting **Show as** \> **Calendar Control**.</span></span>
 
-## <a name="updated-calendar-control"></a><span data-ttu-id="bf120-105">Жаңартылған күнтізбені басқару элементі</span><span class="sxs-lookup"><span data-stu-id="bf120-105">Updated calendar control</span></span>
+## <a name="updated-calendar-control"></a><span data-ttu-id="31dda-105">Жаңартылған күнтізбені басқару элементі</span><span class="sxs-lookup"><span data-stu-id="31dda-105">Updated calendar control</span></span>
 
-<span data-ttu-id="bf120-106">Dynamics 365 Project Service Automation уақыт жазбасының жаңа және кеңейтілетін тәжірибесін ұсынады.</span><span class="sxs-lookup"><span data-stu-id="bf120-106">Dynamics 365 Project Service Automation offers a new and extensible time entry experience.</span></span> <span data-ttu-id="bf120-107">Бұл жаңа тәжірибе алдыңғы нұсқаларда пайдаланылған Реттелетін күнтізбені басқару элементін алмастырады.</span><span class="sxs-lookup"><span data-stu-id="bf120-107">This new experience replaces the Custom Calendar Control that was used in earlier versions.</span></span> <span data-ttu-id="bf120-108">Дегенмен уақыт жазбаларын тек оқуға арналған күнтізбені бақылау элементі арқылы көруге болады. Бұны Бірыңғай интерфейс құрылымы күнделікті, апталық немесе айлық көріністер үшін қамтамасыз етеді.</span><span class="sxs-lookup"><span data-stu-id="bf120-108">However, you can still view time entries through a read-only calendar control that the Unified Interface Framework provides for daily, weekly, or monthly views.</span></span>
+<span data-ttu-id="31dda-106">Dynamics 365 Project Service Automation уақыт жазбасының жаңа және кеңейтілетін тәжірибесін ұсынады.</span><span class="sxs-lookup"><span data-stu-id="31dda-106">Dynamics 365 Project Service Automation offers a new and extensible time entry experience.</span></span> <span data-ttu-id="31dda-107">Бұл жаңа тәжірибе алдыңғы нұсқаларда пайдаланылған Реттелетін күнтізбені басқару элементін алмастырады.</span><span class="sxs-lookup"><span data-stu-id="31dda-107">This new experience replaces the Custom Calendar Control that was used in earlier versions.</span></span> <span data-ttu-id="31dda-108">Дегенмен уақыт жазбаларын тек оқуға арналған күнтізбені бақылау элементі арқылы көруге болады. Бұны Бірыңғай интерфейс құрылымы күнделікті, апталық немесе айлық көріністер үшін қамтамасыз етеді.</span><span class="sxs-lookup"><span data-stu-id="31dda-108">However, you can still view time entries through a read-only calendar control that the Unified Interface Framework provides for daily, weekly, or monthly views.</span></span>
 
-<span data-ttu-id="bf120-109">Күнтізбе жеке күнтізбе элементтеріндегі әрекеттерге қолдау көрсетпейді және жіберілетін немесе жойылатын бір немесе бірнеше күнтізбе элементтерін таңдау мүмкін емес.</span><span class="sxs-lookup"><span data-stu-id="bf120-109">The calendar doesn't support actions on individual calendar items, and you can't select one or more calendar items for submission or deletion.</span></span> <span data-ttu-id="bf120-110">Оның орнына қажетті әрекеттерді орындауға болатын **Уақыт жазбасы** нысан бетін ашу үшін күнтізбе элементін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="bf120-110">Instead, select a calendar item to open the **Time Entry** entity page, where you can complete the required actions.</span></span>
+<span data-ttu-id="31dda-109">Күнтізбе жеке күнтізбе элементтеріндегі әрекеттерге қолдау көрсетпейді және жіберілетін немесе жойылатын бір немесе бірнеше күнтізбе элементтерін таңдау мүмкін емес.</span><span class="sxs-lookup"><span data-stu-id="31dda-109">The calendar doesn't support actions on individual calendar items, and you can't select one or more calendar items for submission or deletion.</span></span> <span data-ttu-id="31dda-110">Оның орнына қажетті әрекеттерді орындауға болатын **Уақыт жазбасы** нысан бетін ашу үшін күнтізбе элементін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="31dda-110">Instead, select a calendar item to open the **Time Entry** entity page, where you can complete the required actions.</span></span>
 
-## <a name="extensibility"></a><span data-ttu-id="bf120-111">Кеңейтімділік</span><span class="sxs-lookup"><span data-stu-id="bf120-111">Extensibility</span></span>
+## <a name="extensibility"></a><span data-ttu-id="31dda-111">Кеңейтімділік</span><span class="sxs-lookup"><span data-stu-id="31dda-111">Extensibility</span></span>
 
-<span data-ttu-id="bf120-112">Уақыт жазбасы торы бар **Уақыт жазбалары** бетінде реттелетін өрістерді қосуға, іздеу өрістерін орнатуға және реттелетін көріністер жасауға болады.</span><span class="sxs-lookup"><span data-stu-id="bf120-112">On the **Time Entries** page that has the time entry grid, you can add custom fields, set up lookup fields, and create custom views.</span></span> <span data-ttu-id="bf120-113">Сондай-ақ реттелетін өрістерде таңдалған немесе енгізілген мәндерге негізделген реттелетін бизнес-логиканы орнатуға болады.</span><span class="sxs-lookup"><span data-stu-id="bf120-113">You can also set up custom business logic that is based on the values that are selected or entered in custom fields.</span></span>
+<span data-ttu-id="31dda-112">Уақыт жазбасы торы бар **Уақыт жазбалары** бетінде реттелетін өрістерді қосуға, іздеу өрістерін орнатуға және реттелетін көріністер жасауға болады.</span><span class="sxs-lookup"><span data-stu-id="31dda-112">On the **Time Entries** page that has the time entry grid, you can add custom fields, set up lookup fields, and create custom views.</span></span> <span data-ttu-id="31dda-113">Сондай-ақ реттелетін өрістерде таңдалған немесе енгізілген мәндерге негізделген реттелетін бизнес-логиканы орнатуға болады.</span><span class="sxs-lookup"><span data-stu-id="31dda-113">You can also set up custom business logic that is based on the values that are selected or entered in custom fields.</span></span>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
