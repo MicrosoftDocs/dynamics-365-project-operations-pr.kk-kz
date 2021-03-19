@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 92b12bd9272805a736286bf7e0ff926cb6361c05
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: e14dbe5abb69a547e2d09ef9e6bcba48e1f89455
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4125635"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5279235"
 ---
 # <a name="schedule-assistant-overview"></a>Кесте көмекшісіне шолу
 
@@ -25,7 +25,7 @@ _**Қолданылу аясы:** Ресурс/биржадан тыс негі�
 
 ## <a name="prerequisites"></a>Алғышарттар
 
-Кесте көмекшісі - бұл Universal Resource Scheduling шешімінің бөлігі. Бұл шешім Dynamics 365 Project Operations, Dynamics 365 Field Service және Dynamics 365 Customer Service бағдарламалар құрамына енгізілген және орнатылған.
+Кесте көмекшісі - бұл Universal Resource Scheduling шешімінің бөлігі. Бұл шешім Dynamics 365 Project Operations, Dynamics 365 Field Service және Dynamics 365 Customer Service бағдарламаларының көмегімен қосылады және орнатылады.
 
 ## <a name="matching-requirements-and-resources"></a>Сәйкес талаптар мен ресурстар
 

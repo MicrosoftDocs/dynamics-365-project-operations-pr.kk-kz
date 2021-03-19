@@ -18,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.3
 ms.search.validFrom: 2019-05-29
-ms.openlocfilehash: 1ea1ca002a8f68f86808831b398e452244471322
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 5dae571fce746b49281587f5349774a7f2c4111b
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079714"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5271000"
 ---
 # <a name="implement-custom-fields-for-the-microsoft-dynamics-365-project-timesheet-mobile-app-on-ios-and-android"></a>iOS және Android жүйесіндегі Microsoft Dynamics 365 Project Timesheet мобильді құрылғы бағдарламасы үшін реттелмелі өрістерді ендіру
 
@@ -181,7 +181,7 @@ ms.locfileid: "4079714"
 
 Келесі мысалда уақыт жазбаларындағы жол өрісі көрсетіледі. Бұл өрісте ажыратпа-қосқыштар (радио түймешіктер) арқылы қолжетімді болатын **Бірінші параметр** және **Екінші параметр** атты екі параметр бар. Бағдарламадағы өріс TSTimesheetLine кестесіне қосылатын **TestLineString** өрісімен байланыстырылады.
 
-Реттелмелі өріс сипаттарының баптандырылуын жеңілдету үшін **TSTimesheetCustomField::newFromMetatdata()** әдісін пайдалануды ескеріңіз: **fieldBaseType** , **tableName** , **fieldname** , **белгі** , **isEditable** , **isMandatory** , **stringLength** және **numberOfDecimals**. Сондай-ақ осы параметрлерді қалауыңызша қолмен орнатуға болады.
+Реттелмелі өріс сипаттарының баптандырылуын жеңілдету үшін **TSTimesheetCustomField::newFromMetatdata()** әдісін пайдалануды ескеріңіз: **fieldBaseType**, **tableName**, **fieldname**, **белгі**, **isEditable**, **isMandatory**, **stringLength** және **numberOfDecimals**. Сондай-ақ осы параметрлерді қалауыңызша қолмен орнатуға болады.
 
 ```xpp
 ...
@@ -410,7 +410,7 @@ final class TSTimesheetDetails_Extension
 
 - Егер TSTimesheetLine кестесіндегі **validateWrite** мәні уақыт кестесінің жолы үшін операцияны сақтау кезінде **жалған** мәніне оралса, мобильді құрылғы бағдарламасында қате туралы хабар көрсетіледі.
 - Егер TSTimesheetTable кестесіндегі **validateSubmit** мәні бағдарламадағы уақыт кестесін жіберу кезінде **жалған** мәніне оралса, пайдаланушыға қате туралы хабар көрсетіледі.
-- Өрістерді (мысалы, **Жол сипаты** ) толтыратын логика TSTimesheetLine кестесіндегі **енгізу** әдісі кезінде орындалады.
+- Өрістерді (мысалы, **Жол сипаты**) толтыратын логика TSTimesheetLine кестесіндегі **енгізу** әдісі кезінде орындалады.
 
 ### <a name="hiding-and-marking-out-of-box-fields-as-read-only-via-configuration"></a>Кірістірілген өрістерді конфигурация арқылы тек оқу үшін жасыру және белгілеу
 

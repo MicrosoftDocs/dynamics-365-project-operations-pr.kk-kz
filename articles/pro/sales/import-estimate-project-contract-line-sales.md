@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: b462af163fef1bfcbbc4f945df722d4e8a71fb1a
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: b6b017177e718110969363844d5db4c393949d28
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177473"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5273475"
 ---
 # <a name="import-an-estimate-to-a-project-based-contract-line---lite"></a>Болжамды жобаға негізделген келісім-шарт жолына импорттау - жеңілдетілген
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Dynamics 365 Project Operations бағдарламасында болжамдарды жобадан жобаға негізделген келісім-шарт жолдарына импорттай аласыз.
+Dynamics 365 Project Operations бағдарламасында болжамдарды жобадан жобаға негізделген келісім-шарт жолына импорттауға болады.
 
 1. Жобаға негізделген келісім-шарт жолындағы **Жоба** өрісінің толтырылғандығына көз жеткізіңіз.
 2. **Келісім-шарт жолдары туралы мәліметтер** қойыншасындағы қосымша торда **Жобаны бағалаудан импорттау** опциясын таңдаңыз. Қорытындылау опциялары бар диалогтық бет ашылады. Қолжетімді қорытындылау опциялары: **Транзакция класы**, **Санат**, **Рөлі** және **Жоба тапсырмасы**.

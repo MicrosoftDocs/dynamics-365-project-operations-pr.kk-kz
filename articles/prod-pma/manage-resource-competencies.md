@@ -18,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 34a3ea3dda64969fe66248e295cd3dd8bbe72a05
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: db96ffc5fdd6bc759cd35fff0a39a64d9854a4f0
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079685"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5270640"
 ---
 # <a name="manage-resource-competencies"></a>Ресурс құзыреттіліктерін басқару
 
@@ -42,7 +42,7 @@ ms.locfileid: "4079685"
 1. **Жұмысшылар** тізім бетінен жұмысшы сертификат туралы ақпаратты қосатын жолды таңдаңыз.
 2. Әрекеттер тақтасындағы **Жұмысшы** қойыншасынан **Құзыреттер** тобындағы **Сертификаттар** опциясын таңдаңыз.
 3. **Жаңа** опциясын, содан кейін **Сертификат түрі** өрісінен **PMP** параметрін таңдаңыз.
-4. **Басталу күні** өрісінен **10/1/2015** , содан кейін **Сақтау** опциясын таңдаңыз.
+4. **Басталу күні** өрісінен **10/1/2015**, содан кейін **Сақтау** опциясын таңдаңыз.
 
 ## <a name="set-up-competencies-skills"></a>Құзыреттерді орнату: біліктіліктер
 

@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 5d2bb415362a088e01253fbe54f9f06569b4a921
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: ccdbdce6b7d006adc9be2b5f3573dd8e79dd2b8d
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122890"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5276985"
 ---
 # <a name="configure-project-operations-integration-per-legal-entity"></a>Project Operations интеграциясын әр заңды тұлға үшін конфигурациялау 
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырып заңды тұлғаларға арналған Dynamics 365 Project Operations конфигурациясы үшін қажетті қадамдар сипатталады.
+Бұл бөлімде әр заңды тұлға үшін Dynamics 365 Project Operations бағдарламасын конфигурациялауға қажетті қадамдар сипатталған.
 
 ## <a name="enable-feature-keys-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде мүмкіндік кілттерін қосу
 

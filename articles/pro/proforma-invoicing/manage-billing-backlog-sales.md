@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 0e3ca167fa53a6923727eff3e7c34c8706dc7455
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 77c4df8c4370017b9199eec3a21cd07dd0343fd9
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4176978"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5274105"
 ---
 # <a name="manage-the-billing-backlog---lite"></a>Орындалмаған шот тапсырмаларын басқару - жеңілдетілген
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Dynamics 365 Project Operations бағдарламасы орындалмаған шот тапсырмаларын басқаруға көмектесетін арнайы көріністерге ие. Орындалмаған шот тапсырмаларын басқару үшін **Сатылым** аймағының **Шот** астындағы сілтемелерді таңдаңыз. 
+Dynamics 365 Project Operations бағдарламасы орындалмаған шот ұсыну тапсырмаларын басқаруға көмектесетін арнайы көріністерге ие. Орындалмаған шот тапсырмаларын басқару үшін **Сатылым** аймағының **Шот** астындағы сілтемелерді таңдаңыз. 
 
 Төмендегі көріністер қол жетімді:
 

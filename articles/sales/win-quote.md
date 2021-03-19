@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 47804db0144c2b0f9dee2c60518e8aba6fb27473
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: a2c752ba6395ed4bf025092219350dc245f7428f
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124690"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5277255"
 ---
 # <a name="close-a-quote"></a>Баға ұсынуды жабу
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Жобаның баға ұсынысын Ұтқан немесе Ұтылған ретінде жабуға болады. Белсендіру және түзету функцияларына Microsoft Dynamics 365 Project Operations бағдарламасындағы баға ұсыныстарында қолдау көрсетілмейтіндіктен баға ұсынысының жобасын жабуға болады.
+Жобаның баға ұсынысын Ұтқан немесе Ұтылған ретінде жабуға болады. Microsoft Dynamics 365 Project Operations бағдарламасында баға ұсыныстарындағы белсендіру және түзету функцияларына қолдау көрсетілмейтіндіктен, жоба баға ұсынысын жабуға болады.
 
 ## <a name="close-a-quote-as-won"></a>Баға ұсынысын Ұтқан ретінде жабу
 

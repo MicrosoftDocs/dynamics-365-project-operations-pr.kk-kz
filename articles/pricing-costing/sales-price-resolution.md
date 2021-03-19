@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 8c18dd734312b2dd147381169f5c3dc38a68a601
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 6e89e23189fa65057d7b955897924057c440ccd8
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4119560"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5274960"
 ---
 # <a name="resolve-sales-prices-for-estimates-and-actuals"></a>Сатылым бағаларын болжамдар мен нақты көрсеткіштерге бөлу
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Болжамдар мен нақты көрсеткіштер бойынша сатылым бағалары Dynamics 365 Project Operations бағдарламасында бөлінген кезде жүйе сатылым бағаларының тізімін бөлу үшін алдымен тиісті жоба ұсынысының немесе келісім-шартының күні мен валютасын пайдаланады. Сатылым бағаларының тізімі бөлінгеннен кейін, жүйе сатылымды немесе пайыздық мөлшерлемені шешеді.
+Болжамдардағы сатылым бағалары мен нақты көрсеткіштер Dynamics 365 Project Operations бағдарламасында шешілген кезде, жүйе сатылым бағатізбелерін шешу үшін алдымен қатысты жоба бағы ұсынысының немесе келісім-шартының күні мен валютасын пайдаланады. Сатылым бағаларының тізімі бөлінгеннен кейін, жүйе сатылымды немесе пайыздық мөлшерлемені шешеді.
 
 ## <a name="resolve-sales-rates-on-actual-and-estimate-lines-for-time"></a>Уақыт үшін сатылым мөлшерлемелерін нақты және болжамды жолдарға бөліңіз
 
