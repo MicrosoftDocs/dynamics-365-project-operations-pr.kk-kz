@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: e9d3a5d8e6e1daafac72a3b4c0380b679d1869bd
-ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
+ms.openlocfilehash: 2da6af3240d8e561d01b1fcd8d32b657dbac1588
+ms.sourcegitcommit: 24528bb9c0ef8898077cb3bc672daa211c0e73aa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "4401225"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5479571"
 ---
 # <a name="determine-your-deployment-type"></a>Сіздегі орналастыру түрін анықтау
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 > [!IMPORTANT]
-> Лицензияны сатып алғаннан кейін [Басқарылатын орнату ағынын](https://aka.ms/provisionprojectoperations) пайдалану арқылы Dynamics 365 Project Operations бағдарламасының ең тиімді орналастыру үлгісін анықтау үшін осы жерден бастаңыз.
+> Лицензияны сатып алғаннан кейін, [Қадамдық орнату ағыны](https://aka.ms/provisionprojectoperations) арқылы Dynamics 365 Project Operations ең жақсы орналастыру үлгісін анықтау үшін осы жерден бастаңыз.
 > Басқарылатын орнату ағынын аяқтағаннан кейін орнатуды аяқтау үшін тиісті басқару порталына бағытталасыз. Орнатуды аяқтау үшін орналастыру мәліметтерін қараңыз.
 
 
@@ -31,6 +31,9 @@ Project Operations жүйесі Project Service Automation көмегімен ж
 
 Жобалық басқару және есеп мүмкіндіктерін пайдаланатын Finance бағдарламасының бұрыннан бар тұтынушылары оны сол күйінде пайдалана алады. [Қосалқы/өндіріс тапсырысы сценарийлеріне арналған Project Operations](#pma) қараңыз.
 
+
+## <a name="deployment-regions"></a>Орналастыру аймақтары
+Project Operations бағдарламасын орналастыруға қолдау көрсететін аймақтарды анықтау үшін [Dynamics 365 және Power Platform есебіне арналған географиялық қолжетімділік](https://dynamics.microsoft.com/en-us/geographic-availability/) бөлімін қараңыз. **Есепті қарау** параметрін таңдап, қолдау көрсетілетін аймақтарды көру үшін **Dynamics 365> Operations бағдарламалары > Dynamics 365 Project Operations** тармағын кеңейтіңіз.
 
 ## <a name="deployment-types"></a>Орналастыру түрлері
 Project Operations сіздің қажеттіліктеріңізге сәйкес бірнеше орналастыру нұсқаларын қолдайды. Сіз Dynamics 365 жаңа немесе қолданыстағы тұтынушысы болсаңыз да, Project Operations сіздің қажеттіліктеріңізді қолдай алады.
