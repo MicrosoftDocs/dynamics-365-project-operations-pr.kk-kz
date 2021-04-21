@@ -1,6 +1,6 @@
 ---
-title: Жобаға негізделген баға ұсыну жолдарына шолу
-description: Бұл тақырыпта Project Operations бағдарламасындағы жоба жұмысына арналған жобаға негізделген баға ұсыну жолын пайдалану туралы ақпарат берілген.
+title: Жобаның баға ұсыну жолдарына шолу
+description: Бұл тақырыпта жобалық жұмыс үшін жобалық баға ұсыныстарын пайдалану туралы ақпарат берілген.
 author: rumant
 manager: Annbe
 ms.date: 10/01/2020
@@ -8,119 +8,119 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: e61a9fbf357123884397b930662d11f22bfdeaa0
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: fa48a90c275eae1b0c0dbce685ae718dd9674c88
+ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5277795"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "5858030"
 ---
-# <a name="project-based-quote-lines-overview"></a><span data-ttu-id="80bfb-103">Жобаға негізделген баға ұсыну жолдарына шолу</span><span class="sxs-lookup"><span data-stu-id="80bfb-103">Project-based quote lines overview</span></span>
+# <a name="project-quote-lines-overview"></a><span data-ttu-id="04326-103">Жобаның баға ұсыну жолдарына шолу</span><span class="sxs-lookup"><span data-stu-id="04326-103">Project quote lines overview</span></span>
 
-<span data-ttu-id="80bfb-104">_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_</span><span class="sxs-lookup"><span data-stu-id="80bfb-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
+<span data-ttu-id="04326-104">_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_</span><span class="sxs-lookup"><span data-stu-id="04326-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
 
-<span data-ttu-id="80bfb-105">Жобаға негізделген баға ұсыну жолдары жоба жұмысын бағалауға көмектесуге арналған.</span><span class="sxs-lookup"><span data-stu-id="80bfb-105">Project-based quote lines are designed to help estimate the project work on an engagement.</span></span> <span data-ttu-id="80bfb-106">Жобаға негізделген баға ұсыну жолының құрылымы жоба болжамдары үшін келесі тұжырымдамалармен кеңейтілген:</span><span class="sxs-lookup"><span data-stu-id="80bfb-106">The structure of a project-based quote line is extended for project estimates with the following concepts:</span></span>
+<span data-ttu-id="04326-105">Жобаға негізделген баға ұсыну жолдары жоба жұмысын бағалауға көмектесуге арналған.</span><span class="sxs-lookup"><span data-stu-id="04326-105">Project-based quote lines are designed to help estimate the project work on an engagement.</span></span> <span data-ttu-id="04326-106">Жобаға негізделген баға ұсыну жолының құрылымы жоба болжамдары үшін келесі тұжырымдамалармен кеңейтілген:</span><span class="sxs-lookup"><span data-stu-id="04326-106">The structure of a project-based quote line is extended for project estimates with the following concepts:</span></span>
 
-- <span data-ttu-id="80bfb-107">Есепшот ұсыну әдісі</span><span class="sxs-lookup"><span data-stu-id="80bfb-107">Billing Method</span></span>
-- <span data-ttu-id="80bfb-108">Жобаны салыстыру</span><span class="sxs-lookup"><span data-stu-id="80bfb-108">Project Mapping</span></span>
-- <span data-ttu-id="80bfb-109">Қамтылған транзакция кластары</span><span class="sxs-lookup"><span data-stu-id="80bfb-109">Included Transaction classes</span></span>
-- <span data-ttu-id="80bfb-110">Асырмау шегі</span><span class="sxs-lookup"><span data-stu-id="80bfb-110">Not-to-Exceed Limit</span></span>
-- <span data-ttu-id="80bfb-111">Төлем қабілеттілігін орнату</span><span class="sxs-lookup"><span data-stu-id="80bfb-111">Chargeability setup</span></span>
-- <span data-ttu-id="80bfb-112">Баға ұсыну жолының мәліметтері көмегімен бағалау</span><span class="sxs-lookup"><span data-stu-id="80bfb-112">Estimation using Quote Line Details</span></span>
-- <span data-ttu-id="80bfb-113">Баға ұсыну жолының тұтынушылары</span><span class="sxs-lookup"><span data-stu-id="80bfb-113">Quote line Customers</span></span>
+- <span data-ttu-id="04326-107">Есепшот ұсыну әдісі</span><span class="sxs-lookup"><span data-stu-id="04326-107">Billing Method</span></span>
+- <span data-ttu-id="04326-108">Жобаны салыстыру</span><span class="sxs-lookup"><span data-stu-id="04326-108">Project Mapping</span></span>
+- <span data-ttu-id="04326-109">Қамтылған транзакция кластары</span><span class="sxs-lookup"><span data-stu-id="04326-109">Included Transaction classes</span></span>
+- <span data-ttu-id="04326-110">Асырмау шегі</span><span class="sxs-lookup"><span data-stu-id="04326-110">Not-to-Exceed Limit</span></span>
+- <span data-ttu-id="04326-111">Төлем қабілеттілігін орнату</span><span class="sxs-lookup"><span data-stu-id="04326-111">Chargeability setup</span></span>
+- <span data-ttu-id="04326-112">Баға ұсыну жолының мәліметтері көмегімен бағалау</span><span class="sxs-lookup"><span data-stu-id="04326-112">Estimation using Quote Line Details</span></span>
+- <span data-ttu-id="04326-113">Баға ұсыну жолының тұтынушылары</span><span class="sxs-lookup"><span data-stu-id="04326-113">Quote line Customers</span></span>
 
-<span data-ttu-id="80bfb-114">Келесі кестеде жобаға негізделген баға ұсыну жолының **Жалпы** қойыншасындағы өрістері туралы ақпарат берілген.</span><span class="sxs-lookup"><span data-stu-id="80bfb-114">The following table provides information about the fields on the **General** tab of project-based quote line.</span></span> <span data-ttu-id="80bfb-115">Бұл өрістер жоба жұмысын егжей-тегжейлі, алдын ала болжам негізін орнатуға көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-115">These fields help set up the basis for a detailed, ground-up estimation for project work.</span></span>
+<span data-ttu-id="04326-114">Келесі кестеде жобаға негізделген баға ұсыну жолының **Жалпы** қойыншасындағы өрістері туралы ақпарат берілген.</span><span class="sxs-lookup"><span data-stu-id="04326-114">The following table provides information about the fields on the **General** tab of project-based quote line.</span></span> <span data-ttu-id="04326-115">Бұл өрістер жоба жұмысын егжей-тегжейлі, алдын ала болжам негізін орнатуға көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="04326-115">These fields help set up the basis for a detailed, ground-up estimation for project work.</span></span>
 
-| <span data-ttu-id="80bfb-116">**Өріс**</span><span class="sxs-lookup"><span data-stu-id="80bfb-116">**Field**</span></span> | <span data-ttu-id="80bfb-117">**Сипаттамасы**</span><span class="sxs-lookup"><span data-stu-id="80bfb-117">**Description**</span></span> | <span data-ttu-id="80bfb-118">**Төменгі әсер**</span><span class="sxs-lookup"><span data-stu-id="80bfb-118">**Downstream impact**</span></span> |
+| <span data-ttu-id="04326-116">**Өріс**</span><span class="sxs-lookup"><span data-stu-id="04326-116">**Field**</span></span> | <span data-ttu-id="04326-117">**Сипаттамасы**</span><span class="sxs-lookup"><span data-stu-id="04326-117">**Description**</span></span> | <span data-ttu-id="04326-118">**Төменгі әсер**</span><span class="sxs-lookup"><span data-stu-id="04326-118">**Downstream impact**</span></span> |
 | --- | --- | --- |
-| <span data-ttu-id="80bfb-119">Атауы</span><span class="sxs-lookup"><span data-stu-id="80bfb-119">Name</span></span> | <span data-ttu-id="80bfb-120">Бағаланатын баға ұсынудың жеке компонентін анықтауға көмектесетін баға ұсыну жолының атауы.</span><span class="sxs-lookup"><span data-stu-id="80bfb-120">The name of quote line which should help you identify the discrete component of the quote that is being estimated.</span></span> | <span data-ttu-id="80bfb-121">Баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-121">Copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-122">Есепшот ұсыну әдісі</span><span class="sxs-lookup"><span data-stu-id="80bfb-122">Billing Method</span></span> | <span data-ttu-id="80bfb-123">Мүмкіндіктен баға ұсынысы жасалған кезде, бұл мән мүмкіндік жолының сәйкес өрісінен көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-123">On a quote created from an opportunity, this value is copied from the corresponding field on the opportunity line.</span></span> <span data-ttu-id="80bfb-124">Бұл өріс Dynamics 365 Project Operations тарапынан қолдау көрсетілетін екі негізгі келісім-шарт үлгілерін қамтиды:</span><span class="sxs-lookup"><span data-stu-id="80bfb-124">This field includes the two main contracting models supported by Dynamics 365 Project Operations:</span></span></br><span data-ttu-id="80bfb-125">- Бекітілген баға</span><span class="sxs-lookup"><span data-stu-id="80bfb-125">- Fixed price</span></span></br><span data-ttu-id="80bfb-126">- Уақыт және материал.</span><span class="sxs-lookup"><span data-stu-id="80bfb-126">- Time and material.</span></span>| <span data-ttu-id="80bfb-127">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-127">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-128">Project</span><span class="sxs-lookup"><span data-stu-id="80bfb-128">Project</span></span> | <span data-ttu-id="80bfb-129">Осы қосымша өрісті осы келісім бойынша жұмысты орындау мақсатында пайдаланылатын жобаны анықтау үшін пайдаланыңыз.</span><span class="sxs-lookup"><span data-stu-id="80bfb-129">Use this optional field to identify the project that will be used to deliver the work on this engagement.</span></span> <span data-ttu-id="80bfb-130">Жоба баға ұсыну жолымен байланыстырылған кезде, ақылы тапсырмаларды орнатуға, сондай-ақ баға ұсыну жолын баға ұсыну жолының мәліметтері ретінде жоба негізінде болжауға көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-130">When a project is mapped to a quote line, it helps with setting up chargeable tasks and also with bringing in a project-based estimate to the quote line as quote line details.</span></span> <span data-ttu-id="80bfb-131">Жоба жобаға негізделген баға ұсыну жолымен салыстырылмаған кезде, баға әр баға ұсыну жолының мәліметтерін құру арқылы қолмен жасалуы керек.</span><span class="sxs-lookup"><span data-stu-id="80bfb-131">When a project is not mapped to a project-based quote line, the estimate should be created manually by creating each quote line detail.</span></span> | <span data-ttu-id="80bfb-132">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-132">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-133">Уақытпен қоса</span><span class="sxs-lookup"><span data-stu-id="80bfb-133">Include Time</span></span> | <span data-ttu-id="80bfb-134">Таңдалған жобадағы уақыт транзакциялары немесе еңбек құны осы баға ұсыну жолындағы болжамға қосылатын жағдайда **Иә**/**Жоқ** жалаушасы көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-134">A **Yes**/**No** flag indicates if time transactions or labor costs on the selected project will be included in the estimate on this quote line.</span></span> <span data-ttu-id="80bfb-135">Баға ұсыну жолындағы болжамға уақыт транзакциялары немесе еңбек құны қосылмайтын болған жағдайда, **Жоқ** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-135">A **No** value indicates that the time transactions or labor cost will not be included in the estimate on this quote line.</span></span> <span data-ttu-id="80bfb-136">Баға ұсыну жолындағы болжамға уақыт транзакциялары немесе еңбек құны қосылатын жағдайда, **Иә** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-136">A **Yes** value indicates that the time transactions or labor cost will be included in the estimate on this quote line.</span></span> | <span data-ttu-id="80bfb-137">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-137">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-138">Шығыспен қоса</span><span class="sxs-lookup"><span data-stu-id="80bfb-138">Include Expense</span></span> | <span data-ttu-id="80bfb-139">Таңдалған жобадағы шығыс құны осы баға ұсыну жолындағы болжамға қосылатын жағдайда **Иә**/**Жоқ** жалаушасы көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-139">A **Yes**/**No** flag indicates if expense costs on the selected project will be included in the estimate on this quote line.</span></span> <span data-ttu-id="80bfb-140">Баға ұсыну жолындағы болжамға шығыс құны қосылмайтын болған жағдайда, **Жоқ** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-140">A **No** value indicates that the expense cost will not be included in the estimate on this quote line.</span></span> <span data-ttu-id="80bfb-141">Баға ұсыну жолындағы болжамға шығыс құны қосылатын жағдайда, **Иә** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-141">A **Yes** value indicates that the expense cost will be included in the estimate on this quote line.</span></span> | <span data-ttu-id="80bfb-142">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-142">This field value is copied over to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-143">Ақымен қоса</span><span class="sxs-lookup"><span data-stu-id="80bfb-143">Include Fee</span></span> | <span data-ttu-id="80bfb-144">Таңдалған жобадағы төлемдер осы баға ұсыну жолындағы болжамға қосылатын жағдайда **Иә**/**Жоқ** жалаушасы көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-144">A **Yes**/**No** flag indicates if fees on the selected project will be included in the estimate on this quote line.</span></span> <span data-ttu-id="80bfb-145">Баға ұсыну жолындағы болжамға төлемдер қосылмайтын болған жағдайда, **Жоқ** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-145">A **No** value indicates that the Fees will not be included in the estimate on this quote line.</span></span> <span data-ttu-id="80bfb-146">Баға ұсыну жолындағы болжамға төлемдер қосылатын жағдайда, **Иә** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-146">A **Yes** value indicates that the Fees will be included in the estimate on this quote line.</span></span> | <span data-ttu-id="80bfb-147">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-147">This field value is copied to the Project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-148">Баға ұсынылған көлем</span><span class="sxs-lookup"><span data-stu-id="80bfb-148">Quoted Amount</span></span> | <span data-ttu-id="80bfb-149">Бұл тұтынушыға осы жобаға негізделген баға ұсыну жолы бойынша болжамдалған барлық жұмыстар үшін ұсынылатын сома.</span><span class="sxs-lookup"><span data-stu-id="80bfb-149">This is amount that will be quoted to the customer for all the work forecasted on this project-based quote line.</span></span> <span data-ttu-id="80bfb-150">Мүмкіндіктен баға ұсынысы жасалған кезде, бұл мән мүмкіндік жолындағы **Тұтынушы бюджеті** өрісінен көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-150">On a quote created from an opportunity, this value is copied from the **Customer Budget** field on the opportunity line.</span></span> <span data-ttu-id="80bfb-151">Жобаға негізделген баға ұсыну жолында жол мәліметтері болған кезде, бұл өріс өңдеу үшін бұғатталады және баға ұсыну жолындағы мәліметтердегі мөлшерден жинақталады.</span><span class="sxs-lookup"><span data-stu-id="80bfb-151">When the project-based quote line has line details, this field is locked for editing and is summarized from the amount on the quote line details.</span></span> | <span data-ttu-id="80bfb-152">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-152">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-153">Болжалды салық</span><span class="sxs-lookup"><span data-stu-id="80bfb-153">Estimated Tax</span></span> | <span data-ttu-id="80bfb-154">Бұл пайдаланушыға баға ұсыну жолына салықтың есептелген мөлшерін қосатын өңделетін өріс.</span><span class="sxs-lookup"><span data-stu-id="80bfb-154">This is an editable field for the user to add the estimated tax amount on the quote line.</span></span> <span data-ttu-id="80bfb-155">Жобаға негізделген баға ұсыну жолында жол мәліметтері болған кезде, бұл өріс өңдеу үшін бұғатталады және баға ұсыну жолындағы мәліметтердегі салық мөлшерінен жинақталады.</span><span class="sxs-lookup"><span data-stu-id="80bfb-155">When a project-based quote line has line details, this field is locked for editing and is summarized from the tax amount on the quote line details.</span></span> | <span data-ttu-id="80bfb-156">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-156">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-157">Салықтан кейінгі баға ұсыну сомасы</span><span class="sxs-lookup"><span data-stu-id="80bfb-157">Quoted Amount after Tax</span></span> | <span data-ttu-id="80bfb-158">Бұл өріс салықтан кейінгі баға ұсыну жолының сомасы болып табылады және тек оқуға арналған.</span><span class="sxs-lookup"><span data-stu-id="80bfb-158">This field is the quote line amount after tax and is read-only.</span></span> <span data-ttu-id="80bfb-159">Бұл өрістегі сома *Ұсынылған сома + Салық* ретінде есептеледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-159">The amount in this field is calculated as *Quoted Amount + Tax*.</span></span> | <span data-ttu-id="80bfb-160">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-160">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-161">Асырмау шегі</span><span class="sxs-lookup"><span data-stu-id="80bfb-161">Not-to-exceed Limit</span></span> | <span data-ttu-id="80bfb-162">Бұл өрісті өңдеуге болады және тек **Уақыт және материал** төлем әдісіне ие жобаға негізделген баға ұсыну жолдарында қолжетімді.</span><span class="sxs-lookup"><span data-stu-id="80bfb-162">This field is editable and is only available on project-based quote lines that have a **Time and Material** billing method.</span></span> | <span data-ttu-id="80bfb-163">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-163">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
-| <span data-ttu-id="80bfb-164">Тұтынушы бюджеті</span><span class="sxs-lookup"><span data-stu-id="80bfb-164">Customer Budget</span></span> | <span data-ttu-id="80bfb-165">Бұл өрісті өңдеуге болады және мүмкіндіктен баға ұсынуы жасалған жағдайда, мүмкіндік жолындағы сәйкес өрісінен көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-165">This field is editable and is copied from the corresponding field on the opportunity line if the quote was created from an opportunity.</span></span> | <span data-ttu-id="80bfb-166">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="80bfb-166">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-119">Атауы</span><span class="sxs-lookup"><span data-stu-id="04326-119">Name</span></span> | <span data-ttu-id="04326-120">Бағаланатын баға ұсынудың жеке компонентін анықтауға көмектесетін баға ұсыну жолының атауы.</span><span class="sxs-lookup"><span data-stu-id="04326-120">The name of quote line which should help you identify the discrete component of the quote that is being estimated.</span></span> | <span data-ttu-id="04326-121">Баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-121">Copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-122">Есепшот ұсыну әдісі</span><span class="sxs-lookup"><span data-stu-id="04326-122">Billing Method</span></span> | <span data-ttu-id="04326-123">Мүмкіндіктен баға ұсынысы жасалған кезде, бұл мән мүмкіндік жолының сәйкес өрісінен көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-123">On a quote created from an opportunity, this value is copied from the corresponding field on the opportunity line.</span></span> <span data-ttu-id="04326-124">Бұл өріс Dynamics 365 Project Operations тарапынан қолдау көрсетілетін екі негізгі келісім-шарт үлгілерін қамтиды:</span><span class="sxs-lookup"><span data-stu-id="04326-124">This field includes the two main contracting models supported by Dynamics 365 Project Operations:</span></span></br><span data-ttu-id="04326-125">- Бекітілген баға</span><span class="sxs-lookup"><span data-stu-id="04326-125">- Fixed price</span></span></br><span data-ttu-id="04326-126">- Уақыт және материал.</span><span class="sxs-lookup"><span data-stu-id="04326-126">- Time and material.</span></span>| <span data-ttu-id="04326-127">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-127">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-128">Project</span><span class="sxs-lookup"><span data-stu-id="04326-128">Project</span></span> | <span data-ttu-id="04326-129">Осы қосымша өрісті осы келісім бойынша жұмысты орындау мақсатында пайдаланылатын жобаны анықтау үшін пайдаланыңыз.</span><span class="sxs-lookup"><span data-stu-id="04326-129">Use this optional field to identify the project that will be used to deliver the work on this engagement.</span></span> <span data-ttu-id="04326-130">Жоба баға ұсыну жолымен байланыстырылған кезде, ақылы тапсырмаларды орнатуға, сондай-ақ баға ұсыну жолын баға ұсыну жолының мәліметтері ретінде жоба негізінде болжауға көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="04326-130">When a project is mapped to a quote line, it helps with setting up chargeable tasks and also with bringing in a project-based estimate to the quote line as quote line details.</span></span> <span data-ttu-id="04326-131">Жоба жобаға негізделген баға ұсыну жолымен салыстырылмаған кезде, баға әр баға ұсыну жолының мәліметтерін құру арқылы қолмен жасалуы керек.</span><span class="sxs-lookup"><span data-stu-id="04326-131">When a project is not mapped to a project-based quote line, the estimate should be created manually by creating each quote line detail.</span></span> | <span data-ttu-id="04326-132">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-132">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-133">Уақытпен қоса</span><span class="sxs-lookup"><span data-stu-id="04326-133">Include Time</span></span> | <span data-ttu-id="04326-134">Таңдалған жобадағы уақыт транзакциялары немесе еңбек құны осы баға ұсыну жолындағы болжамға қосылатын жағдайда **Иә**/**Жоқ** жалаушасы көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-134">A **Yes**/**No** flag indicates if time transactions or labor costs on the selected project will be included in the estimate on this quote line.</span></span> <span data-ttu-id="04326-135">Баға ұсыну жолындағы болжамға уақыт транзакциялары немесе еңбек құны қосылмайтын болған жағдайда, **Жоқ** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-135">A **No** value indicates that the time transactions or labor cost will not be included in the estimate on this quote line.</span></span> <span data-ttu-id="04326-136">Баға ұсыну жолындағы болжамға уақыт транзакциялары немесе еңбек құны қосылатын жағдайда, **Иә** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-136">A **Yes** value indicates that the time transactions or labor cost will be included in the estimate on this quote line.</span></span> | <span data-ttu-id="04326-137">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-137">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-138">Шығыспен қоса</span><span class="sxs-lookup"><span data-stu-id="04326-138">Include Expense</span></span> | <span data-ttu-id="04326-139">Таңдалған жобадағы шығыс құны осы баға ұсыну жолындағы болжамға қосылатын жағдайда **Иә**/**Жоқ** жалаушасы көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-139">A **Yes**/**No** flag indicates if expense costs on the selected project will be included in the estimate on this quote line.</span></span> <span data-ttu-id="04326-140">Баға ұсыну жолындағы болжамға шығыс құны қосылмайтын болған жағдайда, **Жоқ** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-140">A **No** value indicates that the expense cost will not be included in the estimate on this quote line.</span></span> <span data-ttu-id="04326-141">Баға ұсыну жолындағы болжамға шығыс құны қосылатын жағдайда, **Иә** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-141">A **Yes** value indicates that the expense cost will be included in the estimate on this quote line.</span></span> | <span data-ttu-id="04326-142">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-142">This field value is copied over to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-143">Ақымен қоса</span><span class="sxs-lookup"><span data-stu-id="04326-143">Include Fee</span></span> | <span data-ttu-id="04326-144">Таңдалған жобадағы төлемдер осы баға ұсыну жолындағы болжамға қосылатын жағдайда **Иә**/**Жоқ** жалаушасы көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-144">A **Yes**/**No** flag indicates if fees on the selected project will be included in the estimate on this quote line.</span></span> <span data-ttu-id="04326-145">Баға ұсыну жолындағы болжамға төлемдер қосылмайтын болған жағдайда, **Жоқ** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-145">A **No** value indicates that the Fees will not be included in the estimate on this quote line.</span></span> <span data-ttu-id="04326-146">Баға ұсыну жолындағы болжамға төлемдер қосылатын жағдайда, **Иә** мәні көрсетіледі.</span><span class="sxs-lookup"><span data-stu-id="04326-146">A **Yes** value indicates that the Fees will be included in the estimate on this quote line.</span></span> | <span data-ttu-id="04326-147">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-147">This field value is copied to the Project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-148">Баға ұсынылған көлем</span><span class="sxs-lookup"><span data-stu-id="04326-148">Quoted Amount</span></span> | <span data-ttu-id="04326-149">Бұл тұтынушыға осы жобаға негізделген баға ұсыну жолы бойынша болжамдалған барлық жұмыстар үшін ұсынылатын сома.</span><span class="sxs-lookup"><span data-stu-id="04326-149">This is amount that will be quoted to the customer for all the work forecasted on this project-based quote line.</span></span> <span data-ttu-id="04326-150">Мүмкіндіктен баға ұсынысы жасалған кезде, бұл мән мүмкіндік жолындағы **Тұтынушы бюджеті** өрісінен көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-150">On a quote created from an opportunity, this value is copied from the **Customer Budget** field on the opportunity line.</span></span> <span data-ttu-id="04326-151">Жобаға негізделген баға ұсыну жолында жол мәліметтері болған кезде, бұл өріс өңдеу үшін бұғатталады және баға ұсыну жолындағы мәліметтердегі мөлшерден жинақталады.</span><span class="sxs-lookup"><span data-stu-id="04326-151">When the project-based quote line has line details, this field is locked for editing and is summarized from the amount on the quote line details.</span></span> | <span data-ttu-id="04326-152">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-152">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-153">Болжалды салық</span><span class="sxs-lookup"><span data-stu-id="04326-153">Estimated Tax</span></span> | <span data-ttu-id="04326-154">Бұл пайдаланушыға баға ұсыну жолына салықтың есептелген мөлшерін қосатын өңделетін өріс.</span><span class="sxs-lookup"><span data-stu-id="04326-154">This is an editable field for the user to add the estimated tax amount on the quote line.</span></span> <span data-ttu-id="04326-155">Жобаға негізделген баға ұсыну жолында жол мәліметтері болған кезде, бұл өріс өңдеу үшін бұғатталады және баға ұсыну жолындағы мәліметтердегі салық мөлшерінен жинақталады.</span><span class="sxs-lookup"><span data-stu-id="04326-155">When a project-based quote line has line details, this field is locked for editing and is summarized from the tax amount on the quote line details.</span></span> | <span data-ttu-id="04326-156">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-156">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-157">Салықтан кейінгі баға ұсыну сомасы</span><span class="sxs-lookup"><span data-stu-id="04326-157">Quoted Amount after Tax</span></span> | <span data-ttu-id="04326-158">Бұл өріс салықтан кейінгі баға ұсыну жолының сомасы болып табылады және тек оқуға арналған.</span><span class="sxs-lookup"><span data-stu-id="04326-158">This field is the quote line amount after tax and is read-only.</span></span> <span data-ttu-id="04326-159">Бұл өрістегі сома *Ұсынылған сома + Салық* ретінде есептеледі.</span><span class="sxs-lookup"><span data-stu-id="04326-159">The amount in this field is calculated as *Quoted Amount + Tax*.</span></span> | <span data-ttu-id="04326-160">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-160">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-161">Асырмау шегі</span><span class="sxs-lookup"><span data-stu-id="04326-161">Not-to-exceed Limit</span></span> | <span data-ttu-id="04326-162">Бұл өрісті өңдеуге болады және тек **Уақыт және материал** төлем әдісіне ие жобаға негізделген баға ұсыну жолдарында қолжетімді.</span><span class="sxs-lookup"><span data-stu-id="04326-162">This field is editable and is only available on project-based quote lines that have a **Time and Material** billing method.</span></span> | <span data-ttu-id="04326-163">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-163">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
+| <span data-ttu-id="04326-164">Тұтынушы бюджеті</span><span class="sxs-lookup"><span data-stu-id="04326-164">Customer Budget</span></span> | <span data-ttu-id="04326-165">Бұл өрісті өңдеуге болады және мүмкіндіктен баға ұсынуы жасалған жағдайда, мүмкіндік жолындағы сәйкес өрісінен көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-165">This field is editable and is copied from the corresponding field on the opportunity line if the quote was created from an opportunity.</span></span> | <span data-ttu-id="04326-166">Бұл өріс мәні баға ұсынуын ұтып алған кезде, осы баға ұсыну жолынан жасалған жоба келісімшартының жолына көшіріледі.</span><span class="sxs-lookup"><span data-stu-id="04326-166">This field value is copied to the project contract line that is created from this quote line when the quote is won.</span></span> |
 
-## <a name="validation-rules-for-fields-on-the-general-tab-of-project-based-quote-lines"></a><span data-ttu-id="80bfb-167">Жобаға негізделген баға ұсыну жолдарының Жалпы қойыншасындағы өрістерді тексеру ережелері</span><span class="sxs-lookup"><span data-stu-id="80bfb-167">Validation rules for fields on the General tab of project-based quote lines</span></span>
+## <a name="validation-rules-for-fields-on-the-general-tab-of-project-based-quote-lines"></a><span data-ttu-id="04326-167">Жобаға негізделген баға ұсыну жолдарының Жалпы қойыншасындағы өрістерді тексеру ережелері</span><span class="sxs-lookup"><span data-stu-id="04326-167">Validation rules for fields on the General tab of project-based quote lines</span></span>
 
-<span data-ttu-id="80bfb-168">**1-ереже** : Таңдалған жоба бойынша белгілі бір транзакция класын тек бір баға ұсыныстарының жобаға негізделген баға ұсыну жолына енгізуге болады.</span><span class="sxs-lookup"><span data-stu-id="80bfb-168">**Rule 1**: A certain transaction class on the selected project can only be included on one project-based quote line of a quote.</span></span>
+<span data-ttu-id="04326-168">**1-ереже** : Таңдалған жоба бойынша белгілі бір транзакция класын тек бір баға ұсыныстарының жобаға негізделген баға ұсыну жолына енгізуге болады.</span><span class="sxs-lookup"><span data-stu-id="04326-168">**Rule 1**: A certain transaction class on the selected project can only be included on one project-based quote line of a quote.</span></span>
 
-<span data-ttu-id="80bfb-169">**2-ереже**: Егер мүмкіндікте бірнеше баға ұсыныстары болса, онда барлығы бірдей жобаға сілтеме жасайтын және бір транзакция класын қамтитын әртүрлі баға ұсыныстарында баға ұсыну жолдары болуы мүмкін.</span><span class="sxs-lookup"><span data-stu-id="80bfb-169">**Rule 2**: If an opportunity has multiple quotes, there can be quote lines from different quotes that all reference the same project and include the same transaction class.</span></span>
+<span data-ttu-id="04326-169">**2-ереже**: Егер мүмкіндікте бірнеше баға ұсыныстары болса, онда барлығы бірдей жобаға сілтеме жасайтын және бір транзакция класын қамтитын әртүрлі баға ұсыныстарында баға ұсыну жолдары болуы мүмкін.</span><span class="sxs-lookup"><span data-stu-id="04326-169">**Rule 2**: If an opportunity has multiple quotes, there can be quote lines from different quotes that all reference the same project and include the same transaction class.</span></span>
 
-<span data-ttu-id="80bfb-170">**3-ереже**: Егер баға ұсыныстары бірдей мүмкіндікке тиесілі болмаса, олар бірдей жоба мен транзакция класын қамтуы мүмкін емес.</span><span class="sxs-lookup"><span data-stu-id="80bfb-170">**Rule 3**: If the quotes do not belong to the same opportunity, they can't include the same project and transaction class.</span></span>
+<span data-ttu-id="04326-170">**3-ереже**: Егер баға ұсыныстары бірдей мүмкіндікке тиесілі болмаса, олар бірдей жоба мен транзакция класын қамтуы мүмкін емес.</span><span class="sxs-lookup"><span data-stu-id="04326-170">**Rule 3**: If the quotes do not belong to the same opportunity, they can't include the same project and transaction class.</span></span>
 
 <table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <td width="61" valign="top">
-                <p><span data-ttu-id="80bfb-171">
+                <p><span data-ttu-id="04326-171">
                     <strong>Мүмкіндік</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-171">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-171">
                     <strong>Opportunity</strong>
                 </span></span></p>
             </td>
             <td width="41" valign="top">
-                <p><span data-ttu-id="80bfb-172">
+                <p><span data-ttu-id="04326-172">
                     <strong>Баға ұсынысы</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-172">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-172">
                     <strong>Quote</strong>
                 </span></span></p>
             </td>
             <td width="42" valign="top">
-                <p><span data-ttu-id="80bfb-173">
+                <p><span data-ttu-id="04326-173">
                     <strong>Баға ұсыну жолы</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-173">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-173">
                     <strong>Quote line</strong>
                 </span></span></p>
             </td>
             <td width="42" valign="top">
-                <p><span data-ttu-id="80bfb-174">
+                <p><span data-ttu-id="04326-174">
                     <strong>Project</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-174">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-174">
                     <strong>Project</strong>
                 </span></span></p>
             </td>
             <td width="48" valign="top">
-                <p><span data-ttu-id="80bfb-175">
+                <p><span data-ttu-id="04326-175">
                     <strong>Уақытпен қоса</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-175">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-175">
                     <strong>Include time</strong>
                 </span></span></p>
             </td>
             <td width="48" valign="top">
-                <p><span data-ttu-id="80bfb-176">
+                <p><span data-ttu-id="04326-176">
                     <strong>Шығыспен қоса</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-176">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-176">
                     <strong>Include expense</strong>
                 </span></span></p>
             </td>
             <td width="42" valign="top">
-                <p><span data-ttu-id="80bfb-177">
+                <p><span data-ttu-id="04326-177">
                     <strong>Қамту</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-177">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-177">
                     <strong>Include</strong>
                 </span></span></p>
-                <p><span data-ttu-id="80bfb-178">
+                <p><span data-ttu-id="04326-178">
                     <strong>төлем</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-178">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-178">
                     <strong>fee</strong>
                 </span></span></p>
             </td>
             <td width="54" valign="top">
-                <p><span data-ttu-id="80bfb-179">
+                <p><span data-ttu-id="04326-179">
                     <strong>Жарамды/ Жарамсыз</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-179">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-179">
                     <strong>Valid/ Not valid</strong>
                 </span></span></p>
             </td>
             <td width="308" valign="top">
-                <p><span data-ttu-id="80bfb-180">
+                <p><span data-ttu-id="04326-180">
                     <strong>Себеп</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="80bfb-180">
+                </span><span class="sxs-lookup"><span data-stu-id="04326-180">
                     <strong>Reason</strong>
                 </span></span></p>
             </td>
@@ -128,70 +128,70 @@ ms.locfileid: "5277795"
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-181">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-181">O1</span></span> </p>
+<span data-ttu-id="04326-181">O1</span><span class="sxs-lookup"><span data-stu-id="04326-181">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-182">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-182">Q1</span></span> </p>
+<span data-ttu-id="04326-182">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-182">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-183">QL1</span><span class="sxs-lookup"><span data-stu-id="80bfb-183">QL1</span></span> </p>
+<span data-ttu-id="04326-183">QL1</span><span class="sxs-lookup"><span data-stu-id="04326-183">QL1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-184">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-184">P1</span></span> </p>
+<span data-ttu-id="04326-184">P1</span><span class="sxs-lookup"><span data-stu-id="04326-184">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-185">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-185">Yes</span></span> </p>
+<span data-ttu-id="04326-185">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-185">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-186">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-186">Yes</span></span> </p>
+<span data-ttu-id="04326-186">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-186">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-187">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-187">Yes</span></span> </p>
+<span data-ttu-id="04326-187">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-187">Yes</span></span> </p>
             </td>
             <td width="54" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-188">Жарамсыз</span><span class="sxs-lookup"><span data-stu-id="80bfb-188">Not valid</span></span> </p>
+<span data-ttu-id="04326-188">Жарамсыз</span><span class="sxs-lookup"><span data-stu-id="04326-188">Not valid</span></span> </p>
             </td>
             <td width="308" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-189">№1 ережені бұзу.</span><span class="sxs-lookup"><span data-stu-id="80bfb-189">Violation of Rule #1.</span></span> <span data-ttu-id="80bfb-190">Р1 жобасындағы уақыт, шығыс және төлемдер QL1 және QL2 баға ұсыну жолдарына бірдей енгізілген.</span><span class="sxs-lookup"><span data-stu-id="80bfb-190">Time, Expense, and Fees on P1 project are included on both quote lines, QL1 and QL2.</span></span>
+<span data-ttu-id="04326-189">№1 ережені бұзу.</span><span class="sxs-lookup"><span data-stu-id="04326-189">Violation of Rule #1.</span></span> <span data-ttu-id="04326-190">Р1 жобасындағы уақыт, шығыс және төлемдер QL1 және QL2 баға ұсыну жолдарына бірдей енгізілген.</span><span class="sxs-lookup"><span data-stu-id="04326-190">Time, Expense, and Fees on P1 project are included on both quote lines, QL1 and QL2.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-191">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-191">O1</span></span> </p>
+<span data-ttu-id="04326-191">O1</span><span class="sxs-lookup"><span data-stu-id="04326-191">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-192">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-192">Q1</span></span> </p>
+<span data-ttu-id="04326-192">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-192">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-193">QL2</span><span class="sxs-lookup"><span data-stu-id="80bfb-193">QL2</span></span> </p>
+<span data-ttu-id="04326-193">QL2</span><span class="sxs-lookup"><span data-stu-id="04326-193">QL2</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-194">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-194">P1</span></span> </p>
+<span data-ttu-id="04326-194">P1</span><span class="sxs-lookup"><span data-stu-id="04326-194">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-195">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-195">Yes</span></span> </p>
+<span data-ttu-id="04326-195">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-195">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-196">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-196">Yes</span></span> </p>
+<span data-ttu-id="04326-196">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-196">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-197">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-197">Yes</span></span> </p>
+<span data-ttu-id="04326-197">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-197">Yes</span></span> </p>
             </td>
         </tr>
         <tr>
@@ -217,70 +217,70 @@ ms.locfileid: "5277795"
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-198">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-198">O1</span></span> </p>
+<span data-ttu-id="04326-198">O1</span><span class="sxs-lookup"><span data-stu-id="04326-198">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-199">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-199">Q1</span></span> </p>
+<span data-ttu-id="04326-199">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-199">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-200">QL1</span><span class="sxs-lookup"><span data-stu-id="80bfb-200">QL1</span></span> </p>
+<span data-ttu-id="04326-200">QL1</span><span class="sxs-lookup"><span data-stu-id="04326-200">QL1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-201">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-201">P1</span></span> </p>
+<span data-ttu-id="04326-201">P1</span><span class="sxs-lookup"><span data-stu-id="04326-201">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-202">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-202">Yes</span></span> </p>
+<span data-ttu-id="04326-202">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-202">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-203">№</span><span class="sxs-lookup"><span data-stu-id="80bfb-203">No</span></span> </p>
+<span data-ttu-id="04326-203">№</span><span class="sxs-lookup"><span data-stu-id="04326-203">No</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-204">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-204">Yes</span></span> </p>
+<span data-ttu-id="04326-204">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-204">Yes</span></span> </p>
             </td>
             <td width="54" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-205">Жарамсыз</span><span class="sxs-lookup"><span data-stu-id="80bfb-205">Not valid</span></span> </p>
+<span data-ttu-id="04326-205">Жарамсыз</span><span class="sxs-lookup"><span data-stu-id="04326-205">Not valid</span></span> </p>
             </td>
             <td width="308" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-206">№1 ережені бұзу.</span><span class="sxs-lookup"><span data-stu-id="80bfb-206">Violation of Rule #1.</span></span> <span data-ttu-id="80bfb-207">Р1 жобасындағы уақыт және төлемдер QL1 және QL2 баға ұсыну жолдарына бірдей енгізілген.</span><span class="sxs-lookup"><span data-stu-id="80bfb-207">Time and Fees on P1 project are included on both quote lines, QL1 and QL2.</span></span>
+<span data-ttu-id="04326-206">№1 ережені бұзу.</span><span class="sxs-lookup"><span data-stu-id="04326-206">Violation of Rule #1.</span></span> <span data-ttu-id="04326-207">Р1 жобасындағы уақыт және төлемдер QL1 және QL2 баға ұсыну жолдарына бірдей енгізілген.</span><span class="sxs-lookup"><span data-stu-id="04326-207">Time and Fees on P1 project are included on both quote lines, QL1 and QL2.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-208">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-208">O1</span></span> </p>
+<span data-ttu-id="04326-208">O1</span><span class="sxs-lookup"><span data-stu-id="04326-208">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-209">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-209">Q1</span></span> </p>
+<span data-ttu-id="04326-209">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-209">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-210">QL2</span><span class="sxs-lookup"><span data-stu-id="80bfb-210">QL2</span></span> </p>
+<span data-ttu-id="04326-210">QL2</span><span class="sxs-lookup"><span data-stu-id="04326-210">QL2</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-211">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-211">P1</span></span> </p>
+<span data-ttu-id="04326-211">P1</span><span class="sxs-lookup"><span data-stu-id="04326-211">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-212">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-212">Yes</span></span> </p>
+<span data-ttu-id="04326-212">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-212">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-213">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-213">Yes</span></span> </p>
+<span data-ttu-id="04326-213">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-213">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-214">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-214">Yes</span></span> </p>
+<span data-ttu-id="04326-214">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-214">Yes</span></span> </p>
             </td>
         </tr>
         <tr>
@@ -306,72 +306,72 @@ ms.locfileid: "5277795"
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-215">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-215">O1</span></span> </p>
+<span data-ttu-id="04326-215">O1</span><span class="sxs-lookup"><span data-stu-id="04326-215">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-216">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-216">Q1</span></span> </p>
+<span data-ttu-id="04326-216">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-216">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-217">QL1</span><span class="sxs-lookup"><span data-stu-id="80bfb-217">QL1</span></span> </p>
+<span data-ttu-id="04326-217">QL1</span><span class="sxs-lookup"><span data-stu-id="04326-217">QL1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-218">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-218">P1</span></span> </p>
+<span data-ttu-id="04326-218">P1</span><span class="sxs-lookup"><span data-stu-id="04326-218">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-219">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-219">Yes</span></span> </p>
+<span data-ttu-id="04326-219">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-219">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-220">№</span><span class="sxs-lookup"><span data-stu-id="80bfb-220">No</span></span> </p>
+<span data-ttu-id="04326-220">№</span><span class="sxs-lookup"><span data-stu-id="04326-220">No</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-221">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-221">Yes</span></span> </p>
+<span data-ttu-id="04326-221">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-221">Yes</span></span> </p>
             </td>
             <td width="54" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-222">Жарамды</span><span class="sxs-lookup"><span data-stu-id="80bfb-222">Valid</span></span> </p>
+<span data-ttu-id="04326-222">Жарамды</span><span class="sxs-lookup"><span data-stu-id="04326-222">Valid</span></span> </p>
             </td>
             <td width="308" rowspan="2" valign="top">
                  <p>
-<span data-ttu-id="80bfb-223">P1 жобасындағы уақыт және төлемдер QL1 баға ұсыну жолына енгізілген.</span><span class="sxs-lookup"><span data-stu-id="80bfb-223">Time and fees on P1 project are included on QL1.</span></span>
-<span data-ttu-id="80bfb-224">P1 жобасындағы шығыс QL2 баға ұсыну жолына енгізілген.</span><span class="sxs-lookup"><span data-stu-id="80bfb-224">Expense on P1 project is included on QL2.</span></span>
-<span data-ttu-id="80bfb-225">Әр баға ұсыну жолына енгізілгенде қабаттасу жоқ, сондықтан ол жарамды.</span><span class="sxs-lookup"><span data-stu-id="80bfb-225">There is no overlap in what is being included on each quote line so it is valid.</span></span>
+<span data-ttu-id="04326-223">P1 жобасындағы уақыт және төлемдер QL1 баға ұсыну жолына енгізілген.</span><span class="sxs-lookup"><span data-stu-id="04326-223">Time and fees on P1 project are included on QL1.</span></span>
+<span data-ttu-id="04326-224">P1 жобасындағы шығыс QL2 баға ұсыну жолына енгізілген.</span><span class="sxs-lookup"><span data-stu-id="04326-224">Expense on P1 project is included on QL2.</span></span>
+<span data-ttu-id="04326-225">Әр баға ұсыну жолына енгізілгенде қабаттасу жоқ, сондықтан ол жарамды.</span><span class="sxs-lookup"><span data-stu-id="04326-225">There is no overlap in what is being included on each quote line so it is valid.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-226">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-226">O1</span></span> </p>
+<span data-ttu-id="04326-226">O1</span><span class="sxs-lookup"><span data-stu-id="04326-226">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-227">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-227">Q1</span></span> </p>
+<span data-ttu-id="04326-227">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-227">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-228">QL2</span><span class="sxs-lookup"><span data-stu-id="80bfb-228">QL2</span></span> </p>
+<span data-ttu-id="04326-228">QL2</span><span class="sxs-lookup"><span data-stu-id="04326-228">QL2</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-229">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-229">P1</span></span> </p>
+<span data-ttu-id="04326-229">P1</span><span class="sxs-lookup"><span data-stu-id="04326-229">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-230">№</span><span class="sxs-lookup"><span data-stu-id="80bfb-230">No</span></span> </p>
+<span data-ttu-id="04326-230">№</span><span class="sxs-lookup"><span data-stu-id="04326-230">No</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-231">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-231">Yes</span></span> </p>
+<span data-ttu-id="04326-231">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-231">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-232">№</span><span class="sxs-lookup"><span data-stu-id="80bfb-232">No</span></span> </p>
+<span data-ttu-id="04326-232">№</span><span class="sxs-lookup"><span data-stu-id="04326-232">No</span></span> </p>
             </td>
         </tr>
         <tr>
@@ -397,75 +397,75 @@ ms.locfileid: "5277795"
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-233">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-233">O1</span></span> </p>
+<span data-ttu-id="04326-233">O1</span><span class="sxs-lookup"><span data-stu-id="04326-233">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-234">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-234">Q1</span></span> </p>
+<span data-ttu-id="04326-234">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-234">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-235">QL1</span><span class="sxs-lookup"><span data-stu-id="80bfb-235">QL1</span></span> </p>
+<span data-ttu-id="04326-235">QL1</span><span class="sxs-lookup"><span data-stu-id="04326-235">QL1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-236">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-236">P1</span></span> </p>
+<span data-ttu-id="04326-236">P1</span><span class="sxs-lookup"><span data-stu-id="04326-236">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-237">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-237">Yes</span></span> </p>
+<span data-ttu-id="04326-237">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-237">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-238">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-238">Yes</span></span> </p>
+<span data-ttu-id="04326-238">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-238">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-239">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-239">Yes</span></span> </p>
+<span data-ttu-id="04326-239">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-239">Yes</span></span> </p>
             </td>
             <td width="54" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-240">Жарамсыз</span><span class="sxs-lookup"><span data-stu-id="80bfb-240">Not valid</span></span> </p>
+<span data-ttu-id="04326-240">Жарамсыз</span><span class="sxs-lookup"><span data-stu-id="04326-240">Not valid</span></span> </p>
             </td>
             <td width="308" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-241">Жоғарыдағы №1 ережені бұзу</span><span class="sxs-lookup"><span data-stu-id="80bfb-241">Violation of Rule #1 above</span></span> </p>
+<span data-ttu-id="04326-241">Жоғарыдағы №1 ережені бұзу</span><span class="sxs-lookup"><span data-stu-id="04326-241">Violation of Rule #1 above</span></span> </p>
                 <p>
-<span data-ttu-id="80bfb-242">Q1 бүкіл Р1 жобасына арналған уақыт, шығыстар мен төлемдерді қамтиды.</span><span class="sxs-lookup"><span data-stu-id="80bfb-242">Q1 includes Time, Expenses, and Fees for the whole project P1.</span></span>
+<span data-ttu-id="04326-242">Q1 бүкіл Р1 жобасына арналған уақыт, шығыстар мен төлемдерді қамтиды.</span><span class="sxs-lookup"><span data-stu-id="04326-242">Q1 includes Time, Expenses, and Fees for the whole project P1.</span></span>
                 </p>
                 <p>
-<span data-ttu-id="80bfb-243">QL2 бүкіл P1 жобасына арналған уақыт, шығыстар және төлемдерді қамтиды және Q1 баға ұсыну жолына енгізілгендермен қабаттасады.</span><span class="sxs-lookup"><span data-stu-id="80bfb-243">QL2 includes Time, Expenses, and Fees for the whole project P1 and overlaps with what is included on Q1.</span></span>
+<span data-ttu-id="04326-243">QL2 бүкіл P1 жобасына арналған уақыт, шығыстар және төлемдерді қамтиды және Q1 баға ұсыну жолына енгізілгендермен қабаттасады.</span><span class="sxs-lookup"><span data-stu-id="04326-243">QL2 includes Time, Expenses, and Fees for the whole project P1 and overlaps with what is included on Q1.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-244">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-244">O1</span></span> </p>
+<span data-ttu-id="04326-244">O1</span><span class="sxs-lookup"><span data-stu-id="04326-244">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-245">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-245">Q1</span></span> </p>
+<span data-ttu-id="04326-245">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-245">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-246">QL2</span><span class="sxs-lookup"><span data-stu-id="80bfb-246">QL2</span></span> </p>
+<span data-ttu-id="04326-246">QL2</span><span class="sxs-lookup"><span data-stu-id="04326-246">QL2</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-247">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-247">P1</span></span> </p>
+<span data-ttu-id="04326-247">P1</span><span class="sxs-lookup"><span data-stu-id="04326-247">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-248">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-248">Yes</span></span> </p>
+<span data-ttu-id="04326-248">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-248">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-249">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-249">Yes</span></span> </p>
+<span data-ttu-id="04326-249">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-249">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-250">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-250">Yes</span></span> </p>
+<span data-ttu-id="04326-250">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-250">Yes</span></span> </p>
             </td>
         </tr>
         <tr>
@@ -491,70 +491,70 @@ ms.locfileid: "5277795"
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-251">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-251">O1</span></span> </p>
+<span data-ttu-id="04326-251">O1</span><span class="sxs-lookup"><span data-stu-id="04326-251">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-252">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-252">Q1</span></span> </p>
+<span data-ttu-id="04326-252">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-252">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-253">QL1</span><span class="sxs-lookup"><span data-stu-id="80bfb-253">QL1</span></span> </p>
+<span data-ttu-id="04326-253">QL1</span><span class="sxs-lookup"><span data-stu-id="04326-253">QL1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-254">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-254">P1</span></span> </p>
+<span data-ttu-id="04326-254">P1</span><span class="sxs-lookup"><span data-stu-id="04326-254">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-255">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-255">Yes</span></span> </p>
+<span data-ttu-id="04326-255">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-255">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-256">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-256">Yes</span></span> </p>
+<span data-ttu-id="04326-256">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-256">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-257">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-257">Yes</span></span> </p>
+<span data-ttu-id="04326-257">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-257">Yes</span></span> </p>
             </td>
             <td width="54" valign="top">
                 <p>
-<span data-ttu-id="80bfb-258">Жарамды</span><span class="sxs-lookup"><span data-stu-id="80bfb-258">Valid</span></span> </p>
+<span data-ttu-id="04326-258">Жарамды</span><span class="sxs-lookup"><span data-stu-id="04326-258">Valid</span></span> </p>
             </td>
             <td width="308" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-259">№2 ереже негізінде, Q1 және Q2 - бір мүмкіндіктегі екі баға ұсыну жолы, сондықтан екеуі де жобаның бірдей компоненттерін бағалай алады.</span><span class="sxs-lookup"><span data-stu-id="80bfb-259">Based on Rule #2, Q1 and Q2 are two quotes on the same opportunity, so they can both estimate for the same components of a project.</span></span>
+<span data-ttu-id="04326-259">№2 ереже негізінде, Q1 және Q2 - бір мүмкіндіктегі екі баға ұсыну жолы, сондықтан екеуі де жобаның бірдей компоненттерін бағалай алады.</span><span class="sxs-lookup"><span data-stu-id="04326-259">Based on Rule #2, Q1 and Q2 are two quotes on the same opportunity, so they can both estimate for the same components of a project.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-260">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-260">O1</span></span> </p>
+<span data-ttu-id="04326-260">O1</span><span class="sxs-lookup"><span data-stu-id="04326-260">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-261">Q2</span><span class="sxs-lookup"><span data-stu-id="80bfb-261">Q2</span></span> </p>
+<span data-ttu-id="04326-261">Q2</span><span class="sxs-lookup"><span data-stu-id="04326-261">Q2</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-262">Q2 баға ұсыну жолындағы QL1</span><span class="sxs-lookup"><span data-stu-id="80bfb-262">QL1 on Q2</span></span> </p>
+<span data-ttu-id="04326-262">Q2 баға ұсыну жолындағы QL1</span><span class="sxs-lookup"><span data-stu-id="04326-262">QL1 on Q2</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-263">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-263">P1</span></span> </p>
+<span data-ttu-id="04326-263">P1</span><span class="sxs-lookup"><span data-stu-id="04326-263">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-264">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-264">Yes</span></span> </p>
+<span data-ttu-id="04326-264">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-264">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-265">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-265">Yes</span></span> </p>
+<span data-ttu-id="04326-265">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-265">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-266">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-266">Yes</span></span> </p>
+<span data-ttu-id="04326-266">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-266">Yes</span></span> </p>
             </td>
             <td width="54" valign="top">
             </td>
@@ -582,74 +582,74 @@ ms.locfileid: "5277795"
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-267">O1</span><span class="sxs-lookup"><span data-stu-id="80bfb-267">O1</span></span> </p>
+<span data-ttu-id="04326-267">O1</span><span class="sxs-lookup"><span data-stu-id="04326-267">O1</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-268">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-268">Q1</span></span> </p>
+<span data-ttu-id="04326-268">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-268">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-269">QL1</span><span class="sxs-lookup"><span data-stu-id="80bfb-269">QL1</span></span> </p>
+<span data-ttu-id="04326-269">QL1</span><span class="sxs-lookup"><span data-stu-id="04326-269">QL1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-270">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-270">P1</span></span> </p>
+<span data-ttu-id="04326-270">P1</span><span class="sxs-lookup"><span data-stu-id="04326-270">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-271">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-271">Yes</span></span> </p>
+<span data-ttu-id="04326-271">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-271">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-272">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-272">Yes</span></span> </p>
+<span data-ttu-id="04326-272">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-272">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-273">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-273">Yes</span></span> </p>
+<span data-ttu-id="04326-273">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-273">Yes</span></span> </p>
             </td>
             <td width="54" valign="top">
                 <p>
-<span data-ttu-id="80bfb-274">Жарамды</span><span class="sxs-lookup"><span data-stu-id="80bfb-274">Valid</span></span> </p>
+<span data-ttu-id="04326-274">Жарамды</span><span class="sxs-lookup"><span data-stu-id="04326-274">Valid</span></span> </p>
             </td>
             <td width="308" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="80bfb-275">№3 ереже негізінде, Q1 және Q2 - әртүрлі мүмкіндіктегі екі баға ұсыну жолы, сондықтан екеуі де бірдей жобаның бірдей компоненттерін бағалай алмайды.</span><span class="sxs-lookup"><span data-stu-id="80bfb-275">Based on Rule #3, Q1 and Q2 are two quotes on different opportunities, so they can't estimate for the same components of the same project.</span></span>
+<span data-ttu-id="04326-275">№3 ереже негізінде, Q1 және Q2 - әртүрлі мүмкіндіктегі екі баға ұсыну жолы, сондықтан екеуі де бірдей жобаның бірдей компоненттерін бағалай алмайды.</span><span class="sxs-lookup"><span data-stu-id="04326-275">Based on Rule #3, Q1 and Q2 are two quotes on different opportunities, so they can't estimate for the same components of the same project.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="61" valign="top">
                 <p>
-<span data-ttu-id="80bfb-276">O2</span><span class="sxs-lookup"><span data-stu-id="80bfb-276">O2</span></span> </p>
+<span data-ttu-id="04326-276">O2</span><span class="sxs-lookup"><span data-stu-id="04326-276">O2</span></span> </p>
             </td>
             <td width="41" valign="top">
                 <p>
-<span data-ttu-id="80bfb-277">Т1</span><span class="sxs-lookup"><span data-stu-id="80bfb-277">Q1</span></span> </p>
+<span data-ttu-id="04326-277">Т1</span><span class="sxs-lookup"><span data-stu-id="04326-277">Q1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-278">QL1</span><span class="sxs-lookup"><span data-stu-id="80bfb-278">QL1</span></span> </p>
+<span data-ttu-id="04326-278">QL1</span><span class="sxs-lookup"><span data-stu-id="04326-278">QL1</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-279">P1</span><span class="sxs-lookup"><span data-stu-id="80bfb-279">P1</span></span> </p>
+<span data-ttu-id="04326-279">P1</span><span class="sxs-lookup"><span data-stu-id="04326-279">P1</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-280">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-280">Yes</span></span> </p>
+<span data-ttu-id="04326-280">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-280">Yes</span></span> </p>
             </td>
             <td width="48" valign="top">
                 <p>
-<span data-ttu-id="80bfb-281">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-281">Yes</span></span> </p>
+<span data-ttu-id="04326-281">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-281">Yes</span></span> </p>
             </td>
             <td width="42" valign="top">
                 <p>
-<span data-ttu-id="80bfb-282">Иә</span><span class="sxs-lookup"><span data-stu-id="80bfb-282">Yes</span></span> </p>
+<span data-ttu-id="04326-282">Иә</span><span class="sxs-lookup"><span data-stu-id="04326-282">Yes</span></span> </p>
             </td>
             <td width="54" valign="top">
                 <p>
-<span data-ttu-id="80bfb-283">Жарамсыз</span><span class="sxs-lookup"><span data-stu-id="80bfb-283">Not Valid</span></span> </p>
+<span data-ttu-id="04326-283">Жарамсыз</span><span class="sxs-lookup"><span data-stu-id="04326-283">Not Valid</span></span> </p>
             </td>
         </tr>
     </tbody>
