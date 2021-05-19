@@ -34,6 +34,22 @@
               href: environment/security-model.md
             - name: Project Operations интеграциясын әр заңды тұлға үшін конфигурациялау
               href: environment/resource-configure-integration-per-legal-entity.md
+        - name: Қос жазу интеграциясын конфигурациялау
+          items:
+            - name: Қос жазу интеграциясына шолу
+              href: environment/resource-dual-write-overview.md
+            - name: Project Operations қос жазу салыстыруының нұсқалары
+              href: environment/resource-dual-write-maps.md
+            - name: Project Operations бағдарламасын орнату және конфигурация деректерінің интеграциясы
+              href: environment/resource-dual-write-setup-integration.md
+            - name: Жоба болжамдары мен нақты көрсеткіштерінің интеграциясы
+              href: environment/resource-dual-write-estimates-actuals.md
+            - name: Жоба есеп-шотының интеграциясы
+              href: environment/resource-dual-write-project-invoice.md
+            - name: Шығысты басқару интеграциясы
+              href: environment/resource-dual-write-expense.md
+            - name: Жеткізуші есеп-шотының интеграциясы
+              href: environment/resource-dual-write-vendor-invoice.md
     - name: Жаңалықтар
       items:
         - name: 'Сәуір, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
@@ -216,6 +232,8 @@
           href: project-management/understand-project-status.md
         - name: Жоба күнтізбелерін анықтау
           href: project-management/define-project-calendars.md
+        - name: Жоспарлау режимдері
+          href: project-management/scheduling-modes.md
         - name: Жобаны жаңарту
           href: project-management/update-project.md
         - name: Жобаны көшіру
@@ -404,6 +422,12 @@
           items:
             - name: Түзету журналдарын жасау және растау
               href: actuals/create-confirm-correction-journals.md
+    - name: Сатып алу
+      items:
+        - name: Биржадан тыс материалдарды және күтудегі жеткізуші есеп-шоттарын конфигурациялау
+          href: procurement/configure-materials-nonstocked.md
+        - name: Күтудегі жеткізуші есеп-шоттарын пайдаланып жобаға арналған биржадан тыс материалдарды сатып алу
+          href: procurement/pending-vendor-invoices.md
     - name: Шот жіберу
       items:
         - name: Шот жіберу процесіне шолу
@@ -428,6 +452,8 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: Жобаға негізделген есеп-шотты автоматтандыруды конфигурациялау
               href: proforma-invoicing/configure-automated-invoice-creation.md
+        - name: Жоба есеп-шотының ұсыныстарын басқару
+          href: invoicing/format-update-project-invoice-proposals.md
     - name: Жоба есебі
       items:
         - name: Қаржылық өлшемнің әдепкі мәндері
@@ -682,6 +708,8 @@
           href: project-management/understand-project-status.md
         - name: Жоба күнтізбелерін анықтау
           href: project-management/define-project-calendars.md
+        - name: Жоспарлау режимдері
+          hreF: project-management/scheduling-modes.md
         - name: Жобаны жаңарту
           href: project-management/update-project.md
         - name: Жобаны көшіру
@@ -848,6 +876,8 @@
   items:
     - name: Жаңалықтар
       items:
+        - name: 2021 жылдың сәуір айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
+          href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: 2021 жылдың наурыз айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
           href: prod-pma/whats-new/whats-new-mar-2021-stocked.md
         - name: 2021 жылдың қаңтар айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
@@ -871,9 +901,9 @@
     - name: Төлем алғаннан кейін төленетін жеткізуші төлемдерін орнату және пайдалану
       href: prod-pma/setup-manage-vendor-payments.md
     - name: Сатып алу түбіртектері бойынша жоба құнын есептеу
-      href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts'
+      href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
     - name: Жоба есеп-шотын ұсыну
-      href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-invoicing'
+      href: /dynamics365/finance/accounts-payable/project-invoicing
     - name: Жоба есеп-шоты ұсыныстарының өнімділігі
       href: prod-pma/project-invoice-proposal-performance.md
     - name: Жобалық келісім-шарттар
@@ -998,6 +1028,8 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 31-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-31.md
         - name: 30-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-30.md
         - name: '29.5-жаңарту шығарылымы, шұғыл түзетудің V3 нұсқасындағы жаңалықтар мен өзгерістер'
@@ -1327,7 +1359,7 @@
             - name: Ресурс қолданысын қарау
               href: psa/view-resource-utilization.md
             - name: Universal Resource Scheduling (URS)
-              href: 'https://docs.microsoft.com/dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling'
+              href: /dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling
         - name: Жоба менеджері нұсқаулығы
           items:
             - name: Жоба менеджері нұсқаулығы (Project Service)
