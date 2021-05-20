@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a067521410f0fe0d8f5d4c510a35f2a3b018dce3
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: d31ca60b267063e9cadf544468ece501353950fa
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5281755"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951351"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>Жұмыс декомпозициясының құрылымы бойынша пікірлерді жаңарту
 
@@ -34,20 +34,20 @@ ms.locfileid: "5281755"
 ## <a name="key-entities"></a>Негізгі нысандар
 Ресурстармен жүктеліп қойған жұмыс декомпозициясының нақты құрылымы үшін келесі нысандар қажет:
 
-- [Жоба](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_project)
-- [Жоба тобы](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projectteam)
-- [Жоба тапсырмасы](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttask)
-- [Ресурс тапсырмалары](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_resourceassignment)
-- [Жоба тапсырмасы тәуелділігі](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttaskdependency)
-- [Тапсырыс беруге болатын ресурстар](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/bookableresource)
+- [Жоба](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_project)
+- [Жоба тобы](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projectteam)
+- [Жоба тапсырмасы](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttask)
+- [Ресурс тапсырмалары](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_resourceassignment)
+- [Жоба тапсырмасы тәуелділігі](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttaskdependency)
+- [Тапсырыс беруге болатын ресурстар](/dynamics365/customerengagement/on-premises/developer/entities/bookableresource)
 
 Жұмыс декомпозициясының құрылымын жүктеген ресурсты анықтау үшін келесі қадамдарды орындау керек:
 
-1. Жаңа жоба жасаңыз. Жаңа жоба жасау жолы туралы ақпарат алу үшін [msdyn_project](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_project) бөлімін қараңыз.
-2. Бір немесе бірнеше тапсырма жасаңыз. Тапсырма жасау жолы туралы ақпарат алу үшін [msdyn_projecttask](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttask) бөлімін қараңыз.
-3. Тапсырма тәуелділіктерін анықтаңыз. Қосымша ақпарат алу үшін [Жоба тапсырмасы тәуелділігі](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttaskdependency) мақаласын қараңыз.
-4. Жобаға жоба тобының мүшелерін тағайындаңыз. Қосымша ақпарат алу үшін [msdyn_projectteam](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projectteam) бөлімін қараңыз.
-5. Тапсырмаларға жоба тобының мүшелерін тағайындаңыз. Қосымша ақпарат алу үшін [msdyn_resourceassignment](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_resourceassignment) бөлімін қараңыз.
+1. Жаңа жоба жасаңыз. Жаңа жоба жасау жолы туралы ақпарат алу үшін [msdyn_project](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_project) бөлімін қараңыз.
+2. Бір немесе бірнеше тапсырма жасаңыз. Тапсырма жасау жолы туралы ақпарат алу үшін [msdyn_projecttask](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttask) бөлімін қараңыз.
+3. Тапсырма тәуелділіктерін анықтаңыз. Қосымша ақпарат алу үшін [Жоба тапсырмасы тәуелділігі](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttaskdependency) мақаласын қараңыз.
+4. Жобаға жоба тобының мүшелерін тағайындаңыз. Қосымша ақпарат алу үшін [msdyn_projectteam](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projectteam) бөлімін қараңыз.
+5. Тапсырмаларға жоба тобының мүшелерін тағайындаңыз. Қосымша ақпарат алу үшін [msdyn_resourceassignment](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_resourceassignment) бөлімін қараңыз.
 
 ## <a name="project-team-relationships"></a>Жоба тобының қатынастары
 

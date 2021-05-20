@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f0a234f96419bac58cd932a082010da672e7dcb5
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 329923e6d47fd36881aea8db8eba41a868829220
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282655"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951441"
 ---
 # <a name="schedule-resources-for-a-project-project-service"></a>Жобаға ресурстар жоспарлау (Project Service)
 
@@ -35,7 +35,7 @@ ms.locfileid: "5282655"
   
 Кесте тақтасында ресурстар тізімі және олардың қолжетімділігі көрсетіледі. **Сағаттар**, **Күн**, **Апта** немесе **Ай** бойынша қолжетімділікті көрсету үшін қарау режимін таңдаңыз.  
   
-Кесте тақтасын пайдаланбас бұрын оны орнатқан маңызды. Толығырақ ақпарат алу үшін [Кесте тақтасын конфигурациялау (Field Service немесе Project Service Automation)](https://docs.microsoft.com/dynamics365/field-service/configure-schedule-board) бөлімін қараңыз.
+Кесте тақтасын пайдаланбас бұрын оны орнатқан маңызды. Толығырақ ақпарат алу үшін [Кесте тақтасын конфигурациялау (Field Service немесе Project Service Automation)](/dynamics365/field-service/configure-schedule-board) бөлімін қараңыз.
   
 Ескірек нұсқаны пайдаланып жатсаңыз, ресурстың қолжетімділігін [Ресурстың қолжетімділігін көру](../psa/view-resource-availability.md) бөлімінде қараңыз.  
 

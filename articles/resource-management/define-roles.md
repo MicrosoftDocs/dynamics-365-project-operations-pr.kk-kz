@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 8c30d504615c9854f99aa1e8e86ec576cd584dc7
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: fff52c142e4ac1f01fe86808094e94e3974db53a
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5279730"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950001"
 ---
 # <a name="define-roles"></a>Рөлдерді анықтау
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Dynamics 365 Project Operations ортасында рөлдерді анықтау үшін Dynamics 365 Field Service қызметінде берілген функцияны пайдалануға болады. Осы орнатуды аяқтау үшін [Тапсырыс беруге болатын ресурс санаттарын орнату](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resource-categories) бөлімін қараңыз.
+Dynamics 365 Project Operations ортасында рөлдерді анықтау үшін Dynamics 365 Field Service қызметінде берілген функцияны пайдалануға болады. Осы орнатуды аяқтау үшін [Тапсырыс беруге болатын ресурс санаттарын орнату](/dynamics365/field-service/set-up-bookable-resource-categories) бөлімін қараңыз.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

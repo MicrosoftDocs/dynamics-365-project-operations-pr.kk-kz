@@ -18,12 +18,12 @@ ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: c27eede55e01dd1437dfc480741922ed9d617bff
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2db1c2cd34a2b99ac8e0cc88c34bac804bbafdb6
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271855"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5949776"
 ---
 # <a name="expense-management-overview"></a>Шығысты басқаруға шолу
 
@@ -37,7 +37,7 @@ ms.locfileid: "5271855"
 
 ### <a name="whats-new-and-in-development"></a>Дамудағы жаңа мүмкіндіктер
 
-Қандай жаңа мүмкіндіктер жоспарланғанын көру үшін [Microsoft Dynamics 365 шығарылым жоспарлары](https://go.microsoft.com/fwlink/?linkid=2010158) бөлімін қараңыз.
+Қандай жаңа мүмкіндіктер жоспарланғанын көру үшін [Microsoft Dynamics 365 шығарылым жоспарлары](/dynamics365/release-plans/) бөлімін қараңыз.
 
 #### <a name="expense-report-entry"></a>Шығыс туралы есепті енгізу
 

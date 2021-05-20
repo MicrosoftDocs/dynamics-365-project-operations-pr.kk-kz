@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d99906b11b0189fc8227accd68bd0457f6baa42c
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: ceba31934f021b4a18766eca314d68b69dd6a8ff
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5281170"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5949596"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-early-access-wave-1-2021-v3"></a>Project Service Automation бағдарламасының 2021 жылғы ерте қатынасу шығарылымның 1-толқыны, V3 нұсқасындағы жаңалықтар мен өзгерістер
 
@@ -30,7 +30,7 @@ ms.locfileid: "5281170"
 
 ## <a name="project-service-automation-early-access-wave-1-2021-v3"></a>Project Service Automation бағдарламасының 2021 жылғы ерте қатынасу шығарылымның 1-толқыны, V3 нұсқасы
 
-Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
+Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
 Бұл тақырыпта жаңа немесе Project Service Automation бағдарламасының 2021 жылғы ерте қатынасу шығарылымның 1-толқыны, V3 нұсқасына өзгертілген қолжетімді мүмкіндіктер мен түзетулер берілген. Бұл нұсқаның құрастыру нөмірі — V3.10.49.3 және бұл нұсқа әдетте 2021 жылдың ақпан айында дербес жаңарту арқылы қолжетімді.
 

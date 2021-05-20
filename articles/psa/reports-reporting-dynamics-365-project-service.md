@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 78c62f69c6529669789a461f1ded8e3ea5f8219e
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 32b504a862f98dac4b1d9b54289476026d988c13
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283285"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951486"
 ---
 # <a name="reporting-home-page"></a>"Есептер" басты беті
 
@@ -31,15 +31,15 @@ ms.locfileid: "5283285"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-Microsoft Dynamics 365 Project Service Automation жобаға негізделген ұйымдарға жеке бизнес операцияларын тиімді басқаруға мүмкіндік береді. Кез келген жоба бойынша топ мүшелері мүмкіндікті басқаруы, жұмыс бағасын ұсынуы және жоспарлауы, жобаларды ресурспен қамтамасыз етуі, жұмысты жоспарға сәйкес басқаруы, жұмыс үшін есеп-шот ұсынуы, содан кейін жобаны аяқтау үшін жұмысты орындауы керек. Операциялар туралы есеп беру мүмкіндігі ұйымның күйін анықтауға және қажет болатын түзету шараларын қабылдауға көмектеседі. PSA бағдарламасындағы есеп беру мүмкіндігі үшін Microsoft Dynamics 365 есеп берудің әдістері мен технологиялары қолданылады. Есеп берудің нұсқалары туралы қосымша ақпаратты [Dynamics 365 Customer Engagement (on-premises) 9 нұсқасына арналған есепті жазу нұсқаулығы](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/reporting-analytics-with-dynamics-365) мақаласынан қараңыз.
+Microsoft Dynamics 365 Project Service Automation жобаға негізделген ұйымдарға жеке бизнес операцияларын тиімді басқаруға мүмкіндік береді. Кез келген жоба бойынша топ мүшелері мүмкіндікті басқаруы, жұмыс бағасын ұсынуы және жоспарлауы, жобаларды ресурспен қамтамасыз етуі, жұмысты жоспарға сәйкес басқаруы, жұмыс үшін есеп-шот ұсынуы, содан кейін жобаны аяқтау үшін жұмысты орындауы керек. Операциялар туралы есеп беру мүмкіндігі ұйымның күйін анықтауға және қажет болатын түзету шараларын қабылдауға көмектеседі. PSA бағдарламасындағы есеп беру мүмкіндігі үшін Microsoft Dynamics 365 есеп берудің әдістері мен технологиялары қолданылады. Есеп берудің нұсқалары туралы қосымша ақпаратты [Dynamics 365 Customer Engagement (on-premises) 9 нұсқасына арналған есепті жазу нұсқаулығы](/dynamics365/customerengagement/on-premises/analytics/reporting-analytics-with-dynamics-365) мақаласынан қараңыз.
 
 ## <a name="report-wizard"></a>Есептер шебері
 
-Есептер шебері әзірлеушілер емес пайдаланушыларға қарапайым есептерді құруға мүмкіндік береді. Бағдарлама қолданыстағы платформада жасалғандықтан, тәжірибе [Есептер шеберін пайдаланып есеп жасау немесе өңдеу](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/create-edit-copy-report-wizard) бөлімінде құжатталған тәжірибемен бірдей болады. Алайда, Project Service Automation бағдарламасына тән нысандарды қолдана алатын боласыз.
+Есептер шебері әзірлеушілер емес пайдаланушыларға қарапайым есептерді құруға мүмкіндік береді. Бағдарлама қолданыстағы платформада жасалғандықтан, тәжірибе [Есептер шеберін пайдаланып есеп жасау немесе өңдеу](/dynamics365/customerengagement/on-premises/basics/create-edit-copy-report-wizard) бөлімінде құжатталған тәжірибемен бірдей болады. Алайда, Project Service Automation бағдарламасына тән нысандарды қолдана алатын боласыз.
 
 ## <a name="custom-sql-server-reporting-services-reports"></a>SQL Server Reporting Services реттелетін есептері
 
-Егер бизнесіңіз есептер шебері көмегімен жасау мүмкін емес нақты есепті қажет етсе, реттелетін есепті жасауға болады. Сәйкес Microsoft SQL Server Data Tools және есептерді жасау модульдерімен бірге Microsoft Visual Studio орнатылған болуы керек. Құралдар мен нұсқалар туралы қосымша ақпаратты [SQL Server Data Tools арқылы есептер жазу ортасы](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/report-writing-environment-using-sql-server-data-tools) бөлімінен қараңыз. Реттелетін есепті жасау жолы туралы ақпаратты [SQL Server Data Tools көмегімен жаңа есепті жасау](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/create-a-new-report-using-sql-server-data-tools) бөлімінен қараңыз.
+Егер бизнесіңіз есептер шебері көмегімен жасау мүмкін емес нақты есепті қажет етсе, реттелетін есепті жасауға болады. Сәйкес Microsoft SQL Server Data Tools және есептерді жасау модульдерімен бірге Microsoft Visual Studio орнатылған болуы керек. Құралдар мен нұсқалар туралы қосымша ақпаратты [SQL Server Data Tools арқылы есептер жазу ортасы](/dynamics365/customerengagement/on-premises/analytics/report-writing-environment-using-sql-server-data-tools) бөлімінен қараңыз. Реттелетін есепті жасау жолы туралы ақпаратты [SQL Server Data Tools көмегімен жаңа есепті жасау](/dynamics365/customerengagement/on-premises/analytics/create-a-new-report-using-sql-server-data-tools) бөлімінен қараңыз.
 
 ## <a name="power-bi-insights-apps"></a>Power BI аналитикалық деректер бағдарламалары
 
