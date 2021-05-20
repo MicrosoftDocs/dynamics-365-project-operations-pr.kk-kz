@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 4c2cd4c5d4dfbb95398932d432864cf0d4d5d54d
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 917ead8ff6d9d3ef8374f8ccde608b6cebd50c8c
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276850"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948471"
 ---
 # <a name="sign-up-for-project-operations-preview-subscriptions-for-resource-non-stocked-scenarios"></a>Project Operations ресурстық/қосалқы емес сценарийлерге арналған Project Operations алдын ала қарау жазылымдарына кіру
 
@@ -92,7 +92,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 ## <a name="deploy-finance-demo-environment-with-project-operations-for-resourcenon-stocked-scenarios"></a>Ресурстық/қосалқы емес сценарийлерге арналған Project Operations жүйесі үшін Finance демо-ортасын орналастыру
 
-Орналастыруды аяқтау үшін тақырыптағы нұсқауларды орындаңыз, [Жаңа ортаны дайындаңыз](resource-provision-new-environment.md). Алдын ала қарау үшін [демо-орта](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) орналастыру түрін пайдаланыңыз. 
+Орналастыруды аяқтау үшін тақырыптағы нұсқауларды орындаңыз, [Жаңа ортаны дайындаңыз](resource-provision-new-environment.md). Алдын ала қарау үшін [демо-орта](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) орналастыру түрін пайдаланыңыз. 
 
 ## <a name="install-cds-setup-and-configuration-data"></a>CDS параметрі және конфигурация деректерін орнату
 

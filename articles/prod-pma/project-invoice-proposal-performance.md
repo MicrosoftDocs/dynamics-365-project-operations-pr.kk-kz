@@ -3,7 +3,7 @@ title: Жоба есеп-шоты ұсыныстарының өнімділіг�
 description: Бұл тақырыпта жобалық шот-фактура ұсыныстарын жақсарту туралы ақпарат берілген.
 author: Yowelle
 manager: AnnBe
-ms.date: 03/05/2021
+ms.date: 04/20/2021
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-ax-applications
@@ -18,18 +18,16 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 20121-03-05
 ms.dyn365.ops.version: 10.0.18
-ms.openlocfilehash: 78c924cba8107471a5f8e6d6a38265890d32d72b
-ms.sourcegitcommit: 2350c6f3728067a8298adde640e6fdd5984eb077
+ms.openlocfilehash: 1641d5f731029fdbdc16c4b652cc752a583058c6
+ms.sourcegitcommit: 68d52fc983861114e654ffc8d2472b4db9b48981
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "5573566"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "5920309"
 ---
 # <a name="project-invoice-proposal-performance"></a>Жоба есеп-шоты ұсыныстарының өнімділігі
 
 [!include [banner](../includes/banner.md)]
-
-[!include [banner](../includes/preview-banner.md)]
 
 Жаңа шот-фактура ұсынысын жасағанда, жобалар мен қосалқы жобалар саны көбейген кезде өнімділік мәселелеріне тап болуыңыз мүмкін. Өнімділікті жақсарту үшін орналастырылған жоба транзакциялары үшін жаңа шот-фактура ұсынысын жасауға кететін уақытты қысқартатын функция қолжетімді.
 

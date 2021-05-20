@@ -9,12 +9,12 @@ ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 12708a9b847f1f87ee0f5f45688adf48638d709f
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 8270214d47f712cdb0942991b0ffb5baff64cbfb
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5291896"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948021"
 ---
 # <a name="whats-new-february-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылғы ақпандағы жаңалық - ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations
 
@@ -53,7 +53,7 @@ Dynamics 365 Finance ішінде жобаны басқару және есеп 
 
 ## <a name="regulatory-updates"></a>Нормативтік жаңартулар
 
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
