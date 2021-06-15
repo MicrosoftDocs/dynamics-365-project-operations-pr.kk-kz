@@ -52,6 +52,8 @@
               href: environment/resource-dual-write-vendor-invoice.md
     - name: Жаңалықтар
       items:
+        - name: 'Мамыр, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-may-2021-resource-based.md
         - name: 'Сәуір, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-apr-2021-resource-based.md
         - name: 'Наурыз, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
@@ -374,7 +376,9 @@
               href: expense/set-up-credit-card-integration.md
             - name: Шығыс санаттарын орнату
               href: expense/set-up-expense-categories.md
-        - name: Жеке шығындар
+            - name: Жүрісті жүріс жылдамдығы деңгейлерінің көмегімен орнату
+              href: expense/set-up-mileage.md
+        - name: Жеке шығыстар
           href: expense/personal-expenses-expense-report.md
         - name: Компанияаралық шығыстар
           href: prod-exp/intercompany-expense.md
@@ -508,6 +512,8 @@
           href: environment/security-model.md
     - name: Жаңалықтар
       items:
+        - name: 2021 жылдың мамыр айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-may-2021-lite.md
         - name: 2021 жылдың сәуір айындағы жаңалықтар - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-apr-2021-lite.md
         - name: 2021 жылдың наурыз айындағы жаңалықтар - жеңілдетілген орналастыру
@@ -994,7 +1000,7 @@
           href: expense/set-up-credit-card-integration.md
         - name: Шығыс санаттарын орнату
           href: expense/set-up-expense-categories.md
-    - name: Жеке шығындар
+    - name: Жеке шығыстар
       href: expense/personal-expenses-expense-report.md
     - name: Компанияаралық шығыстар
       href: prod-exp/intercompany-expense.md
@@ -1028,6 +1034,8 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 32-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-32.md
         - name: 31-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-31.md
         - name: 30-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
@@ -1266,6 +1274,8 @@
               href: psa/time-entry-calendar.md
             - name: Апталық уақыт жазбаларын теңшеу
               href: psa/time-entry-extensibility-v3.md
+            - name: Растау жинақтары
+              href: psa/approval-set.md
     - name: Жиі қойылатын сұрақтар және ақаулықтарды жою (3.x нұсқасы)
       items:
         - name: Шығыс құнының нақты мәндері бойынша неліктен әдепкі баға нөлге тең емес?
@@ -1296,7 +1306,7 @@
           items:
             - name: Әкімші нұсқаулығы (Project Service)
               href: psa/admin-guide.md
-            - name: Орнату және теңшеу
+            - name: Орнату және реттеу
               href: psa/install-customize.md
             - name: Демо деректерді пайдалану
               href: psa/use-demo-data.md
