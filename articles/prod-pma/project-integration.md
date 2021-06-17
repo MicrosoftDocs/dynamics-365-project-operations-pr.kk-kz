@@ -2,11 +2,9 @@
 title: Microsoft Project Client біріктіруі
 description: Жобаны жоспарлау және жүргізу күрделі болуы мүмкін, сондықтан жоба басқарушылары осы тапсырманы басқаруға көмектесетін құралдарды пайдалануы қажет. Microsoft Project Client бағдарламасымен біріктіру жоба жұмысын бөлу құрылымын басқару және ашуға қолдау көрсетумен қамтамасыз етеді.
 author: Yowelle
-manager: AnnBe
 ms.date: 12/11/2017
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjWbsTemplate
 audience: Application User
@@ -18,115 +16,115 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-04
 ms.dyn365.ops.version: 7.2999999999999998
-ms.openlocfilehash: e93d23559d1f3aca9022cd97dae3b0726bb5ca05
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 032d726bb6206c563b573f30d13fe2697a13c949
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289331"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5999453"
 ---
-# <a name="microsoft-project-client-integration"></a><span data-ttu-id="43cbc-104">Microsoft Project Client біріктіруі</span><span class="sxs-lookup"><span data-stu-id="43cbc-104">Microsoft Project client integration</span></span>
+# <a name="microsoft-project-client-integration"></a><span data-ttu-id="1fcf7-104">Microsoft Project Client біріктіруі</span><span class="sxs-lookup"><span data-stu-id="1fcf7-104">Microsoft Project client integration</span></span>
 
 [!include [banner](../includes/banner.md)]
 
-<span data-ttu-id="43cbc-105">Жобаны жоспарлау және жүргізу күрделі болуы мүмкін, сондықтан жоба басқарушылары осы тапсырманы басқаруға көмектесетін құралдарды пайдалануы қажет.</span><span class="sxs-lookup"><span data-stu-id="43cbc-105">Planning and maintaining a project schedule can be complex, so project managers need to use tools that help them manage this task.</span></span> <span data-ttu-id="43cbc-106">Microsoft Project Client бағдарламасымен біріктіру жоба жұмысын бөлу құрылымын басқару және ашуға қолдау көрсетумен қамтамасыз етеді.</span><span class="sxs-lookup"><span data-stu-id="43cbc-106">Integration with Microsoft Project Client provides support to open and manage a project work breakdown structure.</span></span> <span data-ttu-id="43cbc-107">Жоба басқарушысы кез-келген өзгерістерді Dynamics 365 Finance жоба жұмысын бөлу құрылымына жариялай алады.</span><span class="sxs-lookup"><span data-stu-id="43cbc-107">The project manager can publish any changes back to the Dynamics 365 Finance project work breakdown structure.</span></span>
+<span data-ttu-id="1fcf7-105">Жобаны жоспарлау және жүргізу күрделі болуы мүмкін, сондықтан жоба басқарушылары осы тапсырманы басқаруға көмектесетін құралдарды пайдалануы қажет.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-105">Planning and maintaining a project schedule can be complex, so project managers need to use tools that help them manage this task.</span></span> <span data-ttu-id="1fcf7-106">Microsoft Project Client бағдарламасымен біріктіру жоба жұмысын бөлу құрылымын басқару және ашуға қолдау көрсетумен қамтамасыз етеді.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-106">Integration with Microsoft Project Client provides support to open and manage a project work breakdown structure.</span></span> <span data-ttu-id="1fcf7-107">Жоба басқарушысы кез келген өзгерістерді Dynamics 365 Finance жоба жұмысын бөлу құрылымына жариялай алады.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-107">The project manager can publish any changes back to the Dynamics 365 Finance project work breakdown structure.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="43cbc-108">Шілде жаңартуын (10.0.4 нұсқасы) пайдаланатын болсаңыз, 4054797 және 4055884 білім қорын орнату қажет.</span><span class="sxs-lookup"><span data-stu-id="43cbc-108">If you are using the July update (version 10.0.4), you must install KB 4054797 and 4055884.</span></span>
+> <span data-ttu-id="1fcf7-108">Шілде жаңартуын (10.0.4 нұсқасы) пайдаланатын болсаңыз, 4054797 және 4055884 білім қорын орнату қажет.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-108">If you are using the July update (version 10.0.4), you must install KB 4054797 and 4055884.</span></span>
 
-## <a name="configure-the-microsoft-project-client-add-in"></a><span data-ttu-id="43cbc-109">Microsoft Project Client қондырмасын конфигурациялау</span><span class="sxs-lookup"><span data-stu-id="43cbc-109">Configure the Microsoft Project Client add-in</span></span>
-<span data-ttu-id="43cbc-110">Microsoft Project Client бағдарламасымен біріктіруді қосу үшін Microsoft Dynamics 365 қондырмасын пайдаланушы клиентінің Microsoft Project бағдарламасында орнату қажет.</span><span class="sxs-lookup"><span data-stu-id="43cbc-110">To enable the integration with Microsoft Project Client, a Microsoft Dynamics 365 add-in is required to be installed in the user’s client Microsoft Project application.</span></span> <span data-ttu-id="43cbc-111">Бұл әрекет **Жобаны басқару жұмыс кеңістігін** ашу арқылы жасалады.</span><span class="sxs-lookup"><span data-stu-id="43cbc-111">This is done by opening the **Project management workspace**.</span></span>
+## <a name="configure-the-microsoft-project-client-add-in"></a><span data-ttu-id="1fcf7-109">Microsoft Project Client қондырмасын конфигурациялау</span><span class="sxs-lookup"><span data-stu-id="1fcf7-109">Configure the Microsoft Project Client add-in</span></span>
+<span data-ttu-id="1fcf7-110">Microsoft Project Client бағдарламасымен біріктіруді қосу үшін Microsoft Dynamics 365 қондырмасын пайдаланушы клиентінің Microsoft Project бағдарламасында орнату қажет.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-110">To enable the integration with Microsoft Project Client, a Microsoft Dynamics 365 add-in is required to be installed in the user’s client Microsoft Project application.</span></span> <span data-ttu-id="1fcf7-111">Бұл әрекет **Жобаны басқару жұмыс кеңістігін** ашу арқылы жасалады.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-111">This is done by opening the **Project management workspace**.</span></span>
 
-<span data-ttu-id="43cbc-112">•   Жұмыс кеңістігінің **Сілтемелер** > **Параметр** бөлімінен **Жоба клиентінің қондырмасын конфигурациялау** опциясын басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-112">•   Click **Configure project client add-in** from the **Links** > **Setup** section of the workspace.</span></span>
+<span data-ttu-id="1fcf7-112">•   Жұмыс кеңістігінің **Сілтемелер** > **Параметр** бөлімінен **Жоба клиентінің қондырмасын конфигурациялау** опциясын басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-112">•   Click **Configure project client add-in** from the **Links** > **Setup** section of the workspace.</span></span>
 
-<span data-ttu-id="43cbc-113">•   **Ашу** опциясын, содан соң сұралғанда **Іске қосу** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-113">•   Click **Open**, then click **Run** when prompted.</span></span>
+<span data-ttu-id="1fcf7-113">•   **Ашу** опциясын, содан соң сұралғанда **Іске қосу** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-113">•   Click **Open**, then click **Run** when prompted.</span></span>
 
-## <a name="open-and-edit-an-existing-draft-work-breakdown-structure-in-microsoft-project-client"></a><span data-ttu-id="43cbc-114">Microsoft Project Client бағдарламасында қолданыстағы жобалық жұмысты бөлу құрылымын ашып, өңдеңіз</span><span class="sxs-lookup"><span data-stu-id="43cbc-114">Open and edit an existing draft work breakdown structure in Microsoft Project Client</span></span>
-<span data-ttu-id="43cbc-115">Dynamics 365 Finance бағдарламасындағы жобада жасалған жұмысты бөлу құрылымы болса, жұмысты бөлу құрылымы жобалық күйде болса Microsoft Project Client бағдарламасында жұмысты бөлу құрылымы ашылады.</span><span class="sxs-lookup"><span data-stu-id="43cbc-115">If a project in Dynamics 365 Finance already has a work breakdown structure created, the work breakdown structure can be opened in the Microsoft Project Client application if the work breakdown structure is in a draft status.</span></span> <span data-ttu-id="43cbc-116">**Жоба** бетінен ашу үшін **Жоспар** қойыншасынан **Microsoft Project бағдарламасында ашу** түймешігін басыңыз. Бұл бетті **Microsoft Dynamics 365** қойыншасында **Ашу** түймешігін басу арқылы Microsoft Project Client бағдарламасында ашуға болады. Тізімнен **Заңды нысан** және **Жоба** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-116">To open from the **Project** page, click **Open in Microsoft Project** link from the **Plan** tab. This page can also be opened from within the Microsoft Project Client application by clicking **Open** in the **Microsoft Dynamics 365** tab. Select the **Legal entity** and **Project** from the list.</span></span>
-
-> [!NOTE]
-> <span data-ttu-id="43cbc-117">Internet Explorer бағдарламасын шолғыш ретінде пайдаланатын болсаңыз, файл жүктелетін орыннан қолмен ашу үшін **Сақтау** опциясын басу қажет.</span><span class="sxs-lookup"><span data-stu-id="43cbc-117">If you're using Internet Explorer as your browser, you will need to click **Save** to manually open from the location that the file is downloaded to.</span></span> <span data-ttu-id="43cbc-118">Не болмаса, файлды Microsoft Project Client бағдарламасында ашу үшін **Сақтау және ашу** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-118">Or, click **Save and open** to open the file in Microsoft Project Client.</span></span> <span data-ttu-id="43cbc-119">Сақтау кезінде файлдың атауын өзгертпеңіз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-119">Do not rename the file name when saving.</span></span>
-
-<span data-ttu-id="43cbc-120">Microsoft Project Client бағдарламасы арқылы файлға өзгертулер жасау алдында оны тексеру қажет. **Microsoft Dynamics 365** қойыншасында **Тексеру** опциясын басыңыз. Бұл басқа пайдаланушылардың Finance жүйесіндегі жұмысты бөлу құрылымын бір уақытта өңдеуін болдырмайды.</span><span class="sxs-lookup"><span data-stu-id="43cbc-120">Before making any edits to the file using Microsoft Project Client, you need to check it out. Click **Check out** in the **Microsoft Dynamics 365** tab. This will prevent other users from editing the work breakdown structure from within Finance at the same time.</span></span> <span data-ttu-id="43cbc-121">Өзгертулерді аяқтағаннан кейін жұмысты бөлу құрылымын жариялау үшін **Microsoft Dynamics 365** қойыншасында **Тексеру** опциясын басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-121">To publish the work breakdown structure after completing any edits, click **Check in** on the **Microsoft Dynamics 365** tab.</span></span>
-
-<span data-ttu-id="43cbc-122">Жоба тобы Finance бағдарламасындағы жобаға қосылған болса, ресурстар тізімі топ мүшелерімен толтырылады.</span><span class="sxs-lookup"><span data-stu-id="43cbc-122">If a project team has already been added to the project in Finance, the resource list will be populated with the team members.</span></span> <span data-ttu-id="43cbc-123">Егер жобаға жоба тобы әлі де қосылмаған болса, **Microsoft Dynamics 365** қойыншасында **Ресурстар** түймешігін басу арқылы Microsoft Project Client бағдарламасында ресурстарды таңдап, топ құруға болады.</span><span class="sxs-lookup"><span data-stu-id="43cbc-123">If a project team has not yet been added to the project, you can select resources and build the team within Microsoft Project Client by clicking the **Resources** button on the **Microsoft Dynamics 365** tab.</span></span> 
-
-<span data-ttu-id="43cbc-124">Келесі деректер Finance бағдарламасына тексеру процесінің бөлігі ретінде қайта синхрондалады:</span><span class="sxs-lookup"><span data-stu-id="43cbc-124">The following data will be synced back to Finance as part of the check-in process:</span></span>
-
-<span data-ttu-id="43cbc-125">•   Тапсырма атауы</span><span class="sxs-lookup"><span data-stu-id="43cbc-125">•   Task name</span></span>
-
-<span data-ttu-id="43cbc-126">•   Басталу күні</span><span class="sxs-lookup"><span data-stu-id="43cbc-126">•   Start date</span></span>
-
-<span data-ttu-id="43cbc-127">•   Аяқталу күні</span><span class="sxs-lookup"><span data-stu-id="43cbc-127">•   Finish date</span></span>
-
-<span data-ttu-id="43cbc-128">•   Алдындағы элементтер</span><span class="sxs-lookup"><span data-stu-id="43cbc-128">•   Predecessors</span></span>
-
-<span data-ttu-id="43cbc-129">•   Ресурс атаулары</span><span class="sxs-lookup"><span data-stu-id="43cbc-129">•   Resource names</span></span>
-
-<span data-ttu-id="43cbc-130">•   Санат</span><span class="sxs-lookup"><span data-stu-id="43cbc-130">•   Category</span></span>
-
-<span data-ttu-id="43cbc-131">•   Ресурс санаты</span><span class="sxs-lookup"><span data-stu-id="43cbc-131">•   Resource category</span></span>
-
-<span data-ttu-id="43cbc-132">•   Жұмыс сағаттары</span><span class="sxs-lookup"><span data-stu-id="43cbc-132">•   Work hours</span></span>
-
-<span data-ttu-id="43cbc-133">•   Ескертулер</span><span class="sxs-lookup"><span data-stu-id="43cbc-133">•   Notes</span></span>
-
-<span data-ttu-id="43cbc-134">•   Басымдық</span><span class="sxs-lookup"><span data-stu-id="43cbc-134">•   Priority</span></span>
+## <a name="open-and-edit-an-existing-draft-work-breakdown-structure-in-microsoft-project-client"></a><span data-ttu-id="1fcf7-114">Microsoft Project Client бағдарламасында қолданыстағы жобалық жұмысты бөлу құрылымын ашып, өңдеңіз</span><span class="sxs-lookup"><span data-stu-id="1fcf7-114">Open and edit an existing draft work breakdown structure in Microsoft Project Client</span></span>
+<span data-ttu-id="1fcf7-115">Dynamics 365 Finance бағдарламасындағы жобада жасалған жұмысты бөлу құрылымы болса, жұмысты бөлу құрылымы жобалық күйде болса Microsoft Project Client бағдарламасында жұмысты бөлу құрылымы ашылады.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-115">If a project in Dynamics 365 Finance already has a work breakdown structure created, the work breakdown structure can be opened in the Microsoft Project Client application if the work breakdown structure is in a draft status.</span></span> <span data-ttu-id="1fcf7-116">**Жоба** бетінен ашу үшін **Жоспар** қойыншасынан **Microsoft Project бағдарламасында ашу** түймешігін басыңыз. Бұл бетті **Microsoft Dynamics 365** қойыншасында **Ашу** түймешігін басу арқылы Microsoft Project Client бағдарламасында ашуға болады. Тізімнен **Заңды нысан** және **Жоба** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-116">To open from the **Project** page, click **Open in Microsoft Project** link from the **Plan** tab. This page can also be opened from within the Microsoft Project Client application by clicking **Open** in the **Microsoft Dynamics 365** tab. Select the **Legal entity** and **Project** from the list.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="43cbc-135">Microsoft Project Client файлына басқа бағандарды қосатын болсаңыз, олар файлға сақталмайды және файл қайта ашылғанда көрсетілмейді.</span><span class="sxs-lookup"><span data-stu-id="43cbc-135">If you add any other columns to your Microsoft Project Client file, they will not be saved to the file and will not be displayed when the file is opened again.</span></span>
+> <span data-ttu-id="1fcf7-117">Internet Explorer бағдарламасын шолғыш ретінде пайдаланатын болсаңыз, файл жүктелетін орыннан қолмен ашу үшін **Сақтау** опциясын басу қажет.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-117">If you're using Internet Explorer as your browser, you will need to click **Save** to manually open from the location that the file is downloaded to.</span></span> <span data-ttu-id="1fcf7-118">Не болмаса, файлды Microsoft Project Client бағдарламасында ашу үшін **Сақтау және ашу** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-118">Or, click **Save and open** to open the file in Microsoft Project Client.</span></span> <span data-ttu-id="1fcf7-119">Сақтау кезінде файлдың атауын өзгертпеңіз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-119">Do not rename the file name when saving.</span></span>
 
-## <a name="create-the-work-breakdown-structure-for-an-existing-project-using-microsoft-project-client"></a><span data-ttu-id="43cbc-136">Microsoft Project Client бағдарламасы арқылы қолданыстағы жоба үшін жұмысты бөлу құрылымын жасаңыз</span><span class="sxs-lookup"><span data-stu-id="43cbc-136">Create the work breakdown structure for an existing project using Microsoft Project Client</span></span>
-<span data-ttu-id="43cbc-137">Microsoft Project Client бағдарламасы арқылы жаңа жұмысты бөлу құрылымын жасау үшін мына қадамдарды орындаңыз:</span><span class="sxs-lookup"><span data-stu-id="43cbc-137">To create a new work breakdown structure using Microsoft Project Client, follow these steps:</span></span>
+<span data-ttu-id="1fcf7-120">Microsoft Project Client бағдарламасы арқылы файлға өзгертулер жасау алдында оны тексеру қажет. **Microsoft Dynamics 365** қойыншасында **Тексеру** опциясын басыңыз. Бұл басқа пайдаланушылардың Finance жүйесіндегі жұмысты бөлу құрылымын бір уақытта өңдеуін болдырмайды.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-120">Before making any edits to the file using Microsoft Project Client, you need to check it out. Click **Check out** in the **Microsoft Dynamics 365** tab. This will prevent other users from editing the work breakdown structure from within Finance at the same time.</span></span> <span data-ttu-id="1fcf7-121">Өзгертулерді аяқтағаннан кейін жұмысты бөлу құрылымын жариялау үшін **Microsoft Dynamics 365** қойыншасында **Тексеру** опциясын басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-121">To publish the work breakdown structure after completing any edits, click **Check in** on the **Microsoft Dynamics 365** tab.</span></span>
+
+<span data-ttu-id="1fcf7-122">Жоба тобы Finance бағдарламасындағы жобаға қосылған болса, ресурстар тізімі топ мүшелерімен толтырылады.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-122">If a project team has already been added to the project in Finance, the resource list will be populated with the team members.</span></span> <span data-ttu-id="1fcf7-123">Егер жобаға жоба тобы әлі де қосылмаған болса, **Microsoft Dynamics 365** қойыншасында **Ресурстар** түймешігін басу арқылы Microsoft Project Client бағдарламасында ресурстарды таңдап, топ құруға болады.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-123">If a project team has not yet been added to the project, you can select resources and build the team within Microsoft Project Client by clicking the **Resources** button on the **Microsoft Dynamics 365** tab.</span></span> 
+
+<span data-ttu-id="1fcf7-124">Келесі деректер Finance бағдарламасына тексеру процесінің бөлігі ретінде қайта синхрондалады:</span><span class="sxs-lookup"><span data-stu-id="1fcf7-124">The following data will be synced back to Finance as part of the check-in process:</span></span>
+
+<span data-ttu-id="1fcf7-125">•   Тапсырма атауы</span><span class="sxs-lookup"><span data-stu-id="1fcf7-125">•   Task name</span></span>
+
+<span data-ttu-id="1fcf7-126">•   Басталу күні</span><span class="sxs-lookup"><span data-stu-id="1fcf7-126">•   Start date</span></span>
+
+<span data-ttu-id="1fcf7-127">•   Аяқталу күні</span><span class="sxs-lookup"><span data-stu-id="1fcf7-127">•   Finish date</span></span>
+
+<span data-ttu-id="1fcf7-128">•   Алдындағы элементтер</span><span class="sxs-lookup"><span data-stu-id="1fcf7-128">•   Predecessors</span></span>
+
+<span data-ttu-id="1fcf7-129">•   Ресурс атаулары</span><span class="sxs-lookup"><span data-stu-id="1fcf7-129">•   Resource names</span></span>
+
+<span data-ttu-id="1fcf7-130">•   Санат</span><span class="sxs-lookup"><span data-stu-id="1fcf7-130">•   Category</span></span>
+
+<span data-ttu-id="1fcf7-131">•   Ресурс санаты</span><span class="sxs-lookup"><span data-stu-id="1fcf7-131">•   Resource category</span></span>
+
+<span data-ttu-id="1fcf7-132">•   Жұмыс сағаттары</span><span class="sxs-lookup"><span data-stu-id="1fcf7-132">•   Work hours</span></span>
+
+<span data-ttu-id="1fcf7-133">•   Ескертулер</span><span class="sxs-lookup"><span data-stu-id="1fcf7-133">•   Notes</span></span>
+
+<span data-ttu-id="1fcf7-134">•   Басымдық</span><span class="sxs-lookup"><span data-stu-id="1fcf7-134">•   Priority</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="1fcf7-135">Microsoft Project Client файлына басқа бағандарды қосатын болсаңыз, олар файлға сақталмайды және файл қайта ашылғанда көрсетілмейді.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-135">If you add any other columns to your Microsoft Project Client file, they will not be saved to the file and will not be displayed when the file is opened again.</span></span>
+
+## <a name="create-the-work-breakdown-structure-for-an-existing-project-using-microsoft-project-client"></a><span data-ttu-id="1fcf7-136">Microsoft Project Client бағдарламасы арқылы қолданыстағы жоба үшін жұмысты бөлу құрылымын жасаңыз</span><span class="sxs-lookup"><span data-stu-id="1fcf7-136">Create the work breakdown structure for an existing project using Microsoft Project Client</span></span>
+<span data-ttu-id="1fcf7-137">Microsoft Project Client бағдарламасы арқылы жаңа жұмысты бөлу құрылымын жасау үшін мына қадамдарды орындаңыз:</span><span class="sxs-lookup"><span data-stu-id="1fcf7-137">To create a new work breakdown structure using Microsoft Project Client, follow these steps:</span></span>
 
 
-1.  <span data-ttu-id="43cbc-138">Microsoft Project Client бағдарламасын ашыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-138">Open Microsoft Project Client.</span></span>
+1.  <span data-ttu-id="1fcf7-138">Microsoft Project Client бағдарламасын ашыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-138">Open Microsoft Project Client.</span></span>
 
-2.  <span data-ttu-id="43cbc-139">**Microsoft Dynamics 365** қойыншасында **Ашу** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-139">On the **Microsoft Dynamics 365** tab, click **Open**.</span></span>
+2.  <span data-ttu-id="1fcf7-139">**Microsoft Dynamics 365** қойыншасында **Ашу** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-139">On the **Microsoft Dynamics 365** tab, click **Open**.</span></span>
 
-3.  <span data-ttu-id="43cbc-140">Жобаға арналған **Заңды нысан** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-140">Select the **Legal entity** for the project.</span></span>
+3.  <span data-ttu-id="1fcf7-140">Жобаға арналған **Заңды нысан** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-140">Select the **Legal entity** for the project.</span></span>
 
-4.  <span data-ttu-id="43cbc-141">**Жоба** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-141">Select the **Project**.</span></span>
+4.  <span data-ttu-id="1fcf7-141">**Жоба** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-141">Select the **Project**.</span></span>
 
-5.  <span data-ttu-id="43cbc-142">**Microsoft Dynamics 365** қойыншасында **Тексеру** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-142">Click **Check out** on the **Microsoft Dynamics 365** tab.</span></span>
+5.  <span data-ttu-id="1fcf7-142">**Microsoft Dynamics 365** қойыншасында **Тексеру** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-142">Click **Check out** on the **Microsoft Dynamics 365** tab.</span></span>
 
-6.  <span data-ttu-id="43cbc-143">Finance бағдарламасына жариялауға дайын болғанда **Microsoft Dynamics 365** қойыншасында **Тексеру** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-143">When ready to publish to Finance, click **Check in** on the **Microsoft Dynamics 365** tab.</span></span>
+6.  <span data-ttu-id="1fcf7-143">Finance бағдарламасына жариялауға дайын болғанда **Microsoft Dynamics 365** қойыншасында **Тексеру** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-143">When ready to publish to Finance, click **Check in** on the **Microsoft Dynamics 365** tab.</span></span>
 
-## <a name="replace-the-existing-work-breakdown-structure-for-an-existing-project-using-microsoft-project-client"></a><span data-ttu-id="43cbc-144">Microsoft Project Client бағдарламасы арқылы қолданыстағы жоба үшін қолданыстағы жұмысты бөлу құрылымын ауыстырыңыз</span><span class="sxs-lookup"><span data-stu-id="43cbc-144">Replace the existing work breakdown structure for an existing project using Microsoft Project Client</span></span>
-<span data-ttu-id="43cbc-145">Microsoft Project Client бағдарламасы арқылы жаңа жұмысты бөлу құрылымын жасап, қолданыстағы жоба үшін қолданыстағы жұмысты бөлу құрылымын ауыстыру үшін мына қадамдарды орындаңыз:</span><span class="sxs-lookup"><span data-stu-id="43cbc-145">To create a new work breakdown structure using Microsoft Project Client and replace an existing work breakdown structure for an existing project, follow these steps:</span></span>
+## <a name="replace-the-existing-work-breakdown-structure-for-an-existing-project-using-microsoft-project-client"></a><span data-ttu-id="1fcf7-144">Microsoft Project Client бағдарламасы арқылы қолданыстағы жоба үшін қолданыстағы жұмысты бөлу құрылымын ауыстырыңыз</span><span class="sxs-lookup"><span data-stu-id="1fcf7-144">Replace the existing work breakdown structure for an existing project using Microsoft Project Client</span></span>
+<span data-ttu-id="1fcf7-145">Microsoft Project Client бағдарламасы арқылы жаңа жұмысты бөлу құрылымын жасап, қолданыстағы жоба үшін қолданыстағы жұмысты бөлу құрылымын ауыстыру үшін мына қадамдарды орындаңыз:</span><span class="sxs-lookup"><span data-stu-id="1fcf7-145">To create a new work breakdown structure using Microsoft Project Client and replace an existing work breakdown structure for an existing project, follow these steps:</span></span>
 
-1.  <span data-ttu-id="43cbc-146">Microsoft Project Client бағдарламасын ашыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-146">Open the Microsoft Project Client.</span></span>
+1.  <span data-ttu-id="1fcf7-146">Microsoft Project Client бағдарламасын ашыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-146">Open the Microsoft Project Client.</span></span>
 
-2.  <span data-ttu-id="43cbc-147">Microsoft Project Client бағдарламасында кесте жасаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-147">Create the schedule in Microsoft Project Client.</span></span>
+2.  <span data-ttu-id="1fcf7-147">Microsoft Project Client бағдарламасында кесте жасаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-147">Create the schedule in Microsoft Project Client.</span></span>
 
-3.  <span data-ttu-id="43cbc-148">**Microsoft Dynamics 365** қойыншасында **Өзгертулерді сақтау** > **Қолданыстағы жобаны ауыстыру** тармағын басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-148">On the **Microsoft Dynamics 365** tab, click **Save changes** > **Replace existing project**.</span></span>
+3.  <span data-ttu-id="1fcf7-148">**Microsoft Dynamics 365** қойыншасында **Өзгертулерді сақтау** > **Қолданыстағы жобаны ауыстыру** тармағын басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-148">On the **Microsoft Dynamics 365** tab, click **Save changes** > **Replace existing project**.</span></span>
 
-4.  <span data-ttu-id="43cbc-149">Жобаға арналған **Заңды нысан** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-149">Select the **Legal entity** for the project.</span></span>
+4.  <span data-ttu-id="1fcf7-149">Жобаға арналған **Заңды нысан** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-149">Select the **Legal entity** for the project.</span></span>
 
-5.  <span data-ttu-id="43cbc-150">**Жоба** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-150">Select the **Project**.</span></span>
+5.  <span data-ttu-id="1fcf7-150">**Жоба** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-150">Select the **Project**.</span></span>
 
-6.  <span data-ttu-id="43cbc-151">**OK** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-151">Click **OK**.</span></span>
+6.  <span data-ttu-id="1fcf7-151">**OK** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-151">Click **OK**.</span></span>
 
-## <a name="create-a-new-project-from-within-microsoft-project-client"></a><span data-ttu-id="43cbc-152">Microsoft Project Client бағдарламасында жаңа жоба жасаңыз</span><span class="sxs-lookup"><span data-stu-id="43cbc-152">Create a new project from within Microsoft Project Client</span></span>
+## <a name="create-a-new-project-from-within-microsoft-project-client"></a><span data-ttu-id="1fcf7-152">Microsoft Project Client бағдарламасында жаңа жоба жасаңыз</span><span class="sxs-lookup"><span data-stu-id="1fcf7-152">Create a new project from within Microsoft Project Client</span></span>
 
 
-1.  <span data-ttu-id="43cbc-153">Microsoft Project Client бағдарламасын ашыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-153">Open the Microsoft Project Client.</span></span>
+1.  <span data-ttu-id="1fcf7-153">Microsoft Project Client бағдарламасын ашыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-153">Open the Microsoft Project Client.</span></span>
 
-2.  <span data-ttu-id="43cbc-154">Microsoft Project Client бағдарламасында кесте жасаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-154">Create the schedule in Microsoft Project Client.</span></span>
+2.  <span data-ttu-id="1fcf7-154">Microsoft Project Client бағдарламасында кесте жасаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-154">Create the schedule in Microsoft Project Client.</span></span>
 
-3.  <span data-ttu-id="43cbc-155">**Microsoft Dynamics 365** қойыншасында **Өзгертулерді сақтау** > **Жаңа жобаға сақтау** тармағын басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-155">On the **Microsoft Dynamics 365** tab, click **Save changes** > **Save to new Project**.</span></span>
+3.  <span data-ttu-id="1fcf7-155">**Microsoft Dynamics 365** қойыншасында **Өзгертулерді сақтау** > **Жаңа жобаға сақтау** тармағын басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-155">On the **Microsoft Dynamics 365** tab, click **Save changes** > **Save to new Project**.</span></span>
 
-4.  <span data-ttu-id="43cbc-156">Жобаға арналған **Заңды нысан** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-156">Select the **Legal entity** for the project.</span></span>
+4.  <span data-ttu-id="1fcf7-156">Жобаға арналған **Заңды нысан** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-156">Select the **Legal entity** for the project.</span></span>
 
-5.  <span data-ttu-id="43cbc-157">Қажет болса, **Жоба идентификаторын** енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-157">Enter the **Project ID**, if necessary.</span></span>
+5.  <span data-ttu-id="1fcf7-157">Қажет болса, **Жоба идентификаторын** енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-157">Enter the **Project ID**, if necessary.</span></span>
 
-6.  <span data-ttu-id="43cbc-158">Қажет болса, **Жоба атауын** енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-158">Enter the **Project name**.</span></span>
+6.  <span data-ttu-id="1fcf7-158">Қажет болса, **Жоба атауын** енгізіңіз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-158">Enter the **Project name**.</span></span>
 
-7.  <span data-ttu-id="43cbc-159">**Жоба түрі**, **Жоба тобы** және **Жобалық келісім-шарт идентификаторы** опцияларын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-159">Select the **Project type**, **Project group** and the **Project contract ID**.</span></span> <span data-ttu-id="43cbc-160">Балама ретінде **Жаңа** опциясын басу арқылы жаңа жобалық келісім-шартты жасауға болады.</span><span class="sxs-lookup"><span data-stu-id="43cbc-160">Alternatively, you can create a new project contract by clicking **New**.</span></span>
+7.  <span data-ttu-id="1fcf7-159">**Жоба түрі**, **Жоба тобы** және **Жобалық келісім-шарт идентификаторы** опцияларын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-159">Select the **Project type**, **Project group** and the **Project contract ID**.</span></span> <span data-ttu-id="1fcf7-160">Балама ретінде **Жаңа** опциясын басу арқылы жаңа жобалық келісім-шартты жасауға болады.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-160">Alternatively, you can create a new project contract by clicking **New**.</span></span>
 
-8.  <span data-ttu-id="43cbc-161">Ресурсқа пайдаланылатын **Күнтізбе** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-161">Select the **Calendar** to be used for resourcing.</span></span>
+8.  <span data-ttu-id="1fcf7-161">Ресурсқа пайдаланылатын **Күнтізбе** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-161">Select the **Calendar** to be used for resourcing.</span></span>
 
-11. <span data-ttu-id="43cbc-162">**OK** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="43cbc-162">Click **OK**.</span></span>
+11. <span data-ttu-id="1fcf7-162">**OK** түймешігін басыңыз.</span><span class="sxs-lookup"><span data-stu-id="1fcf7-162">Click **OK**.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
