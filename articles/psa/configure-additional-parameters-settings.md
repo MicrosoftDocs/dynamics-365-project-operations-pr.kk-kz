@@ -2,8 +2,6 @@
 title: Қосымша параметрді конфигурациялау
 description: Project Service жүйесінде қосымша параметрлерді теңшеу жолы
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: bac484e29f1a0578042f350b1657a42e80b48cb4
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: f4e883e71beacffb6e2b0b56967046c3f38f7d50
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5290771"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6001118"
 ---
 # <a name="configure-additional-parameter-settings-project-service"></a>Қосымша параметрлерді конфигурациялау (Project Service)
 

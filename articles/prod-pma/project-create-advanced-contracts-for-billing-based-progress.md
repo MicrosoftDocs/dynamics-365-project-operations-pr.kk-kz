@@ -2,11 +2,9 @@
 title: Орындалу барысы бойынша шот ұсынуға арналған кеңейтілген келісім-шарттарды жасау
 description: Бұл тақырыпта аяқталған жұмысқа негізделген есеп-шоттарды тұтынушыларға ұсына алу үшін жоба келісім-шарттарын жасау жолдары түсіндірілген.
 author: RadhikaRS
-manager: AnnBe
 ms.date: 03/26/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: b1de330df8cf85ed30c0ee4e4f2f2fe74d05dbff
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 3b445488100e0a8335a05505405953b173ff836c
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289511"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5999678"
 ---
 # <a name="create-advanced-contracts-for-billing-based-on-progress"></a>Орындалу барысы бойынша шот ұсынуға арналған кеңейтілген келісім-шарттарды жасау
 [!include [banner](../includes/banner.md)]
@@ -73,7 +71,7 @@ ms.locfileid: "5289511"
 
 ## <a name="create-a-project-for-progress-billings"></a>Ұсынылатын шоттар үшін жоба жасау
 
-Жобаны және жоба келісім-шартына байланысты кез-келген ішкі жобаларды құру үшін осы қадамдарды орындаңыз.
+Жобаны және жоба келісім-шартына байланысты кез келген ішкі жобаларды құру үшін осы қадамдарды орындаңыз.
 
 1. **Жобаларды басқару және есепке алу** \> **Жобалар** \> **Барлық жобалар** тармағына өтіңіз.
 2. **Барлық жобалар** бетінде **Жаңа** түймешігін басыңыз.

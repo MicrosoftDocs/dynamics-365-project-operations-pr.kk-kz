@@ -2,18 +2,16 @@
 title: Компанияаралық есеп-шот ұсынуға шолу
 description: Бұл тақырыпта жобалар үшін компанияаралық есеп-шот туралы ақпарат пен мысалдар келтірілген.
 author: sigitac
-manager: tfehr
 ms.date: 11/19/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 3ad75089de1a2f99646f7aba213e199a2bec347d
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 42af89105f8325f1c94df6d2133d2c329facf2b3
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5287335"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6002648"
 ---
 # <a name="intercompany-invoicing-overview"></a>Компанияаралық есеп-шот ұсынуға шолу
 
@@ -21,7 +19,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 Ұйымыңызда жобалар бойынша бір-біріне өнімдер мен қызметтерді тасымалдайтын бірнеше бөлімдер, еншілес бөлімшелер және басқа заңды тұлғалар болуы мүмкін. Қызмет немесе өнімді ұсынатын заңды тұлға *несие беруші заңды тұлға* деп аталады. Қызмет немесе өнімді алатын заңды тұлға *несие алушы заңды тұлға* деп аталады.
 
-Келесі суретте екі заңды тұлға, яғни Contoso Robotics USA (қарыз алушы заңды тұлға) және Contoso Robotics UK (несие беруші заңды тұлға) Adventure works тұтынушысына жобаны ұсынуға арналған ресурстарды бөлісетін әдеттегі сценарий көрсетілген. Осы сценарий үшін Contoso Robotics USA компаниясы Adventure Works дерекқорына жұмысты жеткізуге келісім-шарт жасады.
+Келесі кескінде екі заңды тұлға, Contoso Robotics USA (қарыз алушы заңды тұлға) және Contoso Robotics UK (несие беретін заңды тұлға) Adventure Works тұтынушысына жобаны ұсыну үшін ресурстарды бөлісетін әдеттегі сценарий көрсетілген. Осы сценарий үшін Contoso Robotics USA компаниясымен Adventure Works тұтынушысы үшін жұмысты орындау келісімшарты жасалды.
 
 ![Компанияаралық шот жіберу](./media/IntercompanyScenario.png) 
 

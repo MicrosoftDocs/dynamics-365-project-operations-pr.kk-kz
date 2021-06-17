@@ -2,18 +2,16 @@
 title: Project Operations ресурстық/қосалқы емес сценарийлерге арналған Project Operations алдын ала қарау жазылымдарына кіру
 description: Бұл тақырыпта ресурстық/қосалқы емес негіздегі сценарийлер үшін Project Operations жүйесіне жазылу және орналастыру туралы ақпарат берілген.
 author: sigitac
-manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 917ead8ff6d9d3ef8374f8ccde608b6cebd50c8c
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 1b8c8982ede83191ce346e76718322d47abf0dd8
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948471"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6000443"
 ---
 # <a name="sign-up-for-project-operations-preview-subscriptions-for-resource-non-stocked-scenarios"></a>Project Operations ресурстық/қосалқы емес сценарийлерге арналған Project Operations алдын ала қарау жазылымдарына кіру
 
@@ -21,17 +19,17 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-Бұл тақырып алдын-ала қарау/серіктестік ұсынысқа жазылуды және ресурстық/қосалқы негіздегі сценарийлер үшін Project Operations ортасын орналастыру туралы ақпарат береді.
+Бұл тақырып алдын ала қарау/серіктестік ұсынысқа жазылуды және ресурстық/қосалқы негіздегі сценарийлер үшін Project Operations ортасын орналастыру туралы ақпарат береді.
 
 ## <a name="prerequisites"></a>Алғышарттар
 
-- Сізге алдын-ала қарауға қатысуға шақыратын электрондық хат келеді. Алдын-ала қарауды [Project Operations веб-сайтынан](https://dynamics.microsoft.com/en-us/project-operations/overview/) сұратуға болады.
+- Сізге алдын ала қарауға қатысуға шақыратын электрондық хат келеді. алдын ала қарауды [Project Operations веб-сайтынан](https://dynamics.microsoft.com/en-us/project-operations/overview/) сұратуға болады.
 - Алдын ала қарауды орналастыратын пайдаланушының Azure қатысушысының басты әкімші құқықтары болуы керек.
 - Finance ортасын орналастыру үшін әр ортаға ұсынылатын жарамды Azure жазылымы қажет. Бастау үшін ұйымдарыңыздың бар жазылып немесе [Azure сынақ кезеңін](https://azure.microsoft.com/en-us/free/) пайдалануға болады. CDS ортасы шектеулі 30 күндік мерзімге тегін беріледі.
 
 ## <a name="subscribe"></a>Жазылу
 
-Сіздегі [алдын ала қарауды сұрау](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) расталған кезде, сізге Microsoft корпорациясынан электрондық пошта арқылы үш ұсыныс жіберіледі. Бұл ұсыныстар Project Operations алдын-ала қарауын орналастыруға мүмкіндік береді:
+Сіздегі [алдын ала қарауды сұрау](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) расталған кезде, сізге Microsoft корпорациясынан электрондық пошта арқылы үш ұсыныс жіберіледі. Бұл ұсыныстар Project Operations алдын ала қарауын орналастыруға мүмкіндік береді:
 
 - Dynamics 365 Project Operations (CRM) - алдын ала қарау сынақ нұсқасы
 - Office 365 Project Operations - алдын ала қарау сынақ нұсқасы

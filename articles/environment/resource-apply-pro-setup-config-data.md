@@ -2,18 +2,16 @@
 title: Common Data Service қызметінде конфигурация деректерін орнатып, қолдану
 description: Бұл тақырып Project Operations жүйесінде конфигурация деректерін қолдану туралы ақпарат береді.
 author: sigitac
-manager: Annbe
-ms.date: 11/04/2020
+ms.date: 05/10/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 1651d3b3b85d3dc581bf61976fada249bafd6b7b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2ea00df6112fb69b61f1889463424fdfee79aec9
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289826"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6001298"
 ---
 # <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Common Data Service қызметінде конфигурация деректерін орнатып, қолдану 
 
@@ -23,7 +21,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 ## <a name="prerequisites"></a>Алғышарттар
 
-Common Data Service (CDS) қызметінде деректерді конфигурациялауды бастамас бұрын келесі алғышарттар орындалулары керек:
+Common Data Service (CDS) бағдарламасында деректерді конфигурациялауды бастамас бұрын, келесі алғышарттар орындалуы керек:
 
 1.  Project Operations бағдарламасы үшін CDS ортасымен және Dynamics 365 Finance ортасымен қамтамасыз ету.
 2.  Dynamics 365 Finance жүйесінен алынған заңды тұлға туралы ақпарат CDS ортасымен ортақ пайдаланылады. Бұл CDS қызметіндегі **Компания** нысанында келесі компаниялық жазбалардың бар екендігін білдіреді:
@@ -33,7 +31,7 @@ Common Data Service (CDS) қызметінде деректерді конфиг
 
 ## <a name="install-setup-and-configuration-data"></a>Орнату және конфигурация деректерін орнату
 
-1. [Орнату және конфигурация деректер бумасын](https://download.microsoft.com/download/1/3/4/1349369c-6209-42b7-b3b4-5be0e67cacd8/ProjOpsSampleSetupData-%20Integrated%20UR1.zip) жүктеңіз, құлыптан шығарыңыз және мұрағаттан шығарыңыз.
+1. [Орнату және конфигурация деректер бумасын](https://download.microsoft.com/download/e/2/d/e2da6c98-d5dd-450c-aabe-fd6bf2ba374b/ProjOpsSampleSetupData-%20Integrated%20Latest.zip) жүктеңіз, құлыптан шығарыңыз және мұрағаттан шығарыңыз.
 2. Мұрағаттан шығарылмаған қалтаға өтіп, *DataMigrationUtility* орындалатын файлды іске қосыңыз.
 3. Common Data Service конфигурацияны тасымалдау (CMT) шеберінің 1-бетінде **Деректерді импорттау**, содан кейін **Жалғастыру** опцияларын таңдаңыз.
 
@@ -57,13 +55,20 @@ Common Data Service (CDS) қызметінде деректерді конфиг
 ![Деректерді импорттау](./media/5ImportData.png)
 
 10. Импорттау желі жылдамдығына байланысты шамамен екі-он минутқа созылады. Импорттау аяқталғаннан кейін CMT шеберінен шығыңыз. 
-11. Ұйымыңыздан келесі 19 ұйымның деректерін тексеріңіз:
+11. Ұйымыңыздан келесі 26 ұйымның деректерін тексеріңіз:
 
   - Валюта
+  - Тіркелгілер диаграммасы
+  - Қаржылық күнтізбе
+  - Валюта айырбастау бағамының түрлері
+  - Төлем күні
+  - Төлем кестесі
+  - Төлем шарты
   - Ұйымдық бірлік
-  - Істес кісі
+  - КОНТАКТ 
   - Салық тобы
   - Тұтынушы тобы
+  - Жеткізуші тобы
   - Бірлік
   - Бірлік тобы
   - Бағатізбе
@@ -127,7 +132,7 @@ Common Data Service (CDS) қызметінде деректерді конфиг
 12. Келесі өрістерді жаңартыңыз:
 
  - **Әдепкі компания**: USPM
- - **Әдепкі ұйымдық бөлім**: Contoso Robotics Global
+ - **Әдепкі бөлімше**: Contoso Robotics Global
  - **Шот-фактураның жиілігі**: Жетінші және соңғы күн
  - **Жұмыс уақытының үлгісі**: Сіз жасаған үлгі өзгерісі.
 
