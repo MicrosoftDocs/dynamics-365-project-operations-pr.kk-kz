@@ -2,8 +2,6 @@
 title: Талаптарды алдын ала тіркеу
 description: Бұл тақырыпта талаптарды алдын ала тіркеу жолы туралы ақпарат берілген.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -18,49 +16,49 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 736d59976ad0f456a694cedbb28b516c90632fe6
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: bc58c805bfe1a3087600b8d4a6be2d1bcdd18188
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282925"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997923"
 ---
-# <a name="soft-book-requirements"></a><span data-ttu-id="45cbd-103">Талаптарды алдын ала тіркеу</span><span class="sxs-lookup"><span data-stu-id="45cbd-103">Soft-book requirements</span></span>
+# <a name="soft-book-requirements"></a><span data-ttu-id="22ec0-103">Талаптарды алдын ала тіркеу</span><span class="sxs-lookup"><span data-stu-id="22ec0-103">Soft-book requirements</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-<span data-ttu-id="45cbd-104">Ресурс талаптарын түпкілікті тіркеуге болады.</span><span class="sxs-lookup"><span data-stu-id="45cbd-104">A resource requirement can be hard-booked.</span></span> <span data-ttu-id="45cbd-105">Түпкілікті тіркеу ресурс мүмкіндігін пайдаланатын ұсынысты жасайды.</span><span class="sxs-lookup"><span data-stu-id="45cbd-105">A hard booking creates a proposal that consumes a resource's capacity.</span></span> <span data-ttu-id="45cbd-106">Содан кейін ұсыныс бекіту үшін сұрау салушыға қайта жіберіледі.</span><span class="sxs-lookup"><span data-stu-id="45cbd-106">The proposal is then sent back to the requester for approval.</span></span> <span data-ttu-id="45cbd-107">Алдын ала тіркеу ресурсты жоба тобына алдын ала қосады және оның кесте тақтасындағы күйі өзгеше болады, бірақ ол ресурс мүмкіндігін пайдаланбайды.</span><span class="sxs-lookup"><span data-stu-id="45cbd-107">A soft booking tentatively adds a resource to a project team and has a different status on the Schedule Board, but it doesn't consume the resource's capacity.</span></span> <span data-ttu-id="45cbd-108">Ресурсты кесте тақтасынан алдын ала тіркеу үшін, **Тапсырыс беру күйі** өрісін **Алдын ала** параметріне орнатыңыз.</span><span class="sxs-lookup"><span data-stu-id="45cbd-108">To soft-book a resource from the Schedule Board, set the **Booking Status** field to **Soft**.</span></span>
+<span data-ttu-id="22ec0-104">Ресурс талаптарын түпкілікті тіркеуге болады.</span><span class="sxs-lookup"><span data-stu-id="22ec0-104">A resource requirement can be hard-booked.</span></span> <span data-ttu-id="22ec0-105">Түпкілікті тіркеу ресурс мүмкіндігін пайдаланатын ұсынысты жасайды.</span><span class="sxs-lookup"><span data-stu-id="22ec0-105">A hard booking creates a proposal that consumes a resource's capacity.</span></span> <span data-ttu-id="22ec0-106">Содан кейін ұсыныс бекіту үшін сұрау салушыға қайта жіберіледі.</span><span class="sxs-lookup"><span data-stu-id="22ec0-106">The proposal is then sent back to the requester for approval.</span></span> <span data-ttu-id="22ec0-107">Алдын ала тіркеу ресурсты жоба тобына алдын ала қосады және оның кесте тақтасындағы күйі өзгеше болады, бірақ ол ресурс мүмкіндігін пайдаланбайды.</span><span class="sxs-lookup"><span data-stu-id="22ec0-107">A soft booking tentatively adds a resource to a project team and has a different status on the Schedule Board, but it doesn't consume the resource's capacity.</span></span> <span data-ttu-id="22ec0-108">Ресурсты кесте тақтасынан алдын ала тіркеу үшін, **Тапсырыс беру күйі** өрісін **Алдын ала** параметріне орнатыңыз.</span><span class="sxs-lookup"><span data-stu-id="22ec0-108">To soft-book a resource from the Schedule Board, set the **Booking Status** field to **Soft**.</span></span>
 
 !["Алдын ала" параметріне орнатылған тапсырыс беру күйі](media/Resource-Management-image77.png)
 
-<span data-ttu-id="45cbd-110">**Топ** қойыншасы **Аталған топ мүшелері** көрінісінде болған кезде, ресурс сол жерде пайда болады.</span><span class="sxs-lookup"><span data-stu-id="45cbd-110">When the **Team** tab is in the **Named Team Members** view, the resource appears there.</span></span> <span data-ttu-id="45cbd-111">Алдын ала тіркелген сағаттар **Алдын ала тіркелген сағаттар** бағанында беріледі.</span><span class="sxs-lookup"><span data-stu-id="45cbd-111">The soft-booked hours are reported in the **Soft Booked Hours** column.</span></span>
+<span data-ttu-id="22ec0-110">**Топ** қойыншасы **Аталған топ мүшелері** көрінісінде болған кезде, ресурс сол жерде пайда болады.</span><span class="sxs-lookup"><span data-stu-id="22ec0-110">When the **Team** tab is in the **Named Team Members** view, the resource appears there.</span></span> <span data-ttu-id="22ec0-111">Алдын ала тіркелген сағаттар **Алдын ала тіркелген сағаттар** бағанында беріледі.</span><span class="sxs-lookup"><span data-stu-id="22ec0-111">The soft-booked hours are reported in the **Soft Booked Hours** column.</span></span>
 
 !["Аталған топ мүшелері" көрінісіндегі алдын ала тіркелген сағаттар](media/Resource-Management-image78.png)
 
-<span data-ttu-id="45cbd-113">Алдын ала тіркелген топ мүшелерін жоба тапсырмаларына тағайындауға болады.</span><span class="sxs-lookup"><span data-stu-id="45cbd-113">Soft-booked team members can be assigned to tasks.</span></span>
+<span data-ttu-id="22ec0-113">Алдын ала тіркелген топ мүшелерін жоба тапсырмаларына тағайындауға болады.</span><span class="sxs-lookup"><span data-stu-id="22ec0-113">Soft-booked team members can be assigned to tasks.</span></span>
 
 ![Тапсырмаға тағайындалған алдын ала тіркелген топ мүшесі](media/Resource-Management-image79.png)
 
-<span data-ttu-id="45cbd-115">**Салыстырып тексеру** қойыншасында, алдын ала тіркелген ресурс үшін тапсырыстар көрсетілмейді, себебі **Салыстырып тексеру** қойыншасы тек түпкілікті тіркеуді қарастырады.</span><span class="sxs-lookup"><span data-stu-id="45cbd-115">On the **Reconciliation** tab, no bookings are shown for a soft-book resource, because the **Reconciliation** tab considers only hard-bookings.</span></span>
+<span data-ttu-id="22ec0-115">**Салыстырып тексеру** қойыншасында, алдын ала тіркелген ресурс үшін тапсырыстар көрсетілмейді, себебі **Салыстырып тексеру** қойыншасы тек түпкілікті тіркеуді қарастырады.</span><span class="sxs-lookup"><span data-stu-id="22ec0-115">On the **Reconciliation** tab, no bookings are shown for a soft-book resource, because the **Reconciliation** tab considers only hard-bookings.</span></span>
 
 ![Салыстырып тексеру қойыншасындағы тапсырысы жоқ алдын ала резервтелген ресурс](media/Resource-Management-image80.png)
 
 > [!NOTE]
-> <span data-ttu-id="45cbd-117">Жалпы топ мүшесінен жасалған талаптан ресурсты алдын ала резервтеу мүмкін емес.</span><span class="sxs-lookup"><span data-stu-id="45cbd-117">You can't soft-book a resource from a requirement that was generated from a generic team member.</span></span>
+> <span data-ttu-id="22ec0-117">Жалпы топ мүшесінен жасалған талаптан ресурсты алдын ала резервтеу мүмкін емес.</span><span class="sxs-lookup"><span data-stu-id="22ec0-117">You can't soft-book a resource from a requirement that was generated from a generic team member.</span></span>
 
-<span data-ttu-id="45cbd-118">Кесте тақтасында ресурсқа арналған алдын ала резервтеулер үшін басқа түс пайдаланылады.</span><span class="sxs-lookup"><span data-stu-id="45cbd-118">On the Schedule Board, a different coloring is used for soft bookings for a resource.</span></span>
+<span data-ttu-id="22ec0-118">Кесте тақтасында ресурсқа арналған алдын ала резервтеулер үшін басқа түс пайдаланылады.</span><span class="sxs-lookup"><span data-stu-id="22ec0-118">On the Schedule Board, a different coloring is used for soft bookings for a resource.</span></span>
 
 ![Кесте тақтасындағы алдын ала резервтеулер](media/Resource-Management-image81.png)
 
-<span data-ttu-id="45cbd-120">Алдын ала резервтеуді қорытынды резервтеуге түрлендіру үшін, кесте тақтасында алдын ала резервтеуді басып, **Күйді өзгерту** \> **Қорытынды резервтеу** \> **Қорытынды** тармағын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="45cbd-120">To convert a soft booking to a hard booking, on the Schedule Board, right-click the soft booking, and then select **Change Status** \> **Hard Book** \> **Hard**.</span></span>
+<span data-ttu-id="22ec0-120">Алдын ала резервтеуді қорытынды резервтеуге түрлендіру үшін, кесте тақтасында алдын ала резервтеуді басып, **Күйді өзгерту** \> **Қорытынды резервтеу** \> **Қорытынды** тармағын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="22ec0-120">To convert a soft booking to a hard booking, on the Schedule Board, right-click the soft booking, and then select **Change Status** \> **Hard Book** \> **Hard**.</span></span>
 
 ![Резервтеу күйін "Қорытынды" күйіне өзгерту](media/Resource-Management-image82.png)
 
-<span data-ttu-id="45cbd-122">Резервтеу өзгертіліп, кесте тақтасында күйі өзгертілді.</span><span class="sxs-lookup"><span data-stu-id="45cbd-122">The booking is changed, and the status is changed on the Schedule Board.</span></span> <span data-ttu-id="45cbd-123">Резервтеу күйі енді **Қорытынды** болғандықтан, ресурс резервтелген ретінде көрсетіледі және оның сыйымдылығы мен қолжетімділігі реттеледі.</span><span class="sxs-lookup"><span data-stu-id="45cbd-123">Because the booking status is now **Hard**, the resource is shown as booked, and its capacity and availability are adjusted.</span></span>
+<span data-ttu-id="22ec0-122">Резервтеу өзгертіліп, кесте тақтасында күйі өзгертілді.</span><span class="sxs-lookup"><span data-stu-id="22ec0-122">The booking is changed, and the status is changed on the Schedule Board.</span></span> <span data-ttu-id="22ec0-123">Резервтеу күйі енді **Қорытынды** болғандықтан, ресурс резервтелген ретінде көрсетіледі және оның сыйымдылығы мен қолжетімділігі реттеледі.</span><span class="sxs-lookup"><span data-stu-id="22ec0-123">Because the booking status is now **Hard**, the resource is shown as booked, and its capacity and availability are adjusted.</span></span>
 
-<span data-ttu-id="45cbd-124">Кесте тақтасынан қорытынды резервтеуден немесе алдын ала резервтеуден бас тарту үшін осы әдісті пайдалануға болады.</span><span class="sxs-lookup"><span data-stu-id="45cbd-124">You can use the same method to cancel a hard booking or a soft booking from the Schedule Board.</span></span>
+<span data-ttu-id="22ec0-124">Кесте тақтасынан қорытынды резервтеуден немесе алдын ала резервтеуден бас тарту үшін осы әдісті пайдалануға болады.</span><span class="sxs-lookup"><span data-stu-id="22ec0-124">You can use the same method to cancel a hard booking or a soft booking from the Schedule Board.</span></span>
 
-<span data-ttu-id="45cbd-125">Жобаның **Топ** қойыншасында алдын ала резервтелген ресурсты қорытынды резервтелген ресурсқа түрлендіру үшін, ресурсты таңдап, **Растау** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="45cbd-125">To convert a resource that is soft-booked to hard-booked on the project's **Team** tab, select the resource, and then select **Confirm**.</span></span>
+<span data-ttu-id="22ec0-125">Жобаның **Топ** қойыншасында алдын ала резервтелген ресурсты қорытынды резервтелген ресурсқа түрлендіру үшін, ресурсты таңдап, **Растау** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="22ec0-125">To convert a resource that is soft-booked to hard-booked on the project's **Team** tab, select the resource, and then select **Confirm**.</span></span>
 
 ![Растау пәрмені](media/Resource-Management-image83.png)
 
