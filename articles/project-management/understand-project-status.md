@@ -2,18 +2,16 @@
 title: Жоба күйін түсіну
 description: Бұл тақырыпта Dynamics 365 Project Operations бағдарламасындағы жобаларға тағайындалған күй туралы ақпарат берілген.
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: fc9b107507008fd2381d3669552d754d2c867a7f
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: ad8c012b93bc65595dca33df1770562916c557e0
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5286480"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5993423"
 ---
 # <a name="understand-project-status"></a>Жоба күйін түсіну
 

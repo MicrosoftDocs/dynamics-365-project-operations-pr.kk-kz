@@ -2,8 +2,6 @@
 title: Сатылым процесі барысында жоба үшін жұмыс болжамдарын қамтамасыз ету
 description: Project Service жүйесіндегі сатылым процесі барысында жобаның жұмыс болжамдарын беру жолы
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 49ea8327ae34a69eba1585f1b1b4e557fd4eac93
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: d1daff101f9f0342bb691253fee1290d2335318c
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283555"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998238"
 ---
 # <a name="provide-work-estimates-for-a-project-during-the-sales-process-project-service"></a>Сатылым процесі барысында жұмыс болжамдарын қамтамасыз ету (Project Service)
 

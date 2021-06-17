@@ -2,19 +2,17 @@
 title: Биржадан тыс материалдарды және күтудегі жеткізуші есеп-шоттарын конфигурациялау
 description: Бұл тақырыпта биржадан тыс материалдар мен күтудегі жеткізуші есеп-шоттарын қосу жолдары түсіндіріледі.
 author: sigitac
-manager: tfehr
 ms.date: 04/12/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: a84245a246f49ab69466aba0fec332f0489eec6c
-ms.sourcegitcommit: 7468d668c48c1d87934aab9a034decd51e56dec6
+ms.openlocfilehash: 24418f3aad8356bd209eef7487a47a3870bce10f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "5880661"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5993918"
 ---
 # <a name="configure-non-stocked-materials-and-pending-vendor-invoices"></a>Биржадан тыс материалдарды және күтудегі жеткізуші есеп-шоттарын конфигурациялау
 
@@ -61,11 +59,11 @@ Dynamics 365 Finance:
 
 ### <a name="activate-workflow-to-create-accounts-based-on-vendor-entity"></a>Жеткізуші нысаны негізінде есептік шоттар жасау үшін жұмыс ағынын белсендіру
 
-Қос жазу өзара қатынасының шешімі [Негізгі жеткізушілер интеграциясын](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/vendor-mapping) ұсынады. Осы мүмкіндіктің алғышарты ретінде жеткізуші деректері **Шоттар** нысанында жасалуы мүмкін. [Жеткізуші дизайндары арасында ауысу](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/vendor-switch#use-the-extended-vendor-design-for-vendors-of-the-organization-type) бөлімінде сипатталғандай **Шоттар** кестесінде жеткізушілер жасау үшін үлгінің жұмыс ағыны процесін іске қосыңыз.
+Қос жазу өзара қатынасының шешімі [Негізгі жеткізушілер интеграциясын](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/vendor-mapping.md) ұсынады. Осы мүмкіндіктің алғышарты ретінде жеткізуші деректері **Шоттар** нысанында жасалуы мүмкін. [Жеткізуші дизайндары арасында ауысу](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/vendor-switch.md#use-the-extended-vendor-design-for-vendors-of-the-organization-type) бөлімінде сипатталғандай **Шоттар** кестесінде жеткізушілер жасау үшін үлгінің жұмыс ағыны процесін іске қосыңыз.
 
 ### <a name="set-products-to-be-created-as-active"></a>Белсенді ретінде жасалатын өнімдерді орнату
 
-Биржадан тыс материалдар Finance ортасындағы **Шығарылатын өнімдер** ретінде конфигурациялануы тиіс. Қос жазу өзара қатынасының шешімі кірістірілген [Шығарылған өнімдердің Dataverse өнімдер санатына интеграциясын](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/product-mapping) ұсынады. Әдепкі бойынша, Finance өнімдері Dataverse жүйесіне жоба күйінде синхрондалады. Өнім материалдық пайдалану құжаттары немесе күтудегі жеткізуші шот-фактураларында тікелей пайдаланылатындай белсенді күйге синхрондау үшін **Жүйе** > **Басқару** > **Жүйені басқару** > **Жүйе параметрлері** бөліміне өтіп, **Сатылым** қойыншасында **Өнімдерді белсенді күйде жасау** параметрін **Иә** опциясына орнатыңыз.
+Биржадан тыс материалдар Finance ортасындағы **Шығарылатын өнімдер** ретінде конфигурациялануы тиіс. Қос жазу өзара қатынасының шешімі кірістірілген [Шығарылған өнімдердің Dataverse өнімдер санатына интеграциясын](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/product-mapping.md) ұсынады. Әдепкі бойынша, Finance өнімдері Dataverse жүйесіне жоба күйінде синхрондалады. Өнім материалдық пайдалану құжаттары немесе күтудегі жеткізуші шот-фактураларында тікелей пайдаланылатындай белсенді күйге синхрондау үшін **Жүйе** > **Басқару** > **Жүйені басқару** > **Жүйе параметрлері** бөліміне өтіп, **Сатылым** қойыншасында **Өнімдерді белсенді күйде жасау** параметрін **Иә** опциясына орнатыңыз.
 
 ## <a name="configure-prerequisites-in-finance"></a>Finance бағдарламасындағы алғышарттарды конфигурациялау
 

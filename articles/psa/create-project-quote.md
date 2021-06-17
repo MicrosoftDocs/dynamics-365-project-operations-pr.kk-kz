@@ -2,8 +2,6 @@
 title: Жоба баға ұсынуды жасау
 description: Project Service жүйесінде жоба баға ұсынуын жасау жолы
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 06b84e155a60c574855d5a2509d16d67b8bceea4
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 40c57aa5e80416659e620ca016631a32d2d81b8d
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285175"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997293"
 ---
 # <a name="create-a-project-quote-project-service"></a>Жоба баға ұсынуын жасау (Project Service)
 

@@ -2,8 +2,6 @@
 title: Жұмыс уақыты үлгілерін жасау
 description: Бұл тақырыпта Project Service қызметінде жұмыс сағаттарының үлгісін жасау жолдары сипатталады.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 525f601ad6fee902cb6d5c128b596cc2d33f30c4
-ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
+ms.openlocfilehash: 105e3cb2ef7b904e96dc21013906e0b7444e3b88
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/04/2021
-ms.locfileid: "5981262"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997203"
 ---
 # <a name="create-a-work-hours-template-project-service"></a>Жұмыс сағаттары үлгісін жасау (Project Service)
 
@@ -51,7 +49,7 @@ ms.locfileid: "5981262"
 
 1. **Ресурстар** \> **Ресурстар** тармағына өтіңіз.
 2. Күнтізбе үлгісінде сілтеме үшін жаңа ресурс жасаңыз немесе бар ресурсты таңдаңыз.
-3. Ресурстың **Жұмыс сағаттары** қойыншасын таңдап, күнтізбе ережелерін конфигурациялау үшін [Ресурс үшін жұмыс сағаттарын орнату](https://docs.microsoft.com/dynamics365/field-service/set-work-hours-resource) бөліміндегі нұсқауларды орындаңыз.
+3. Ресурстың **Жұмыс сағаттары** қойыншасын таңдап, күнтізбе ережелерін конфигурациялау үшін [Ресурс үшін жұмыс сағаттарын орнату](/dynamics365/field-service/set-work-hours-resource.md) бөліміндегі нұсқауларды орындаңыз.
 
 **Жаңа күнтізбе үлгісін жасау**
 

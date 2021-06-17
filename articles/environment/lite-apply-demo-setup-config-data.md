@@ -2,18 +2,16 @@
 title: Демо нұсқа параметрлері мен конфигурация деректерін қолдану - жеңілдетілген
 description: Бұл тақырып Project Operations жүйесі үшін демонстрацияны және конфигурация деректерін қолдану туралы ақпарат береді.
 author: sigitac
-manager: Annbe
 ms.date: 01/27/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 694dbc74591de74895095a9da6e590069711fc83
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 7729b4a9ef5f498b78af298f7233d7dd45434bb3
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5290141"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997158"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Project Operations жүйесіне арналған демо нұсқа параметрлерін және конфигурация деректерін қолдану - жеңілдетілген 
 
@@ -28,8 +26,8 @@ _**Жеңілдетілген орналастыру - проформа-шоты
 
 ## <a name="instructions"></a>Нұсқаулар
 
-1. [Негізгі деректер бумасын](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData%20-%20CE%20only%20CMT.zip) жүктеп алыңыз. 
-2. *ProjOpsDemoDataSetupAndMaster - біріктірілген CMT* өтіп, орындалатын файлды *DataMigrationUtility* орындалатын файлды іске қосыңыз.
+1. [Негізгі деректер бумасын](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData-%20CE%20only.zip) жүктеп алыңыз. 
+2. *ProjOpsSampleSetupData - CE тек CMT* қалтасына өтіңіз және *DataMigrationUtility* орындалатын файлын іске қосыңыз.
 3. Common Data Service конфигурацияны тасымалдау (CMT) шеберінің 1-бетінде **Деректерді импорттау**, содан кейін **Жалғастыру** опцияларын таңдаңыз.
 
     ![Конфигурацияны тасымалдау](./media/1ConfigurationMigration.png)
@@ -41,18 +39,18 @@ _**Жеңілдетілген орналастыру - проформа-шоты
    ![Конфигурацияға кіру](./media/2ConfigurationSignin.png)
 
 7. 3-бетте, қатысушыдағы ұйымдар тізімінен демо деректерді импорттау ұйымын таңдап, содан соң **Жүйеге кіру** опциясын таңдаңыз.
-8. 4-бетте бумадан шығарылған қалтадан *MasterAndSetupData* zip файлын, *ProjOpsDemoDataSetupAndMaster - біріктірілген CMT* таңдаңыз.
+8. 4-бетте *ProjOpsSampleSetupData - CE тек CMT* бумадан шығарылған қалтадан *SampleSetupAndConfigData* zip файлын таңдаңыз.
 
    ![Zip файлы](./media/3ZipFile.png)
 
-   ![Файлды таңдаңыз](./media/4SelectAFile.png)
+   ![Файл таңдау](./media/4SelectAFile.png)
 
 9. Zip файлы таңдалғаннан кейін **Деректерді импорттау** опциясын таңдаңыз.
 
    ![Деректерді импорттау](./media/5ImportData.png)
 
 10. Импорттау желі жылдамдығына байланысты шамамен екі-он минутқа созылады. Аяқтағаннан кейін CMT шеберінен шығыңыз. 
-11. Ұйымыңыздан келесі 20 ұйымның деректерін тексеріңіз:
+11. Ұйымыңыздан келесі 18 ұйымның деректерін тексеріңіз:
 
     -   Валюта
     -   Тіркелгі

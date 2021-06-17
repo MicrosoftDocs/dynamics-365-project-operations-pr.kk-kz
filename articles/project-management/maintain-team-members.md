@@ -2,18 +2,16 @@
 title: Топ мүшелерін жүргізу
 description: Бұл тақырыпта жоба тобы үшін аталған ресурстарға тапсырыс беру және оларды тапсырмаларға тағайындау туралы ақпарат берілген.
 author: ruhercul
-manager: AnnBe
 ms.date: 10/05/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 60b6788d881518502d314e9ee5daf6bbc0ae8764
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 00312c5a701768e0042e7e0236477c192690ded3
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5286840"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998643"
 ---
 # <a name="maintain-team-members"></a>Топ мүшелерін жүргізу
 

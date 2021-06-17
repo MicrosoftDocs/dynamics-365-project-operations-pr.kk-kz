@@ -2,18 +2,16 @@
 title: Алдын ала қарау жазылымына тіркелу - жеңілдетілген
 description: Бұл тақырыпта Project Operations жеңілдетілген орналастыру бағдарламасына жазылу және оны орналастыру амалы туралы ақпарат берілген - проформа-шотын ұсыну мәмілесі.
 author: sigitac
-manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 44edf2613ea4b26dadbd9edc47c784c488c577de
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 4de51277e5a08690cc16497e3916f40498b39fb8
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5290051"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997428"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>Алдын ала қарау жазылымына тіркелу - жеңілдетілген 
 
@@ -24,13 +22,13 @@ ms.locfileid: "5290051"
 
 ## <a name="prerequisites"></a>Алғышарттар
 
-- Сізге алдын-ала қарауға қатысуға шақыратын электрондық хат келеді. Алдын-ала қарауды [Project Operations веб-сайтынан](https://dynamics.microsoft.com/en-us/project-operations/overview/) сұратуға болады.
+- Сізге алдын ала қарауға қатысуға шақыратын электрондық хат келеді. алдын ала қарауды [Project Operations веб-сайтынан](https://dynamics.microsoft.com/en-us/project-operations/overview/) сұратуға болады.
 - Алдын ала қарауды орналастыратын пайдаланушының Azure қатысушысының басты әкімші құқықтары болуы керек.
 - Барлық шарттар және талаптарды қарап шығыңыз.
 
 ## <a name="subscribe"></a>Жазылу
 
-Сіз [алдын ала қарауды сұрау](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) растауын алған кезде, сізге Microsoft корпорациясынан электрондық пошта арқылы екі ұсыныс жіберіледі. Бұл ұсыныстар Project Operations алдын-ала қарауын орналастыруға мүмкіндік береді:
+Сіз [алдын ала қарауды сұрау](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) растауын алған кезде, сізге Microsoft корпорациясынан электрондық пошта арқылы екі ұсыныс жіберіледі. Бұл ұсыныстар Project Operations алдын ала қарауын орналастыруға мүмкіндік береді:
 
 - Dynamics 365 Project Operations (CRM) - алдын ала қарау сынақ нұсқасы
 - Office 365 Project Operations - алдын ала қарау сынақ нұсқасы
