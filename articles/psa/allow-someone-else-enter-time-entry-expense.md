@@ -2,8 +2,6 @@
 title: Басқа біреуге уақытты немесе шығысты енгізуге рұқсат ету
 description: Басқалардың Project Service жүйесіндегі уақыт жазбасын немесе шығысты енгізуге мүмкіндік беру жолы
 author: revathiMuthiah
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 252fff0b60d221233c881e68db176e6763cdcdc0
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 04c4dc7826a3e288e672e0226d5f436904d92e1b
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5291581"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6009533"
 ---
 # <a name="allow-someone-else-to-enter-your-time-entry-or-expense-project-service"></a>Басқа біреуге уақыт жазбасын немесе шығысты енгізуге рұқсат беру (Project Service)
 

@@ -2,11 +2,9 @@
 title: Жоба уақыт кестесі мобильді құрылғы бағдарламасы
 description: Бұл тақырыпта Microsoft Dynamics 365 Project Timesheet мобильді құрылғы бағдарламасы туралы ақпарат беріледі. Жоба уақыт кестесі мобильді құрылғы бағдарламасы пайдаланушыларға олардың мобильді құрылғысындағы жобаларға арналған уақыт кестелерін жіберуге және бекітуге мүмкіндік береді.
 author: abruer
-manager: AnnBe
 ms.date: 04/08/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: db035bfd555d724f80156d0b50df7c0d0bfaff27
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 517c6f2b749fa3ed44b198b799489e7e29e34d7f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5288836"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6009893"
 ---
 # <a name="project-timesheet-mobile-application"></a>Жоба уақыт кестесі мобильді құрылғы бағдарламасы
 
