@@ -2,11 +2,9 @@
 title: Жоспарланған ресурстарға арналған ресурстарды орындау
 description: Бұл тақырыпта жобаға арналған жоспарланған ресурстар туралы ақпарат берілген.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,28 +16,28 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 4200d74a18c706a492ebd0e5383d5957ce6ab6c8
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 1533ac5fd7316bff10738a87e35fab0f270f91c5
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5288791"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6009848"
 ---
-# <a name="resource-fulfillment-for-planned-resources"></a><span data-ttu-id="948e2-103">Жоспарланған ресурстарға арналған ресурстарды орындау</span><span class="sxs-lookup"><span data-stu-id="948e2-103">Resource fulfillment for planned resources</span></span>
+# <a name="resource-fulfillment-for-planned-resources"></a><span data-ttu-id="1b99a-103">Жоспарланған ресурстарға арналған ресурстарды орындау</span><span class="sxs-lookup"><span data-stu-id="1b99a-103">Resource fulfillment for planned resources</span></span>
 
 [!include [banner](../includes/banner.md)]
 
-<span data-ttu-id="948e2-104">Жоба менеджері жоба үшін қажетті ресурстық рөлдерді жоспарлай алады.</span><span class="sxs-lookup"><span data-stu-id="948e2-104">A project manager can plan required resource roles for a project.</span></span> <span data-ttu-id="948e2-105">Ресурс менеджері осы жоспарланған ресурстарды **Ресурстың орындалуы** бетіндегі сұраныстар ретінде қарастырады және нақты ресурстарды тағайындай алады.</span><span class="sxs-lookup"><span data-stu-id="948e2-105">The resource manager will see these planned resources as requests on the **Resource fulfillment** page and can assign actual resources.</span></span>
+<span data-ttu-id="1b99a-104">Жоба менеджері жоба үшін қажетті ресурстық рөлдерді жоспарлай алады.</span><span class="sxs-lookup"><span data-stu-id="1b99a-104">A project manager can plan required resource roles for a project.</span></span> <span data-ttu-id="1b99a-105">Ресурс менеджері осы жоспарланған ресурстарды **Ресурстың орындалуы** бетіндегі сұраныстар ретінде қарастырады және нақты ресурстарды тағайындай алады.</span><span class="sxs-lookup"><span data-stu-id="1b99a-105">The resource manager will see these planned resources as requests on the **Resource fulfillment** page and can assign actual resources.</span></span>
 
-1. <span data-ttu-id="948e2-106">**Барлық жобалар** бетінен **XYZ жаңартуының 2-кезеңі** жобасын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="948e2-106">On the **All projects** page, select the **XYZ Upgrade Phase 2** project.</span></span>
-2. <span data-ttu-id="948e2-107">**Жоба**, содан кейін **Өңдеу** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="948e2-107">Select **Project**, and then select **Edit**.</span></span>
-3. <span data-ttu-id="948e2-108">**Жоба тобы және жоспарлау** қойыншасынан **Қосу** параметрін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="948e2-108">On the **Project team and scheduling** tab, select **Add**.</span></span>
-4. <span data-ttu-id="948e2-109">**Рөлдерді қосу** диалогтық терезесінде **Бағдарламалық жасақтаманы әзірлеуші** рөлін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="948e2-109">In the **Add roles** dialog box, select the **Software developer** role.</span></span>
-5. <span data-ttu-id="948e2-110">**Жасау** параметрін таңдап, жоба бетін жабыңыз.</span><span class="sxs-lookup"><span data-stu-id="948e2-110">Select **Create**, and then close the project page.</span></span>
-6. <span data-ttu-id="948e2-111">**Ресурстың орындалуы** бетінде **XYZ жаңарту жобасының 2-кезеңі** жобасы үшін **1 бағдарламалық жасақтаманы әзірлеуші** параметрін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="948e2-111">On the **Resource fulfillment** page, select **Software developer 1** for the **XYZ Upgrade project Phase 2** project.</span></span>
-7. <span data-ttu-id="948e2-112">Жұмысшыны, содан кейін **Тағайындау** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="948e2-112">Select a worker, and then select **Assign**.</span></span>
-8. <span data-ttu-id="948e2-113">**1 бағдарламалық жасақтаманы әзірлеуші** арналған жолдың **XYZ жаңарту жобасының 2-кезеңі** жобасы үшін алынып тасталғанына көз жеткізіңіз.</span><span class="sxs-lookup"><span data-stu-id="948e2-113">Verify that the line for **Software developer 1** has been removed for the **XYZ Upgrade project Phase 2** project.</span></span>
-9. <span data-ttu-id="948e2-114">**XYZ жаңартуының 2-кезеңі** жобасына арналған **Жоба тобы және жоспарлау** қойыншасында алдыңғы қадамда таңдалған жұмысшы **Бағдарламалық жасақтаманы әзірлеуші** ретінде қосылғанына көз жеткізіңіз.</span><span class="sxs-lookup"><span data-stu-id="948e2-114">On the **Project team and scheduling** tab, for the **XYZ Upgrade Phase 2** project, verify that the worker that you selected in the previous step has been added as **Software developer**.</span></span>
+1. <span data-ttu-id="1b99a-106">**Барлық жобалар** бетінен **XYZ жаңартуының 2-кезеңі** жобасын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-106">On the **All projects** page, select the **XYZ Upgrade Phase 2** project.</span></span>
+2. <span data-ttu-id="1b99a-107">**Жоба**, содан кейін **Өңдеу** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-107">Select **Project**, and then select **Edit**.</span></span>
+3. <span data-ttu-id="1b99a-108">**Жоба тобы және жоспарлау** қойыншасынан **Қосу** параметрін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-108">On the **Project team and scheduling** tab, select **Add**.</span></span>
+4. <span data-ttu-id="1b99a-109">**Рөлдерді қосу** диалогтық терезесінде **Бағдарламалық жасақтаманы әзірлеуші** рөлін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-109">In the **Add roles** dialog box, select the **Software developer** role.</span></span>
+5. <span data-ttu-id="1b99a-110">**Жасау** параметрін таңдап, жоба бетін жабыңыз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-110">Select **Create**, and then close the project page.</span></span>
+6. <span data-ttu-id="1b99a-111">**Ресурстың орындалуы** бетінде **XYZ жаңарту жобасының 2-кезеңі** жобасы үшін **1 бағдарламалық жасақтаманы әзірлеуші** параметрін таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-111">On the **Resource fulfillment** page, select **Software developer 1** for the **XYZ Upgrade project Phase 2** project.</span></span>
+7. <span data-ttu-id="1b99a-112">Жұмысшыны, содан кейін **Тағайындау** опциясын таңдаңыз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-112">Select a worker, and then select **Assign**.</span></span>
+8. <span data-ttu-id="1b99a-113">**1 бағдарламалық жасақтаманы әзірлеуші** арналған жолдың **XYZ жаңарту жобасының 2-кезеңі** жобасы үшін алынып тасталғанына көз жеткізіңіз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-113">Verify that the line for **Software developer 1** has been removed for the **XYZ Upgrade project Phase 2** project.</span></span>
+9. <span data-ttu-id="1b99a-114">**XYZ жаңартуының 2-кезеңі** жобасына арналған **Жоба тобы және жоспарлау** қойыншасында алдыңғы қадамда таңдалған жұмысшы **Бағдарламалық жасақтаманы әзірлеуші** ретінде қосылғанына көз жеткізіңіз.</span><span class="sxs-lookup"><span data-stu-id="1b99a-114">On the **Project team and scheduling** tab, for the **XYZ Upgrade Phase 2** project, verify that the worker that you selected in the previous step has been added as **Software developer**.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
