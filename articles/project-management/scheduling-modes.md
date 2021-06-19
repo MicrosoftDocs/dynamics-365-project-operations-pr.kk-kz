@@ -2,18 +2,16 @@
 title: Жоспарлау режимдері
 description: Бұл тақырыпта жоспарлау режимдері туралы ақпарат берілген.
 author: ruhercul
-manager: AnnBe
-ms.date: 05/04/2021
+ms.date: 05/28/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: fe54944999617b248ff925148a78601dd4be7aca
-ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
+ms.openlocfilehash: 508ff1df8f7e31066712fab6f8871dfdb107a43b
+ms.sourcegitcommit: fc96c6eb9a2094f9fa3d1ae39646730ef9d558ba
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/04/2021
-ms.locfileid: "5981442"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "6116714"
 ---
 # <a name="scheduling-modes"></a>Жоспарлау режимдері
 
@@ -25,12 +23,12 @@ Dynamics 365 Project Operations ұйымдарға жұмыс декомпози
 Project Operations бағдарламасында үш жоспарлау режимі бар:
 
   - Бекітілген ұзақтық (бұл – әдепкі режим)
-  - Бекітілген жұмыс
+  - Бекітілген күш (*Жұмыс*)
   - Бекітілген бірліктер
 
 Жоспарлаудың нақты режимін анықтауға әсер ететін мәндер келесі формула бойынша анықталады:
 
-  Әрекет (*Жұмыс*) = Ұзақтығы x бірлік
+  Күш  = ұзақтығы x бірліктер
 
 Жобаның жоспарлау режимін анықтаған кезде кейін өзгерту мүмкін емес болатын осы мәндердің бірін орнатасыз. Бұл мәнді тұрақты күйінде ұстау сол мәнге басымдық береді, бұл жүйеге басқа екі мән өзгерген кезде оны өзгертпеу туралы хабарлайды. Келесі кестеде белгілі бір режимді таңдау әсерлері туралы ақпарат берілген.
 
