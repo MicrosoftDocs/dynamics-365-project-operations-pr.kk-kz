@@ -22,12 +22,14 @@
               href: environment/create-lcs-project.md
             - name: LCS жобасына Azure жазылымын қосу
               href: environment/resource-add-azure-subscription-lcs-project.md
-        - name: Демо нұсқадағы деректерді қолдану
+        - name: Демо нұсқа деректерін қолдану
           items:
             - name: Конфигурация деректерін Common Data Service қызметінде қолдану
               href: environment/resource-apply-pro-setup-config-data.md
         - name: Орталарды орналастыру
           items:
+            - name: Қос жазу мүмкіндігінде ие Project Operations Dataverse бағдарламасын қолмен орналастыру
+              href: environment/resource-manual-deploy-dataverse-dualwrite.md
             - name: Жаңа ортаны дайындау
               href: environment/resource-provision-new-environment.md
             - name: Қауіпсіздік үлгісі
@@ -52,6 +54,10 @@
               href: environment/resource-dual-write-vendor-invoice.md
     - name: Жаңалықтар
       items:
+        - name: 'Шілде, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-july-2021-resource-based.md
+        - name: 'Маусым, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-june-2021-resource-based.md
         - name: 'Мамыр, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-may-2021-resource-based.md
         - name: 'Сәуір, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
@@ -282,7 +288,7 @@
           items:
             - name: Жобаны көшіру арқылы жоба үлгілерін әзірлеу
               href: project-management/dev-copy-project.md
-            - name: Кесте API интерфейстерін (жалпыға қолжетімді алдын ала қарау нұсқасы) пайдалану
+            - name: Жоба кестесінің API интерфейстерін пайдалану (жалпыға қолжетімді алдын ала қарау нұсқасы)
               href: project-management/schedule-api-preview.md
     - name: Ресурстарды басқару
       items:
@@ -436,9 +442,7 @@
       items:
         - name: Шот жіберу процесіне шолу
           href: invoicing/post-project-invoices.md
-        - name: Жоба есеп-шотының ұсыныстарын басқару
-          href: invoicing/format-update-project-invoice-proposals.md
-        - name: Проформа шоты
+        - name: Проформа есеп‑шоты
           items:
             - name: Жобаға негізделген орындалмаған шот ұсыну тапсырмаларын басқару
               href: proforma-invoicing/manage-billing-backlog.md
@@ -456,8 +460,22 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: Жобаға негізделген есеп-шотты автоматтандыруды конфигурациялау
               href: proforma-invoicing/configure-automated-invoice-creation.md
-        - name: Жоба есеп-шотының ұсыныстарын басқару
-          href: invoicing/format-update-project-invoice-proposals.md
+        - name: Тұтынушы есеп-шоты
+          items:
+            - name: Жоба есеп-шотының ұсыныстарын басқару
+              href: invoicing/format-update-project-invoice-proposals.md
+            - name: Нобай жобасы есеп‑шот ұсыныстарындағы есепті түзету
+              href: invoicing/correct-project-invoice-proposals.md
+        - name: Компанияаралық шот жіберу
+          items:
+            - name: Компанияаралық шот жіберуге шолу
+              href: project-accounting/intercompany-invoicing-overview.md
+            - name: Компанияаралық шот ұсынуды конфигурациялау
+              href: project-accounting/configure-intercompany-invoicing.md
+            - name: Компанияаралық транзакцияларды жасау
+              href: project-accounting/create-intercompany-transactions.md
+            - name: Тұтынушылар мен жеткізушілердің компанияаралық есеп-шоттарын жасау
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: Жоба есебі
       items:
         - name: Қаржылық өлшемнің әдепкі мәндері
@@ -470,16 +488,6 @@
           href: project-accounting/configure-accounting-billable-projects.md
         - name: Project Operations бағдарламасындағы біріктіру журналы
           href: project-accounting/project-operations-integration-journal.md
-        - name: Компанияаралық шот жіберу
-          items:
-            - name: Компанияаралық шот жіберуге шолу
-              href: project-accounting/intercompany-invoicing-overview.md
-            - name: Компанияаралық шот ұсынуды конфигурациялау
-              href: project-accounting/configure-intercompany-invoicing.md
-            - name: Компанияаралық транзакцияларды жасау
-              href: project-accounting/create-intercompany-transactions.md
-            - name: Тұтынушылар мен жеткізушілердің компанияаралық есеп-шоттарын жасау
-              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: Табысты тану
       items:
         - name: Табысты тануға шолу
@@ -496,7 +504,7 @@
           href: revenue-recognition/cost-complete-methods.md
         - name: Табыс болжамдарын басқару
           href: revenue-recognition/rev-rec-completed-contract-method.md
-- name: Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі
+- name: Жеңілдетілген орналастыру - проформа есеп‑шотын ұсыну мәмілесі
   items:
     - name: Бастау
       items:
@@ -506,12 +514,16 @@
           href: environment/lite-preview-subscription-sign-up.md
         - name: Project Operations бағдарламасын орналастыру - жеңілдетілген
           href: environment/lite-deployment.md
-        - name: Демо нұсқадағы параметрлер мен конфигурация деректерін қолдану - жеңілдетілген
+        - name: Демо нұсқа параметрлері мен конфигурация деректерін қолдану - жеңілдетілген
           href: environment/lite-apply-demo-setup-config-data.md
         - name: Қауіпсіздік үлгісі
           href: environment/security-model.md
     - name: Жаңалықтар
       items:
+        - name: 2021 жылдың шілде айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-july-2021-lite.md
+        - name: 2021 жылдың маусым айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-june-2021-lite.md
         - name: 2021 жылдың мамыр айындағы жаңалықтар - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-may-2021-lite.md
         - name: 2021 жылдың сәуір айындағы жаңалықтар - жеңілдетілген орналастыру
@@ -762,7 +774,7 @@
           items:
             - name: Жобаны көшіру арқылы жоба үлгілерін әзірлеу
               href: project-management/dev-copy-project.md
-            - name: Кесте API интерфейстерін (жалпыға қолжетімді алдын ала қарау нұсқасы) пайдалану
+            - name: Жоба кестесінің API интерфейстерін пайдалану (жалпыға қолжетімді алдын ала қарау нұсқасы)
               href: project-management/schedule-api-preview.md
     - name: Ресурстарды басқару
       items:
@@ -860,13 +872,13 @@
           items:
             - name: Түзету журналдарын жасау және растау
               href: actuals/create-confirm-correction-journals.md
-    - name: Проформа-шоты
+    - name: Проформа есеп‑шоты
       items:
         - name: Жобаның орындалмаған шот ұсыну тапсырмаларын басқару
           href: pro/proforma-invoicing/manage-billing-backlog-sales.md
         - name: Асырмау күйі мен тексерулерді басқару
           href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
-        - name: Жоба проформа шоттары
+        - name: Жоба проформа есеп‑шоттары
           href: pro/proforma-invoicing/create-manual-proforma-invoice-sales.md
         - name: Жобаның есеп-шотын басқару
           href: pro/proforma-invoicing/manage-proforma-invoice-sales.md
@@ -882,6 +894,10 @@
   items:
     - name: Жаңалықтар
       items:
+        - name: 2021 жылдың шілде айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
+          href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
+        - name: 2021 жылдың мамыр айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
+          href: prod-pma/whats-new/whats-new-may-2021-stocked.md
         - name: 2021 жылдың сәуір айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
           href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: 2021 жылдың наурыз айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
@@ -1034,6 +1050,10 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 33-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-33.md
+        - name: 32.5-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-32-5.md
         - name: 32-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-32.md
         - name: 31-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
@@ -1308,7 +1328,7 @@
               href: psa/admin-guide.md
             - name: Орнату және реттеу
               href: psa/install-customize.md
-            - name: Демо деректерді пайдалану
+            - name: Демо нұсқа деректерін пайдалану
               href: psa/use-demo-data.md
             - name: Project Service бағдарламасын конфигурациялау
               items:
