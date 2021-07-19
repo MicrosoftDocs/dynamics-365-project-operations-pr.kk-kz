@@ -4,6 +4,7 @@ description: Project Service бағдарламасына кіріспе жән�
 author: stsporen
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 9/23/2019
 ms.topic: article
 ms.author: ruhercul
@@ -16,72 +17,72 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 537fa056fd0103e1a4fa05c8e66d408286ee101c
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: ee6fda5da83e4cb3c4910af49c33243f39fc73d7
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5998553"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6368933"
 ---
-# <a name="what-is-dynamics-365-project-service-automation"></a><span data-ttu-id="28f2b-103">Dynamics 365 Project Service Automation деген не?</span><span class="sxs-lookup"><span data-stu-id="28f2b-103">What is Dynamics 365 Project Service Automation?</span></span>
+# <a name="what-is-dynamics-365-project-service-automation"></a><span data-ttu-id="62619-103">Dynamics 365 Project Service Automation деген не?</span><span class="sxs-lookup"><span data-stu-id="62619-103">What is Dynamics 365 Project Service Automation?</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-apps-all](../includes/cc-applies-to-psa-apps-all.md)]
 
-<span data-ttu-id="28f2b-104">Project Service Automation (PSA) бағдарламасы ұйымдарға бастапқы сатылымнан бастап есеп-шот ұсынуға дейін жобаға негізделген қызметтерді тиімді бақылауға, басқаруға және көрсетуге көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="28f2b-104">The Project Service Automation (PSA) application helps organizations efficiently track, manage, and deliver project-based services, from the initial sale all the way to invoicing.</span></span> <span data-ttu-id="28f2b-105">Бағдарлама келесі әрекеттерді орындауға мүмкіндік береді:</span><span class="sxs-lookup"><span data-stu-id="28f2b-105">The app enables you to:</span></span>
+<span data-ttu-id="62619-104">Project Service Automation (PSA) бағдарламасы ұйымдарға бастапқы сатылымнан бастап есеп-шот ұсынуға дейін жобаға негізделген қызметтерді тиімді бақылауға, басқаруға және көрсетуге көмектеседі.</span><span class="sxs-lookup"><span data-stu-id="62619-104">The Project Service Automation (PSA) application helps organizations efficiently track, manage, and deliver project-based services, from the initial sale all the way to invoicing.</span></span> <span data-ttu-id="62619-105">Бағдарлама келесі әрекеттерді орындауға мүмкіндік береді:</span><span class="sxs-lookup"><span data-stu-id="62619-105">The app enables you to:</span></span>
 
-- <span data-ttu-id="28f2b-106">Жобаларды жоспарлау және болжамдар мен жұмыс кестелерін жасау</span><span class="sxs-lookup"><span data-stu-id="28f2b-106">Plan projects, and create estimates and work schedules</span></span>
-- <span data-ttu-id="28f2b-107">Жоба құны мен табысын болжау және бақылау</span><span class="sxs-lookup"><span data-stu-id="28f2b-107">Estimate and track project cost and revenue</span></span>
-- <span data-ttu-id="28f2b-108">Үдерістер тізбегіндегі жобалардың болжалды ресурс талаптары</span><span class="sxs-lookup"><span data-stu-id="28f2b-108">Forecast resource requirements for projects in the pipeline</span></span>
-- <span data-ttu-id="28f2b-109">Жобаның орындалу барысын және тұтынысын бақылау</span><span class="sxs-lookup"><span data-stu-id="28f2b-109">Track project progress and cost consumption</span></span>
-- <span data-ttu-id="28f2b-110">Жобалар үшін баға ұсыну, баға белгілеу және есеп-шот ұсыну жұмыстарын басқару</span><span class="sxs-lookup"><span data-stu-id="28f2b-110">Manage quoting, pricing, and billing for projects</span></span>
-- <span data-ttu-id="28f2b-111">Ресурстарды белгілеу және жоспарлау</span><span class="sxs-lookup"><span data-stu-id="28f2b-111">Assign and manage resources</span></span>
-- <span data-ttu-id="28f2b-112">Сәтті жобалардың өнімділіктің негізгі көрсеткіштерін бақылау үшін есептер мен интерактивті бақылау тақталарын пайдалану</span><span class="sxs-lookup"><span data-stu-id="28f2b-112">Use reports and interactive dashboards to monitor key performance indicators for successful projects</span></span>
-- <span data-ttu-id="28f2b-113">...және т.б.</span><span class="sxs-lookup"><span data-stu-id="28f2b-113">...and more</span></span>
+- <span data-ttu-id="62619-106">Жобаларды жоспарлау және болжамдар мен жұмыс кестелерін жасау</span><span class="sxs-lookup"><span data-stu-id="62619-106">Plan projects, and create estimates and work schedules</span></span>
+- <span data-ttu-id="62619-107">Жоба құны мен табысын болжау және бақылау</span><span class="sxs-lookup"><span data-stu-id="62619-107">Estimate and track project cost and revenue</span></span>
+- <span data-ttu-id="62619-108">Үдерістер тізбегіндегі жобалардың болжалды ресурс талаптары</span><span class="sxs-lookup"><span data-stu-id="62619-108">Forecast resource requirements for projects in the pipeline</span></span>
+- <span data-ttu-id="62619-109">Жобаның орындалу барысын және тұтынысын бақылау</span><span class="sxs-lookup"><span data-stu-id="62619-109">Track project progress and cost consumption</span></span>
+- <span data-ttu-id="62619-110">Жобалар үшін баға ұсыну, баға белгілеу және есеп-шот ұсыну жұмыстарын басқару</span><span class="sxs-lookup"><span data-stu-id="62619-110">Manage quoting, pricing, and billing for projects</span></span>
+- <span data-ttu-id="62619-111">Ресурстарды белгілеу және жоспарлау</span><span class="sxs-lookup"><span data-stu-id="62619-111">Assign and manage resources</span></span>
+- <span data-ttu-id="62619-112">Сәтті жобалардың өнімділіктің негізгі көрсеткіштерін бақылау үшін есептер мен интерактивті бақылау тақталарын пайдалану</span><span class="sxs-lookup"><span data-stu-id="62619-112">Use reports and interactive dashboards to monitor key performance indicators for successful projects</span></span>
+- <span data-ttu-id="62619-113">...және т.б.</span><span class="sxs-lookup"><span data-stu-id="62619-113">...and more</span></span>
 
-<span data-ttu-id="28f2b-114">Оған қоса, жобаға негізделген жұмысты бақылауға және басқаруға көмектесу үшін, жеке кеңесшілер жоба уақыты мен шығындарын ұялы құрылғыда немесе веб-шолғыш арқылы оңай енгізіп бақылай алады.</span><span class="sxs-lookup"><span data-stu-id="28f2b-114">In addition, to help you monitor and control costs for your project-based work, individual consultants easily enter and track project time and expenses either on mobile or using a web browser.</span></span>
+<span data-ttu-id="62619-114">Оған қоса, жобаға негізделген жұмысты бақылауға және басқаруға көмектесу үшін, жеке кеңесшілер жоба уақыты мен шығындарын ұялы құрылғыда немесе веб-шолғыш арқылы оңай енгізіп бақылай алады.</span><span class="sxs-lookup"><span data-stu-id="62619-114">In addition, to help you monitor and control costs for your project-based work, individual consultants easily enter and track project time and expenses either on mobile or using a web browser.</span></span>
 
-## <a name="whats-new-in-psa"></a><span data-ttu-id="28f2b-115">PSA жаңалықтары</span><span class="sxs-lookup"><span data-stu-id="28f2b-115">What's new in PSA</span></span>
-<span data-ttu-id="28f2b-116">Ең жаңа жаңартуларды хабарлау үшін топ қолданылады!</span><span class="sxs-lookup"><span data-stu-id="28f2b-116">The team is excited to announce our newest updates!</span></span> <span data-ttu-id="28f2b-117">Жақсартулардан пайдаланушы интерфейсі, ақауларды түзету және маңызды жаңа функциялар мен мүмкіндіктерді қосуға дейінгі ауқымды қамтиды.</span><span class="sxs-lookup"><span data-stu-id="28f2b-117">Ranging from improvements to the user interface, fixing bugs, and adding important new features and capabilties.</span></span> <span data-ttu-id="28f2b-118">Сіз сұрадыңыз; біз тыңдадық.</span><span class="sxs-lookup"><span data-stu-id="28f2b-118">You asked; we listened.</span></span>
+## <a name="whats-new-in-psa"></a><span data-ttu-id="62619-115">PSA жаңалықтары</span><span class="sxs-lookup"><span data-stu-id="62619-115">What's new in PSA</span></span>
+<span data-ttu-id="62619-116">Ең жаңа жаңартуларды хабарлау үшін топ қолданылады!</span><span class="sxs-lookup"><span data-stu-id="62619-116">The team is excited to announce our newest updates!</span></span> <span data-ttu-id="62619-117">Жақсартулардан пайдаланушы интерфейсі, ақауларды түзету және маңызды жаңа функциялар мен мүмкіндіктерді қосуға дейінгі ауқымды қамтиды.</span><span class="sxs-lookup"><span data-stu-id="62619-117">Ranging from improvements to the user interface, fixing bugs, and adding important new features and capabilties.</span></span> <span data-ttu-id="62619-118">Сіз сұрадыңыз; біз тыңдадық.</span><span class="sxs-lookup"><span data-stu-id="62619-118">You asked; we listened.</span></span>
 
-<span data-ttu-id="28f2b-119">Ең жаңа кеңейтімдер мен қосымшаларды көру үшін, [2019 жылдың қазан айында шыққан шығарылым жазбаларын](/dynamics365-release-plan/2019wave2/index) қараңыз.</span><span class="sxs-lookup"><span data-stu-id="28f2b-119">Take a look at the [October '19 Release Notes](/dynamics365-release-plan/2019wave2/index) to see our newest enhancements and additions.</span></span>
+<span data-ttu-id="62619-119">Ең жаңа кеңейтімдер мен қосымшаларды көру үшін, [2019 жылдың қазан айында шыққан шығарылым жазбаларын](/dynamics365-release-plan/2019wave2/index) қараңыз.</span><span class="sxs-lookup"><span data-stu-id="62619-119">Take a look at the [October '19 Release Notes](/dynamics365-release-plan/2019wave2/index) to see our newest enhancements and additions.</span></span>
 
-### <a name="in-development"></a><span data-ttu-id="28f2b-120">Әзірленуде</span><span class="sxs-lookup"><span data-stu-id="28f2b-120">In development</span></span>
-<span data-ttu-id="28f2b-121">Жақын уақытта жоспарланған ақпаратты көру үшін, [Dynamics 365: 2020 шығарылым толқынының 1-жоспарын](/dynamics365-release-plan/2020wave1/index) қараңыз.</span><span class="sxs-lookup"><span data-stu-id="28f2b-121">To see what we have planned in the near future, head over to the [Dynamics 365: 2020 release wave 1 plan](/dynamics365-release-plan/2020wave1/index).</span></span>
+### <a name="in-development"></a><span data-ttu-id="62619-120">Әзірленуде</span><span class="sxs-lookup"><span data-stu-id="62619-120">In development</span></span>
+<span data-ttu-id="62619-121">Жақын уақытта жоспарланған ақпаратты көру үшін, [Dynamics 365: 2020 шығарылым толқынының 1-жоспарын](/dynamics365-release-plan/2020wave1/index) қараңыз.</span><span class="sxs-lookup"><span data-stu-id="62619-121">To see what we have planned in the near future, head over to the [Dynamics 365: 2020 release wave 1 plan](/dynamics365-release-plan/2020wave1/index).</span></span>
 
-## <a name="get-help-with-psa-version-3x"></a><span data-ttu-id="28f2b-122">PSA бағдарламасының 3.x нұсқасы туралы анықтама алу</span><span class="sxs-lookup"><span data-stu-id="28f2b-122">Get help with PSA version 3.x</span></span>
-<span data-ttu-id="28f2b-123">Орындалуын жоспарлауға көмектесетін ресурстарды іздеу керек пе?</span><span class="sxs-lookup"><span data-stu-id="28f2b-123">Looking for resources to help plan your implementation?</span></span> <span data-ttu-id="28f2b-124">Осы жүктеп алынатын нұсқауларды тексеріңіз.</span><span class="sxs-lookup"><span data-stu-id="28f2b-124">Check out these downloadable guides.</span></span>
+## <a name="get-help-with-psa-version-3x"></a><span data-ttu-id="62619-122">PSA бағдарламасының 3.x нұсқасы туралы анықтама алу</span><span class="sxs-lookup"><span data-stu-id="62619-122">Get help with PSA version 3.x</span></span>
+<span data-ttu-id="62619-123">Орындалуын жоспарлауға көмектесетін ресурстарды іздеу керек пе?</span><span class="sxs-lookup"><span data-stu-id="62619-123">Looking for resources to help plan your implementation?</span></span> <span data-ttu-id="62619-124">Осы жүктеп алынатын нұсқауларды тексеріңіз.</span><span class="sxs-lookup"><span data-stu-id="62619-124">Check out these downloadable guides.</span></span>
 
- [<span data-ttu-id="28f2b-125">Жобаны жоспарлау және бақылау нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-125">Project planning and tracking guide</span></span>](../psa/implementation-guides/project-planning-tracking.md)
+ [<span data-ttu-id="62619-125">Жобаны жоспарлау және бақылау нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-125">Project planning and tracking guide</span></span>](../psa/implementation-guides/project-planning-tracking.md)
 
- [<span data-ttu-id="28f2b-126">Негізгі баға ұсыну, бағалау және шот ұсыну нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-126">Basic quoting, pricing, and billing guide</span></span>](../psa/implementation-guides/begin-quoting-pricing-billing.md)
+ [<span data-ttu-id="62619-126">Негізгі баға ұсыну, бағалау және шот ұсыну нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-126">Basic quoting, pricing, and billing guide</span></span>](../psa/implementation-guides/begin-quoting-pricing-billing.md)
 
- [<span data-ttu-id="28f2b-127">Қосымша баға ұсыну, бағалау және шот ұсыну нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-127">Advanced quoting, pricing, and billing guide</span></span>](../psa/implementation-guides/adv-quoting-pricing-billing.md)
+ [<span data-ttu-id="62619-127">Қосымша баға ұсыну, бағалау және шот ұсыну нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-127">Advanced quoting, pricing, and billing guide</span></span>](../psa/implementation-guides/adv-quoting-pricing-billing.md)
 
- [<span data-ttu-id="28f2b-128">Ресурстарды басқару нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-128">Resource management guide</span></span>](../psa/implementation-guides/resource-management-guide.md)
+ [<span data-ttu-id="62619-128">Ресурстарды басқару нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-128">Resource management guide</span></span>](../psa/implementation-guides/resource-management-guide.md)
 
- [<span data-ttu-id="28f2b-129">Есеп беру нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-129">Reporting guide</span></span>](../psa/implementation-guides/reporting-guide.md)
+ [<span data-ttu-id="62619-129">Есеп беру нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-129">Reporting guide</span></span>](../psa/implementation-guides/reporting-guide.md)
 
- [<span data-ttu-id="28f2b-130">Әзірлеушілерге арналған жазбалар</span><span class="sxs-lookup"><span data-stu-id="28f2b-130">Notes for developers</span></span>](../psa/developer-guides/overview-dev-notes-v3.x.md)
+ [<span data-ttu-id="62619-130">Әзірлеушілерге арналған жазбалар</span><span class="sxs-lookup"><span data-stu-id="62619-130">Notes for developers</span></span>](../psa/developer-guides/overview-dev-notes-v3.x.md)
 
-## <a name="guidance-for-earlier-versions-app-version-2x-or-1x"></a><span data-ttu-id="28f2b-131">Бұрынғы нұсқалар нұсқаулығы (бағдарлама нұсқасы 2.x немесе 1.x)</span><span class="sxs-lookup"><span data-stu-id="28f2b-131">Guidance for earlier versions (app version 2.x or 1.x)</span></span>
- [<span data-ttu-id="28f2b-132">Әкімші нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-132">Administrator guide</span></span>](../psa/admin-guide.md)
+## <a name="guidance-for-earlier-versions-app-version-2x-or-1x"></a><span data-ttu-id="62619-131">Бұрынғы нұсқалар нұсқаулығы (бағдарлама нұсқасы 2.x немесе 1.x)</span><span class="sxs-lookup"><span data-stu-id="62619-131">Guidance for earlier versions (app version 2.x or 1.x)</span></span>
+ [<span data-ttu-id="62619-132">Әкімші нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-132">Administrator guide</span></span>](../psa/admin-guide.md)
 
- [<span data-ttu-id="28f2b-133">Ресурс менеджері нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-133">Resource manager guide</span></span>](../psa/resource-manager-guide.md)
+ [<span data-ttu-id="62619-133">Ресурс менеджері нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-133">Resource manager guide</span></span>](../psa/resource-manager-guide.md)
 
- [<span data-ttu-id="28f2b-134">Жоба менеджерінің нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-134">Project manager guide</span></span>](../psa/project-manager-guide.md)
+ [<span data-ttu-id="62619-134">Жоба менеджерінің нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-134">Project manager guide</span></span>](../psa/project-manager-guide.md)
 
- [<span data-ttu-id="28f2b-135">Тіркелгі менеджерінің нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="28f2b-135">Account manager guide</span></span>](../psa/account-manager-guide.md)
+ [<span data-ttu-id="62619-135">Тіркелгі менеджерінің нұсқаулығы</span><span class="sxs-lookup"><span data-stu-id="62619-135">Account manager guide</span></span>](../psa/account-manager-guide.md)
 
- [<span data-ttu-id="28f2b-136">Уақыт, шығын және бірлескен жұмысы</span><span class="sxs-lookup"><span data-stu-id="28f2b-136">Time, expense, and collaboration</span></span>](../psa/time-expense-collaboration-guide.md)
+ [<span data-ttu-id="62619-136">Уақыт, шығын және бірлескен жұмысы</span><span class="sxs-lookup"><span data-stu-id="62619-136">Time, expense, and collaboration</span></span>](../psa/time-expense-collaboration-guide.md)
 
- [<span data-ttu-id="28f2b-137">Ресми құжаттар (бағдарлама нұсқасы 2.x немесе 1.x)</span><span class="sxs-lookup"><span data-stu-id="28f2b-137">White papers (app version 2.x or 1.x)</span></span>](../psa/white-papers.md)
+ [<span data-ttu-id="62619-137">Ресми құжаттар (бағдарлама нұсқасы 2.x немесе 1.x)</span><span class="sxs-lookup"><span data-stu-id="62619-137">White papers (app version 2.x or 1.x)</span></span>](../psa/white-papers.md)
 
- [<span data-ttu-id="28f2b-138">Әзірлеушілерге арналған жазбалар (2.x бағдарлама нұсқасы)</span><span class="sxs-lookup"><span data-stu-id="28f2b-138">Notes for developers (app version 2.x)</span></span>](../psa/developer-guides/add-custom-qoi-forms-v2.x.md)
+ [<span data-ttu-id="62619-138">Әзірлеушілерге арналған жазбалар (2.x бағдарлама нұсқасы)</span><span class="sxs-lookup"><span data-stu-id="62619-138">Notes for developers (app version 2.x)</span></span>](../psa/developer-guides/add-custom-qoi-forms-v2.x.md)
 
- ## <a name="watch-a-2-minute-overview-video"></a><span data-ttu-id="28f2b-139">2 минуттық шолу бейнесін қараңыз</span><span class="sxs-lookup"><span data-stu-id="28f2b-139">Watch a 2-minute overview video</span></span>
- <a name="heroArea"></a> <span data-ttu-id="28f2b-140">[![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo")](https://go.microsoft.com/fwlink/p/?LinkId=799457)</span><span class="sxs-lookup"><span data-stu-id="28f2b-140">[![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo")](https://go.microsoft.com/fwlink/p/?LinkId=799457)</span></span>
+ ## <a name="watch-a-2-minute-overview-video"></a><span data-ttu-id="62619-139">2 минуттық шолу бейнесін қараңыз</span><span class="sxs-lookup"><span data-stu-id="62619-139">Watch a 2-minute overview video</span></span>
+ <a name="heroArea"></a> <span data-ttu-id="62619-140">[![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo")](https://go.microsoft.com/fwlink/p/?LinkId=799457)</span><span class="sxs-lookup"><span data-stu-id="62619-140">[![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo")](https://go.microsoft.com/fwlink/p/?LinkId=799457)</span></span>
 
 
 
