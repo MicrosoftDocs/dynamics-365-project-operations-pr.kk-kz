@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e1c123854209b3cb5c310e3bbcb242c9219279a8
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 32dba5acd95c1d192556153240ebd51343112be53aa3db93e5e6f127c2d960e9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5992841"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007153"
 ---
 # <a name="view-chargeable-utilization-for-resources"></a>Ресурстарға арналған ақылы қолданыс түрін көру
 
@@ -29,7 +29,7 @@ ms.locfileid: "5992841"
  
 **Project Service ресурстарын қолдану** бетіндегі **Қолданыс көрінісінде** резервтелетін әр ресурсқа арналған ақылы қолданыс түрі көрсетілген. Көрініс кесте тақтасына негізделетіндіктен, көптеген бірдей функцияларды таба аласыз.
 
-> ![Қолданыс көрінісі скриншоты](media/FAQ-utilization-1.png)
+> ![Қолданыс көрінісі скриншоты.](media/FAQ-utilization-1.png)
  
 
 Ақылы қолданыс есептеуі келесідей жұмыс істейді:
@@ -48,7 +48,7 @@ ms.locfileid: "5992841"
 2. Жазбаны ашу үшін ресурсты таңдаңыз. 
 3. **Project Service** қойыншасында, ресурстың мақсатты қолданысын орнатуға болады.
 
-> ![Мақсатты қолданысты орнату үшін Жоба қызметі қойыншасын пайдалану скриншоты](media/FAQ-utilization-2.png)
+> ![Мақсатты қолданысты орнату үшін Project Service қойыншасын пайдалану скриншоты.](media/FAQ-utilization-2.png)
  
 ## <a name="set-target-utilization-on-a-role"></a>Рөлге мақсатты қолданысты орнату
 
@@ -56,7 +56,7 @@ ms.locfileid: "5992841"
 2. Рөлді таңдап, жазбаны ашыңыз. 
 3. Рөлдің мақсатты қолданысын орнатыңыз.
 
-> ![Мақсатты қолданысты орнату үшін Ресурс рөлдерін пайдалану скриншоты](media/FAQ-utilization-3.png)
+> ![Мақсатты қолданысты орнату үшін Ресурс рөлдерін пайдалану скриншоты.](media/FAQ-utilization-3.png)
  
 ## <a name="calculate-chargeable-utilization-for-a-resource"></a>Ресурстың ақылы қолданысын есептеу
 

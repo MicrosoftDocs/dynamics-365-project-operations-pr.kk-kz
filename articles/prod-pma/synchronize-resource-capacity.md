@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 8bde3c434680f0651293cbce13ecdce945c3a743
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 5f2e9b8e189be0594569e14ebc41c6ed452afd10aba34ea1397b3e3f66cd2e96
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5997518"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005623"
 ---
 # <a name="synchronize-resource-capacity"></a>Ресурс мүмкіндігін синхрондау
 
@@ -29,7 +29,7 @@ ms.locfileid: "5997518"
 
 Ресурстарды синхрондау процестері күнтізбе мен негізгі күнтізбеге арналған ақпараттың жобалық ресурстарды жоспарлауға енуіне көмектеседі. Егер күнтізбе өзгертілсе, процестер жоба ресурстарын жоспарлауға қажетті жаңартуларды енгізеді. Бұл процестер өнімділікті жақсартуға көмектеседі, өйткені күнтізбелік ресурстар туралы ақпарат алдын ала синхрондалады. Сондықтан ресурстарды жоспарлау туралы ақпаратты жаңарту тезірек болады. Процестерді бір-бірден емес, топтама ретінде жоспарлауға кеңес береміз. Әйтпесе, біреу ақпарат соңғы синхрондалғанда инклюзивті күндерін ұмытып кету қаупі бар. Егер инклюзивті күндер пайдаланылмаса, күнді синхрондау кезінде бос орындар пайда болуы мүмкін.
 
-![Күнтізбені синхрондау](./media/projectresourcing04-1024x471.jpg)
+![Күнтізбені синхрондау.](./media/projectresourcing04-1024x471.jpg)
 
 ## <a name="synchronize-resource-capacity-roll-ups"></a>Ресурстық сыйымдылықтың жиынтығын синхрондау
 
@@ -46,7 +46,7 @@ ms.locfileid: "5997518"
     | Басталу күні  | Ресурстық сыйымдылықтың жиынтығын синхрондау процесінің басталу күнін енгізіңіз. |
     | Аяқталған күні    | Ресурстық сыйымдылықтың жиынтығын синхрондау процесінің аяқталу күнін енгізіңіз. |
 
-[![Синхрондау процесі](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+[![Синхрондау процесі.](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
