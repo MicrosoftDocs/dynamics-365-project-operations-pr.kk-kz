@@ -14,12 +14,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 400d817ee7cbae6f6da95db4286ad6c4d6ff349a
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: e59e343887ef59ee28bee13346a0c9bf3ad7df27346e2a4f3f02a1e5c08c060f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6008003"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995228"
 ---
 # <a name="add-new-custom-entity-forms-project-service-automation-2x"></a>Жаңа реттелетін нысан пішіндерін қосу (Project Service Automation 2.x)
 
@@ -57,7 +57,7 @@ Dynamics 365 Project Service Automation қондырмасы мүмкіндік,
     - **Менің жоба туралы ақпаратым** пішінін басқарылмайтын шешімнің бір бөлігі ретінде экспорттап, экспортталған шешімнің реттеу .xml файлында **formId** мәнін іздеңіз.
     - Пішін өңдегішінде **Менің жоба туралы ақпаратым** пішінін ашып, келесі суретте көрсетілгендей, URL мекенжайындағы **fromId** параметрінің жанында глобалдық бірегей идентификаторды (GUID) іздеңіз.
 
-    ![URL мекенжайындағы жаңа пішіннің formId мәні](media/how-to-add-custom-forms-in-v2.0.png)
+    ![URL мекенжайындағы жаңа пішіннің formId мәні.](media/how-to-add-custom-forms-in-v2.0.png)
 
 5. msdyn\_/SalesDocument/PSSalesDocumentCustomFormIds.js веб-ресурсын өңдеу арқылы **formId** мәні үшін **msdyn\_ordertype** салыстыруын жасаңыз. Ресурстан кодты алып тастап, оны келесі кодпен ауыстырыңыз.
 

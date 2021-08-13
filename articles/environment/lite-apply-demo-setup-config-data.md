@@ -6,12 +6,12 @@ ms.date: 01/27/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 7729b4a9ef5f498b78af298f7233d7dd45434bb3
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: e25d358f1fd7705d580855d372d85690f6a5e265d3ba2b60fc26742bf3edc86f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5997158"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6993293"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Project Operations жүйесіне арналған демо нұсқа параметрлерін және конфигурация деректерін қолдану - жеңілдетілген 
 
@@ -30,24 +30,24 @@ _**Жеңілдетілген орналастыру - проформа-шоты
 2. *ProjOpsSampleSetupData - CE тек CMT* қалтасына өтіңіз және *DataMigrationUtility* орындалатын файлын іске қосыңыз.
 3. Common Data Service конфигурацияны тасымалдау (CMT) шеберінің 1-бетінде **Деректерді импорттау**, содан кейін **Жалғастыру** опцияларын таңдаңыз.
 
-    ![Конфигурацияны тасымалдау](./media/1ConfigurationMigration.png)
+    ![Конфигурацияны тасымалдау.](./media/1ConfigurationMigration.png)
 
 4. CMT шеберінің 2-бетінде **Орналастыру түрі** ретінде **Microsoft 365** қызметін таңдаңыз.
 5. **Қолжетімді ұйымдар тізімін көрсету** және **Кеңейтілген түрде көрсету** өрістеріне құсбелгі қойыңыз.
 6. Қатысушы аймағын таңдап, тіркелу деректеріңізді енгізіп, содан кейін **Жүйеге кіру** опциясын таңдаңыз.
 
-   ![Конфигурацияға кіру](./media/2ConfigurationSignin.png)
+   ![Конфигурацияға кіру.](./media/2ConfigurationSignin.png)
 
 7. 3-бетте, қатысушыдағы ұйымдар тізімінен демо деректерді импорттау ұйымын таңдап, содан соң **Жүйеге кіру** опциясын таңдаңыз.
 8. 4-бетте *ProjOpsSampleSetupData - CE тек CMT* бумадан шығарылған қалтадан *SampleSetupAndConfigData* zip файлын таңдаңыз.
 
-   ![Zip файлы](./media/3ZipFile.png)
+   ![Zip файлы.](./media/3ZipFile.png)
 
-   ![Файл таңдау](./media/4SelectAFile.png)
+   ![Файл таңдау.](./media/4SelectAFile.png)
 
 9. Zip файлы таңдалғаннан кейін **Деректерді импорттау** опциясын таңдаңыз.
 
-   ![Деректерді импорттау](./media/5ImportData.png)
+   ![Деректерді импорттау.](./media/5ImportData.png)
 
 10. Импорттау желі жылдамдығына байланысты шамамен екі-он минутқа созылады. Аяқтағаннан кейін CMT шеберінен шығыңыз. 
 11. Ұйымыңыздан келесі 18 ұйымның деректерін тексеріңіз:
@@ -71,7 +71,7 @@ _**Жеңілдетілген орналастыру - проформа-шоты
     -   Тапсырыс беруге болатын ресурс санатының байланысы
     -   Тапсырыс беруге болатын ресурс сипаттамасы
 
-    ![Импорттауды аяқтау](./media/6CompleteImport.png)
+    ![Импорттауды аяқтау.](./media/6CompleteImport.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

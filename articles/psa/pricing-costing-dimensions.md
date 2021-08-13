@@ -16,12 +16,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5c8c28839f5e7b3259afbea4ab400d0c4fca95fd
-ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
+ms.openlocfilehash: d17939777a6670bafc41b372adc922f8bdcc0411f3fdb399e7c9ab01eca87dd0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6368888"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998468"
 ---
 # <a name="pricing-and-costing-dimensions-home-page"></a>Бағалар және шығын өлшемдерінің басты бет
 
@@ -41,7 +41,7 @@ ms.locfileid: "6368888"
 
 PSA бағдарламасы әдепкі бағалар өлшемдерінің жиынтығымен жеткізіледі. Мұны **Project Service** > **Параметрлер** тармағына өту арқылы көре аласыз. Параметр жазбасындағы **Сомаға негізделген бағалар өлшемдері** қойыншасында рөлді тексеріңіз, **msdyn_resourcecategory** және ресурстық бөлімше, **msdyn_organizationalunit** параметрінің **Иә** мәніне орнатылған бар **Сатуға қолданылады** және **Құны үшін қолданылады** өрістері бар. Бұл әр рөл мен бірлік тіркесімінің бағасы мен құнын белгілеуге мүмкіндік береді.
 
-!["Сатылымға қолданбалы" параметрі бөлектелген Project Service параметрлерінің скриншоты](media/PS-OOB-parameters.png)
+!["Сатылымға қолданбалы" параметрі бөлектелген Project Service параметрлерінің скриншоты.](media/PS-OOB-parameters.png)
 
 > [!IMPORTANT]
 > Егер сіз PSA 3 нұсқасына дейін бағалар өлшемдері ретінде рөл мен ұйымдық бөлімшенің дайын өрістерін қолданған болсаңыз, елеулі өзгерістер болмайды. Project Service қызметін әдеттегідей пайдалануды жалғастыра аласыз. 

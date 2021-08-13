@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-13
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 2f5fa0143c903f08b3937426805cb43d5d6109e3
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: acb87be977cc009f89ceac5b01c9028d6741b552a441ef49e024b6b078a188d4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999813"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001078"
 ---
 # <a name="synchronize-project-contracts-and-projects-directly-from-project-service-automation-to-finance"></a>Жоба келісім-шарттары мен жобаларын тікелей Project Service Automation жүйесінен Finance бағдарламасына синхрондау 
 
@@ -42,7 +42,7 @@ Project Service Automation және Finance бағдарламасын бірі�
 
 Келесі суретте деректердің Project Service Automation және Finance арасында синхрондалу жолы көрсетілген.
 
-[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны](./media/ProjectsAndContractsFlow_upd.JPG)](./media/ProjectsAndContractsFlow.JPG)
+[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны.](./media/ProjectsAndContractsFlow_upd.JPG)](./media/ProjectsAndContractsFlow.JPG)
 
 ## <a name="templates-and-tasks"></a>Үлгілер және тапсырмалар
 
@@ -140,17 +140,17 @@ Power Query бағдарламасын пайдалану қажет болса,
 
 Келесі суреттер деректерді біріктіру қызметіндегі үлгі тапсырмасын салыстырулар мысалдарын көрсетеді. Картада Project Service Automation бағдарламасынан Finance бағдарламасына синхрондалатын өріс туралы ақпарат көрсетілген.
 
-[![Жоба келісім-шартының үлгісін салыстыру](./media/ProjectContractTemplateMapping.JPG)](./media/ProjectContractTemplateMapping.JPG)
+[![Жоба келісім-шартының үлгісін салыстыру.](./media/ProjectContractTemplateMapping.JPG)](./media/ProjectContractTemplateMapping.JPG)
 
-[![Жоба үлгісін салыстыру](./media/ProjectTemplateMapping.JPG)](./media/ProjectTemplateMapping.JPG)
+[![Жоба үлгісін салыстыру.](./media/ProjectTemplateMapping.JPG)](./media/ProjectTemplateMapping.JPG)
 
-[![Жоба келісім-шарт жолдары үлгісін салыстыру](./media/ProjectContractLinesMapping.JPG)](./media/ProjectContractLinesMapping.JPG)
+[![Жоба келісім-шарт жолдары үлгісін салыстыру.](./media/ProjectContractLinesMapping.JPG)](./media/ProjectContractLinesMapping.JPG)
 
-[![Жоба келісім-шарт жолы кезеңінің үлгісін салыстыру](./media/ProjectContractLineMilestonesMapping.JPG)](./media/ProjectContractLineMilestonesMapping.JPG)
+[![Жоба келісім-шарт жолы кезеңінің үлгісін салыстыру.](./media/ProjectContractLineMilestonesMapping.JPG)](./media/ProjectContractLineMilestonesMapping.JPG)
 
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>Жобалар және келісім-шарттар (Dynamics PSA 3.x) - v2 үлгісіндегі жобалық келісім-шарты жолы кезеңін салыстыруы:
 
-[![Екінші нұсқа үлгісі бар жоба келісім-шарт жолы кезеңін салыстыру](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+[![Екінші нұсқа үлгісі бар жоба келісім-шарт жолы кезеңін салыстыру.](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

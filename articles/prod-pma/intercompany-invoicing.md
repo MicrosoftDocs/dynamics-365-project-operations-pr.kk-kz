@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 9d1debf8f67b7dbe7752075c6f8e5f2cdd37a3ae
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 7c201ccec2069869707409ff6a9236e81e125f06b391c67202927f5c038787d8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6002783"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995813"
 ---
 # <a name="intercompany-invoicing"></a>Компанияаралық шот жіберу
 
@@ -33,7 +33,7 @@ ms.locfileid: "6002783"
 
 Келесі суретте А тұтынушысына жобаны жеткізу үшін ресурстарды ортақ пайдаланатын SI FR (қарыз алушы заңды тұлға) және SI USA (қарыз беруші заңды тұлға) екі заңды тұлға келтірілген әдеттегі сценарий көрсетіледі. 
 
-[![Компанияаралық шот жіберу мысалы](./media/interco.invoicing-01.jpg)](./media/interco.invoicing-01.jpg) 
+[![Компанияаралық шот жіберу мысалы.](./media/interco.invoicing-01.jpg)](./media/interco.invoicing-01.jpg) 
 
 Мақсаты - компанияаралық жоба транзакциялары үшін шығынды басқаруды, табысты мойындауды, салықтарды және тасымал құнын икемдірек және қуаттырақ етіп жасау. Сонымен қоса, келесі мүмкіндіктер қамтамасыз етілген:
 
