@@ -15,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e0dc911bb0ca72af547262a5716ef1091ea81c81
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 58259c05939cfe870ce5e36b4a0221cd93b8e8d2b4be582efc9167e82579699e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6015068"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985508"
 ---
 # <a name="invoicing-in-project-service-automation"></a>Project Service Automation бағдарламасында шот-фактура жіберу
 
@@ -50,7 +50,7 @@ PSA бағдарламасы келесі себептер бойынша тұт
 
 - **Жоба келісім-шарттары** тізім бетінде жоба келісім-шартын ашып, **Есеп-шот жасау** опциясын таңдаңыз.
 
-    ![Белгілі бір жоба келісім-шарты үшін жоба есеп-шоттарын жасау](media/CreateProjectInvoicesOneByOne.png)
+    ![Белгілі бір жоба келісім-шарты үшін жоба есеп-шоттарын жасау.](media/CreateProjectInvoicesOneByOne.png)
 
     Есеп-шот **Есеп-шот ұсынуға дайын** күйіндегі таңдалған жоба келісім-шарты бойынша барлық транзакциялар үшін жасалады. Бұл транзакцияларға уақыт, шығындар, кезеңдер және өнімге негізделген келісім-шарт жолдары кіреді.
 
@@ -58,7 +58,7 @@ PSA бағдарламасы келесі себептер бойынша тұт
 
 1. **Жоба келісім-шарттары** тізім бетінде есеп-шот жасау қажет бір немесе бірнеше жоба келісім-шартын таңдап, **Жоба есеп-шоттарын жасау** опциясын таңдаңыз.
 
-    ![Жоба есеп-шоттарын жаппай жасау](media/CreateProjectInvoicesBulk.png)
+    ![Жоба есеп-шоттарын жаппай жасау.](media/CreateProjectInvoicesBulk.png)
 
     Ескерту хабарламасы есеп-шоттар жасалмас бұрын, кідіріс болуы мүмкін екенін хабарлайды. Процесс те көрсетілген.
 

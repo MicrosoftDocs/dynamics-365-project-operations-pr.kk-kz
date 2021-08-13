@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e981f39bbb6ca4277778382a5816952df2a8a1fb
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 55696b32b7b37048ba4c292b33d93b7b12614f2186fb972a2c3f3732e5512c82
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6009578"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987578"
 ---
 # <a name="unit-groups-and-units"></a>Бірлік топтары және бірліктер
 
@@ -44,7 +44,7 @@ ms.locfileid: "6009578"
 
 Төмендегі кескінде **Күн** бірлігі үшін орнату мысалы көрсетіледі, бұл бірлікте **Саны** өрісі бір күндегі сағат санын көрсетсе, ал **Апта** бірлігінде **Саны** өрісі бір аптадағы күндер санын көрсетеді.
 
-> ![Бөлім тобы: Ақпараттық бет](media/advanced-2.png)
+> ![Бөлім тобы: Ақпараттық бет.](media/advanced-2.png)
 
 ## <a name="using-units-and-unit-groups"></a>Бірліктер мен бірлік топтарын пайдалану
 

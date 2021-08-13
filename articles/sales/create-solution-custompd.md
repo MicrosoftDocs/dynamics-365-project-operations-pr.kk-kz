@@ -6,12 +6,12 @@ ms.date: 11/09/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 86f4cd2c26ebfca621d1b226b571d220d3b2441e
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 753f0c4496bafd43d7e4a399cedeb355c2163c7ce56d932b2c786d5f2e672b6b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6010343"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992213"
 ---
 # <a name="create-a-solution-for-custom-pricing-dimensions"></a>Реттелетін баға өлшемдері үшін шешім жасау
 
@@ -26,7 +26,7 @@ ms.locfileid: "6010343"
 2.  Шешімді атаңыз, *<your organization name> баға өлшемдері*.
 3. Қалған қажет ақпаратты енгізіп, **Сақтау** пәрменін таңдаңыз.
 
-  ![Реттелетін баға өлшемдерінің шешімін жасау](./media/Creation-of-custom-pricing-dimension-solution.png)
+  ![Реттелетін баға өлшемдерінің шешімін жасау.](./media/Creation-of-custom-pricing-dimension-solution.png)
  
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>Баға өлшемі шешіміне барлық қажет нысандар мен қатысты құрамдастарды қосу
 
@@ -47,21 +47,21 @@ ms.locfileid: "6010343"
    - **Баға ұсыну жолының мәліметтері**
    - **Рөлдің үстеме бағасы**
    - **Рөл бағасы**
-   - **Уақыт нысаны**
+   - **Уақыт жазбасы**
  
-   ![Реттелетін баға белгілеу өлшемі шешіміне бұрыннан бар нысандарды қосу](./media/Existing-entities-to-PD-solution.png)
+   ![Реттелетін баға белгілеу өлшемі шешіміне бұрыннан бар нысандарды қосу.](./media/Existing-entities-to-PD-solution.png)
  
  4. Әрбір нысан үшін қосылатын құрамдастарды және әрбір нысан үшін нысан активтерінің соңғы тізімін қарап шығыңыз. 
 
    >[!NOTE]
    > Таңдалған нысандардың әрқайсысына барлық пішіндер мен көріністерді қосыңыз.
 
-  ![Қосылған нысандар](./media/solution-component-selection.png)
+  ![Қосылған нысандар.](./media/solution-component-selection.png)
 
 
 5.  Таңдалған нысандар үшін кез келген тәуелді нысандарды қосу ұсынылған кезде, **Жоқ, қажетті құрамдастарды қоспау** опциясын таңдаңыз.
 
-    ![Тәуелді нысандарды қосу](./media/Do-not-include-required.png)
+    ![Тәуелді нысандарды қосу.](./media/Do-not-include-required.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -6,12 +6,12 @@ ms.date: 10/27/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: f4428bac8e82bdfc848c199b0e294486b9fde82e
-ms.sourcegitcommit: 639ec8a41fda15dedfd6918702d33ea406999ba6
+ms.openlocfilehash: c5cc3254c52750b35be2c66137b6c57bbd9acbfbc89dedc6559059a89c8e2393
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "6304263"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987938"
 ---
 # <a name="integration-journal-in-project-operations"></a>Project Operations бағдарламасындағы біріктіру журналы
 
@@ -19,7 +19,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 Уақыт және шығыс жазбалары жоба бойынша аяқталған жұмыстың операциялық көрінісін көрсететін **Нақты** транзакцияларды жасайды. Dynamics 365 Project Operations бухгалтерлерді транзакцияларды тексеру және қажет болған жағдайда есеп атрибуттарын түзету құралымен қамтамасыз етеді. Тексерулер мен түзетулер аяқталғаннан кейін транзакциялар жобаның қосалқы кітабына және бас кітапқа орналастырылады. Бухгалтер бұл әрекеттерді **Project Operations интеграциялау** журналының көмегімен (**Dynamics 365 Finance** > **Жобаларды басқару және бухгалтерлік есеп** > **Журналдар** > **Project Operations интеграциялау** журналы) орындай алады.
 
-![Интеграциялық журнал ағыны](./media/IntegrationJournal.png)
+![Интеграциялық журнал ағыны.](./media/IntegrationJournal.png)
 
 ### <a name="create-records-in-the-project-operations-integration-journal"></a>Project Operations интеграциялау журналында жазбалар жасау
 

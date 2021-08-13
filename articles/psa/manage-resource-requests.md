@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7c7ca0dbaeb8938fc2254da782b359a5dd29e6da
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 518edcb210e33a7922e8920f896479a79d264ab62742641cc66b7c3a33b6c6e8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6015023"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985148"
 ---
 # <a name="manage-resource-requests-project-service"></a>Ресурс сұрауларын басқару (Project Service)
 
@@ -43,7 +43,7 @@ ms.locfileid: "6015023"
   
    -   **Сүзгі** тақтасын көрсету үшін **Сүзгі** түймесін бассаңыз, ұйымдық бірлік, рөл, біліктілік немесе басқа төлсипаттар бойынша нәтижелерді сүзгілеуге мүмкіндік береді.  
   
-       ![Project Service қызметінің "Ресурс сұрауы" экраны](../psa/media/project-service-resource-request-screen.png "Project Service қызметінің &quot;Ресурс сұрауы&quot; экраны")  
+       ![Project Service қызметінің "Ресурс сұрауы" экраны.](../psa/media/project-service-resource-request-screen.png "Project Service қызметінің &quot;Ресурс сұрауы&quot; экраны")  
   
 3. Тіркеу керек ресурс күнтізбесінде ресурсты тіркеу уақытын таңдап, одан кейін ресурсты тіркеу үшін **Тіркеу** түймесін басыңыз немесе тіркеуді ұсыну үшін **Тіркеуді ұсыну** түймесін басыңыз, сұраушы растауы керек. Ресурсты тіркеу кезінде жұмсақ немесе қатты тіркеуге болады.  
   

@@ -6,12 +6,12 @@ ms.date: 04/12/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6daa86d453ec5022cdd75dff0394c8818292406c
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: e4502c1dec3bfeed083186b2d053549fefc9339609946c8da919b46e0e56cc79
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6000623"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986678"
 ---
 # <a name="add-an-azure-subscription-to-an-lcs-project"></a>LCS жобасына Azure жазылымын қосу
 
@@ -23,35 +23,35 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 1. Сіздің LCS жобаңызда **Қоршаған орта** бөлімінде **Microsoft Azure параметрлері** опциясын таңдаңыз.
 
-![Microsoft Azure параметрлері](./media/1MicrosoftAzureSettings.png)
+![Microsoft Azure параметрлері.](./media/1MicrosoftAzureSettings.png)
 
 2. **Жоба параметрлері** бетінде, **Azure коннекторлары** қойыншасынан **Рұқсат ету** опциясын таңдаңыз. Бұл қоршаған ортаны осы жобаға орналастыруға мүмкіндік береді.
 
-![Azure коннекторлары](./media/2AzureConnectors.png)
+![Azure коннекторлары.](./media/2AzureConnectors.png)
 
 3. Әкімшінің келісімін беру үшін **Рұқсат ету** опциясын қайта таңдаңыз.
 
-![Әкімшінің келісімін беріңіз](./media/3GrantAdminConsent.png)
+![Әкімшінің келісімін беріңіз.](./media/3GrantAdminConsent.png)
 
 4. Рұқсаттар туралы сұранысты қабылдаңыз.
 
-![Рұқсаттар сұранысын қабылдаңыз](./media/4AcceptPermissionRequest.png)
+![Рұқсаттар сұранысын қабылдаңыз.](./media/4AcceptPermissionRequest.png)
 
 Авторизация енді аяқталды. 
 
-![Авторизация сәтті өтті](./media/5AuthorizationComplete.png)
+![Авторизация сәтті өтті.](./media/5AuthorizationComplete.png)
 
 ## <a name="provide-dynamics-deployment-services-access-to-your-azure-subscription"></a><a name="provide"></a>Azure жазылымыңызға Dynamics Deployment Services қолжетімдігін қамтамасыз етіңіз
 
 1. [Microsoft Azure шот фактурасын жазу](https://portal.azure.com/#blade/Microsoft\_Azure\_Billing/SubscriptionsBlade) тармағына өтіңіз және жазылымыңызды таңдаңыз. Dynamics Deploy Services орталарды орналастыра алу үшін осы жазылымға қол жеткізуі керек.
 
-![Azure жазылым мәліметтері](./media/6AzureSubscription.png)
+![Azure жазылым мәліметтері.](./media/6AzureSubscription.png)
 
 2. Шарлау тақтасында **Қатынауды басқару (IAM)** опциясын таңдаңыз, содан кейін **Рөл тағайындауды қосу** опциясын таңдаңыз.
 3. Оң жақтағы жүгірткіден **Салымшы рөлі** опциясын таңдаңыз және берілген тізімнен **Dynamics Deployment Services** қызметтерін таңдаңыз. 
 4. **Сақтау** опциясын таңдаңыз.
 
-![Жазылымға кіру](./media/7SubscriptionAccess.png)
+![Жазылымға кіру.](./media/7SubscriptionAccess.png)
 
 ### <a name="add-a-subscription-connector-to-an-lcs-project"></a>LCS жобасына Azure жазылым коннекторын қосу
 

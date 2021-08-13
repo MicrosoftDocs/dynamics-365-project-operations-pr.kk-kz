@@ -832,6 +832,16 @@
           items:
             - name: Ресурсты пайдалануға шолу
               href: resource-management/resource-utilization-overview.md
+    - name: Project Operations бағдарламасындағы қосалқы келісім-шартты басқару
+      items:
+        - name: Қосалқы келісім-шарттарды басқаруға шолу
+          href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: Қосалқы келісім-шарт жасаудағы негізгі ұғымдар
+          href: pro/subcontracting/key-concepts-subcontracting.md
+        - name: Жеткізушілер мен жоба бағатізбелерін басқару
+          href: pro/subcontracting/vendors-purchase-price-lists.md
+        - name: Брондалатын ресурстар ретіндегі қосалқы келісім-шарттар
+          href: pro/subcontracting/subcontractors-as-bookable-resources.md
     - name: Уақыт
       items:
         - name: Уақытқа шолу
@@ -1050,6 +1060,8 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 34-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-34.md
         - name: 33-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-33.md
         - name: 32.5-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
