@@ -4,6 +4,8 @@
   items:
     - name: Сіздегі орналастыру түрін анықтау
       href: environment/determine-deployment-type.md
+    - name: Project Operations сынақ нұсқаларына тіркелу
+      href: environment/admin-trials.md
     - name: Project Operations жаңартулары
       href: whats-new/project-operations-updates.md
 - name: Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
@@ -54,6 +56,8 @@
               href: environment/resource-dual-write-vendor-invoice.md
     - name: Жаңалықтар
       items:
+        - name: 'Тамыз, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-august-2021-resource-based.md
         - name: 'Шілде, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-july-2021-resource-based.md
         - name: 'Маусым, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
@@ -418,6 +422,8 @@
       items:
         - name: Бекітулерге шолу
           href: approvals/approvals-overview.md
+        - name: Растау жинақтары
+          href: approvals/approval-sets.md
         - name: Әзірлеуші ескертпелері
           items:
             - name: Бекітулер үшін әзірлеуші ескертпелері
@@ -514,12 +520,16 @@
           href: environment/lite-preview-subscription-sign-up.md
         - name: Project Operations бағдарламасын орналастыру - жеңілдетілген
           href: environment/lite-deployment.md
-        - name: Демо нұсқа параметрлері мен конфигурация деректерін қолдану - жеңілдетілген
+        - name: Демо нұсқадағы параметрлер мен конфигурация деректерін қолдану - жеңілдетілген
           href: environment/lite-apply-demo-setup-config-data.md
         - name: Қауіпсіздік үлгісі
           href: environment/security-model.md
     - name: Жаңалықтар
       items:
+        - name: 2021 шығарылымының 2-толқынын ерте қолдану жаңалықтары - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: 2021 жылдың тамыз айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-august-2021-lite.md
         - name: 2021 жылдың шілде айындағы жаңалықтар - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-july-2021-lite.md
         - name: 2021 жылдың маусым айындағы жаңалықтар - жеңілдетілген орналастыру
@@ -834,14 +844,28 @@
               href: resource-management/resource-utilization-overview.md
     - name: Project Operations бағдарламасындағы қосалқы келісім-шартты басқару
       items:
-        - name: Қосалқы келісім-шарттарды басқаруға шолу
+        - name: Project Operations бағдарламасындағы қосалқы келісім-шартты басқару
           href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: 2021 жылдың қазан айындағы ерте қолдануда қосалқы келісім-шарт жасау
+          href: pro/subcontracting/Subcontracting_EA_scope.md
         - name: Қосалқы келісім-шарт жасаудағы негізгі ұғымдар
           href: pro/subcontracting/key-concepts-subcontracting.md
         - name: Жеткізушілер мен жоба бағатізбелерін басқару
           href: pro/subcontracting/vendors-purchase-price-lists.md
         - name: Брондалатын ресурстар ретіндегі қосалқы келісім-шарттар
           href: pro/subcontracting/subcontractors-as-bookable-resources.md
+        - name: Қосалқы келісім-шарттарға арналған тақырып мәліметтері
+          href: pro/subcontracting/subcontract-header-details.md
+        - name: Уақытқа арналған қосалқы келісім-шарт жолдары
+          href: pro/subcontracting/subcontract-line-time.md
+        - name: Шығынға арналған қосалқы келісім-шарт жолдары
+          href: pro/subcontracting/subcontract-line-expense.md
+        - name: Өнімдерге арналған қосалқы келісім-шарт жолдары
+          href: pro/subcontracting/subcontract-line-products.md
+        - name: Қосалқы келісім-шарт жолы ресурстары
+          href: pro/subcontracting/subcontract-line-resources.md
+        - name: Қосалқы келісім-шарт жолының аралық кезеңдері
+          href: pro/subcontracting/subcontract-line-milestones.md
     - name: Уақыт
       items:
         - name: Уақытқа шолу
@@ -868,6 +892,8 @@
       items:
         - name: Бекітулерге шолу
           href: approvals/approvals-overview.md
+        - name: Растау жинақтары
+          href: approvals/approval-sets.md
         - name: Әзірлеуші ескертпелері
           items:
             - name: Бекітулер үшін әзірлеуші ескертпелері
@@ -1060,6 +1086,8 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 35-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-35.md
         - name: 34-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-34.md
         - name: 33-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
@@ -1306,7 +1334,7 @@
               href: psa/time-entry-calendar.md
             - name: Апталық уақыт жазбаларын теңшеу
               href: psa/time-entry-extensibility-v3.md
-            - name: Растау жинақтары
+            - name: Project Service Automation бағдарламасындағы растау жинақтары
               href: psa/approval-set.md
     - name: Жиі қойылатын сұрақтар және ақаулықтарды жою (3.x нұсқасы)
       items:
