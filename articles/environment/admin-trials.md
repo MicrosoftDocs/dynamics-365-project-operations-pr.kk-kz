@@ -2,16 +2,16 @@
 title: Project Operations сынақ нұсқаларына тіркелу
 description: Бұл тақырып Dynamics 365 Project Operations сынақ нұсқасын қолдану туралы ақпарат береді.
 author: ruhercul
-ms.date: 08/19/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: e9c0d81591061f0ff01200dd5fd634a4a9ff31e4
-ms.sourcegitcommit: 0e5de344f2040075ba431918a4499a80510458d9
+ms.openlocfilehash: 1c8ae111acffb45fef1c2e6435849471ae331796
+ms.sourcegitcommit: 05ee415093d152b5b9e1203c3db0ea7f0c5a75a5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "7418464"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "7599220"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Project Operations сынақ нұсқаларына тіркелу 
 
@@ -53,7 +53,7 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 ## <a name="prerequisites"></a>Алғышарттар
 Келесі алғышарттар Dynamics 365 Project Operations сынақ нұсқасын орналастыру үшін қажет.
 
-- [Dynamics 365 Project Operations - Алдын ала қарау сынақ нұсқасы](https://www.aka.ms/try-po) тіркелу.
+- [Dynamics 365 Project Operations - алдын ала қарау сынақ нұсқасы](https://www.aka.ms/try-po) тіркелу.
 - Алдын ала қарауды орналастыратын пайдаланушының Azure қатысушысының басты әкімші құқықтары болуы керек.
 
 > [!IMPORTANT]
@@ -85,15 +85,9 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 
    Дайындық жүргізу басталғаннан кейін сіз Power Platform басқару орталығындағы орта тізіміне бағытталасыз. Дайындық жүргізу орындалып жатқанда, ортаңыздың күйі **Дана дайындалуда** күйінде болады.
  
-  Дайындық жүргізу аяқталғаннан кейін ортаңыздың күйі **Дайын** болады.
+  Дайындық жүргізу аяқталған кезде ортаңыздың күйі **Дайын** болады. Орта дайындығын жүргізу демо деректерді орналастыруды қамтиды.
  
-4.  Дайындық жүргізу аяқталғаннан кейін орналастыруды растау үшін сәйкес Microsoft Dataverse URL мекенжайын және Finance and Operations бағдарламаларының URL мекенжайларын таңдаңыз.
-
-## <a name="demo-data-installation"></a>Деректерді орнатудың демо нұсқасы
-
-Қосалқы емес материалдар мен жеңілдетілген орналастыру сценарийлерінің демо деректер бумаларына қол жеткізу үшін келесі сілтемелерді пайдаланыңыз. 
-- [Қосалқы емес материалдардың демо деректері](resource-apply-pro-setup-config-data.md)
-- [Жеңілдетілген демо деректері](lite-apply-demo-setup-config-data.md)
+4.  Орналастыруды тексеру үшін тиісті Microsoft Dataverse URL мекенжайын және Finance and Operations бағдарламаларының URL мекенжайларын таңдаңыз.
 
 ## <a name="configuring-dual-write"></a>Қос жазуды конфигурациялау
 Тек қосалқы емес материалдарды орналастыру үшін, қос жазу салыстыруларын конфигурациялаңыз. Қосымша ақпарат алу үшін [Project Operations қос жазу салыстыру нұсқалары](resource-dual-write-maps.md) бөлімін қараңыз.
