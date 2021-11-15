@@ -54,6 +54,8 @@
               href: environment/resource-dual-write-expense.md
             - name: Жеткізуші есеп-шотының интеграциясы
               href: environment/resource-dual-write-vendor-invoice.md
+        - name: Dynamics 365 Project Operations бағдарламасын жою
+          href: environment/uninstall-project-operations.md
     - name: Жаңалықтар
       items:
         - name: 'Қазан, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
@@ -298,6 +300,8 @@
               href: project-management/dev-copy-project.md
             - name: Жоба кестесінің API интерфейстерін пайдалану
               href: project-management/schedule-api-preview.md
+            - name: Жоба кестесі API интерфейсінің өнімділігі
+              href: project-management/project-schedule-api-performance.md
     - name: Ресурстарды басқару
       items:
         - name: Негізгі тұжырымдамалар
@@ -802,6 +806,8 @@
               href: project-management/dev-copy-project.md
             - name: Жоба кестесінің API интерфейстерін пайдалану
               href: project-management/schedule-api-preview.md
+            - name: Жоба кестесі API интерфейсінің өнімділігі
+              href: project-management/project-schedule-api-performance.md
     - name: Ресурстарды басқару
       items:
         - name: Негізгі тұжырымдамалар
@@ -1102,6 +1108,8 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 37-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-37.md
         - name: 36-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-36.md
         - name: 35-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
