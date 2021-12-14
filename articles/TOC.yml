@@ -58,6 +58,8 @@
           href: environment/uninstall-project-operations.md
     - name: Жаңалықтар
       items:
+        - name: 'Қараша, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-nov-2021-resource-based.md
         - name: 'Қазан, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-oct-2021-resource-based.md
         - name: 'Қыркүйек, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
@@ -302,6 +304,8 @@
               href: project-management/schedule-api-preview.md
             - name: Жоба кестесі API интерфейсінің өнімділігі
               href: project-management/project-schedule-api-performance.md
+            - name: Жобаны жоспарлау журналдары
+              href: project-management/schedule-api-logs.md
     - name: Ресурстарды басқару
       items:
         - name: Негізгі тұжырымдамалар
@@ -544,6 +548,8 @@
       items:
         - name: 2021 шығарылымының 2-толқынын ерте қолдану жаңалықтары - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: 2021 жылдың қараша айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-nov-2021-lite.md
         - name: 2021 жылдың қазан айындағы жаңалықтар - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-oct-2021-lite.md
         - name: 2021 жылдың қыркүйек айындағы жаңалықтар - жеңілдетілген орналастыру
@@ -952,6 +958,10 @@
   items:
     - name: Жаңалықтар
       items:
+        - name: 2021 жылдың қазан айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
+          href: prod-pma/whats-new/whats-new-oct-2021-stocked.md
+        - name: 2021 жылдың қыркүйек айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
+          href: prod-pma/whats-new/whats-new-sep-2021-stocked.md
         - name: 2021 жылдың шілде айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
           href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
         - name: 2021 жылдың мамыр айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
@@ -1108,6 +1118,8 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 37.5-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-37-5.md
         - name: 37-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-37.md
         - name: 36-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
