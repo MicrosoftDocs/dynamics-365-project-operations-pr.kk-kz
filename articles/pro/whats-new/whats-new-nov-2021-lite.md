@@ -7,20 +7,20 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: e8560e7c7d6bae1bb2fda389a63bde1c57654bcb
-ms.sourcegitcommit: 04ebe764afa22742b3fbf8f12af31e8eea93682e
+ms.openlocfilehash: 0fd910fb1b1e4e4576afa386a600e56e6f2dd504
+ms.sourcegitcommit: 9d20e7738cce195d344f5925a115741a1ce3ca36
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "7827288"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "7942938"
 ---
 # <a name="whats-new-november-2021---project-operations-lite-deployment"></a>2021 жылдың қарашасында қандай жаңалық бар - Project Operations lite қолданбасы
 
 _Келесіге қолданылады: жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Бұл тақырып Microsoft Dynamics 365 Project Operations келесі құрамдастары мен нұсқаларына қолданылады:
+Бұл тақырып Microsoft корпорациясының келесі құрамдастары мен нұсқаларына қатысты Dynamics 365 Project Operations:
 
-- Dataverse ортасындағы жоба операциялары 4.26.0.145, 4.26.0.148, немесе 4.26.0.150
+- Жоба операциялары а Dataverse орта нұсқасы 4.26.0.145, 4.26.0.148, 4.26.0.150, 4.26.0.155
   
 ## <a name="features-included-in-this-release"></a>Осы шығарылымда қамтылған мүмкіндіктер
 
@@ -30,7 +30,7 @@ _Келесіге қолданылады: жеңілдетілген орнал�
 
 ## <a name="quality-updates"></a>Сапа жаңартулары
 
-### <a name="project-operations-in-dataverse"></a>Dataverse ішіндегі жоба операциялары
+### <a name="project-operations-in-dataverse"></a>Жоба операциялары Dataverse
 
 | Мүмкіндік аумағы | Сілтемелік нөмір | Сапа жаңартуы |
 | --- | --- | --- |
