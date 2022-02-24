@@ -2,17 +2,19 @@
 title: 2021 жылдың қаңтар айындағы қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations жаңалықтары немесе өзгерістері
 description: Бұл тақырыпта қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations шығарылымының 2021 жылғы қаңтар айындағы сапалық жаңартулары туралы ақпарат берілген.
 author: andchoi
+manager: tfehr
 ms.date: 1/08/2021
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: f7ad339872f18bf5aaae6f472436fc318d4cd919fcae58cc1b6e4d5ab19bd68c
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: ce1c83e1e238d7919c38d2babea622ca59de86d3
+ms.sourcegitcommit: ef7d498bf80b0bcc1245dc42f30c410c31f891bb
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992753"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "4958655"
 ---
 # <a name="whats-new-or-changed-in-project-operations-january-2021-for-stockedproduction-based-scenarios"></a>2021 жылдың қаңтар айындағы қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations жаңалықтары немесе өзгерістері
 
@@ -142,7 +144,4 @@ _**Келесіге қолданылады:** қосалқы/өндіріске 
 | Сапар және шығыс                  | [525106](https://fix.lcs.dynamics.com/Issue/Details/?bugId=525106) | Project Operations бағдарламасында Dataverse жүйесіндегі компанияаралық тапсырмалары бар уақыт жасалмайды немесе бекітілмейді.                                                                                                                                                                                             |
 
 ### <a name="regulatory-updates"></a>Нормативтік жаңартулар
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
+Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ, LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.

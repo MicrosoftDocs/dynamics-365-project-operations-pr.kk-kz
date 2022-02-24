@@ -2,9 +2,11 @@
 title: Несиелік карта бойынша транзакцияларды импорттау және сақтау
 description: Бұл тақырып шығыспен байланысты несиелік карта транзакцияларын қалай импорттау және ұстану туралы түсіндіреді. Бұл транзакциялар автоматты түрде қайталанатын кесте бойынша импортталатындай етіп орнатылуы мүмкін немесе қажет болған жағдайда қолмен импортталуы мүмкін.
 author: KimANelson
+manager: AnnBe
 ms.date: 01/12/2018
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvPbsMainDataLines
 audience: Application User
@@ -16,18 +18,18 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: c3a53d2ae4eae411364aaf68ac806b55335c75d4870a24715954ccae327f4358
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: df5c6bce8a534f4f8b1872e2bd5cc8a58ef11189
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6995858"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5271585"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>Несиелік карта бойынша транзакцияларды импорттау және сақтау
 
 Шығыспен байланысты несиелік карта транзакциялары автоматты түрде қайталанатын кесте бойынша импортталатын етіп орнатуға болады. Сонымен қатар қажет болған жағдайда транзакцияларды қолмен импорттауға болады. Несиелік карта бойынша транзакциялар несиелік карта бойынша транзакция деректері заңды тұлға арқылы импортталады.
 
-Деректер нысандары туралы қосымша ақпаратты [Мәліметтер нысандары](/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities) бөлімінен қараңыз.
+Деректер нысандары туралы қосымша ақпаратты [Мәліметтер нысандары](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities) бөлімінен қараңыз.
 
 ## <a name="import-credit-card-transactions"></a>Несие картасының транзакцияларын импорттау
 

@@ -2,10 +2,12 @@
 title: Project Service Automation бағдарламасында шот-фактура жіберу
 description: Бұл тақырыпта шот-фактура жіберу туралы ақпарат берілген.
 author: rumant
+manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 08/03/2020
 ms.topic: article
+ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -15,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 58259c05939cfe870ce5e36b4a0221cd93b8e8d2b4be582efc9167e82579699e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 0855e85c1f09d29d3ecb49ba517fd3043ae11140
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6985508"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5151395"
 ---
 # <a name="invoicing-in-project-service-automation"></a>Project Service Automation бағдарламасында шот-фактура жіберу
 
@@ -50,7 +52,7 @@ PSA бағдарламасы келесі себептер бойынша тұт
 
 - **Жоба келісім-шарттары** тізім бетінде жоба келісім-шартын ашып, **Есеп-шот жасау** опциясын таңдаңыз.
 
-    ![Белгілі бір жоба келісім-шарты үшін жоба есеп-шоттарын жасау.](media/CreateProjectInvoicesOneByOne.png)
+    ![Белгілі бір жоба келісім-шарты үшін жоба есеп-шоттарын жасау](media/CreateProjectInvoicesOneByOne.png)
 
     Есеп-шот **Есеп-шот ұсынуға дайын** күйіндегі таңдалған жоба келісім-шарты бойынша барлық транзакциялар үшін жасалады. Бұл транзакцияларға уақыт, шығындар, кезеңдер және өнімге негізделген келісім-шарт жолдары кіреді.
 
@@ -58,7 +60,7 @@ PSA бағдарламасы келесі себептер бойынша тұт
 
 1. **Жоба келісім-шарттары** тізім бетінде есеп-шот жасау қажет бір немесе бірнеше жоба келісім-шартын таңдап, **Жоба есеп-шоттарын жасау** опциясын таңдаңыз.
 
-    ![Жоба есеп-шоттарын жаппай жасау.](media/CreateProjectInvoicesBulk.png)
+    ![Жоба есеп-шоттарын жаппай жасау](media/CreateProjectInvoicesBulk.png)
 
     Ескерту хабарламасы есеп-шоттар жасалмас бұрын, кідіріс болуы мүмкін екенін хабарлайды. Процесс те көрсетілген.
 
@@ -115,6 +117,3 @@ PSA бағдарламасында автоматты есеп-шоттың іс
 
 - Алты сағатқа арналған шот ұсынылған сатылымның нақты мәні.
 - Қалған екі сағатқа арналған шот ұсынылмаған сатылымның нақты мәні. Бұл транзакцияға кейінірек есеп-шот ұсынылуы мүмкін немесе тұтынушымен жасалған келіссөздерге байланысты ақылы емес болып белгіленуі мүмкін.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

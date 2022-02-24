@@ -2,22 +2,24 @@
 title: Уақыт жазбаларының мерзімін ұзарту
 description: Бұл тақырыпта әзірлеушілердің уақыт жазбасын басқару мерзімін ұзарту жолы туралы ақпарат берілген.
 author: stsporen
+manager: Annbe
 ms.date: 10/08/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: c36a47b09e6012925a047f81318e89167d5c506facaae8d72b0bb6e8e267a7d5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d9c14f0550d4429ac794607a3fb61717566207e4
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993338"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124645"
 ---
 # <a name="extending-time-entries"></a>Уақыт жазбаларының мерзімін ұзарту
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Dynamics 365 Project Operations ұзартылатын уақыт жазбасының реттелетін бақылау элементін қамтиды. Бұл басқару келесі мүмкіндіктерді қамтиды:
+Dynamics 365 Project Operations уақыт жазбасының ұзартылатын бақылау мерзімін қамтиды. Бұл басқару келесі мүмкіндіктерді қамтиды:
 
 - Уақытты бір апта ішінде көлденеңінен енгізіңіз
 - Барлығы күн, қатар немесе апта бойынша
@@ -142,6 +144,3 @@ Dynamics 365 Project Operations ұзартылатын уақыт жазбасы
 
 ### <a name="copying-time-entries"></a>Уақыт жазбаларын көшіру
 Уақыт жазбасы кезінде көшірілетін өрістер тізімін анықтау үшін **Уақыт жазбасы бағандарын көшіру** көрінісін пайдаланыңыз. **Күн** және **Ұзақтық** міндетті өрістер болып табылады және оларды көріністен алып тастауға болмайды.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

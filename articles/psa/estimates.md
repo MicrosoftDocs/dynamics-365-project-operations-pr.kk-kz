@@ -2,6 +2,8 @@
 title: Болжамдар
 description: Бұл тақырыпта Dynamics 365 Project Service Automation бағдарламасындағы болжамдар туралы ақпарат берілген.
 author: rumant
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 1/31/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ebb59d2b38bf99aed15206646e77c74003aba2a92a6d8d262e6e7b2017285ed3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 2fa81067ad6e7c291b9ad9468db051e8f6187da9
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992393"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5151440"
 ---
 # <a name="estimates"></a>Болжамдар
 
@@ -83,27 +85,24 @@ PSA жүйесінде келісім-шарттарда немесе жобал
 1. PluginRegistrationTool құралын ашып, онлайн данаға қосылыңыз.
 2. **Іздеу** опциясын таңдап, жаңарту қажет қосылатын модульді іздеңіз.
 
-    ![Іздеу тармағының тілқатысу терезесі.](media/basic-guide-19.png)
+    ![Іздеу тармағының тілқатысу терезесі](media/basic-guide-19.png)
 
 3. Қосылатын модульді таңдап, басты бетте **Таңдау** опциясын таңдаңыз.
 4. Жаңарту қажет қосылатын модульдің қадамын таңдаңыз және тінтуірдің оң жақ түймешігімен басып, **Жаңарту** опциясын таңдаңыз.
 
-    ![Қосылатын модульде қадамды таңдау.](media/basic-guide-20.png)
+    ![Қосылатын модульде қадамды таңдау](media/basic-guide-20.png)
 
 5. **Бұрыннан бар қадамды жаңарту** диалогтік терезесінің **Атрибуттарды сүзгілеу** өрісінде көп нүкте түймешігін (**...**) басыңыз:
  
-    ![Бұрыннан бар қадамды жаңарту диалогтік терезесі.](media/basic-guide-21.png)
+    ![Бұрыннан бар қадамды жаңарту диалогтік терезесі](media/basic-guide-21.png)
 
 6. **Атрибуттарды таңдау** диалогтік терезесінде реттелетін атрибуттарға құсбелгілер қойыңыз.
 
-    ![Атрибуттарды таңдау диалогтік терезесі.](media/basic-guide-22.png)
+    ![Атрибуттарды таңдау диалогтік терезесі](media/basic-guide-22.png)
 
 7. Диалогтік терезені жабу үшін **OK** түймешігін, содан кейін **Қадамды жаңарту** түймешігін таңдаңыз.
  
-    ![Қадамды жаңарту түймешігі.](media/basic-guide-23.png)
+    ![Қадамды жаңарту түймешігі](media/basic-guide-23.png)
 
 8. Екінші қосылатын модуль үшін 1-7 қадамдарды қайталаңыз.
 9. PluginRegistrationTool құралын жабыңыз.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

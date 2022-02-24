@@ -2,16 +2,18 @@
 title: Project Operations бағдарламасы бойынша шарлау
 description: Бұл тақырыпта Project Operations бағдарламасына Lifecycle Services жүйесі арқылы кіру туралы ақпарат берілген.
 author: sigitac
+manager: Annbe
 ms.date: 10/28/2020
 ms.topic: article
+ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 15533febe12f970bb35ccb4cdceedce251d1f837bfb59ffcd10e633eec1a3a92
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d948c1cfe2d95e61f2405a9a23e7045af678ae40
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994598"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642055"
 ---
 # <a name="navigate-project-operations"></a>Project Operations бағдарламасы бойынша шарлау
 
@@ -28,14 +30,11 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 CDS ортасындағы Project Operations жүйесіне шарлау үшін **Common Data Service орта атауы** бөліміндегі орта атауын пайдаланыңыз. 
 
-  ![Common Data Service ортасының атауы.](./media/environment-name.PNG)
+  ![Common Data Service ортасының атауы](./media/environment-name.PNG)
 
 Finance бағдарламасындағы **Жобаларды басқару және есеп** модуліне шарлау үшін **Жүйеге кіру** > **Ортаға кіру** тармағын таңдаңыз.  
 
-   ![Finance бағдарламасына кіру.](./media/environment-login.PNG)
+   ![Finance бағдарламасына кіру](./media/environment-login.PNG)
 
 > [!NOTE]
 > Project Operations жүйесіне Common Data Service қызметінде және олардың тиісті URL мекен-жайларын пайдалану арқылы тікелей **Жобаларды басқару және есеп** модулінде кіруге болады. 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,6 +2,8 @@
 title: Project Service Automation бағдарламасының 18 жаңарту шығарылымының 3 нұсқасындағы жаңалықтар немесе өзгерістер
 description: Бұл бөлімде Project Service Automation бағдарламасының 18 жаңарту шығарылымының 3 нұсқасындағы қолжетімді мүмкіндіктер мен түзетулер берілген.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 04/27/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 43491a3820d84e9d2a43e678f2604e234e18794d9e28889429debc0b991bbfac
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d6e0bb669513185ca266858ea9b8a89ed6dd4408
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004363"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147210"
 ---
 # <a name="project-service-automation-update-release-18-v3"></a>Project Service Automation 18 жаңарту шығарылымының 3-нұсқасы
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Осы шығарылымды жаңарту үшін, желідегі Dynamics 365 басқару орталығына, жаңартуды орнату үшін шешімдер бетіне өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
+Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Осы шығарылымды жаңарту үшін, желідегі Dynamics 365 басқару орталығына, жаңартуды орнату үшін шешімдер бетіне өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
 Бұл бөлімде Project Service Automation бағдарламасының 18 жаңарту шығарылымының 3 нұсқасындағы жаңа немесе өзгертілген мүмкіндіктер мен түзетулер берілген. Бұл нұсқа V3.10.8.12 жиынтық нөміріне ие және әдетте өзін-өзі жаңарту арқылы 2020 жылдың сәуірінде қолжетімді.
 
@@ -61,6 +63,3 @@ ms.locfileid: "7004363"
 **Sales**
 
 - Түзетілді: уақыт жазбалары қайта мақұлданған кезде (**Мақұлдау > Бас тарту >** қайта мақұлдау) қайталанатын ақысыз нақты мән жасалады.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

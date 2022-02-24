@@ -1,10 +1,11 @@
 ---
 title: Өзіндік бетті жаңарту
 description: Бұл тақырыпта Dynamics 365 Project Service Automation ішіндегі жаңа және өзгертілген мүмкіндіктері және ең жаңа нұсқаны жаңартуға арналған процесс туралы маңызды ақпаратты қайдан табуға болатыны көрсетілген.
+manager: kfend
 ms.prod: ''
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
-- intro-internal
 ms.date: 05/30/2019
 ms.topic: article
 author: rumant
@@ -18,12 +19,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2b9b14d72157ae0046e1ca6abdc604b8dbc30377b5b24f5d79617a7201b1bf10
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: e30da3a5ade6d8bafcdc45801b830196841997bf
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006748"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150090"
 ---
 # <a name="upgrade-home-page"></a>Өзіндік бетті жаңарту
 
@@ -64,6 +65,3 @@ ms.locfileid: "7006748"
 
 > [!NOTE]
 > Field Service және PSA қосымшаларының ескі нұсқаларының бар мүмкіндіктерін пайдалану үшін **Жүйе параметрлері** бетіне өтіңіз және **Жаңа бірыңғай интерфейсті ғана пайдалану (ұсынылған)** өрісі үшін **Жоқ** параметрін таңдаңыз, өйткені бұл нұсқалар UCI ішіне дұрыс жүктелмейді. UCI интерфейсін өшіргеннен кейін, осы Field Service және PSA нұсқаларын ескі веб-клиенттің көмегімен ашуға және іске қосуға болады. 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

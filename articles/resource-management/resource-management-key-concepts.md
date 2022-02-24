@@ -2,16 +2,18 @@
 title: Ресурстарды басқарудың негізгі тұжырымдамалары
 description: Бұл тақырыпта Microsoft Dynamics Project Operations жүйесіндегі ресурстарды басқару туралы ақпарат берілген.
 author: ruhercul
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: c76fb297fc1832284d488f28e552ded2c1c27cf88d3a9352f2a31e667aac746e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: a14f0ec328049d1b199201955c384df9fac61e39
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994823"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123880"
 ---
 # <a name="resource-management-key-concepts"></a>Ресурстарды басқарудың негізгі тұжырымдамалары
 
@@ -33,6 +35,3 @@ _**Қолданылу аясы:** Ресурс/биржадан тыс негі�
 
 
 Жобаңызды Project Operations жүйесіндегі жалпы немесе атауы бар ресурстар тобымен қамтамасыз ете аласыз. Топ мүшелерін қосу және тағайындау үшін, сондай-ақ олардың тапсырыстары мен тағайындамаларын басқару үшін әртүрлі әдістерді пайдалануға болады. 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

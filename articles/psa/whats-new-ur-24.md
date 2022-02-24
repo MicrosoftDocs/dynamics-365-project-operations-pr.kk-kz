@@ -2,6 +2,8 @@
 title: Project Service Automation бағдарламасының 24 жаңарту шығарылымы 3-нұсқасындағы жаңалықтар немесе өзгерістер
 description: Бұл бөлімде Project Service Automation бағдарламасының 24 жаңарту шығарылымының 3 нұсқасындағы қолжетімді мүмкіндіктер мен түзетулер берілген.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 10/02/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 51d08dd147b7804cb5c9255159aeab2ecd94f4597d6e99c5fa92efe1246c44d0
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 15fe1c3482de66331dd543ee73391638919b2595
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6998063"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5146715"
 ---
 # <a name="project-service-automation-update-release-24-v3"></a>Project Service Automation 24 жаңарту шығарылымының 3-нұсқасы
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
+Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
 Бұл бөлімде Project Service Automation бағдарламасының 24-жаңарту шығарылымының 3 нұсқасындағы мүмкіндіктер мен түзетулер берілген. Бұл нұсқада V 3.10.42.43 құрылым нөмірі бар және әдетте 2020 жылдың қазан айында өзін-өзі жаңарту арқылы қолжетімді.
 
@@ -77,8 +79,5 @@ ms.locfileid: "6998063"
 - **Шығыс болжамдары** тармағындағы тапсырмаға немесе санатқа енгізілген өзгерістер сақталмайды.
 - **Келісім-шарт көшірмесі** есеп-шот кестелерін және сеанс күйін көшіреді.
 - **Нақты көрсеткіштерді жаңарту** түймесі жиынтық тапсырмаларды дұрыс есептемейді.
-- Microsoft Project қондырмасы: кез келген топ мүшесінде бос ресурс бірлігі болса, бос сілтеме қатесін түзетіңіз.
+- Microsoft Project қондырмасы: кез-келген топ мүшесінде бос ресурс бірлігі болса, бос сілтеме қатесін түзетіңіз.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

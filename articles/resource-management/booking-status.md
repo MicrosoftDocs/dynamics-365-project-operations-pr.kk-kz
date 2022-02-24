@@ -2,22 +2,21 @@
 title: Тапсырыс беру күйлері
 description: Бұл тақырыпта Project Operations бағдарламасы үшін тапсырыс беру күйлерін орнату жолы туралы ақпаратқа сілтеме берілген.
 author: ruhercul
+manager: Annbe
 ms.date: 11/05/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 635d76c55358b27ce6ff3babd9e69041d99f5005c140fca0c0bc28d7210ad168
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 4e14f55e05a20990394f7645d0f276ea99deb626
+ms.sourcegitcommit: 454b0ec941cca06852236771bc77dc1651f94e48
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004093"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "4514549"
 ---
 # <a name="booking-statuses"></a>Тапсырыс беру күйлері
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Ұйымыңызға арналған тапсырыс беру күйлерін орнату мақсатында Dynamics 365 Field Service қызметі үшін Universal Resource Scheduling бағдарламасында берілген функцияларды пайдалана аласыз. Бұл орнатуды аяқтау туралы ақпарат алу үшін [Тапсырыс беру күйлерін орнату](/dynamics365/field-service/set-up-booking-statuses) бөлімін қараңыз.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+Ұйымыңызға арналған тапсырыс беру күйлерін орнату мақсатында Dynamics 365 Field Service қызметі үшін Universal Resource Scheduling бағдарламасында берілген функцияларды пайдалана аласыз. Бұл орнатуды аяқтау туралы ақпарат алу үшін [Тапсырыс беру күйлерін орнату](https://docs.microsoft.com/dynamics365/field-service/set-up-booking-statuses) бөлімін қараңыз.

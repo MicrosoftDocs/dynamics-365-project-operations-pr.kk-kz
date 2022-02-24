@@ -2,9 +2,11 @@
 title: Орындалу барысы бойынша шот ұсынуға арналған кеңейтілген келісім-шарттарды жасау
 description: Бұл тақырыпта аяқталған жұмысқа негізделген есеп-шоттарды тұтынушыларға ұсына алу үшін жоба келісім-шарттарын жасау жолдары түсіндірілген.
 author: RadhikaRS
+manager: AnnBe
 ms.date: 03/26/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: 661e8aa0be70e9c8aadcb3a3d9dd6d39d1bcb2fd55d198b3c9af19fc2d0ae9d3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1a83785a9db4dffc4585acf11ef971c08594f312
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7000988"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079789"
 ---
 # <a name="create-advanced-contracts-for-billing-based-on-progress"></a>Орындалу барысы бойынша шот ұсынуға арналған кеңейтілген келісім-шарттарды жасау
 [!include [banner](../includes/banner.md)]
@@ -71,7 +73,7 @@ ms.locfileid: "7000988"
 
 ## <a name="create-a-project-for-progress-billings"></a>Ұсынылатын шоттар үшін жоба жасау
 
-Жобаны және жоба келісім-шартына байланысты кез келген ішкі жобаларды құру үшін осы қадамдарды орындаңыз.
+Жобаны және жоба келісім-шартына байланысты кез-келген ішкі жобаларды құру үшін осы қадамдарды орындаңыз.
 
 1. **Жобаларды басқару және есепке алу** \> **Жобалар** \> **Барлық жобалар** тармағына өтіңіз.
 2. **Барлық жобалар** бетінде **Жаңа** түймешігін басыңыз.
@@ -101,6 +103,3 @@ ms.locfileid: "7000988"
 8. Қосымша: шот ұсыну ережесін қосымша жобаларға тағайындаңыз. **Жоба** FastTab қойыншасындағы **Қолжетімді жобалар** бөлімінен жобаны таңдаңыз, содан кейін жобаны **Таңдалған жобалар** бөліміне қосу үшін оң жақ көрсеткіні таңдаңыз басыңыз.
 9. Қосымша: тұтынушы есеп-шоттағы төлемдерден ұстап қалатын пайыздық соманы есептеңіз. **Төлемді сақтау шарттары** FastTab қойыншасында, қаржыландыру көзін таңдаңыз, содан кейін **Сақтау пайызы** өрісіне сақтау пайызын енгізіңіз.
 10. Жоба келісім-шарты үшін қосымша шот ұсыну ережелерін жасау үшін осы қадамдарды қайталаңыз.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

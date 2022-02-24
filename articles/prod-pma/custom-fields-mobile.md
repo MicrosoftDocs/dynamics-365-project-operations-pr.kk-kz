@@ -2,9 +2,11 @@
 title: iOS және Android жүйесіндегі Microsoft Dynamics 365 Project Timesheet мобильді құрылғы бағдарламасы үшін реттелмелі өрістерді ендіру
 description: Бұл тақырыпта реттелмелі өрістерді ендіру үшін кеңейтімдерді пайдалануға арналған жалпы үлгілер беріледі.
 author: Yowelle
+manager: AnnBe
 ms.date: 05/29/2019
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.3
 ms.search.validFrom: 2019-05-29
-ms.openlocfilehash: 9f19a6d069c4f825be8515a6d26739c50d3b064698fc1872ede07a4e74ee4dcb
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 5dae571fce746b49281587f5349774a7f2c4111b
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005758"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5271000"
 ---
 # <a name="implement-custom-fields-for-the-microsoft-dynamics-365-project-timesheet-mobile-app-on-ios-and-android"></a>iOS және Android жүйесіндегі Microsoft Dynamics 365 Project Timesheet мобильді құрылғы бағдарламасы үшін реттелмелі өрістерді ендіру
 
@@ -153,13 +155,13 @@ ms.locfileid: "7005758"
 
 Төмендегі уақыт кестесінің жазбасын жасаудың мобильді құрылғы бағдарламасының скриншоты. Онда кірістірілген өрістер және орнатылған "Екінші параметр" бағалау мәні бар "Тексеру жолы" деп аталатын "Уақыт жазбасы" бөліміндегі реттелмелі өріс көрсетіледі.
 
-![Бағдарламадағы тексеру жолының реттелмелі өрісі.](media/timesheet-entry.jpg)
+![Бағдарламадағы тексеру жолының реттелмелі өрісі](media/timesheet-entry.jpg)
 
 
 
 Төмендегі "Тексеру жол" реттелмелі өрісі үшін қолжетімді бағалау параметрлерінің бірін таңдайтын пайдаланушының мобильді құрылғы бағдарламасының скриншоты.  Екі "Бірінші параметр" және "Екінші параметр" параметрі айырып-қосқыштар ретінде көрсетілген. Екінші параметр ағымда таңдалады.
 
-!["Тексеру жолы" реттелмелі өрісіне арналған ажыратпа-қосқыштар (радио түймешіктер).](media/enum-option.jpg)
+!["Тексеру жолы" реттелмелі өрісіне арналған ажыратпа-қосқыштар (радио түймешіктер)](media/enum-option.jpg)
 
 
 
@@ -171,7 +173,7 @@ ms.locfileid: "7005758"
 
 Төмендегі бағдарлама нысаны дерекнамасының Visual Studio бағдарламасының скриншоты. Онда ағымдағы өріс ретінде қосылған TestLineString өрісі бар TSTimesheetLine кестесінің кеңейтімі көрсетіледі.
 
-![Сызық жол.](media/b6756b4a3fc5298093327a088a7710fd.png)
+![Сызық жол](media/b6756b4a3fc5298093327a088a7710fd.png)
 
 ### <a name="use-chain-of-command-on-the-buildcustomfieldlist-method-of-the-tstimesheetsettings-class-to-show-a-field-in-the-timesheet-entry-section"></a>Уақыт кестесінің жазбасы бөліміндегі өрісті көрсету үшін TSTimesheetSettings класының buildCustomFieldList әдісіндегі пәрмен тізбегін пайдалану
 
@@ -317,11 +319,11 @@ final class TSTimesheetEntryService_Extension
 
 Төмендегі уақыт кестесін қарап жатқан пайдаланушының мобильді құрылғы бағдарламасының скриншоты. "Қосымша ақпарат" түймешігі "Қосымша мәліметтерді көру" параметрін көрсету үшін жоғарғы оң жақ бұрыштан таңдалды.  
 
-![Қосымша мәліметтерді қарау пәрмені.](media/show-more.png)
+![Қосымша мәліметтерді көру пәрмені](media/show-more.png)
 
 Төмендегі уақыт кестесінің “Қосымша ақпарат” бөлімін көрсететін мобильді құрылғы бағдарламасының скриншоты. “Бұл уақыт кестесінің пайдалану коэффициенті (есептелген реттелмелі өріс)” деп аталатын реттелмелі өріс уақыт кестесінің тақырып бөліміне қосылды. Тек оқуға арналған "0,667" мәні реттелмелі өрісте орнатылды.
 
-![Қосымша бөлім.](media/more-section.jpg)
+![Қосымша бөлім](media/more-section.jpg)
 
 ### <a name="extend-the-tstimesheettable-table-so-that-it-has-a-custom-field"></a>TSTimesheetTable кестесінде реттелмелі өріс болатындай етіп кеңейту
 
@@ -414,7 +416,7 @@ final class TSTimesheetDetails_Extension
 
 Жоба параметрлерінен, кірістірілген өрістерді тек оқу үшін жасауға немесе мобильді құрылғы бағдарламасында жасыруға болады. Параметрлерді **Жобаны басқару және есеп параметрлері** бетінің **Уақыт кестесі** қойыншасындағы **Мобильді уақыт кестелері** бөліміне орнатыңыз.
 
-![Жоба параметрлері.](media/5753b8ecccd1d8bb2b002dd538b3f762.png)
+![Жоба параметрлері](media/5753b8ecccd1d8bb2b002dd538b3f762.png)
 
 ### <a name="changing-the-activities-that-are-available-for-selection-via-extensions"></a>Кеңейтімдер арқылы таңдау үшін қолжетімді болатын әрекеттерді өзгерту
 

@@ -2,16 +2,18 @@
 title: Демо деректерді Finance бұлт қызметтеріне орналастырылған ортаға қолдану
 description: Бұл тақырып Project Operations демо деректерін Dynamics 365 Finance бұлт қызметтеріне орналастырылған ортаға қалай қолдануға болатындығын түсіндіреді.
 author: sigitac
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: c04aab6ffb332a3095ca2a7890deb73f15a8b5e3713021c60eec02eb13dbd0cb
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: a7cdbd2847ce45972aadd0d1a2d4f26270727ad9
+ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7009673"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "4365245"
 ---
 # <a name="apply-demo-data-to-a-finance-cloud-hosted-environment"></a>Демо деректерді Finance бұлт қызметтеріне орналастырылған ортаға қолдану
 
@@ -22,40 +24,40 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 1. LCS жобасында **Орта туралы мәліметтер** бетін ашыңыз. Оның Remote Desktop Protocol (RDP) бағдарламалық жасақтамасы арқылы ортаға қосылуға қажетті мәліметтерді қамтитынына назар аударыңыз.
 
-![Орта мәліметтері.](./media/1EnvironmentDetails.png)
+![ ортасының мәліметтері](./media/1EnvironmentDetails.png)
 
 Ерекшеленген тіркелгі деректерінің бірінші жиынтығы жергілікті тіркелгі деректері болып табылады және жұмыс үстелінің қашықтан қосылуына сілтеме жасайды. Тіркелгі деректері орта әкімшісінің пайдаланушы аты мен құпиясөзін қамтиды. Тіркелгі деректерінің екінші жиынтығы осы ортада SQL Server басқару жүйесіне кіру үшін қолданылады.
 
 2. **Жергілікті тіркелгілер** ішіндегі сілтеме арқылы ортаға қашықтан қосылыңыз және **Жергілікті тіркелгінің деректері** арқылы аутентификациялаңыз.
 3. **Интернет ақпараттық қызметтері** > **Бағдарлама қорлары** > **AOSService** тармағына өтіп, қызметті тоқтатыңыз. SQL дерекқорын ауыстыруды жалғастыру үшін сіз осы уақытта қызметті тоқтатасыз.
 
-![AOS қызметін тоқтату.](./media/2StopAOS.png)
+![AOS қызметін тоқтату](./media/2StopAOS.png)
 
 4. **Қызметтер** бөліміне өтіп, келесі екі элементті тоқтатыңыз:
 
 - Microsoft Dynamics 365 Unified Operations Batch Management Service қызметі
 - Microsoft Dynamics 365 Unified Operations: деректерді импорттау экспорттау құрылымы
 
-![Қызметтерді тоқтату.](./media/3StopServices.png)
+![Қызметтерді тоқтату](./media/3StopServices.png)
 
 5. Microsoft SQL Server Management Studio ортасын ашыңыз. SQL серверінің тіркелгі деректерімен кіріп, LCS **Орталардың мәліметтері** бетінен axdbadmin пайдаланушысы мен құпиясөзін пайдаланыңыз.
 
-![SQL Server Management Studio.](./media/4SSMS.png)
+![SQL Server Management Studio](./media/4SSMS.png)
 
 6. **Дерекқорлар** мен Object Explorer объектілерді шолушысында **AXDB** орналасқан жерін анықтаңыз. [Жүктеу орталығы](https://download.microsoft.com/download/1/a/3/1a314bd2-b082-4a87-abdc-1ba26c92b63d/ProjOpsDemoDataFOGARelease.zip) орналасқан дерекқорды жаңа дерекқормен алмастырасыз. 
 7. Сіз zip файлын қашықтан басқарылатын VM жүйесіне көшіріңіз және оның zip мазмұнын шығарып алыңыз.
 8. SQL Server Management Studio утилитасында **AxDB** пәрменінде тінтуірдің оң жағын басыңыз, содан кейін **Тапсырмалар** > **Қалпына келтіру** > **Дерекқор** тармағын таңдаңыз.
 
-![Дерекқорды қалпына келтіру.](./media/5RestoreDatabase.png)
+![Дерекқорды қалпына келтіру](./media/5RestoreDatabase.png)
 
 9. **Бастапқы құрылғы** опциясын таңдап, көшірген zip файлынан алынған файлға өтіңіз.
 
-![Бастапқы құрылғылар.](./media/6SourceDevice.png)
+![Бастапқы құрылғылар](./media/6SourceDevice.png)
 
 10. **Опциялар**, содан кейін **Қолданыстағы дерекқорды қайта жазу** мен **Мақсатты дерекқорға қолданыстағы байланыстарды жабу** опцияларын таңдаңыз. 
 11. **OK** пәрменін таңдаңыз.
 
-![Параметрлерді қалпына келтіру.](./media/7RestoreSetting.png)
+![Параметрлерді қалпына келтіру](./media/7RestoreSetting.png)
 
 Сіз AXDB қалпына келтірудің сәтті өткендігі туралы растау аласыз. Осы растауды алғаннан кейін SQL Services Management Studio ортасын жабуға болады.
 
@@ -66,17 +68,14 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 15. **Электрондық пошта** өрісіндегі пайдаланушы мекенжайыңызды қолданып, .ext файлын іске қосыңыз. 
 16. **Жіберу** пәрменін таңдаңыз.
 
-![Әкімші пайдаланушысы дайындалуда.](./media/8AdminUserProvisioning.png)
+![Әкімші пайдаланушысы дайындалуда](./media/8AdminUserProvisioning.png)
 
 Мұны аяқтауға бірнеше минут кетеді. Сіз әкімші пайдаланушысы сәтті жаңартылғандығы туралы растау хабарламасын алуыңыз керек.
 
 17. Соңында, пәрмендік жолды әкімші ретінде іске қосып, iisreset пәрменін орындаңыз
 
-![IIS Reset пәрмені.](./media/9IISReset.png)
+![IIS Reset пәрмені](./media/9IISReset.png)
 
 18. Қашықтағы жұмыс үстелінің сессиясын жауып, оның күтілгендей жұмыс істеп тұрғанын растау үшін ортаға кіру мақсатында LCS **Орта туралы мәліметтер** бетін пайдаланыңыз.
 
-![Finance and Operations.](./media/10FinanceAndOperations.png)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+![Finance and Operations](./media/10FinanceAndOperations.png)

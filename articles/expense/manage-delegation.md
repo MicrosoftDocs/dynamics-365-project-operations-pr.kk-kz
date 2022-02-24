@@ -2,9 +2,11 @@
 title: Өкілеттікті басқару
 description: Бұл тақырыпта шығыстар делегаты басқа қызметкер үшін шығыстар туралы есептерді қалай құра және басқара алатындығы туралы ақпарат берілген.
 author: suvaidya
+manager: AnnBe
 ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -13,12 +15,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: f68d62ea96c9a31771b1938ee4c6505aadf0f2a81f168920a1f057227b986281
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 09fc5a58b3367d1b70d2ddddb8e920769055f9d2
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997793"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122710"
 ---
 # <a name="manage-delegation"></a>Өкілеттікті басқару
 Шығыстар делегаты басқа қызметкер үшін шығыстар туралы есептер жасауына және басқаруына болады.
@@ -37,6 +39,3 @@ ms.locfileid: "6997793"
 Делегат өкілеттігі өзіне берілген шығыстар туралы есептерді тез сүзіп, ішінен іздей алады. Сонымен қатар делегат **Жаңа шығыстар туралы есеп** параметрін таңдау арқылы басқа пайдаланушылар үшін жаңа шығыстар туралы есепті жылдам жасауына болады.
 
 Делегаттар **Шығыстарды басқару** > **Менің шығындарым** > **Шығыстар туралы есептер** тармағына өтіп, **Басқа пайдаланушының шығындарын ашу** опциясын таңдау арқылы басқа қызметкерлер үшін шығыстар туралы есептерді жасауына және басқаруына болады.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

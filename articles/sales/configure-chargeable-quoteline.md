@@ -2,16 +2,18 @@
 title: Жобаға негізделген баға ұсыну жолының ақылы құрамдастарын конфигурациялау
 description: Бұл тақырыпта жобаға негізделген баға ұсыну жолдарында қамтылған, ақылы және ақысыз құрамдастар туралы ақпарат берілген.
 author: rumant
+manager: Annbe
 ms.date: 11/18/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 251d0013b445d2f7d17fbe1908f0db2e05cfc2670ac667deb363c98f608a2aef
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 36765ab3687a8aaf3ae4a631516a1d61c14e981e
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004003"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642550"
 ---
 # <a name="configure-the-chargeable-components-of-a-project-based-quote-line"></a>Жобаға негізделген баға ұсыну жолының ақылы құрамдастарын конфигурациялау
 
@@ -51,6 +53,3 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 | № | Иә | Орнату мүмкін емес | Ақысыз | Уақыт нақты мәніндегі шот ұсыну: Қолжетімді емес </br>Шығыс нақты мәніндегі шот ұсыну түрі: Ақысыз |
 | Иә | № | Ақылы | Орнату мүмкін емес | Уақыт нақты мәніндегі шот ұсыну: Ақылы </br>Шығыс нақты мәніндегі шот ұсыну түрі: Қолжетімді емес |
 | Иә | № | Ақысыз | Орнату мүмкін емес | Уақыт нақты мәніндегі шот ұсыну: Ақысыз </br> Шығыс нақты мәніндегі шот ұсыну түрі: Қолжетімді емес |
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

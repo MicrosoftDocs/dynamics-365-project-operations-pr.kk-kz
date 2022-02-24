@@ -2,6 +2,8 @@
 title: Project Service Automation бағдарламасының 16 жаңарту шығарылымы 3-нұсқасындағы жаңалықтар немесе өзгерістер
 description: Бұл бөлімде Project Service Automation бағдарламасының 16-жаңарту шығарылымының 3 нұсқасындағы қолжетімді мүмкіндіктер мен түзетулер берілген.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/18/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f577cd8407b0f12607c56891eeadb1071f659cff67bd9f086a6b3bbec6376e9d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 882ee6c25e5d88db22e051254c7fd82dc787ab73
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004408"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5143640"
 ---
 # <a name="project-service-automation-update-release-16-v3"></a>Project Service Automation 16 жаңарту шығарылымының 3-нұсқасы
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды.  Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Осы шығарылымды жаңарту үшін, желідегі Dynamics 365 басқару орталығына, жаңартуды орнату үшін шешімдер бетіне өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту](/dynamics365/project-service/upgrade-psa-home-page) бөлімін қараңыз.
+Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды.  Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Осы шығарылымды жаңарту үшін, желідегі Dynamics 365 басқару орталығына, жаңартуды орнату үшін шешімдер бетіне өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту](https://docs.microsoft.com/dynamics365/project-service/upgrade-psa-home-page) бөлімін қараңыз.
 Бұл бөлімде PSA бағдарламасының 16-шы жаңарту шығарылымының 3 нұсқасындағы мүмкіндіктер мен түзетулер берілген. Бұл нұсқа V3.10.6.34 құрылым нөміріне ие және әдетте 2020 жылдың қаңтар айында шыққан өзін-өзі жаңарту мүмкіндігі арқылы қолжетімді.
 
 
@@ -62,6 +64,3 @@ ms.locfileid: "7004408"
 
     -   Бекітілді: Пайдаланушылар 2.X нұсқасынан 3.X нұсқасына дейін жаңартылған кезде, жоба атауына арналған БОС мәні бар жобаларға рұқсат етіледі.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

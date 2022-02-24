@@ -2,16 +2,18 @@
 title: Есеп-шоттардың автоматты жасалуын конфигурациялау
 description: Бұл тақырып есеп-шоттарды автоматты түрде жасау үшін жүйені конфигурациялау жолдары туралы ақпарат береді.
 author: rumant
+manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 894e8f6e4ffbb5f003cdd1f69594e2a1e043b514923de5673d7ba9afaa6894e8
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 295c3b099c9670c930fb2ba2fd208be63a77217f
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992663"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122440"
 ---
 # <a name="configure-automatic-invoice-creation"></a>Есеп-шоттардың автоматты жасалуын конфигурациялау
 
@@ -43,6 +45,3 @@ Dynamics 365 Project Operations жүйесінде орындалатын авт
 
 > [!NOTE]
 > Жиынтық шот жіберу есеп-шот кестелері арқылы конфигурацияланатын жобаның келісімшарт жолдары үшін ғана іске қосылады. Белгіленген бағамен шот ұсыну әдісі бар келісім-шарт жолында кезеңдер теңшелген болуы керек. Уақыт пен материалдық шот ұсыну әдісі бар жобаның келісім-шарт жолы күнтізбелік есеп-шот кестесін қажет етеді. Бұл жобаға негізделген келісім-шарт жолына да қатысты.     
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,9 +2,11 @@
 title: Уақыт және материалдық жобаларға арналған жобаның сату тапсырыстары
 description: Бұл тақырыпта уақыт және материалдық жобалар үшін жобаның сату тапсырыстарын құру жолы түсіндірілген.
 author: Yowelle
+manager: AnnBe
 ms.date: 04/05/2019
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -15,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2019-04-05
 ms.dyn365.ops.version: AX 10.0.2
-ms.openlocfilehash: bec39790b0a41e72b4cc9798d37a01e87029e18335f77d895680aafbb74fac3b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3653a6869dab323be88f1fd0f9fd0f2cb35c456f
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992843"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079645"
 ---
 # <a name="project-sales-orders-for-time-and-material-projects"></a>Уақыт және материалдық жобаларға арналған жобаның сату тапсырыстары
 
@@ -39,6 +41,3 @@ ms.locfileid: "6992843"
 - Жобаның өзіне өтіңіз. "Әрекеттер" тақтасында, **Басқару > Элемент тапсырмалары > Сату тапсырысы** тармағын таңдаңыз. Жоба туралы ақпарат жобадағы сату тапсырысы бойынша әдепкі болады. Егер жоба келісім-шарты бірнеше қаржыландыру көзіне ие болса, тұтынушыны сату тапсырысына белгілеу үшін қаржыландыру көзін таңдауыңыз қажет. Егер жобаның бір ғана қаржыландыру көзі болса, тұтынушы автоматты түрде белгіленеді.
 - **Барлық сату тапсырысы** тізімі бетіне өтіп, жаңа сату тапсырысын жасаңыз. Сізге сату тапсырысы үшін жобаны таңдау қажет болады. Жоба таңдалғаннан кейін, тұтынушы қаржыландыру көзінен белгіленеді немесе жоба келісім-шарты бірнеше қаржыландыру көзіне ие болса, қаржыландыру көзін таңдау қажет болады.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

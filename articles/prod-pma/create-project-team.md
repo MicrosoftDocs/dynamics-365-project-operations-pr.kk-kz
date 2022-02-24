@@ -2,9 +2,11 @@
 title: Жоба тобын жасау
 description: Бұл тақырыпта жоба топтарын жасау және басқару жолы туралы ақпарат берілген.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1ab8ae045852a75a7a39a4eccfa86a114a34273581c98631975bcbfac5a7a343
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 121a007d91c2da4f3b9951901781757b8bcca8fe
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005803"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5270865"
 ---
 # <a name="create-a-project-team"></a>Жоба тобын жасау
 
@@ -33,7 +35,7 @@ ms.locfileid: "7005803"
 
 Жоба менеджері беттегі рөлді таңдай алады, содан кейін талаптарға сай қолжетімді ресурс болса, рөлді толтыру үшін ресурсты резервтеуді таңдаңыз. Жоспарлаудың осы кезеңінде ресурстарды сақтаудың қажеті жоқ екенін ескеріңіз. WBS жасаған кезде, рөлдерді жобаға арналған жинақталған ресурстармен алмастыруға болады. Егер рөлдер WBS ішінде жинақталған ресурстармен ауыстырылса, ресурс орнатылымы автоматты түрде жоба тобының тізімі мен кестесін жаңартады.
 
-[![Рөлдерді де, нақты ресурстарды да қамтитын жоба тобының тізімі.](./media/projectresourcing03-1024x368.jpg)](./media/projectresourcing03.jpg) 
+[![Рөлдерді де, нақты ресурстарды да қамтитын жоба тобының тізімі](./media/projectresourcing03-1024x368.jpg)](./media/projectresourcing03.jpg) 
 
 Жоба менеджерінде жоба үшін ресурсқа тапсырыс берудің әртүрлі нұсқалары бар, мысалы, **Қалған сыйымдылық**, **Толық сыйымдылығы**, **Сыйымдылық пайызы** және **Сағат көрсету**. Ресурс тағайындамасы өзгерген жағдайда, бұл тапсырыс опцияларынан кез келген уақытта бас тартуға болады. Тапсырыстың екі түріне қолдау көрсетіледі:
 

@@ -2,10 +2,12 @@
 title: Жаңа реттелетін нысан пішіндерін қосу (Project Service Automation 2.x)
 description: Бұл тақырыпта Dynamics 365 Project Service Automation 2.x. нұсқасында мүмкіндіктерге, баға ұсыныстарына, тапсырыстарға немесе есеп-шоттарға реттелетін нысан пішіндерін қосу жолы туралы ақпарат берілген.
 author: makk
+manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 3/14/2019
 ms.topic: article
+ms.service: business-applications
 ms.author: makk
 audience: admin
 search.audienceType:
@@ -14,12 +16,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e59e343887ef59ee28bee13346a0c9bf3ad7df27346e2a4f3f02a1e5c08c060f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 31986efed81892cc5722cb8f5e292cde14d8843d
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6995228"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144600"
 ---
 # <a name="add-new-custom-entity-forms-project-service-automation-2x"></a>Жаңа реттелетін нысан пішіндерін қосу (Project Service Automation 2.x)
 
@@ -57,7 +59,7 @@ Dynamics 365 Project Service Automation қондырмасы мүмкіндік,
     - **Менің жоба туралы ақпаратым** пішінін басқарылмайтын шешімнің бір бөлігі ретінде экспорттап, экспортталған шешімнің реттеу .xml файлында **formId** мәнін іздеңіз.
     - Пішін өңдегішінде **Менің жоба туралы ақпаратым** пішінін ашып, келесі суретте көрсетілгендей, URL мекенжайындағы **fromId** параметрінің жанында глобалдық бірегей идентификаторды (GUID) іздеңіз.
 
-    ![URL мекенжайындағы жаңа пішіннің formId мәні.](media/how-to-add-custom-forms-in-v2.0.png)
+    ![URL мекенжайындағы жаңа пішіннің formId мәні](media/how-to-add-custom-forms-in-v2.0.png)
 
 5. msdyn\_/SalesDocument/PSSalesDocumentCustomFormIds.js веб-ресурсын өңдеу арқылы **formId** мәні үшін **msdyn\_ordertype** салыстыруын жасаңыз. Ресурстан кодты алып тастап, оны келесі кодпен ауыстырыңыз.
 
@@ -94,6 +96,3 @@ Dynamics 365 Project Service Automation қондырмасы мүмкіндік,
     ```
 
 6. Реттеулерді сақтап, жариялаңыз.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -2,9 +2,11 @@
 title: Жобаның шығыс санаттарын Finance and Operations және Project Service Automation арасында синхрондаңыз
 description: Бұл тақырыпта жобаның шығыс санаттарын Microsoft Dynamics 365 Finance және Dynamics 365 Project Service Automation арасында синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмалар сипатталады.
 author: Yowelle
+manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -15,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: 52c79f8b641d4b2df3b30964331633f2487402f8f8d229b540f9544c0f848557
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: ed7ca3c85d3f99b7eefe10f4ddec822b9aeb1684
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001123"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079799"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Жобаның шығыс санаттарын Finance and Operations және Project Service Automation арасында синхрондаңыз
 
@@ -56,7 +58,7 @@ Project Service Automation және Finance біріктіру шешімі Proj
 
 Келесі суретте деректердің Project Service Automation және Finance арасында синхрондалу жолы көрсетілген.
 
-[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны.](./media/ProjectExpenseCategoriesFlow.png)](./media/ProjectExpenseCategoriesFlow.png)
+[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны](./media/ProjectExpenseCategoriesFlow.png)](./media/ProjectExpenseCategoriesFlow.png)
 
 ## <a name="project-expense-category-synchronization-from-finance-to-project-service-automation"></a>Жобаның шығыс санатын Finance жүйесінен Project Service Automation бағдарламасына синхрондау
 
@@ -93,7 +95,7 @@ Project Service Automation бағдарламасына синхрондау к�
 
 Келесі суретте деректерді біріктіру қызметіндегі үлгі тапсырмасын салыстыру мысалы көрсетіледі. Салыстыру Finance жүйесінен Project Service Automation жүйесіне синхрондалатын өріс ақпаратын көрсетеді.
 
-[![Жоба шығысының санатын Project Service Automation үлгісімен салыстыру.](./media/ProjectExpenseCategoriesToPSAMapping.jpg)](./media/ProjectExpenseCategoriesToPSAMapping.jpg)
+[![Жоба шығысының санатын Project Service Automation үлгісімен салыстыру](./media/ProjectExpenseCategoriesToPSAMapping.jpg)](./media/ProjectExpenseCategoriesToPSAMapping.jpg)
 
 ## <a name="project-expense-category-synchronization-from-project-service-automation-to-finance"></a>Жобаның шығыс санатын Project Service Automation бағдарламасынан Finance жүйесіне синхрондау
 
@@ -121,7 +123,4 @@ Project Service Automation бағдарламасына синхрондау к�
 > [!NOTE]
 > Картада Project Service Automation бағдарламасынан Finance бағдарламасына синхрондалатын өріс туралы ақпарат көрсетілген.
 
-[![Project Service Automation бағдарламасын және Finance бағдарламасының үлгісімен салыстыру.](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+[![Project Service Automation бағдарламасын және Finance бағдарламасының үлгісімен салыстыру](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)

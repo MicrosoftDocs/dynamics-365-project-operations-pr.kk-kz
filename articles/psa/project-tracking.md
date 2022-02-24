@@ -2,6 +2,8 @@
 title: Жобаның барысы және құн шығыны
 description: Бұл тақырыпта жоба барысы және құн шығынын бақылау туралы ақпарат берілген.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 08/21/2020
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8bde19fbf1dd9f0c760455ecb7f7f2bd14a358d441bf024ec0cdefa42866f53e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 0b69cee49e028b98bbb32e4a7e7aedf5479527dc
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6987173"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148020"
 ---
 # <a name="project-progress-and-cost-consumption"></a>Жобаның барысы және құн шығыны
 
@@ -96,6 +98,3 @@ Project Service Automation бақылау өлшемдерін есептеу ү
 **Жобаның жалпы күйі** өрісі — бұл жобаның жалпы күйін көрсететін өңделетін өріс. Ол артып келе жатқан қауіпті көрсету үшін жасыл, сары және қызыл сияқты түрлі түсті кодтауды қолданады. **Пікірлер** өрісі жоба менеджеріне күй туралы нақты түсініктемелер енгізуге мүмкіндік береді. **Күйі жаңартылған күн** өрісі өңделмейді және мән күйдің соңғы рет жаңартылған уақытын көрсететін уақыт белгісі болып табылады.
 
 **Кесте өнімділігі** және **Құн өнімділігі** өрістері бақылау күнінен бастап орнатылады. **Талпынысты бақылау** көрінісіндегі түбірлік түйіннің кесте мен құн ауытқуы оң болғанда, осы өрістерді **Ahead** мәніне орната аласыз. Түбірлік түйіннің кесте мен құн ауытқуы теріс болса, оларды **Артында** мәніне орната аласыз.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

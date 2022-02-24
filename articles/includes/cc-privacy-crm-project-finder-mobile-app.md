@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 205a4fbe41637be12970041ff309c0a8d206db513987c4f64610e842183ed781
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: dc45bfd6fefaa51a4a540d694cb4ba07c5058a2a
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004818"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4069858"
 ---
 Project Finder Mobile бағдарламасын қосумен ұйымдағы пайдаланушыларға жоба жұмысын көру және жұмысқа тіркелу мүмкіндігін бересіз. Сонымен қатар, пайдаланушылар біліктіліктерін көріп жаңарту үшін Project Finder бағдарламасымен жұмыс істей алады. Project Finder Mobile бағдарламасы Жоба қызметі параметрлерін орнатумен, ресурстарға көрінетін Ресурс талаптары мәнін орнатумен және ресурс төлсипаттарын Иә күйіне орнатумен жаңарту мүмкіндігін береді. Осы төлсипаттар мәнін Жоқ күйіне өзгерту осы функцияны өшіреді.  
   

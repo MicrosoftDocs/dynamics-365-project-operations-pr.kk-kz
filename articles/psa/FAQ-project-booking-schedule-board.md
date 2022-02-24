@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 513f7fe75cfb7b1658b4be71ed0a17da7b64a1023992e1dada9adca8f0dbf21e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d33786a5d0a2485a06d174eb7afcbaaa2f337cf6
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6987623"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5992973"
 ---
 # <a name="create-a-project-booking-from-the-schedule-board"></a>Кесте тақтасынан жоба тапсырысын жасау
 
@@ -43,7 +43,7 @@ ms.locfileid: "6987623"
 
 1.  Кесте тақтасында бұл ресурс **Ашық талаптар** қойыншасында көрсетіледі. Көптеген ашық талаптарыңыз болса, торда баған сүзгілерін пайдалану керек болуы мүмкін. 
 
-    ![Кесте тақтасында "Талаптар" қойыншасын ашу.](media/FAQ-Project-Booking-Schedule-Board-1.png "Тапсырыстар мен тағайындаулар кестесі скриншоты")
+    ![Кесте тақтасында "Талаптар" қойыншасын ашу](media/FAQ-Project-Booking-Schedule-Board-1.png "Тапсырыстар мен тағайындаулар кестесі скриншоты")
 
 2. Талапты таңдаңыз. Осы кезде таңдалған жолдың жоғарғы жағында **Қолжетімділікті табу** қойыншасы пайда болады.
  
@@ -53,7 +53,7 @@ ms.locfileid: "6987623"
 
     **Тіркеу** параметрін таңдау ресурсты жоба тобына тіркейді.
 
-![Ресурсқа тапсырыс беру тақтасын жасау.](media/FAQ-Project-Booking-Schedule-Board-6.png "")
+![Ресурсқа тапсырыс беру тақтасын жасау](media/FAQ-Project-Booking-Schedule-Board-6.png "")
  
 
 ## <a name="book-from-the-primary-requirement"></a>Негізгі талаптан тіркеу
@@ -62,7 +62,7 @@ ms.locfileid: "6987623"
 
 1. Ресурсты негізгі талаппен бірге тіркеу үшін, кесте тақтасынан **Жоба** қойыншасын таңдаңыз. Көптеген жобалар болса, **Жоба** бағанында баған сүзгісін пайдалану қажет болуы мүмкін.
 
-   ![Кесте тақтасындағы "Баған" сүзгілері.](media/FAQ-Project-Booking-Schedule-Board-2.png "Тапсырыстар мен тағайындаулар кестесі скриншоты")
+   ![Кесте тақтасындағы "Баған" сүзгілері](media/FAQ-Project-Booking-Schedule-Board-2.png "Тапсырыстар мен тағайындаулар кестесі скриншоты")
 
 2. Атауы жоба атауы болып табылатын және ұзақтығы нөлге (0) тең талапты таңдаңыз.
 

@@ -2,9 +2,10 @@
 title: Dynamics 365 Project Service Automation деген не?
 description: Project Service бағдарламасына кіріспе және шолу
 author: stsporen
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
-- intro-internal
 ms.date: 9/23/2019
 ms.topic: article
 ms.author: ruhercul
@@ -17,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 06894a64e4d96ec14799b528ff17b92fbb0d36ba8fdbc9b58abb892563e822b5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: a78d8a2085821d6ba44750cfdba909c2c38b42ff
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7000268"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150540"
 ---
 # <a name="what-is-dynamics-365-project-service-automation"></a>Dynamics 365 Project Service Automation деген не?
 
@@ -46,10 +47,10 @@ Project Service Automation (PSA) бағдарламасы ұйымдарға б�
 ## <a name="whats-new-in-psa"></a>PSA жаңалықтары
 Ең жаңа жаңартуларды хабарлау үшін топ қолданылады! Жақсартулардан пайдаланушы интерфейсі, ақауларды түзету және маңызды жаңа функциялар мен мүмкіндіктерді қосуға дейінгі ауқымды қамтиды. Сіз сұрадыңыз; біз тыңдадық.
 
-Ең жаңа кеңейтімдер мен қосымшаларды көру үшін, [2019 жылдың қазан айында шыққан шығарылым жазбаларын](/dynamics365-release-plan/2019wave2/index) қараңыз.
+Ең жаңа кеңейтімдер мен қосымшаларды көру үшін, [2019 жылдың қазан айында шыққан шығарылым жазбаларын](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/index) қараңыз.
 
 ### <a name="in-development"></a>Әзірленуде
-Жақын уақытта жоспарланған ақпаратты көру үшін, [Dynamics 365: 2020 шығарылым толқынының 1-жоспарын](/dynamics365-release-plan/2020wave1/index) қараңыз.
+Жақын уақытта жоспарланған ақпаратты көру үшін, [Dynamics 365: 2020 шығарылым толқынының 1-жоспарын](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/index) қараңыз.
 
 ## <a name="get-help-with-psa-version-3x"></a>PSA бағдарламасының 3.x нұсқасы туралы анықтама алу
 Орындалуын жоспарлауға көмектесетін ресурстарды іздеу керек пе? Осы жүктеп алынатын нұсқауларды тексеріңіз.
@@ -79,12 +80,9 @@ Project Service Automation (PSA) бағдарламасы ұйымдарға б�
 
  [Ресми құжаттар (бағдарлама нұсқасы 2.x немесе 1.x)](../psa/white-papers.md)
 
- [Әзірлеушілерге ескертпе (бағдарламаның 2.x нұсқасы)](../psa/developer-guides/add-custom-qoi-forms-v2.x.md)
+ [Әзірлеушілерге арналған жазбалар (2.x бағдарлама нұсқасы)](../psa/developer-guides/add-custom-qoi-forms-v2.x.md)
 
  ## <a name="watch-a-2-minute-overview-video"></a>2 минуттық шолу бейнесін қараңыз
- <a name="heroArea"></a> [![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo."](https://go.microsoft.com/fwlink/p/?LinkId=799457)
+ <a name="heroArea"></a> [![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo")](https://go.microsoft.com/fwlink/p/?LinkId=799457)
 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

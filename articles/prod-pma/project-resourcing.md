@@ -2,26 +2,28 @@
 title: Жоба ресурстарының басты беті
 description: Бұл бөлімде жоба ресурстары туралы ақпарат берілген.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
 ms.reviewer: josaw
 ms.search.scope: Core, Operations
-ms.custom: intro-internal
+ms.custom: 82022
 ms.assetid: bd2fb375-84c6-428a-8e54-f0f719045898
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: ea2a34ed9e0bf5b28649a53db88976ec56aaf10d1c80af99cb0856250873a2ab
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3ecf8ee588de9ec41e0b4f384110f912759ed53f
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7007333"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079646"
 ---
 # <a name="project-resourcing-home-page"></a>Жоба ресурстарының басты беті
 
@@ -38,7 +40,7 @@ ms.locfileid: "7007333"
 - Жобаның бүкіл жарамдылық кезеңіне қажетті ресурстардың санын бағалаңыз.
 - Бастапқы ресурс тағайындамаларын қолдана отырып, жұмыс декомпозициясының құрылымын жасау (WBS) жобалаңыз.
 
-[![Жобаның жарамдылық кезеңі.](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
+[![Жобаның жарамдылық кезеңі](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
 
 Жоба жоспарлау барысында жоспарланған ресурстарды жинақталған ресурстармен ауыстыруға болады. Жоба менеджері сонымен бірге жобаның кез келген кезеңінде ресурстарды резервтеуді жаңарта алады.
 
@@ -49,10 +51,7 @@ ms.locfileid: "7007333"
 - [Жаңа жобаны жасау](create-new-project.md)
 - [Рөлге негізделген бағаларды орнату](set-up-role-based-pricing.md)
 - [Жоба тобын жасау](create-project-team.md)
-- [Ресурс сыйымдылығын синхрондау](synchronize-resource-capacity.md)
+- [Ресурс мүмкіндігін синхрондау](synchronize-resource-capacity.md)
 - [Жоба ресурстарын жоспарлау өнімділігі](project-scheduling-performance.md)
 - [Жұмыс декомпозициясының құрылымы үлгілерінде рөлдер орнату](set-up-roles-wbs-template.md)
 - [Жоспарланған ресурстарға арналған ресурстарды орындау](resource-fulfillment-planned-resources.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

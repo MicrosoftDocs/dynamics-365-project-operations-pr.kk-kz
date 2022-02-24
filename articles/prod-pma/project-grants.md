@@ -2,9 +2,11 @@
 title: Жоба гранттары
 description: Бұл тақырыпта грантты құру немесе өзгерту жолы туралы түсіндіріледі.
 author: RadhikaRS
+manager: AnnBe
 ms.date: 04/22/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: c58a051b8129cadbde491751a946b75a75cb85118c7f0c7d25a06d322ffea596
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 89801696d6a2924d78c85f6e9b4281409222dbb0
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6995768"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079841"
 ---
 # <a name="project-grants"></a>Жоба гранттары
 
@@ -69,7 +71,7 @@ ms.locfileid: "6995768"
 1. **Жобаны басқару және есепке алу** \> **Гранттар** \> **Гранттар** тармағына өтіңіз.
 2. **Жаңа** \> **Гранттан көшіру** тармағын таңдаңыз.
 3. Жаңа грант үшін әріптен және саннан тұратын идентификатор және атау енгізіп, содан кейін **OK** түймешігін басыңыз.
-4. Грант туралы мәліметтер бетінде көшірілген грант туралы мәліметтерді қарап шығыңыз және қажетті кез келген өзгертулерді енгізіңіз. Беттегі өрістердің көбісі қосымша болып табылады.
+4. Грант туралы мәліметтер бетінде көшірілген грант туралы мәліметтерді қарап шығыңыз және қажетті кез-келген өзгертулерді енгізіңіз. Беттегі өрістердің көбісі қосымша болып табылады.
 
 ## <a name="view-or-modify-grant-details"></a>Грант туралы мәліметтерді қарау немесе өзгерту
 
@@ -77,6 +79,3 @@ ms.locfileid: "6995768"
 2. Өзгерту үшін грантты таңдаңыз.
 3. Әрекеттер тақтасындағы **Грант** қойыншасында **Сақтау** тобынан **Өңдеу** пәрменін таңдаңыз.
 4. Грант туралы мәліметтерді қарап шығып, қажетті барлық өзгертулерді енгізіңіз.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

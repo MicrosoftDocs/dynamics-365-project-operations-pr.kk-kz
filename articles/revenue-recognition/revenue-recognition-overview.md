@@ -2,17 +2,18 @@
 title: Табысты тануға шолу
 description: Бұл тақырыпта Project Operations бағдарламасындағы табысты тану туралы ақпарат берілген.
 author: sigitac
+manager: Annbe
 ms.date: 11/16/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.custom: intro-internal
-ms.openlocfilehash: 3d2fcf434a5086595e40f50afc2366eb806168085ae9212b5d25e3e9bd02e2c6
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 6844f4c5d4cda8a6a901b0302448f70f4c597f5d
+ms.sourcegitcommit: 2d399bc9d07807626f0d6b2d0cf304240c47591c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6988658"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "4531476"
 ---
 # <a name="revenue-recognition-overview"></a>Табысты тануға шолу
 
@@ -59,6 +60,3 @@ Dynamics 365 Project Operations бағдарламасында табысты т
 [Табыс болжамдарын басқару](rev-rec-completed-contract-method.md)
 
 [Әдістерді аяқтау құны](cost-complete-methods.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,17 +2,19 @@
 title: 2021 жылғы қаңтардағы жаңалық - ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations
 description: Бұл тақырыпта ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations шығарылымының 2021 жылғы қаңтардағы сапалық жаңартулары туралы ақпарат берілген.
 author: sigitac
+manager: tfehr
 ms.date: 01/13/2021
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 9d54d5fed6e8ec1535ad798073ac8a1eec36e87d1dbba4cc4acd94d8bbdc5157
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 24a6f3b49b9c67b7c2d97461ab0f23a9a704dbc7
+ms.sourcegitcommit: ef7d498bf80b0bcc1245dc42f30c410c31f891bb
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008098"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "4958927"
 ---
 # <a name="whats-new-january-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылғы қаңтардағы жаңалық - ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations
 
@@ -86,7 +88,4 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 ## <a name="regulatory-updates"></a>Нормативтік жаңартулар
 
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
