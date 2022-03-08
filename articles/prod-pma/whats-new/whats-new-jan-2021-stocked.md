@@ -9,12 +9,12 @@ ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: ce1c83e1e238d7919c38d2babea622ca59de86d3
-ms.sourcegitcommit: ef7d498bf80b0bcc1245dc42f30c410c31f891bb
+ms.openlocfilehash: 82787d13c6c2e662841a4f8eebe5638933f0958d
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "4958655"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5288055"
 ---
 # <a name="whats-new-or-changed-in-project-operations-january-2021-for-stockedproduction-based-scenarios"></a>2021 жылдың қаңтар айындағы қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations жаңалықтары немесе өзгерістері
 
@@ -144,4 +144,7 @@ _**Келесіге қолданылады:** қосалқы/өндіріске 
 | Сапар және шығыс                  | [525106](https://fix.lcs.dynamics.com/Issue/Details/?bugId=525106) | Project Operations бағдарламасында Dataverse жүйесіндегі компанияаралық тапсырмалары бар уақыт жасалмайды немесе бекітілмейді.                                                                                                                                                                                             |
 
 ### <a name="regulatory-updates"></a>Нормативтік жаңартулар
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ, LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

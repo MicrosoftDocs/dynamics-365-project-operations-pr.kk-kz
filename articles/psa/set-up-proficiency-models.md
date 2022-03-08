@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 954fba6a9e52935ae11b52520109fa44301d45c1
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 2d13d5bbfd43ef88ec2f285357ee26a2a87db870
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5146760"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122981"
 ---
 # <a name="set-up-proficiency-models-project-service"></a>Тиімділік үлгілерін орнату (Project Service)
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -51,5 +49,5 @@ ms.locfileid: "5146760"
   
 5.  Экранның астыңғы оң бұрышында **Сақтау** түймесін басыңыз.  
   
-### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
  [Ресурстарды реттеу](../psa/set-up-resources.md)

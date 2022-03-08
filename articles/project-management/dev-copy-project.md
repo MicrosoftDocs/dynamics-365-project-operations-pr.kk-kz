@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 87696b41db20e9ec70270c850d9acfe05df8cd84
-ms.sourcegitcommit: d5004acb6f1c257b30063c873896fdea92191e3b
+ms.openlocfilehash: cc17df0c73b276048f7c4b04bd9dc6644e828dc0
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "5045016"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5949821"
 ---
 # <a name="develop-project-templates-with-copy-project"></a>Copy Project көмегімен жоба үлгілерін жасау
 
@@ -44,7 +44,7 @@ Dynamics 365 Project Operations бағдарламасы жобаны көшір
 - **{"clearTeamsAndAssignments":true}**: интернетке арналған жобаның әдепкі әрекеті және барлық тапсырмалар мен топ мүшелерін жояды.
 - **{"removeNamedResources":true}** Project Operation бағдарламасына арналған әдепкі әрекет және тағайындауларды жалпы ресурстарға қайтарады.
 
-Әрекеттердегі әдепкі параметрлер туралы ақпарат алу үшін [Веб API әрекеттерін пайдалану](https://docs.microsoft.com/powerapps/developer/common-data-service/webapi/use-web-api-actions) бөлімін қараңыз
+Әрекеттердегі әдепкі параметрлер туралы ақпарат алу үшін [Веб API әрекеттерін пайдалану](/powerapps/developer/common-data-service/webapi/use-web-api-actions) бөлімін қараңыз
 
 ## <a name="specify-fields-to-copy"></a>Көшіру үшін өрістерді көрсетіңіз 
 Әрекет шақырылған кезде, **Copy Project** жоба көшірілгенде қандай өрістер көшірілетінін анықтау үшін **Жоба бағандарын көшіру** жоба көрінісін қарастырады.
@@ -112,3 +112,6 @@ Dynamics 365 Project Operations бағдарламасы жобаны көшір
     }
 }
 ```
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

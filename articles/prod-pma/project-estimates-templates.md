@@ -1,12 +1,10 @@
 ---
 title: Жоба болжамдарын тікелей Project Service Automation бағдарламасынан Finance and Operations бағдарламасына тікелей синхрондау
-description: Бұл тақырыпта үлгілер және жобаның сағаттық болжамдары мен жобаның шығыс болжамдарын тікелей Microsoft Dynamics 365 Project Service Automation бағдарламасынан Dynamics 365 Finance жүйесіне синхрондау үшін пайдаланылатын негізгі тапсырмалар сипатталады.
+description: Бұл тақырыпта үлгілер және жобаның сағаттық болжамдары мен жобаның шығыс болжамдарын Microsoft Dynamics 365 Project Service Automation бағдарламасынан Dynamics 365 Finance жүйесіне тікелей синхрондау үшін пайдаланылатын негізгі тапсырмалар сипатталады.
 author: Yowelle
-manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -17,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 336de474c859d30d1ec07ae34bf0c3d578faeef1
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: a6955dcd1ebe494e0171c30ac4384089da6a8745
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079788"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5999723"
 ---
 # <a name="synchronize-project-estimates-directly-from-project-service-automation-to-finance-and-operations"></a>Жоба болжамдарын тікелей Project Service Automation бағдарламасынан Finance and Operations бағдарламасына тікелей синхрондау
 
@@ -170,3 +168,6 @@ Project Service Automation және Finance бағдарламасын бірі�
 [![Шығысты болжау транзакцияларының үлгісін салыстыру](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
 
 [![Шығыс болжамдарының үлгісін салыстыру](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

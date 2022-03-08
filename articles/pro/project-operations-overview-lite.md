@@ -1,25 +1,23 @@
 ---
 title: Жеңілдетілген орналастыруға шолу
-description: Бұл тақырып Dynamics 365 Project Operations жүйесін жеңілдетілген орналастыру туралы ақпарат береді.
+description: Бұл тақырыпта Dynamics 365 Project Operations бағдарламасын жеңілдетілген орналастыру туралы ақпарат берілген.
 author: rumant
-manager: Annbe
 ms.date: 11/02/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: b66b3656d1ef5266ede1f62657dbe9b8a63c863a
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
+ms.openlocfilehash: 9f09cb447d314cb172161ad3501a154285d9b636
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365537"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6003818"
 ---
 # <a name="lite-deployment-overview"></a>Жеңілдетілген орналастыруға шолу
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Dynamics 365 Project Operations жүйесіне арналған жеңілдетілген орналастыру түрі өнімге негізделген компаниялар үшін келесі мүмкіндіктерден тұрады:
+Dynamics 365 Project Operations бағдарламасын жеңілдетілген орналастыру түрі жобалық компаниялар үшін келесі мүмкіндіктерге ие:
 
 - Вебке арналған Microsoft Project жобасын жоспарлау
 - Еңбек ресурстарына арналған көпөлшемді баға және шығындар
@@ -37,3 +35,6 @@ Project Operations жүйесінен болжамыңыз келесі тала
 - Жобаларды сатудан шот ұсынуға дейінгі кестелер мен қаржы бойынша ішкі және есеп айырысу жобаларын басқаратын интеграцияланған жүйе.
 - Кәсіпорын ресурстарын жоспарлаудың үшінші тарабы (Project Operations жүйесімен интеграциялау үшін ERP/қаржылық есеп жүйесі.
 - Сатылым салығымен, айырбас бағамымен, шығындарды өтеу және жобадан тыс шығындармен жұмыс істейтін үшінші тарап жүйесі.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

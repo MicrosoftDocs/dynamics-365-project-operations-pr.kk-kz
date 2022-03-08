@@ -2,24 +2,22 @@
 title: Ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations бағдарламасына шолу
 description: Бұл тақырыпта орналастыру түрі, ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі туралы ақпарат беріледі.
 author: rumant
-manager: Annbe
 ms.date: 11/02/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 035ad22d2b51182c11e5c29d35f74f499fc903d5
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
+ms.openlocfilehash: ca8c0894dff1a74b532f8262278fb20400f097c5
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365531"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6001253"
 ---
 # <a name="project-operations-for-resourcenon-stocked-based-scenarios-deployment-overview"></a>Ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations бағдарламасына шолу
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Орналастыру түрі, ресурс/биржадан тыс негіздегі сценарийлерге арналған Dynamics 365 Project Operations жүйесі өнімге негізделген компаниялар үшін келесі мүмкіндіктерден тұрады:
+Орналастыру түрі, ресурс/биржадан тыс негіздегі сценарийлерге арналған Dynamics 365 Project Operations бағдарламасы өнімге негізделген компаниялар үшін келесі мүмкіндіктерден тұрады:
 
 - Вебке арналған Microsoft Project жобасын жоспарлау
 - Еңбек ресурстарына арналған көпөлшемді баға және шығындар
@@ -43,3 +41,6 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 - Жобалар үшін тұтынушыларға арналған шот-фактуралар жасау үшін пішімделген, кәсіпорын деңгейіндегі сатылым салығы мен айырбастау бағамы механизмін талап етіңіз.
 - Халықаралық қаржылық есептілік стандарттарымен (ХҚЕС) үйлесімді жобаны есепке алу және кірісті тану жүйесі.
 - Finance немесе Supply Chain Management бағдарламалары және жобаға негізделген транзакциялар интеграциясы.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

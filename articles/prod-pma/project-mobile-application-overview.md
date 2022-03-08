@@ -2,11 +2,9 @@
 title: Жобалық мобильді бағдарламаларға шолу
 description: Бұл тақырыпта мобильді құрылғыда қолжетімді Microsoft Dynamics 365 Project Timesheet, жобалық уақыт жазбасы және менің кестелерім/кестелер элементтеріне арналған жобалық уақытқа қатысты бағдарламалар туралы жалпы ақпарат қамтылады.
 author: Yowelle
-manager: AnnBe
 ms.date: 05/28/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-02-28
-ms.openlocfilehash: 69f44aa73b33bf55df324a71b67e0a743208b4e4
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: ef63e82a85acc84c67d900d5f8fe94ed8d4478d3
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079649"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5999542"
 ---
 # <a name="project-mobile-applications-overview"></a>Жобалық мобильді бағдарламаларға шолу
 
@@ -49,3 +47,6 @@ Dynamics 365 Project Timesheet мобильді бағдарламасы пай�
 - [Жобалық уақыт жазбасы]( project-time-entry-mobile-workspace.md)
 - [Мобильді құрылғыдағы жобалық кесте](Mobile-timesheets.md)
 - [iOS және Android құрылғысындағы Microsoft Dynamics 365 Project Timesheet мобильді бағдарламасына арналған реттелмелі өрістерді іске асыру](custom-fields-mobile.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

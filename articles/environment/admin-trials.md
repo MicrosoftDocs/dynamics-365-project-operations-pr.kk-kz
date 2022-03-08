@@ -2,16 +2,16 @@
 title: Project Operations сынақ нұсқаларына тіркелу
 description: Бұл тақырып Dynamics 365 Project Operations сынақ нұсқасын қолдану туралы ақпарат береді.
 author: ruhercul
-ms.date: 12/08/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: e40b4ac23241730f5c2db89f0dc674083f9e7abe
-ms.sourcegitcommit: 8f970b46d0303dafaa75fc7d00567d232e1e600b
+ms.openlocfilehash: 1c8ae111acffb45fef1c2e6435849471ae331796
+ms.sourcegitcommit: 05ee415093d152b5b9e1203c3db0ea7f0c5a75a5
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 12/09/2021
-ms.locfileid: "7901624"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "7599220"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Project Operations сынақ нұсқаларына тіркелу 
 
@@ -90,8 +90,7 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 4.  Орналастыруды тексеру үшін тиісті Microsoft Dataverse URL мекенжайын және Finance and Operations бағдарламаларының URL мекенжайларын таңдаңыз.
 
 ## <a name="configuring-dual-write"></a>Қос жазуды конфигурациялау
-- Қосарлы жазу үшін қауіпсіздік рөлдерін конфигурациялау үшін қараңыз [ішінде Жоба операцияларында қауіпсіздік параметрлерін жаңартыңыз Dataverse](resource-provision-new-environment.md).
-- Қосарлы жазу карталарын конфигурациялау үшін қараңыз [Project Operations қос жазу карталарын іске қосыңыз](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
+Тек қосалқы емес материалдарды орналастыру үшін, қос жазу салыстыруларын конфигурациялаңыз. Қосымша ақпарат алу үшін [Project Operations қос жазу салыстыру нұсқалары](resource-dual-write-maps.md) бөлімін қараңыз.
 
 ## <a name="assign-licenses"></a>Лицензияларды тағайындау
 
@@ -105,7 +104,7 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 
    ![Лицензияларды тағайындау](./media/15AssignLicenses.png)
 
-3. **Dynamics 365 Project Operations алдын ала қарау нұсқасы**  лицензиясының таңдалғанын тексеріңіз және **Өзгерістерді сақтау** түймешігін таңдаңыз.
+3. **Dynamics 365 Project Operations алдын ала қарау нұсқасы** лицензиясының таңдалғанын тексеріңіз және **Өзгерістерді сақтау** түймешігін таңдаңыз.
 
 ## <a name="additional-resources"></a>Қосымша ресурстар
 
@@ -120,7 +119,7 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 ### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Егер Finance and Operations бағдарламаларының ортасы үшін ALM немесе ELM қажет болса не істеу қажет?
 
 - Ортаның жарамдылық кезеңін басқарудың толық мүмкіндіктерін қажет ететін серіктестер бойынша жаңа серіктес ұсынысын қарау үшін [Серіктестік сынақ ортасы лицензиясының сұрауы](https://experience.dynamics.com/requestlicense) бөлімін қараңыз. 
-- Ішкі пайдалану құқықтары туралы қосымша ақпарат алғысы келетін серіктестер бойынша [Ішкі пайдалану құқықтарының бұлтты және бағдарламалық жасақтамасының артықшылығы (microsoft.com](https://partner.microsoft.com/membership/internal-use-software) бөлімін қараңыз.
+- Ішкі пайдалану құқықтары туралы қосымша ақпарат алғысы келетін серіктестер бойынша[Ішкі пайдалану құқықтарының бұлтты және бағдарламалық жасақтамасының артықшылығы (microsoft.com](https://partner.microsoft.com/membership/internal-use-software) бөлімін қараңыз.
 
 ### <a name="can-i-extend-my-trial-beyond-30-days"></a>Сынақ мерзімін 30 күннен асыра аламын ба?
 Сынақ мерзімін ұзарту үшін келесі қадамдарды орындаңыз.

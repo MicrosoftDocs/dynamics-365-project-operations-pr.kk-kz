@@ -2,8 +2,6 @@
 title: Есеп беру нұсқаулығы
 description: Бұл тақырыпта есеп беру туралы ақпарат сілтемелері берілген.
 author: kfend
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 02/11/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 10f4a6cbd741008b696ae9dd147307413b5b7936
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: a366528fa54ed999a79f5adbda7ec478e4dda439
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150810"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6007373"
 ---
 # <a name="reporting-guide"></a>Есеп беру нұсқаулығы
 
@@ -41,3 +39,6 @@ ms.locfileid: "5150810"
 
 > [!NOTE]
 > Бұл тақырып болашақтағы құжаттамалық жаңартудан жойылады. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

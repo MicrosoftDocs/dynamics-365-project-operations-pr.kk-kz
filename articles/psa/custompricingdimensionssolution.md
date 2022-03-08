@@ -2,12 +2,10 @@
 title: Баға өлшемдеріне арналған реттелетін шешімдер жасау
 description: Бұл бөлімде реттелетін баға өлшемдерін құру кезінде реттелетін шешімді құру жолы туралы түсіндіріледі.
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3810df9b875d017a8d639b5253b96275571898f3
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: ae7f22b9cb092e956d0f1eaf1f1997c8e97392f4
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144646"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6012323"
 ---
 # <a name="create-custom-solutions-for-pricing-dimensions"></a>Баға өлшемдеріне арналған реттелетін шешімдер жасау
 
@@ -68,3 +66,6 @@ ms.locfileid: "5144646"
 > ![Барлық қатысты құрамдастарды қоспаңыз](media/Do-not-include-required.png)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

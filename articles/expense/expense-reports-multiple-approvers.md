@@ -2,11 +2,9 @@
 title: Шығыс туралы есептер және бірнеше растаушылар
 description: Бұл тақырып бірден көп адамның растауын қажет ететін шығыс туралы есептер жайлы ақпаратпен қамтамасыз етеді.
 author: suvaidya
-manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +13,12 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: cfa8677f38e9468aa3236f587d2e9bd5af839054
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 2acae2d518a02539f01d5498450236999fe609d1e8f26b5f90e18b986b83cab1
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121000"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988433"
 ---
 # <a name="expense-reports-and-multiple-approvers"></a>Шығыс туралы есептер және бірнеше растаушылар
 
@@ -41,3 +39,6 @@ _**Қолданылу аясы:** Ресурс/биржадан тыс негі�
 
     1. Жұмысшының менеджері шығыс туралы есепті растайды.
     2. Бюджет өкімшісі шығыс туралы есепті растайды.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

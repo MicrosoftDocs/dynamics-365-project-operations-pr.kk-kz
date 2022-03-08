@@ -2,18 +2,16 @@
 title: Project Operations бағдарламасын орналастыру - жеңілдетілген
 description: Бұл тақырыпта Project Operations жеңілдетілген орналастыру бағдарламасын орнату амалы туралы ақпарат берілген - проформа-шотын ұсыну мәмілесі.
 author: stsporen
-manager: Annbe
 ms.date: 10/02/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: d4ef905f875ac8af7b2d70c3e64506558bdea1ed
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 14912c612bbf04e232ce712e52330c7bb43eab9f3f8ffa9223a2d2f9ce95eb72
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642190"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991583"
 ---
 # <a name="deploy-project-operations---lite"></a>Project Operations бағдарламасын орналастыру - жеңілдетілген
 
@@ -34,13 +32,16 @@ Project Operations бірнеше орналастыру үлгілерін қо
 
 ## <a name="install-project-operations-to-a-new-cds-environment"></a><a name="new"></a>Project Operations бағдарламасын жаңа CDS ортасына орнату
 
-1. Project Operations лицензиясы бар [Басты немесе Power Platform әкімшісі](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) ретінде [PowerPlatform басқару орталығында](https://admin.powerplatform.com) жаңа CDS ортасын жасаңыз. **CDS дерекқоры** және **Dynamics 365 бағдарламалары** іске қосылғанына көз жеткізіңіз. Қосымша ақпарат алу үшін [Орталарды Power Platform Басқару орталығында жасау және басқару](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center) бөлімін қараңыз.
+1. Project Operations лицензиясы бар [Басты немесе Power Platform әкімшісі](/power-platform/admin/global-service-administrators-can-administer-without-license) ретінде [PowerPlatform басқару орталығында](https://admin.powerplatform.com) жаңа CDS ортасын жасаңыз. **CDS дерекқоры** және **Dynamics 365 бағдарламалары** іске қосылғанына көз жеткізіңіз. Қосымша ақпарат алу үшін [Орталарды Power Platform Басқару орталығында жасау және басқару](/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center) бөлімін қараңыз.
 2. Dynamics 365 бағдарламаларын орналастыру тізімінен **Microsoft Dynamics 365 Project Operations** опциясын таңдаңыз.
 
 
 ## <a name="install-project-operations-to-an-existing-cds-environment"></a><a name="existing"></a>Project Operations бағдарламасын қолданыстағы CDS ортасына орнату
 
-1. Project Operations лицензиясы бар [Басты немесе Power Platform әкімшісі](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) ретінде [PowerPlatform басқару орталығындағы](https://admin.powerplatform.com) Project Operations орнатқыңыз келетін жерге ортаны орналастырыңыз.
-2. Dynamics 365 бағдарламаларын орналастыру тізімінен **Microsoft Dynamics 365 Project Operations** бағдарламасын орнатыңыз. Қосымша ақпарат алу үшін, [Dynamics 365 бағдарламаларын басқару](https://docs.microsoft.com/power-platform/admin/manage-apps) бөлімін қараңыз.
+1. Project Operations лицензиясы бар [Басты немесе Power Platform әкімшісі](/power-platform/admin/global-service-administrators-can-administer-without-license) ретінде [PowerPlatform басқару орталығындағы](https://admin.powerplatform.com) Project Operations орнатқыңыз келетін жерге ортаны орналастырыңыз.
+2. Dynamics 365 бағдарламаларын орналастыру тізімінен **Microsoft Dynamics 365 Project Operations** бағдарламасын орнатыңыз. Қосымша ақпарат алу үшін, [Dynamics 365 бағдарламаларын басқару](/power-platform/admin/manage-apps) бөлімін қараңыз.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

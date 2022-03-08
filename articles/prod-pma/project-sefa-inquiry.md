@@ -2,11 +2,9 @@
 title: Федералдық марапаттарға сұраныс беру шығындарының кестесі
 description: Бұл тақырыпта Федералдық марапаттарға сұраныс беру шығындарының кестесі туралы ақпарат берілген.
 author: velofog
-manager: Ann Beebe
 ms.date: 04/2/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: PSNProjSEFAinquiry
 audience: Application User
@@ -20,12 +18,12 @@ ms.search.industry: public sector
 ms.author: andchoi
 ms.search.validFrom: 2020-4-01
 ms.dyn365.ops.version: 10.0.11
-ms.openlocfilehash: eaf523ab147cbe974fed6e7eab21967404583fe6
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: d0cc3db3fd05fa809f707b15a50380753ac8f9f779f45c13f707321d2b0e0841
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079644"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007243"
 ---
 # <a name="schedule-of-expenditures-of-federal-awards-inquiry"></a>Федералдық марапаттарға сұраныс беру шығындарының кестесі
 
@@ -62,7 +60,7 @@ ms.locfileid: "4079644"
 ## <a name="set-up-grants-to-report-for-the-schedule-of-expenditures-of-federal-awards-inquiry"></a>Федералдық марапаттарға сұраныс беру шығындарының кестесіне есеп беру үшін гранттар құру
 
 1. **Жобаларды басқару және есепке алу \> Гранттар \> Гранттар** тармағына өтіп, бұрыннан бар грантты таңдаңыз.
-2. **Орнату** FastTab қойыншасындағы **Федералды ішкі көмек каталогы** өрісіне CFDA нөмірін тағайындаңыз. Гранттағы CFDA нөмірі есеп беруге арналған CFDA кластерін анықтайды.
+2. **Орнату** FastTab қойыншасындағы **Федералды ішкі көмек каталогы** өрісіне CFDA нөмірін тағайындаңыз. Гранттағы CFDA нөмірі есеп беруге арналған CFDA кластерін анықтайды.
 3. **Байланыс ақпараты** FastTab қойыншасында грант беруші туралы ақпаратты мына қадамдарды орындау арқылы енгізіңіз:
 
     1. **Грант тұтынушысы** өрісіне грант үшін жауапты тұтынушыны енгізіңіз. Бұрыннан бар грант үшін бұл ақпарат енгізілген болуы мүмкін.
@@ -79,8 +77,8 @@ ms.locfileid: "4079644"
 
 ## <a name="exclude-grants-from-sefa-reporting-based-on-the-grant-type"></a>Грант түріне негізделген SEFA есептілігінен гранттарды шығару
 
-1.  **Жобаны басқару және есепке алу \> Орнату \> Гранттар \> Грант түрлері** тармағына өтіңіз.
-2.  **Әдепкі ақпарат** FastTab қойыншасында **Федералдық марапаттардың шығындар кестесінен шығару** құсбелгісін қойыңыз.
+1. **Жобаны басқару және есепке алу \> Орнату \> Гранттар \> Грант түрлері** тармағына өтіңіз.
+2. **Әдепкі ақпарат** FastTab қойыншасында **Федералдық марапаттардың шығындар кестесінен шығару** құсбелгісін қойыңыз.
 3. Өзгерістерді сақтау үшін **Сақтау** пәрменін таңдаңыз.
 
 ## <a name="run-the-schedule-of-expenditures-of-federal-awards-inquiry"></a>Федералдық марапаттарға сұраныс беру шығындарының кестесін жүргізу
@@ -104,3 +102,6 @@ ms.locfileid: "4079644"
 - Федералдық ішкі көмек каталогы
 - Түсімдер
 - Шығындар
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

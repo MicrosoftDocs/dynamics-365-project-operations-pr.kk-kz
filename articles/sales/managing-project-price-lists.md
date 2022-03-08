@@ -2,11 +2,9 @@
 title: Баға ұсынысындағы жобаның бағатізбелерін басқару
 description: Осы тақырып жобаның прайс-лист нысаны туралы ақпаратты ұсынады.
 author: rumant
-manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,18 +15,18 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 5fc8691984e22b2fa35e26b1a7d94cc56c25c26d
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
-ms.translationtype: HT
+ms.openlocfilehash: 8cfabf98f1a38823c777b6e388fbbb65d02877e3cd433069dd3845c292f2b277
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177203"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003913"
 ---
 # <a name="manage-project-price-lists-on-a-quote"></a>Баға ұсынысындағы жобаның бағатізбелерін басқару
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Dynamics 365 Project Operations бағдарламасы Dynamics 365 Sales бағдарламасында прайс-лист нысанын кеңейтеді. 
+Dynamics 365 Project Operations бағдарламасы Dynamics 365 Sales бағдарламасындағы бағатізбе нысанын кеңейтеді. 
 
 ## <a name="key-entities"></a>Негізгі нысандар
 
@@ -120,3 +118,6 @@ Project Operations бағдарламасы жобаларда адам ресу
     1. Ұйымдық бөлімшеге тіркелген шығын бағатізбесі.
     2. Project Operations параметрлеріне бекітілген шығын прайс-лист. Көптеген түрлі валюталардағы шығын прайс-листтерін параметрлерге бекітуге болатындықтан, валюта сәйкестігі жобаның келісімшарттың немесе баға ұсынысының келісімшарт ұйымдық бірлігінің валютасы мен шығын прайс-листінің валютасы арсында орындалады.
     3. Шығындар үшін, өз құны бойынша және құн бойынша үстеме баға белгілеу әдістері шығын бағатізбелеріне қолданылмайды. Транзакция санатының шығындарын орнату үшін, шығын бағатізбелері жолында осы баға белгілеу әдістері пайдаланылса да, жүйе оларды елемейді және әдепкі шығын енгізілмейді.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

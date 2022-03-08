@@ -2,18 +2,16 @@
 title: Жобаға негізделген келісім-шарт жолдарымен жұмыс істеу
 description: Бұл тақырыпта жобаға негізделген келісім-шарт жолдары туралы ақпарат берілген.
 author: rumant
-manager: Annbe
 ms.date: 10/28/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 14d880eccd5547c122ebe37b63022e64fa2fb6fe
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 2072692296308a08756ec3e0f381c792745dd3e2
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181728"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6011513"
 ---
 # <a name="work-with-projectbased-contract-lines"></a>Жобаға негізделген келісім-шарт жолдарымен жұмыс істеу
 
@@ -57,3 +55,6 @@ Dynamics 365 Project Operations бағдарламасындағы жобаға 
 | C1       | CL2           | P1      | №           | Иә             | №          | Жарамды           | Р1 жобасы бойынша уақыт пен ақы CL1 жолына қосылған. P1 жобасындағы шығыс CL2 жолына қосылған. </br>   Әрбір келісім-шарт жолына қосылатын жерде ешқандай қабаттасу жоқ, сондықтан ол жарамды болып табылады.  |
 | C1       | CL1           | P1      | Иә          | Иә             | Иә         | Жарамсыз       | Ережені бұзады. Р1 жобасы бойынша уақыт, шығыс пен ақы екі келісім-шарттың жолдарында қамтылған.                                                                                               |
 | CL2      | CL2           | P1      | Иә          | Иә             | Иә         | Жарамсыз       | Ережені бұзады. Р1 жобасы бойынша уақыт, шығыс пен ақы екі келісім-шарттың жолдарында қамтылған.                                                                                               |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

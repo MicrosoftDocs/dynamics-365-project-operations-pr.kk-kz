@@ -1,21 +1,21 @@
 ---
-title: Демо деректерді Finance бұлт қызметтеріне орналастырылған ортаға қолдану
+title: Project Operations демо деректерін Finance бұлт қызметтеріне орналастырылған ортаға қолдану
 description: Бұл тақырып Project Operations демо деректерін Dynamics 365 Finance бұлт қызметтеріне орналастырылған ортаға қалай қолдануға болатындығын түсіндіреді.
 author: sigitac
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: a7cdbd2847ce45972aadd0d1a2d4f26270727ad9
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
+ms.openlocfilehash: b9af6c71b61840f4ffdf2892d8e7e5bbf0f8df67
+ms.sourcegitcommit: 91ad491e94a421f256a378b0f4b26ed48c67bc93
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365245"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "4096629"
 ---
-# <a name="apply-demo-data-to-a-finance-cloud-hosted-environment"></a>Демо деректерді Finance бұлт қызметтеріне орналастырылған ортаға қолдану
+# <a name="apply-project-operations-demo-data-to-a-finance-cloud-hosted-environment"></a>Project Operations демо деректерін Finance бұлт қызметтеріне орналастырылған ортаға қолдану
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 

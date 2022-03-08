@@ -2,11 +2,9 @@
 title: Төлем алғаннан кейін төленетін жеткізуші төлемдерін орнату және пайдалану
 description: Бұл тақырыпта тұтынушы төлемдеріне негізделген, сатушының ішінара төлемдерін шығара алу үшін төлем алғаннан кейін төлеу (PWP) шарттарын жасау жолы туралы түсіндіріледі.
 author: RadhikaRS
-manager: AnnBe
 ms.date: 03/30/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: e872c4a2d35cef4cddc6851615c6c4d73b4e9d9a
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 9976dadf57f1c84bf3f295ff3c8359c16e4849a3bf887f8bd33e46a04e2a5952
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079639"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008863"
 ---
 # <a name="set-up-and-use-pay-when-paid-vendor-payments"></a>Төлем алғаннан кейін төленетін жеткізуші төлемдерін орнату және пайдалану
 
@@ -80,3 +78,6 @@ ms.locfileid: "4079639"
 2. **Сатушының төлем алынған кезде төлеу есеп-шоты** бетіндегі іздеу өрісіне қарап шығу керек сатушы есеп-шотын табу үшін мәндерді енгізіп, содан кейін **Іздеу** пәрменін таңдаңыз.
 3. **Сатушы есеп-шотының жолдары** FastTab қойыншасынан өзгерту керек жолдарды таңдаңыз.
 4. **Төлем алынған кезде төлеу** жағдайлары есеп-шот жолына сәйкес келсе, **Сатушы төлемін шығару** пәрменін таңдаңыз. **Төлем алынған кезде төлеу** опциясы өшіріледі және **Төлеуге дайын** өрісінің мәні **Иә** күйіне өзгертіледі.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

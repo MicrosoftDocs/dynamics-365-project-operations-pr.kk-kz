@@ -2,18 +2,16 @@
 title: Кезең түрлері
 description: Бұл тақырып табыс болжамы үшін кезең түрлерін құру жолдары туралы ақпарат береді.
 author: sigitac
-manager: Annbe
 ms.date: 11/16/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6bcd988fbd074c66d64f7e327b4329d3de27e950
-ms.sourcegitcommit: 2d399bc9d07807626f0d6b2d0cf304240c47591c
-ms.translationtype: HT
+ms.openlocfilehash: 487e3de7895ca0752e6c9033c7bb7007ba89301c01e6205b3bc8a7d750724bc9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "4531479"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998783"
 ---
 # <a name="period-types"></a>Кезең түрлері
 
@@ -34,3 +32,6 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 4. Кезең түрінің жазбасын таңдап, кезең түріне арналған кезеңдерді құру үшін **Кезеңдерді құру** пәрменін таңдаңыз. Таңдалған кезең жиілігінің негізінде сізде басталу күнін немесе жасалатын кезеңдер санын көрсету опциясы болуы мүмкін.
 5. Құрылған кезеңдерге шолу жасау үшін **Кезеңдер** параметрін таңдаңыз.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

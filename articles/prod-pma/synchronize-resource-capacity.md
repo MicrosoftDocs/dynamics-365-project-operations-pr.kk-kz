@@ -2,11 +2,9 @@
 title: Ресурс мүмкіндігін синхрондау
 description: Бұл тақырыпта күнтізбелер мен жобалар бойынша ресурстардың мүмкіндігін синхрондау жолы туралы ақпарат берілген.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 006ebbfea42572f17663fab324a20a10321b78f0
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 5f2e9b8e189be0594569e14ebc41c6ed452afd10aba34ea1397b3e3f66cd2e96
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079638"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005623"
 ---
 # <a name="synchronize-resource-capacity"></a>Ресурс мүмкіндігін синхрондау
 
@@ -31,7 +29,7 @@ ms.locfileid: "4079638"
 
 Ресурстарды синхрондау процестері күнтізбе мен негізгі күнтізбеге арналған ақпараттың жобалық ресурстарды жоспарлауға енуіне көмектеседі. Егер күнтізбе өзгертілсе, процестер жоба ресурстарын жоспарлауға қажетті жаңартуларды енгізеді. Бұл процестер өнімділікті жақсартуға көмектеседі, өйткені күнтізбелік ресурстар туралы ақпарат алдын ала синхрондалады. Сондықтан ресурстарды жоспарлау туралы ақпаратты жаңарту тезірек болады. Процестерді бір-бірден емес, топтама ретінде жоспарлауға кеңес береміз. Әйтпесе, біреу ақпарат соңғы синхрондалғанда инклюзивті күндерін ұмытып кету қаупі бар. Егер инклюзивті күндер пайдаланылмаса, күнді синхрондау кезінде бос орындар пайда болуы мүмкін.
 
-![Күнтізбені синхрондау](./media/projectresourcing04-1024x471.jpg)
+![Күнтізбені синхрондау.](./media/projectresourcing04-1024x471.jpg)
 
 ## <a name="synchronize-resource-capacity-roll-ups"></a>Ресурстық сыйымдылықтың жиынтығын синхрондау
 
@@ -48,4 +46,7 @@ ms.locfileid: "4079638"
     | Басталу күні  | Ресурстық сыйымдылықтың жиынтығын синхрондау процесінің басталу күнін енгізіңіз. |
     | Аяқталған күні    | Ресурстық сыйымдылықтың жиынтығын синхрондау процесінің аяқталу күнін енгізіңіз. |
 
-[![Синхрондау процесі](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+[![Синхрондау процесі.](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

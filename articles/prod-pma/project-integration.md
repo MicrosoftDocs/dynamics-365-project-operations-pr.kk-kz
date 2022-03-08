@@ -2,11 +2,9 @@
 title: Microsoft Project Client біріктіруі
 description: Жобаны жоспарлау және жүргізу күрделі болуы мүмкін, сондықтан жоба басқарушылары осы тапсырманы басқаруға көмектесетін құралдарды пайдалануы қажет. Microsoft Project Client бағдарламасымен біріктіру жоба жұмысын бөлу құрылымын басқару және ашуға қолдау көрсетумен қамтамасыз етеді.
 author: Yowelle
-manager: AnnBe
-ms.date: 12/11/2017
+ms.date: 06/16/2021
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjWbsTemplate
 audience: Application User
@@ -18,18 +16,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-04
 ms.dyn365.ops.version: 7.2999999999999998
-ms.openlocfilehash: 732b72d9819fc149c4b2c783b3dc7f7eec3f0393
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 8ef34bc984510f23ab77cc1710c06abbcf80f721703685d696fea28eeaddd732
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079721"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988028"
 ---
 # <a name="microsoft-project-client-integration"></a>Microsoft Project Client біріктіруі
 
 [!include [banner](../includes/banner.md)]
 
-Жобаны жоспарлау және жүргізу күрделі болуы мүмкін, сондықтан жоба басқарушылары осы тапсырманы басқаруға көмектесетін құралдарды пайдалануы қажет. Microsoft Project Client бағдарламасымен біріктіру жоба жұмысын бөлу құрылымын басқару және ашуға қолдау көрсетумен қамтамасыз етеді. Жоба басқарушысы кез-келген өзгерістерді Dynamics 365 Finance жоба жұмысын бөлу құрылымына жариялай алады.
+Жобаны жоспарлау және жүргізу күрделі болуы мүмкін, сондықтан жоба басқарушылары осы тапсырманы басқаруға көмектесетін құралдарды пайдалануы қажет. Microsoft Project Client бағдарламасымен біріктіру жоба жұмысын бөлу құрылымын басқару және ашуға қолдау көрсетумен қамтамасыз етеді. Жоба басқарушысы кез келген өзгерістерді Dynamics 365 Finance жоба жұмысын бөлу құрылымына жариялай алады.
 
 > [!NOTE]
 > Шілде жаңартуын (10.0.4 нұсқасы) пайдаланатын болсаңыз, 4054797 және 4055884 білім қорын орнату қажет.
@@ -127,3 +125,13 @@ Microsoft Project Client бағдарламасы арқылы жаңа жұмы
 8.  Ресурсқа пайдаланылатын **Күнтізбе** опциясын таңдаңыз.
 
 11. **OK** түймешігін басыңыз.
+
+> [!NOTE]
+> Project Client қондырмасы жоба идентификаторы пішіміндегі келесі таңбаларға қолдау көрсетпейді:
+> 
+>   - Астыңғы сызық
+>   - Кезең
+>   - Бос орын
+>   - Қиғаш сызық
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

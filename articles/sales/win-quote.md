@@ -2,24 +2,22 @@
 title: Баға ұсынуды жабу
 description: Бұл тақырыпта Project Operations бағдарламасындағы баға ұсыныстарын жабу туралы ақпарат берілген.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 47804db0144c2b0f9dee2c60518e8aba6fb27473
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 2314444dfdbd4d1a2f38c7de55e2070011e51a86f1e074dd6667d54393c641fe
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124690"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6993428"
 ---
 # <a name="close-a-quote"></a>Баға ұсынуды жабу
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Жобаның баға ұсынысын Ұтқан немесе Ұтылған ретінде жабуға болады. Белсендіру және түзету функцияларына Microsoft Dynamics 365 Project Operations бағдарламасындағы баға ұсыныстарында қолдау көрсетілмейтіндіктен баға ұсынысының жобасын жабуға болады.
+Жобаның баға ұсынысын Ұтқан немесе Ұтылған ретінде жабуға болады. Microsoft Dynamics 365 Project Operations бағдарламасында баға ұсыныстарындағы белсендіру және түзету функцияларына қолдау көрсетілмейтіндіктен, жоба баға ұсынысын жабуға болады.
 
 ## <a name="close-a-quote-as-won"></a>Баға ұсынысын Ұтқан ретінде жабу
 
@@ -43,3 +41,6 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 > [!NOTE]
 > Project Operations бағдарламасында баға ұсынысын Ұтқан немесе Ұтылған деп жабу қолмен жабылғанға дейін ашық болатын Мүмкіндік күйіне әсер етпейді.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

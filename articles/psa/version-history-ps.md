@@ -2,10 +2,9 @@
 title: Project Service 3.x үшін шығарылымды жаңарту кестесі
 description: Бұл тақырыпта қолжетімді және алдағы Dynamics 365 Project Service Automation шығарылымдары туралы ақпарат берілген.
 ms.custom: dyn365-projectservice
-ms.date: 12/07/2020
+ms.date: 10/04/2021
 ms.reviewer: kfend
 ms.prod: ''
-ms.service: project-operations
 ms.suite: ''
 ms.tgt_pltfrm: ''
 ms.topic: article
@@ -15,7 +14,6 @@ author: kfend
 ms.assetid: ''
 caps.latest.revision: 42
 ms.author: rumant
-manager: annbe
 search.audienceType:
 - admin
 - customizer
@@ -24,12 +22,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 05111b51d482493a8c8a1d9c9da44d6cd95fc8d2
-ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
+ms.openlocfilehash: 71cb8d0d9111e84bbd85dd116ce39465081f1653
+ms.sourcegitcommit: 95c0a30142fbacfd0c2ef63f42066f3a3534b832
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/04/2021
-ms.locfileid: "5981390"
+ms.lasthandoff: 11/08/2021
+ms.locfileid: "7773597"
 ---
 # <a name="update-release-schedule-for-project-service-3x"></a>Project Service 3.x үшін шығарылымды жаңарту кестесі
 
@@ -39,36 +37,38 @@ ms.locfileid: "5981390"
 
 | Шешім  | Ең соңғы нұсқа |
 |-------|----|
-| Project Service Automation    | 3.10.52.77-көше |
-| Project Service Automation жұмыс үстелінің қосылатын модулі                | 3.15-көше          |
+| Project Service Automation    | 3.10.58.120 |
+| Project Service Automation жұмыс үстелінің қосылатын модулі                | 3.15          |
 
 Project Service жаңартулары туралы ақпарат алу үшін [Dynamics 365 шығарылым жоспарлары](/dynamics365/release-plans/) тақырыбын қараңыз. 
 
 | Станция  | Өңір | Ағымдағы нұсқа | Келесі нұсқа |  Жоспарланған күн
 | :---   | :---   | :---   | :---   |:---   |         
 |<strong>1-станция</strong> | |  |  | |
-| | <i>Бірінші шығарылым</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 28 мамыр, 2021
+| | <i>Бірінші шығарылым</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 03-желтоқсан, 2021
 |<strong>2-станция</strong> | |  |  | |
-| | <i>Оңтүстік Америка</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 маусым, 2021
-| | <i>Канада</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 маусым, 2021
-| | <i>Үндістан</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 маусым, 2021
-| | <i>Франция</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 маусым, 2021
-| | <i>Біріккен Араб Әмірліктері</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 маусым, 2021
-| | <i>Оңтүстік Африка Республикасы</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 маусым, 2021
-| | <i>Германия</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 маусым, 2021
-| | <i>Швейцария</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 маусым, 2021
+| | <i>Оңтүстік Америка</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10-желтоқсан, 2021
+| | <i>Канада</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10-желтоқсан, 2021
+| | <i>Үндістан</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10-желтоқсан, 2021
+| | <i>Франция</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10-желтоқсан, 2021
+| | <i>Оңтүстік Африка Республикасы</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10-желтоқсан, 2021
+| | <i>Германия</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10-желтоқсан, 2021
+| | <i>Швейцария</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10-желтоқсан, 2021
 |<strong>3-станция</strong> | |  |  | |
-| | <i>Жапония</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 07 мамыр, 2021
-| | <i>Азия-Тынық мұхиты аймағы</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 07 мамыр, 2021
-| | <i>Ұлыбритания</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 07 мамыр, 2021
-| | <i>Мұхит</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 07 мамыр, 2021
+| | <i>Жапония</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12-қараша, 2021
+| | <i>Азия-Тынық мұхиты аймағы</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12-қараша, 2021
+| | <i>Ұлыбритания</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12-қараша, 2021
+| | <i>Мұхит</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12-қараша, 2021
+| | <i>Біріккен Араб Әмірліктері</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12-қараша, 2021
 |<strong>4-станция</strong> | |  |  | |
-| | <i>Европа</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 14 мамыр, 2021
+| | <i>Европа</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 19-қараша, 2021
 |<strong>5-станция</strong> | |  |  | |
-| | <i>Солтүстік Америка</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 21 мамыр, 2021
+| | <i>Солтүстік Америка</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 03-желтоқсан, 2021
 |<strong>6-станция</strong> | |  |  | |
-| | <i>Мемлекеттік мекемелерге арналған қауымдастық бұлты</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 21 мамыр, 2021
-| | <i>Арнайы масштабтау топтары</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 28 мамыр, 2021
+| | <i>Мемлекеттік мекемелерге арналған қауымдастық бұлты</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 03-желтоқсан, 2021
+| | <i>Арнайы масштабтау топтары</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 10-желтоқсан, 2021
+
+
 
 >[!Note]
 > - Мемлекеттік мекемелерге арналған қауымдастық бұлттан (GCC) басқа барлық аймақтардағы күндер келесі автоматты жаңартудың уақытын көрсетеді. GCC ішінде күндер нұсқаның қолжетімділігін көрсетеді; қазіргі уақытта бұл аймақтар үшін автоматты жаңарту жоқ.

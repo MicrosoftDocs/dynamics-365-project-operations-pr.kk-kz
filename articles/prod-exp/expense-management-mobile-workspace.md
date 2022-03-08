@@ -2,8 +2,12 @@
 title: Шығысты басқару мобильді жұмыс кеңістігі
 description: Осы тақырып Шығысты басқару ұялы жұмыс кеңістігі туралы ақпаратпен қамтамасыз етеді. Бұл жұмыс кеңістігі пайдаланушыларға кейіннен шығыс туралы есепке тіркеу үшін түсімді суретке түсіруге және жүктеуге мүмкіндік береді. Тіркелген түсімді пайдаланып, пайдаланушылар шығыс бабын жылдам жасап, шығыс есептерін жасап, басқара алады.
 author: suvaidya
+manager: AnnBe
 ms.date: 12/01/2017
 ms.topic: article
+ms.prod: ''
+ms.service: dynamics-ax-applications
+ms.technology: ''
 audience: Application User
 ms.reviewer: roschlom
 ms.search.scope: Core, Operations
@@ -13,12 +17,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 7eccf5cd234df6ca4fc4c83b581f6c4c22b3396f
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: cc19297131937949fe6f7eed00ee66fb5e3bff13
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993648"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950486"
 ---
 # <a name="expense-management-mobile-workspace"></a>Шығысты басқару мобильді жұмыс кеңістігі
 

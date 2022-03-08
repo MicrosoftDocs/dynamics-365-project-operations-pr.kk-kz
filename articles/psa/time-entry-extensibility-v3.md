@@ -2,8 +2,6 @@
 title: Апта сайынғы уақыт жазбасын реттеу
 description: Бұл тақырыпта ұйымның тәжірибесін қолдайтын реттелетін бизнес ережелерін қолдану жолы туралы ақпарат берілген.
 author: stsporen
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 07/09/2019
@@ -18,14 +16,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a34244884bc81da74ae3bf550bde6f982d04abd3
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: fa2ef927e0234919ee4777f24c60569fb33a8570f6d48be6aef356df4f08a6e7
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149640"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7002293"
 ---
-# <a name="customize-weekly-time-entry"></a>Апта сайынғы уақыт жазбасын реттеу 
+# <a name="customize-weekly-time-entry"></a>Апталық уақыт жазбаларын теңшеу 
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
@@ -132,3 +130,6 @@ Microsoft Dynamics 365 Project Service Automation 3.3 нұсқасында Micro
 
 > [!IMPORTANT] 
 > Қазіргі уақытта TBX беттеріндегі белгілі мәселе жаңарту қосылатын модуль тексеруінен өтпеген кезде пайдаланушыларға ақпаратты түзетуге және Дайын түймешігін қайта таңдауға жол бермейді. Бұл жағдайдың алдын алу үшін шешім ретінде бизнес ережесінің тексерулерін орнатыңыз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

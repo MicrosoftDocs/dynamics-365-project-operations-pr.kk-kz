@@ -2,11 +2,9 @@
 title: Жоба есеп-шоты ұсыныстарының өнімділігі
 description: Бұл тақырыпта жобалық шот-фактура ұсыныстарын жақсарту туралы ақпарат берілген.
 author: Yowelle
-manager: AnnBe
-ms.date: 04/20/2021
+ms.date: 06/16/2021
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ''
 audience: Application User, IT Pro
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 20121-03-05
 ms.dyn365.ops.version: 10.0.18
-ms.openlocfilehash: 1641d5f731029fdbdc16c4b652cc752a583058c6
-ms.sourcegitcommit: 68d52fc983861114e654ffc8d2472b4db9b48981
-ms.translationtype: HT
+ms.openlocfilehash: 8b6df8baf1013720778308ce536b037dec4775f040d2925a47508fb373900f81
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "5920309"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005713"
 ---
 # <a name="project-invoice-proposal-performance"></a>Жоба есеп-шоты ұсыныстарының өнімділігі
 
@@ -46,4 +44,6 @@ ms.locfileid: "5920309"
 3.  Браузерді жаңартыңыз.
 
 > [!NOTE]
-> Шот-фактура ұсынысының өнімділігі есеп айырысу ережелері қосылған немесе бума процестері іске қосылған кезде қолданылмайды.
+> Есеп‑шот ұсынысы өнімділігін төлем ережелері қосылған кезде қолдану мүмкін емес.
+> 
+> Есеп‑шот ұсыныстарын жасау кезіндегі топтама процесі кезінде қосалқы тапсырмалар саны сіз не енгізгеніңізге қарамастан, есеп‑шот ұсынылатын транзакциялары бар келісімшарттар саны негізінде тапсырмаларды максималды санға бөледі. Мысалы, егер сіз топтамада есеп‑шот ұсынысын жасау қосалқы тапсырмалары үшін **3** санын енгізсеңіз және есеп‑шот ұсынылатын транзакциялары бар тек екі келісімшарт болса, тек екі қосалқы тапсырма жасалады.

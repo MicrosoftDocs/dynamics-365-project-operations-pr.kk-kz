@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2450c00bae9eeb31d3b4bb14e6255e0681997672
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 1c52a17d791b5656f13535077e4300b331db71b5
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948155"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123160"
 ---
 # <a name="user-guide-for-project-resource-hub"></a>Project Resource Hub пайдаланушы нұсқаулығы
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -48,7 +46,7 @@ Project Resource Hub бағдарламасы арқылы жолда жұмыс
 ## <a name="install-the-mobile-app"></a>Ұялы бағдарламаны орнату
 Жоба ресурстарының орталығы бағдарламасын пайдалануды бастау алдында құрылғыңызға мобильді бағдарламаны орнатуыңыз керек. 
 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Телефондар мен планшеттерге арналған Dynamics 365 жүйесін орнату](/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets).
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Телефондар мен планшеттерге арналған Dynamics 365 жүйесін орнату](https://docs.microsoft.com/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets).
 
 ## <a name="basic-navigation"></a>Негізгі шарлау
 1.  Мобильді бағдарламаға кіргенде, сіз өзіңіз қатынасатын бағдарламалардың тізімі бар "Бағдарламаларым" бетін көресіз. 
@@ -99,12 +97,9 @@ Project Resource Hub бағдарламасы арқылы жолда жұмыс
 5. Апта шығыстарын енгізуді жалғастырыңыз. Орындап болған кезде барлығы дұрыс болса, **Жіберу** пәрменін түртіңіз. Менеджер шығыстарды қарап шығып растайды.
 
 ## <a name="general-information-on-how-to-use-the-mobile-app"></a>Мобильді бағдарламаны пайдалану әдісі туралы жалпы ақпарат 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Мобильді негіздер нұсқаулығы](/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Мобильді негіздер нұсқаулығы](https://docs.microsoft.com/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
 
-### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
  [Project Service бағдарламасына шолу](../psa/overview.md)   
  [Уақыт, шығындар және бірлескен жұмыс нұсқаулығы](../psa/time-expense-collaboration-guide.md)   
  
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

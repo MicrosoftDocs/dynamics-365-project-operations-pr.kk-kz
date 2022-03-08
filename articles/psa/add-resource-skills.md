@@ -2,6 +2,8 @@
 title: Ресурс біліктіліктерін қосу
 description: Project Service жүйесіндегі ресурстарға біліктіліктерді байланыстыру жолы
 author: JohnPBurrows
+manager: kfend
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -16,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1e7b37c77c7ba688dc33ed382ec7ef610a5dee2d
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 1a11861308f9bda200061880447497fd2c57b32e
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5992757"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079634"
 ---
 # <a name="add-resource-skills-project-service"></a>Ресурс біліктіліктерін қосу (Project Service)
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -43,8 +43,5 @@ ms.locfileid: "5992757"
   
    Келесі қадамда әрбір біліктілікпен кеңесші тиімділігін бағалай алу үшін тиімділік үлгілерін орнатып, жоба талап ететін тиімділікке сәйкестендіруге болады.  
   
-### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
  [Ресурстарды реттеу](../psa/set-up-resources.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

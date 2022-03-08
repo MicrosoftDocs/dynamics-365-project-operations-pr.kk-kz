@@ -2,19 +2,17 @@
 title: Өнімге негізделген келісім-шарт жолдарының құны - жеңілдетілген
 description: Бұл тақырыпта жасау туралы ақпарат берілген
 author: rumant
-manager: Annbe
 ms.date: 10/19/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: a81c972f36179621f0547c24fc53d294485f638c
-ms.sourcegitcommit: 2b74edd31f38410024a01124c9202a4d94464d04
-ms.translationtype: HT
+ms.openlocfilehash: 55f74b016b55945433083e11902003cea99f1aa463264cdd95b0aad389592e20
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4764466"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6997343"
 ---
 # <a name="cost-product-based-contract-lines---lite"></a>Өнімге негізделген келісім-шарт жолдарының құны - жеңілдетілген
 
@@ -30,3 +28,6 @@ Dynamics 365 Project Operations бағдарламасындағы өнімге 
 Өнімге негізделген келісім-шарт жолындағы бірлік құнына ие болу әр сатылым үшін өнімге әртүрлі құн беруге мүмкіндік береді. Әрдайым қажет бола бермегенімен, жеткізуші тарапынан тұтынушыға өнімнің өзіндік құнын төмендетуге болатын сценарийлер бар. Төмендегі сценарийді қарастырыңыз:
 
 Fabrikam Robotics компаниясы Adatum корпорациясының құрастыру жолдарына робот қаруын орнатуда. Fabrikam орнату қызметтерін ұсынады, бірақ роботтандырылған қолдар Trey Research компаниясынан шығарылады. Егер Adatum корпорациясында робот қаруының орнатылуы Trey Research компаниясы үшін жаңа индустрияны ашса, Trey бұл келісім үшін Fabrikam компаниясына арнайы жеңілдік ұсына алады. Бұл жағдайда Fabrikam компаниясы роботтандырылған қолдар үшін өнімге негізделген келісімшарттар жолын жасайды. Осы келісімшарт үшін бірлік құны енгізіледі. Құны Trey Research компаниясының роботтандырылған қолдарының құнынан өзгеше.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

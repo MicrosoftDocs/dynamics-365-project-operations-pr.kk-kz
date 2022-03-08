@@ -8,20 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 75c4b90e47c0b90ed3fea8dce1533057aa6137b9
-ms.sourcegitcommit: df30839484ef278675c5c712af0f7ba66ed9cdd3
+ms.openlocfilehash: ce37c9dd18fd01e599e8766389e42c066e182547
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "5663781"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4177068"
 ---
-# <a name="concepts-unique-to-project-contracts"></a>Жоба келісім-шарттары үшін бірегей түсініктер
+# <a name="project-contracts---key-concepts---lite"></a>Жоба келісім-шарттары - негізгі ұғымдар - жеңілдетілген
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
-Бұл тақырыпта Dynamics 365 Project Operations бағдарламасындағы жоба келісім-шарттарын пайдалануды бастамас бұрын, білуге тиісті негізгі ұғымдар ұсынылған:
+Бұл тақырыпта Dynamics 365 Project Operations бағдарламасында жобаның келісім-шарттарын пайдалануды бастамас бұрын білу керек негізгі түсініктері берілген:
 
 ## <a name="contracting-unit"></a>Келісім-шарт бірлігі
 
@@ -93,6 +91,3 @@ Project Operations келісім-шарттары Dynamics 365 Sales келіс
 - Project Operations келісім-шарттарының өзіндік пішіні мен интерфейс элементтері, бизнес ережелері, плагиндердегі бизнес ережесі және сатылым келісім-шарттарынан өзгеше ететін тұтынушы жағының сценарийлері бар.
 
 Осы себептер бойынша сату келісім-шарты мен жоба келісім-шарттарын бір-бірінің орнына қолдануға болмайды.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

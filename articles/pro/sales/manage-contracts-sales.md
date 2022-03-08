@@ -2,18 +2,16 @@
 title: Жоба келісім-шарттарын басқару
 description: Бұл тақырып жобаға негізделген келісім-шарттарды көру туралы ақпарат береді.
 author: rumant
-manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 441fbc378a423334f45bc65658811ef238515393
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 5e2f182f66bd1f4fe57d19e4bf82525ac8b84c29
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177338"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6003098"
 ---
 # <a name="manage-project-contracts"></a>Жоба келісім-шарттарын басқару
 
@@ -33,3 +31,6 @@ Dynamics 365 Project Operations бағдарламасындағы жоба ке
 2. Басқа сүзілген көріністерді таңдау үшін **Көріністі ауыстырғыш** (көрініс атауының жанындағы ашылмалы көрсеткі) құралын таңдаңыз. Өз көрінісіңізді реттелетін сүзгі шарттарымен жасай аласыз.
 
 Келісім-шарттар осы тізім парағынан немесе мәліметтер бетінен жойылуы немесе жасалуы мүмкін.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -7,16 +7,16 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: c6a40335df89cc6b2bb35e54832140aac6eb9ac6
-ms.sourcegitcommit: 03414a74ddf1f2d63043d734ebdee7485f1aadd2
-ms.translationtype: MT
+ms.openlocfilehash: 28890238f9debb96786a31f66dd9a219f88a5338
+ms.sourcegitcommit: 2f16c2bc7c8350676a6a380c61fffa9958db6a0b
+ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "7679216"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "6293144"
 ---
 # <a name="whats-new-june-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылдың маусым айындағы жаңалықтар - ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
 
-_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
@@ -30,7 +30,6 @@ _**Қолданылады:** ресурс/биржадан тыс негізде
 - [Реттеу сценарийлеріне арналған есеп‑шот ұсынысының жолдарын](../invoicing/correct-project-invoice-proposals.md) жою мүмкіндігі.
 - Тармақталған шығын жолдары [Шығындар туралы есептердің қайта өңделген жаңа мүмкіндіктері](../expense/expense-reports-reimagined.md#new-features) шығын туралы есебіндегі ішкі санат атауларын көрсетеді.
 - Төлем әдісі жаңа шығын жасау кезінде жаңа шығын тақтасында қолжетімді.
-- Жоба кестесі API интерфейстерінің жалпы қолжетімділігі. Бұл жаңа функция тұтынушыларға жоба тапсырмаларында, ресурс тағайындауларында, тапсырма тәуелділіктерінде және жоба тобы мүшесі жазбаларында жасау, жаңарту және жою әрекеттерін бағдарламалық түрде орындауға мүмкіндік береді. Қосымша ақпаратты [Жоспарлау нысандарымен әрекеттерді орындау үшін жоба кестесі API интерфейстерін пайдалану](../project-management/schedule-api-preview.md) бөлімін қараңыз.
 
 ## <a name="project-operations-dual-write-maps-updates"></a>Project Operations қос жазу салыстыруларының жаңартулары
 

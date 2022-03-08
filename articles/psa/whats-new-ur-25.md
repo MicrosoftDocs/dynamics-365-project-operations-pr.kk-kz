@@ -2,8 +2,6 @@
 title: Project Service Automation бағдарламасының 25-жаңарту шығарылымы, 3-нұсқасындағы жаңалықтар немесе өзгерістер
 description: Бұл бөлімде Project Service Automation бағдарламасының 25-жаңарту шығарылымының 3 нұсқасындағы қолжетімді мүмкіндіктер мен түзетулер берілген.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 10/26/2020
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: aabee3fe755e33d2c0f01a96b6f53a68957bc041
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 9d8ac559be2c23396604c61caae83c8a5328869d76218c6d8b3b6a6a6b32c1eb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5143764"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996578"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-25-v3"></a>Project Service Automation бағдарламасының 25-жаңарту шығарылымы, 3-нұсқасындағы жаңалықтар немесе өзгерістер
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
+Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
 Бұл тақырыпта Project Service Automation бағдарламасының 25-жаңарту шығарылымының 3 нұсқасы үшін жаңартылған немесе өзгертілген мүмкіндіктер мен түзетулер көрсетілген. Бұл нұсқада 3.10.43.76 нұсқасының құрылым нөмірі бар және ол 2020 жылдың қазан айындағы өзін-өзі жаңартуы арқылы қолжетімді.
 
@@ -70,3 +68,6 @@ ms.locfileid: "5143764"
 - **Жобаны көшіру: HelperResource болжамдарын басқару** мүмкіндігінен құрылған Null Reference Exception мүмкіндігін шешу үшін қателерді өңдеу жақсартылды.
 - **Уақыт және материалдық шоттың орындалмаған әрекеттері** тармағындағы **Есеп-шот ұсынуға дайын емес** төлем күйін өшірмейді.
 - **Рөл бағасы** және **Каталог элементтері** қойыншасындағы қате белгіленген **Бағалар** түймешігі түзетілді.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

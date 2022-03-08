@@ -2,9 +2,11 @@
 title: Шығысты басқару параметрлері
 description: Келесі параметрлер шығыстарды басқарудағы әрекеттерді басқарады.
 author: KimANelson
+manager: AnnBe
 ms.date: 01/12/2018
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvParameters
 audience: Application User
@@ -14,15 +16,18 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2017-06-30
 ms.dyn365.ops.version: July 2017 update
-ms.openlocfilehash: 41d78726f6d0aa6b5e647dbb359824950cb6ca72
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: af49187a3ad530919376fbfdb5a0fbc288b7c28c
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993737"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4079704"
 ---
 # <a name="expense-management-parameters"></a>Шығысты басқару параметрлері
 
+[!include [banner](../includes/banner.md)]
+
+-----------------------------
 
 Келесі параметрлер шығыстарды басқарудағы жалпы әрекеттерді басқарады.
 
@@ -87,6 +92,3 @@ ms.locfileid: "5993737"
 | <strong>Жіберушіге арналған сыбайлас жемқорлыққа қарсы хабарлама</strong> |                                                                                             Жаңа шығыс туралы есеп жасау кезінде қызметкерге көрсетілетін мәтінді енгізіңіз. Пайдаланушы тілі негізінде көрсетілетін белгілі бір мәтінді енгізу үшін <strong>Аудармалар</strong> түймешігін басыңыз.                                                                                             |
 | <strong>Бекітушіге арналған сыбайлас жемқорлыққа қарсы хабарлама</strong>  |                                                                                             Жаңа шығыс туралы есеп жасау кезінде бекітушіге көрсетілетін мәтінді енгізіңіз. Пайдаланушы тілі негізінде көрсетілетін белгілі бір мәтінді енгізу үшін <strong>Аудармалар</strong> түймешігін басыңыз.                                                                                             |
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

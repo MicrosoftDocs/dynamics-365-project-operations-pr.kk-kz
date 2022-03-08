@@ -2,18 +2,17 @@
 title: Қосалқы/өндіріске негізделген сценарийлерді орналастыруға арналған Project Operations бағдарламасына шолу
 description: Бұл тақырыпта орналастыру түрі, ресурс/өндіріске негізделген сценарийлерге арналған Project Operations жүйесі туралы ақпарат беріледі.
 author: rumant
-manager: Annbe
 ms.date: 11/02/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 7bad4de10a508f0c1aa2cc6bb0c41081f81fb259
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
+ms.custom: intro-internal
+ms.openlocfilehash: 71fd9d3ae30147c3c03202a54f74477a95838eb9
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365534"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6369518"
 ---
 # <a name="project-operations-for-stockedproduction-based-scenarios-deployment-overview"></a>Қосалқы/өндіріске негізделген сценарийлерді орналастыруға арналған Project Operations бағдарламасына шолу
 
@@ -35,7 +34,7 @@ _**Келесіге қолданылады:** қосалқы/өндіріске 
 
 Бұл орналастыру түрі сондай-ақ Dynamics 365 Finance және Dynamics 365 Supply Chain Management бағдарламалары арқылы берілетін функционалдылыққа кеңейтім ұсынады.
 
-Толық жарамдылық кезеңі үшін Dynamics 365 Project Operations жүйесін пайдалану үшін келесі талаптармен қоса осы орналастыру түрін таңдаңыз:
+Толық жарамдылық кезеңі үшін Dynamics 365 Project Operations бағдарламасын пайдалану үшін келесі талаптармен қоса осы орналастыру түрін таңдаңыз:
 
 - Кестелер мен қаржыларға арналған ішкі және есеп айырысу жобалары үшін тауарлық-материалдық құндылықтар мен жұмыс/өндірістік тапсырыстың өзіндік құнын басқаратын жобаны басқарудың кең жүйесі.
 - Ұйымда Dynamics 365 Finance немесе Dynamics 365 Supply Chain және Manufacturing бағдарламалары бұрыннан бар және жобалық транзакцияларды интеграциялау деректерге қолжетімділік пен есеп беру қажеттіліктерін жеңілдетеді.
@@ -43,3 +42,6 @@ _**Келесіге қолданылады:** қосалқы/өндіріске 
 - Жобалар үшін тұтынушыларға арналған шот-фактуралар жасау үшін пішімделген, кәсіпорын деңгейіндегі сатылым салығы мен айырбастау бағамы.
 - Халықаралық қаржылық есептілік стандарттарымен (ХҚЕС) үйлесімді жобаны есепке алу және кірісті тану жүйесі.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: Баға ұсынудың, баға белгілеудің және есеп-шот ұсынуға арналған негізгі нұсқаулық
 description: Бұл тақырыпта Project Service Automation бағдарламасындағы негізгі баға ұсыну, баға белгілеу және шот ұсыну туралы ақпарат берілген.
 author: kfend
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 2/14/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6873dfc1765beb61ebbdcb2a411a0c9979714cef
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 69d80a4dc6377f7da1d0ad273dd9be3c8265214b152e7976c7d0c73e46a7dbd1
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149145"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985598"
 ---
 # <a name="basic-guide-to-quoting-pricing-and-billing"></a>Баға ұсынудың, баға белгілеудің және есеп-шот ұсынуға арналған негізгі нұсқаулық
 
@@ -52,3 +50,6 @@ ms.locfileid: "5149145"
 
 > [!NOTE]
 > Бұл тақырып болашақтағы құжаттамалық жаңартудан жойылады. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

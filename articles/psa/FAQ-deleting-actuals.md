@@ -2,6 +2,8 @@
 title: Мен неліктен Нақты көрсеткіштер нысанынан жазбаларды жоя алмаймын?
 description: Бұл тақырыпта нақты мәндер нысанынан жазбалар неліктен жойылмайтыны туралы ақпарат берілген.
 author: JPBurrows
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 11/6/2018
@@ -16,21 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 434be93cedb4772616b1e6d5cbe15fc715eed19a
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: b9b45e3ae0cd9273af4d2a5cd9cce30502c0aa78
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993108"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4127165"
 ---
 # <a name="why-cant-i-delete-records-from-the-actuals-entity"></a>Мен неліктен Нақты көрсеткіштер нысанынан жазбаларды жоя алмаймын?
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
 Project Service Automation (PSA) бағдарламасы нақты фактілерді жоюға мүмкіндік бермейді, себебі олар жалпы бухгалтерлік сияқты төменгі жүйелерге қаржылық әсерін тигізетін транзакциялар үшін шындық көзі ретінде қызмет көрсетеді. Егер нақты мәндерді жою мүмкін болса, қаржылық есеп беру транзакцияларының тұтастығына күмән келтіруге болады. Тексеру журналын орнату үшін, тұтынушылар өтемақы транзакцияларын жасау үшін журналдарды пайдалануы керек.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

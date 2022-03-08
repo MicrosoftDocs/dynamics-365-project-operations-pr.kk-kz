@@ -2,18 +2,17 @@
 title: Шот жіберу процесіне шолу
 description: Бұл тақырып ресурс/биржадан тыс негіздегі сценарийлер үшін Project Operations жүйесіндегі есеп-шот ұсынудың процестік шолуын ұсынады.
 author: sigitac
-manager: Annbe
 ms.date: 01/29/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: fbc1519b6cbcf231cfa89df8b7843d11a8904e49
-ms.sourcegitcommit: b4298ca4729643c1040ef35dde8c67f829461ce7
+ms.custom: intro-internal
+ms.openlocfilehash: 0eab33c8640f665555cf5ec5b0f188e5af65a493
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "5089265"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6369023"
 ---
 # <a name="invoicing-process-overview"></a>Шот жіберу процесіне шолу
 
@@ -30,3 +29,6 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 [Қолмен проформа-шотын жасауға](../proforma-invoicing/create-manual-proforma-invoice.md) немесе [кезеңдік процесті](../proforma-invoicing/configure-automated-invoice-creation.md) пайдалануға болады. Жоба менеджері [жоба профома-шотын қажетінше реттеп](../proforma-invoicing/manage-proforma-invoice.md), содан кейін растай алады.
 
 Расталған шот-фактура Finance жүйесіндегі **Жобаларды басқару және есеп** модуліне жіберіледі. Жоба бухгалтері жоба шот-фактурасын ұсынады және жаңартады, содан кейін құжатты орналастырып, басып шығарады. Жарияланған шот-фактуралар бас кітапта, сондай-ақ тұтынушы мен жобаның қосалқы кітаптарында тіркеледі.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

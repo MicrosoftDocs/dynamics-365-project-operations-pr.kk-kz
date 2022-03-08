@@ -2,10 +2,8 @@
 title: Бекітілген уақыт және шығыс жазбаларымен жасалған нақты деректерді жаппай түзетулер
 description: Бұл бөлімде егер есеп-шот ұсыну аяқталмаған болса әкімшінің бұған дейін бекітілген уақыт немесе шығыс жазбаларына бірлі-жарым немесе жаппай түзетулер енгізуі жөнінде түсінік беріледі.
 author: rumant
-manager: AnnBe
 ms.date: 04/02/2020
 ms.topic: article
-ms.service: dynamics-ax-applications
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: Core, Operations
@@ -18,12 +16,12 @@ ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
 search.app:
 - ProjectOperations
-ms.openlocfilehash: 063c4d017f5904f09c3c239bfa432a128872e4d7
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 88706946e5c5c59be996640f4c7b37e958c1cf1d9fd14c72c0c6dc854a77dab4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144960"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995408"
 ---
 # <a name="bulk-corrections-of-actuals-created-by-approved-time-and-expense-entries"></a>Бекітілген уақыт және шығыс жазбаларымен жасалған нақты деректерді жаппай түзетулер
 
@@ -64,7 +62,7 @@ ms.locfileid: "5144960"
 
 Мысалы, келесі сызбада «Сомасы» бағанында көрсетілетін дебеттерден тұратын 8,00 шамасы бар екі жол элементі бар. Сонымен қатар «Сомасы» бағанында табысқа жазылатын соманы көрсететін -8,00 шамасы бар екі жол элементі бар. Бұл түзетулер шаманы нөлге келтіреді.
 
-![Нақты байланыстырылған көрініс тізімі](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr/blob/bulk-corrections-actuals-created-by-approved-time-expense-entries.md/time-actuals.png)
+![Нақты байланыстырылған көрініс тізімі.](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr/blob/bulk-corrections-actuals-created-by-approved-time-expense-entries.md/time-actuals.png)
  
 ## <a name="correct-approved-expense-entries"></a>Бекітілген шығыс жазбаларын түзету
 
@@ -89,4 +87,7 @@ ms.locfileid: "5144960"
 
 8. Жоба бетіндегі **Нақты деректер** қойыншасында **Нақты байланыстырылған көрініс** бөлімін қарап шығыңыз. Бастапқы жазбалар мен түзетілген жазбалар көрсетіледі. Төмендегі сызбада шығыс жазбасының бастапқы сомалары және шығы жазбасының тиісті түзетілген сомалары көрсетілген. 
 
-![Шығыстың нақты деректері](https://user-images.githubusercontent.com/60806505/77122219-4cd52900-69fa-11ea-8349-ccd2ffebf640.png)
+![Шығыстың нақты деректері.](https://user-images.githubusercontent.com/60806505/77122219-4cd52900-69fa-11ea-8349-ccd2ffebf640.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

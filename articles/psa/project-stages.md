@@ -2,8 +2,6 @@
 title: Жоба кезеңінің түрлері
 description: Бұл тақырыпта жоба кезеңдері туралы ақпарат берілген.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 06/19/2020
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 61db23e19614f5c3be5c8b46fbf72463705e409c
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: e4f50d12b4f0bf1586d0a5702bcd38b891590bffe0d3f9661d7f5d170877b54e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148110"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996893"
 ---
 # <a name="project-stage-types"></a>Жоба кезеңінің түрлері 
 
@@ -65,3 +63,6 @@ ms.locfileid: "5148110"
 ## <a name="close"></a>Жабу
 
 Жоба бойынша барлық транзакциялар жазылған кезде, жоба менеджері кезеңді **Жабық** күйіне жаңарта алады. Бұл кезде ешқандай транзакцияларды жазу мүмкін емес және жоба тек оқуға арналған күйге орнатылады.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
