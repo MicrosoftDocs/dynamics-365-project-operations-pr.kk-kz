@@ -2,18 +2,16 @@
 title: Қаржылық өлшемнің әдепкі мәндері
 description: Бұл бөлімде қаржылық өлшемнің әдепкі мәндері үшін әдепкі параметрлерді орнату туралы ақпарат берілген.
 author: sigitac
-manager: Annbe
-ms.date: 10/26/2020
+ms.date: 12/14/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 03b9a9028c1610b191db9c1bfb0163adc88bdf3e
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 8c1eb71d13ca7fc59118d15fef7ac914577b3b0e
+ms.sourcegitcommit: fe5610464fdb5be756aa6a6a5b3c9a991dea0ed8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642370"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "7922945"
 ---
 # <a name="financial-dimension-defaults"></a>Қаржылық өлшемнің әдепкі мәндері
 
@@ -21,7 +19,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-Dynamics 365 Project Operations бағдарламасы жобалық қосалқы және бас кітап транзакциялары туралы қосымша мәліметтер беру үшін Dynamics 365 Finance жүйесіндегі [Қаржылық өлшемдер](https://docs.microsoft.com/dynamics365/finance/general-ledger/financial-dimensions) құрылымын пайдаланады.
+Dynamics 365 Project Operations бағдарламасы жобалық қосалқы және бас кітап транзакциялары туралы қосымша мәліметтер беру үшін Dynamics 365 Finance жүйесіндегі [Қаржылық өлшемдер](/dynamics365/finance/general-ledger/financial-dimensions) құрылымын пайдаланады.
 
 Әдепкі қаржылық өлшемдер тапсырыс беруші, жобаны қаржыландыру көзі, аралық кезең, жобаның келісім-шарт жолы немесе жоба бойынша белгіленуі мүмкін.
 
@@ -62,3 +60,15 @@ Dynamics 365 Project Operations бағдарламасы жобалық қоса
 4. Қаржылық өлшемнің әдепкі мәндерін орнатыңыз. Қаржылық өлшемдер әдепкі бойынша тұтынушы тіркелгісіне қатысты болатынын ескеріңіз. Егер жоба бірнеше келісім-шарттық тұтынушылары бар келісім-шарт жолымен байланысты болса, әдепкі қаржылық өлшемдер үшін негізгі тұтынушы пайдаланылады.
 
 Жобаның әдепкі қаржылық өлшемдері **Project Operations біріктіру журналындағы** және байланысты жобалық есеп-шот жолдарындағы уақыт, шығыс және ақы транзакцияларына арналған журнал жолының әдепкі мәндерін орнату үшін пайдаланылады.
+
+## <a name="apply-financial-dimensions-for-project-time-entries"></a>Жоба уақыты жазбалары үшін қаржылық өлшемдерді қолданыңыз
+Жоба уақыты жазбаларына қаржылық өлшемдерді қолдану үшін әдепкі өлшем мәні келесі ретке негізделгенін ескеріңіз:
+
+1. Ресурс
+2. Project
+3. Қаржыландыру көзі
+
+Мысалы, әдепкі өлшем ресурста көрсетілсе, ол жобада көрсетілген әдепкі бойынша қолданылады. Сол сияқты, әдепкі жоба өлшемі қаржыландыру көзінде көрсетілген әдепкі бойынша қолданылады.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

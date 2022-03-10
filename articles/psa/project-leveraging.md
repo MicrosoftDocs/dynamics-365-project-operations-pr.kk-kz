@@ -2,8 +2,6 @@
 title: Сатылымы бойынша болжамдар және жобалар
 description: Бұл тақырыпта сату процесіндегі кесте мен болжамдарды пайдалану жолы туралы ақпарат берілген.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 87dc72b76ec4f88684ef2c702718e1ab631ff936
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 1dac342ead487c50d14f3b2fa39e60314d13b0047b77fe6df8f32dee29b09422
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283915"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995183"
 ---
 # <a name="sales-estimates-and-projects"></a>Сатылымы бойынша болжамдар және жобалар
 
@@ -37,11 +35,11 @@ ms.locfileid: "5283915"
 
 Жобаға негізделген баға ұсыну жолын құрған кезде, жаңа жоба жасауға немесе **Баға ұсыну жолы** бетіндегі бұрыннан бар жобаны байланыстыруға болады. 
 
-> ![Баға ұсыну жолының пішіні](media/project-8.png)
+> ![Баға ұсыну жолының пішіні.](media/project-8.png)
  
 Баға ұсыну жолының мәліметтерінде жаңа жоба жасағанда, жоба үлгілерінің артықшылығын пайдалана аласыз. Жоба үлгілері — бұл стандартты жоба жоспарларын көрсететін үлгілі жобалар және ұйымға тән қаржылық болжамдар. Олар сонымен қатар жоба жоспарларының көшірмелерін және өткен жобалардың болжамдарын ұсына алады.
 
-> ![Баға ұсыну жолы мәліметтері](media/project-9.png)
+> ![Баға ұсыну жолы мәліметтері.](media/project-9.png)
   
 Баға ұсынысынан жоба жасаған кезде, жоба автоматты түрде баға ұсыну жолымен байланыстырылады.
 

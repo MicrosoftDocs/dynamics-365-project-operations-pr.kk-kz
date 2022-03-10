@@ -2,12 +2,10 @@
 title: Бағалар өлшемі ретінде транзакция санатын пайдалану
 description: Бұл тақырыпта транзакция санатын бағалар өлшемі ретінде пайдалану туралы ақпарат берілген.
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,14 +15,17 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0019571a1d37d3b6a503e7221db3c3b51365c236
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 776327ddca9b5013ca05eb4058145f4196e4143509098c82d0f452bc9709b673
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079744"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988872"
 ---
 # <a name="use-transaction-category-as-a-pricing-dimension"></a>Бағалар өлшемі ретінде транзакция санатын пайдалану
+
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 Бұл тақырыпта транзакция санатын бағалар өлшемі ретінде пайдалану жолы туралы ақпарат көрсетілген. Бастамас бұрын, бағалар өлшемі шешімін әлі жасамаған болсаңыз, жаңасын жасауыңыз керек. Егер бағалар өлшемі бойынша шешім бұрыннан бар болса, сол шешімге өзгерістер енгізуге болады. Егер ұйымыңыз үшін жаңа бағалар өлшемі бойынша шешімді жасамаған болсаңыз, [Реттелетін өрістер мен нысандарды жасау](create-custom-fields-entities.md) тақырыбындағы процедураларды орындаңыз.
 
 ## <a name="add-transaction-category-to-forms-and-views"></a>Транзакция санатын формаларға және көріністерге қосу
@@ -50,3 +51,6 @@ ms.locfileid: "4079744"
 2. **Параметрлер** бетіндегі **Сомаға негізделген бағалар өлшемдері** қойыншасында, қойынша торында жазбалардың **Бағалар өлшемдері** нысанында көрсетілетінін ескеріңіз.
 3. **Транзакция санаты** параметрін осы тізімге қосып, **Құнға қолданылатын** және **Сатуға қолданылатын** өрістерін орнатыңыз **Иә** параметріне орнатыңыз.
 4. **Өлшем түрі** өрісінде **Сомаға негізделген** параметрін, содан кейін құн мен сатылымға байланысты **Транзакция санаты** үшін басымдылықты таңдаңыз.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

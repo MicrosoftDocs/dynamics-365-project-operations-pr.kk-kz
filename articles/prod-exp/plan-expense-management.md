@@ -2,11 +2,9 @@
 title: Шығындарды басқаруды конфигурациялау
 description: Бұл мақалада Microsoft Dynamics 365 Finance бағдарламасында шығындарды басқаруды конфигурацияламас бұрын жоспарлау процесі кезінде жасалатын жағдайлар мен шешімдер сипатталған.
 author: KimANelson
-manager: AnnBe
 ms.date: 08/29/2017
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: GlobalCategory, ProjCategory, TrvLocations, TrvParameters, TrvPaymethod, TrvPerDiems
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: db3529597c662a326730cf6a0b855ae865f0dce5
-ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
-ms.translationtype: HT
+ms.openlocfilehash: eca4362b0ff5d37b131e1d96e311aa48ac20397618314936944ba66e458dbdc2
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "4960344"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007468"
 ---
 # <a name="configure-expense-management"></a>Шығындарды басқаруды конфигурациялау
 
@@ -160,3 +158,6 @@ ms.locfileid: "4960344"
 - Саясаттың қолданылу мерзімі қашан аяқталады?
 - Саясат ережесі қандай?
 - Бұл саяси ереженің нәтижесі қандай?
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

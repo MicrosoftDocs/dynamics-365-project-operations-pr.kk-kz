@@ -2,19 +2,17 @@
 title: 2020 жылдың желтоқсан айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations
 description: Бұл тақырыпта қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations шығарылымының 2020 жылғы желтоқсан айындағы сапалық жаңартулары туралы ақпарат берілген.
 author: Yowelle
-manager: Annbe
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: 5aac6b77b0d07a090a071b075711e3dd915e6be4
-ms.sourcegitcommit: 04c446746aad97fc3f4c3d441983c586b918a3a6
-ms.translationtype: HT
+ms.openlocfilehash: 14c31f27c0d8871063b3c6689a70f32201958002b50ac4c721c4e26c3359b631
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "4727984"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008818"
 ---
 # <a name="whats-new-or-changed-in-project-operations-december-2020-for-stockedproduction-based-scenarios"></a>2020 жылдың желтоқсан айындағы қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations жаңалықтары немесе өзгерістері
 
@@ -141,4 +139,7 @@ _Келесіге қолданылады: қосалқы/өндіріске не
 
 ## <a name="regulatory-updates"></a>Нормативтік жаңартулар
 
-Dynamics 365 Finance бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Dynamics 365 Finance бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

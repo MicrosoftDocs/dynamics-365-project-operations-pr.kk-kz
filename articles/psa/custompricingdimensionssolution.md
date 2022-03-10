@@ -15,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ae7f22b9cb092e956d0f1eaf1f1997c8e97392f4
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
-ms.translationtype: HT
+ms.openlocfilehash: 4dea80d8e4645675d3e89e846532ca7c0f292faa328c45938941c50dc15486fc
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6012323"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995273"
 ---
 # <a name="create-custom-solutions-for-pricing-dimensions"></a>Баға өлшемдеріне арналған реттелетін шешімдер жасау
 
@@ -32,7 +32,7 @@ ms.locfileid: "6012323"
 1. **Параметрлер** > **Шешімдер** тармағын таңдап, **Жаңа** опциясын таңдаңыз. 
 2. Шешімді **\<your organization name> бағалау өлшемдері** деп атап, қалған қажет ақпаратты енгізіңіз, содан кейін **Сақтау** түймешігін таңдаңыз.
 
-> ![Баға белгілеу өлшемдеріне арналған реттелетін шешімді жасау](media/Creation-of-custom-pricing-dimension-solution.PNG)
+> ![Баға белгілеу өлшемдеріне арналған реттелетін шешімді жасау.](media/Creation-of-custom-pricing-dimension-solution.PNG)
   
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>Баға өлшемі шешіміне барлық қажет нысандар мен қатысты құрамдастарды қосу
 Баға белгілеу шешіміне Project Service бағдарламасының келесі нысандарын қосу керек болады. Нысандар жаңа баға белгілеу өлшемдері туралы хабардар болуы үшін, схемаға кейбір маңызды өзгерістерді енгізу үшін осы процедурадағы қадамдарды орындаңыз.
@@ -54,16 +54,16 @@ ms.locfileid: "6012323"
 - Рөл бағасы 
 - Уақыт жазбасы 
 
-> ![Баға белгілеу өлшемі шешіміне бұрыннан бар нысандарды қосу](media/Existing-entities-to-PD-solution.png)
+> ![Баға белгілеу өлшемі шешіміне бұрыннан бар нысандарды қосу.](media/Existing-entities-to-PD-solution.png)
 
-> ![Шешім құрамдастарын таңдау](media/Dimension-Components.png)
+> ![Шешім құрамдастарын таңдаңыз.](media/Dimension-Components.png)
 
 > [!NOTE]
 > Таңдалған нысандардың әрқайсысына барлық пішіндер мен көріністерді қосыңыз.
 
 4. Таңдалған нысандарға қандай да бір тәуелді нысандарды қосу сұралған кезде, **Жоқ** түймешігін басыңыз.
 
-> ![Барлық қатысты құрамдастарды қоспаңыз](media/Do-not-include-required.png)
+> ![Барлық қатысты құрамдастарды қоспаңыз.](media/Do-not-include-required.png)
 
 
 

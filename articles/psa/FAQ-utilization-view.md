@@ -2,8 +2,6 @@
 title: Ресурстарға арналған ақылы қолданыс түрін көру
 description: Бұл тақырыпта ресурсты қолдану көрінісі туралы ақпарат беріледі.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/26/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: b07af573bc8d312c45ee4aef50c95942401294fa
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 32dba5acd95c1d192556153240ebd51343112be53aa3db93e5e6f127c2d960e9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285940"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007153"
 ---
 # <a name="view-chargeable-utilization-for-resources"></a>Ресурстарға арналған ақылы қолданыс түрін көру
 
@@ -31,7 +29,7 @@ ms.locfileid: "5285940"
  
 **Project Service ресурстарын қолдану** бетіндегі **Қолданыс көрінісінде** резервтелетін әр ресурсқа арналған ақылы қолданыс түрі көрсетілген. Көрініс кесте тақтасына негізделетіндіктен, көптеген бірдей функцияларды таба аласыз.
 
-> ![Қолданыс көрінісі скриншоты](media/FAQ-utilization-1.png)
+> ![Қолданыс көрінісі скриншоты.](media/FAQ-utilization-1.png)
  
 
 Ақылы қолданыс есептеуі келесідей жұмыс істейді:
@@ -50,7 +48,7 @@ ms.locfileid: "5285940"
 2. Жазбаны ашу үшін ресурсты таңдаңыз. 
 3. **Project Service** қойыншасында, ресурстың мақсатты қолданысын орнатуға болады.
 
-> ![Мақсатты қолданысты орнату үшін Жоба қызметі қойыншасын пайдалану скриншоты](media/FAQ-utilization-2.png)
+> ![Мақсатты қолданысты орнату үшін Project Service қойыншасын пайдалану скриншоты.](media/FAQ-utilization-2.png)
  
 ## <a name="set-target-utilization-on-a-role"></a>Рөлге мақсатты қолданысты орнату
 
@@ -58,7 +56,7 @@ ms.locfileid: "5285940"
 2. Рөлді таңдап, жазбаны ашыңыз. 
 3. Рөлдің мақсатты қолданысын орнатыңыз.
 
-> ![Мақсатты қолданысты орнату үшін Ресурс рөлдерін пайдалану скриншоты](media/FAQ-utilization-3.png)
+> ![Мақсатты қолданысты орнату үшін Ресурс рөлдерін пайдалану скриншоты.](media/FAQ-utilization-3.png)
  
 ## <a name="calculate-chargeable-utilization-for-a-resource"></a>Ресурстың ақылы қолданысын есептеу
 

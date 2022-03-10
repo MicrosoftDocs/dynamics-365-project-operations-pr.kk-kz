@@ -2,8 +2,6 @@
 title: Жоба ресурстарының орталығы бойынша пайдаланушы нұсқаулығы
 description: Project Resource Hub for Project Service соңғы пайдаланушы нұсқаулығы
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1c52a17d791b5656f13535077e4300b331db71b5
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: ac815eb82114c00af712a7ae76e43f28841ac5023be81f97718dc7ce529e1d34
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4123160"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987263"
 ---
 # <a name="user-guide-for-project-resource-hub"></a>Project Resource Hub пайдаланушы нұсқаулығы
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -46,34 +46,34 @@ Project Resource Hub бағдарламасы арқылы жолда жұмыс
 ## <a name="install-the-mobile-app"></a>Ұялы бағдарламаны орнату
 Жоба ресурстарының орталығы бағдарламасын пайдалануды бастау алдында құрылғыңызға мобильді бағдарламаны орнатуыңыз керек. 
 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Телефондар мен планшеттерге арналған Dynamics 365 жүйесін орнату](https://docs.microsoft.com/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets).
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Телефондар мен планшеттерге арналған Dynamics 365 жүйесін орнату](/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets).
 
 ## <a name="basic-navigation"></a>Негізгі шарлау
-1.  Мобильді бағдарламаға кіргенде, сіз өзіңіз қатынасатын бағдарламалардың тізімі бар "Бағдарламаларым" бетін көресіз. 
+1.  Мобильді құрылғы бағдарламасына кіргенде, өзіңіз қатынасатын бағдарламалардың тізімі бар MyApps бетін көресіз. 
 2.  **Жоба ресурстарының хабы** бағдарламасын таңдаңыз.
 
-![Бағдарламаны таңдау](media/chooseApp_1.png "Бағдарламаны таңдау")
+![Бағдарламаны таңдаңыз.](media/chooseApp_1.png "Бағдарламаны таңдау")
 
 **Навигация тақтасы**
 
 Навигация тақтасын жұмыс аумағына өту, жаңа жазба жасау, іздеу немесе басқа тапсырмаларды орындау үшін пайдаланыңыз. Қосымша пәрмендерге қатынасу үшін ![Қосымша түймешігін](media/MoreButton.png "Қосымша түймешігі") түртіңіз.
 
-![Шарлау жолағы](media/NavBar_2.png "Шарлау жолағы")
+![Навигация тақтасы.](media/NavBar_2.png "Шарлау жолағы")
 
 **Таңдаулылар және соңғы пайдаланылған жазбалар**
 
 «Таңдаулылар» және «Соңғы пайдаланылғандар» бөлімдері жазбаларға, көріністерге және бақылау тақталарына жылдам қатынасты қамтамасыз етеді. 
 
-- Бұл бөлімдерге қатынасу үшін навигация тақтасында **Мәзір** ![Мәзір түймесі](media/MenuButton.png "Мәзір түймешігі") түймесін түртіңіз, содан кейін **Таңдаулылар және соңғы** ![Таңдаулы түймесі](media/FavButton.png "Таңдаулы түймешігі") түймесін түртіңіз.
+- Бұл бөлімдерге кіру үшін **Мәзір** ![Мәзір түймесін](media/MenuButton.png "Мәзір түймешігі") түртіңіз. навигация тақтасындағы түймені, содан кейін **Таңдаулылар және соңғы** ![Таңдаулылар түймесі](media/FavButton.png "Таңдаулы түймешігі") түймесін басыңыз.
 
 - Элементі таңдаулы ретінде бекіту үшін **Соңғы пайдаланылған** элементтер тізімінде бекіту пәрменін түртіңіз. Бұл элементті бекітіп, Таңдаулылар тармағына жылжытады.
 
-  ![Таңдаулылар мен соңғы элементтер](media/Favs_3.png "Таңдаулылар мен соңғы элементтер")
+  ![Таңдаулылар мен соңғы элементтер.](media/Favs_3.png "Таңдаулылар мен соңғы элементтер")
  
-## <a name="enter-time"></a>Уақытты енгізу
+## <a name="enter-time"></a>Уақытты енгізіңіз
 Клиенттерге есеп-шот ұсынылғанын және дұрыс несие берілгенін тексеру үшін сағатты кемінде апта сайын немесе менеджерлермен сұралған жиілікте енгізіңіз.
 
-1. Мәзір ![Мәзір түймесі](media/MenuButton.png "Мәзір түймешігі") түймесін түртіңіз, содан кейін **Уақыт жазбалары** пәрменін түртіңіз. Бұл күнтізбені береді.
+1. Мәзірді ![Мәзір түймесін](media/MenuButton.png "Мәзір түймешігі") басыңыз. түймесін, содан кейін **Уақыт жазбалары** түймесін басыңыз. Бұл күнтізбені береді.
 
 2. Алдыңғы немесе келесі апта күнтізбесін көру үшін **Алдыңғы** немесе **Келесі** түймешігін түртіңіз. Ағымдағы аптаға кері оралу үшін **Бүгін** түймешігін түртіңіз.
 
@@ -97,9 +97,12 @@ Project Resource Hub бағдарламасы арқылы жолда жұмыс
 5. Апта шығыстарын енгізуді жалғастырыңыз. Орындап болған кезде барлығы дұрыс болса, **Жіберу** пәрменін түртіңіз. Менеджер шығыстарды қарап шығып растайды.
 
 ## <a name="general-information-on-how-to-use-the-mobile-app"></a>Мобильді бағдарламаны пайдалану әдісі туралы жалпы ақпарат 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Мобильді негіздер нұсқаулығы](https://docs.microsoft.com/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Мобильді негіздер нұсқаулығы](/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
 
-### <a name="see-also"></a>Сонымен қатар, келесіні қараңыз:  
+### <a name="see-also"></a>Сонымен қатар келесіні қараңыз:  
  [Project Service бағдарламасына шолу](../psa/overview.md)   
  [Уақыт, шығындар және бірлескен жұмыс нұсқаулығы](../psa/time-expense-collaboration-guide.md)   
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

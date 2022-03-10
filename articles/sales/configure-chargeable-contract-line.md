@@ -1,21 +1,19 @@
 ---
-title: Жобаға негізделген келісім-шарт жолының ақылы компоненттерін конфигурациялау
+title: Жоба келісім-шарты жолының ақылы құрамдастарын конфигурациялау
 description: Бұл тақырып келісім-шарт жолдарындағы қосылатын, ақылы және ақысыз компоненттер туралы ақпарат береді.
 author: rumant
-manager: Annbe
 ms.date: 10/12/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: d6f67d5dc6b94148d437b3399229c1235c702c6a
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 51151089df67e2d164fc6315c1291f880917f43f1fba189304cb305ea973cecb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4128696"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004048"
 ---
-# <a name="configure-chargeable-components-of-a-project-based-contract-line"></a>Жобаға негізделген келісім-шарт жолының ақылы компоненттерін конфигурациялау
+# <a name="configure-chargeable-components-of-a-project-contract-line"></a>Жоба келісім-шарты жолының ақылы құрамдастарын конфигурациялау
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
@@ -58,3 +56,6 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 | № | Иә | Орнату мүмкін емес | Ақысыз | Уақыт нақты мәніндегі шот ұсыну: Қолжетімді емес </br>Шығыс нақты мәніндегі шот ұсыну түрі: Ақысыз |
 | Иә | № | Ақылы | Орнату мүмкін емес | Уақыт нақты мәніндегі шот ұсыну: Ақылы </br>Шығыс нақты мәніндегі шот ұсыну түрі: Қолжетімді емес |
 | Иә | № | Ақысыз | Орнату мүмкін емес | Уақыт нақты мәніндегі шот ұсыну: Ақысыз </br> Шығыс нақты мәніндегі шот ұсыну түрі: Қолжетімді емес |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

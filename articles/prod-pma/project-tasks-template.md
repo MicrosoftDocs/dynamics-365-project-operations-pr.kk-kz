@@ -2,11 +2,9 @@
 title: Жоба тапсырмаларын тікелей Project Service Automation бағдарламасынан Finance and Operations бағдарламасына синхрондаңыз
 description: Бұл тақырыпта жоба тапсырмаларын тікелей Microsoft Dynamics 365 Project Service Automation бағдарламасынан Dynamics 365 Finance бағдарламасына синхрондау үшін пайдаланылатын үлгі және негізгі тапсырма сипатталған.
 author: Yowelle
-manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -17,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 7cc9ee9de576549c132e14c333a1000c22a55236
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 45846d7a6dd7b84fe28f0a78ccc103679236917ea506180c5b383fd2828624eb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5288926"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992798"
 ---
 # <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>Жоба тапсырмаларын тікелей Project Service Automation бағдарламасынан Finance and Operations бағдарламасына синхрондаңыз
 
@@ -41,7 +39,7 @@ Project Service Automation және Finance бағдарламасын бірі�
 
 Келесі суретте деректердің Project Service Automation және Finance арасында синхрондалу жолы көрсетілген.
 
-[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны](./media/ProjectTasksFlow.png)](./media/ProjectTasksFlow.png)
+[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны.](./media/ProjectTasksFlow.png)](./media/ProjectTasksFlow.png)
 
 ## <a name="template-and-task"></a>Үлгі және тапсырма
 
@@ -82,7 +80,7 @@ Project Service Automation және Finance бағдарламасын бірі�
 
 Келесі суретте деректерді біріктіру кезіндегі үлгі тапсырмаларын салыстыру әрекеттерінің мысалы келтірілген. Картада Project Service Automation бағдарламасынан Finance бағдарламасына синхрондалатын өріс туралы ақпарат көрсетілген.
 
-[![Үлгіні салыстыру](./media/ProjectTasksMapping.png)](./media/ProjectTasksMapping.png)
+[![Үлгіні салыстыру.](./media/ProjectTasksMapping.png)](./media/ProjectTasksMapping.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: a6955dcd1ebe494e0171c30ac4384089da6a8745
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
-ms.translationtype: HT
+ms.openlocfilehash: 6696449d80e0915a0c878dbe75cfdf6e268b98ad9f6453bcfc4b424db68021e4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999723"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988208"
 ---
 # <a name="synchronize-project-estimates-directly-from-project-service-automation-to-finance-and-operations"></a>Жоба болжамдарын тікелей Project Service Automation бағдарламасынан Finance and Operations бағдарламасына тікелей синхрондау
 
@@ -38,7 +38,7 @@ Project Service Automation және Finance бағдарламасын бірі�
 
 Келесі суретте деректердің Project Service Automation және Finance арасында синхрондалу жолы көрсетілген.
 
-[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны](./media/ProjectEstimatesFlow.png)](./media/ProjectEstimatesFlow.png)
+[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны.](./media/ProjectEstimatesFlow.png)](./media/ProjectEstimatesFlow.png)
 
 ## <a name="project-hour-estimates"></a>Жобаның сағаттық болжамдары
 
@@ -95,7 +95,7 @@ Project Service Automation және Finance бағдарламасын бірі�
 
 Келесі суретте деректерді біріктіру қызметіндегі үлгі тапсырмасын салыстыру мысалы көрсетіледі. Картада Project Service Automation бағдарламасынан Finance бағдарламасына синхрондалатын өріс туралы ақпарат көрсетілген.
 
-[![Деректерді біріктіруде үлгі тапсырманы салыстыру](./media/ProjectHourEstimatesMapping.jpg)](./media/ProjectHourEstimatesMapping.jpg)
+[![Деректерді біріктіруде үлгі тапсырманы салыстыру.](./media/ProjectHourEstimatesMapping.jpg)](./media/ProjectHourEstimatesMapping.jpg)
 
 ## <a name="project-expense-estimates"></a>Жобаның шығыс болжамдары
 
@@ -165,9 +165,9 @@ Project Service Automation және Finance бағдарламасын бірі�
 
 Келесі суреттер деректерді біріктіру қызметіндегі үлгі тапсырмасын салыстырулар мысалдарын көрсетеді. Картада Project Service Automation бағдарламасынан Finance бағдарламасына синхрондалатын өріс туралы ақпарат көрсетілген.
 
-[![Шығысты болжау транзакцияларының үлгісін салыстыру](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
+[![Шығысты болжау транзакцияларының үлгісін салыстыру.](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
 
-[![Шығыс болжамдарының үлгісін салыстыру](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
+[![Шығыс болжамдарының үлгісін салыстыру.](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

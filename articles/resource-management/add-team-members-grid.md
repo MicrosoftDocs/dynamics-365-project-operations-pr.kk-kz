@@ -2,18 +2,16 @@
 title: Топ мүшесі торынан топ мүшелерін қосу
 description: Бұл бөлімде топ мүшесі ресурстарын басқару жолы туралы ақпарат берілген.
 author: ruhercul
-manager: AnnBe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: cacf3913c3893dd09509cd02361c4a21bed59825
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: c4ff7792a9a99cbbe791a10dbc5157ffd51de285c02f23471532a09e7a55b031
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5280090"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008413"
 ---
 # <a name="add-team-members-from-the-team-member-grid"></a>Топ мүшесі торынан топ мүшелерін қосу
 

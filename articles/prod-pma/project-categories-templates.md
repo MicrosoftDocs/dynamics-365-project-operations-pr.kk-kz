@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: 2816d363dbfe6ef2d98a584b214f72d9b30c49bb
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
-ms.translationtype: HT
+ms.openlocfilehash: 52c79f8b641d4b2df3b30964331633f2487402f8f8d229b540f9544c0f848557
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999858"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001123"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Жобаның шығыс санаттарын Finance and Operations және Project Service Automation арасында синхрондаңыз
 
@@ -56,7 +56,7 @@ Project Service Automation және Finance біріктіру шешімі Proj
 
 Келесі суретте деректердің Project Service Automation және Finance арасында синхрондалу жолы көрсетілген.
 
-[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны](./media/ProjectExpenseCategoriesFlow.png)](./media/ProjectExpenseCategoriesFlow.png)
+[![Project Service Automation бағдарламасын Finance бағдарламасымен біріктіруге арналған деректер ағыны.](./media/ProjectExpenseCategoriesFlow.png)](./media/ProjectExpenseCategoriesFlow.png)
 
 ## <a name="project-expense-category-synchronization-from-finance-to-project-service-automation"></a>Жобаның шығыс санатын Finance жүйесінен Project Service Automation бағдарламасына синхрондау
 
@@ -93,7 +93,7 @@ Project Service Automation бағдарламасына синхрондау к�
 
 Келесі суретте деректерді біріктіру қызметіндегі үлгі тапсырмасын салыстыру мысалы көрсетіледі. Салыстыру Finance жүйесінен Project Service Automation жүйесіне синхрондалатын өріс ақпаратын көрсетеді.
 
-[![Жоба шығысының санатын Project Service Automation үлгісімен салыстыру](./media/ProjectExpenseCategoriesToPSAMapping.jpg)](./media/ProjectExpenseCategoriesToPSAMapping.jpg)
+[![Жоба шығысының санатын Project Service Automation үлгісімен салыстыру.](./media/ProjectExpenseCategoriesToPSAMapping.jpg)](./media/ProjectExpenseCategoriesToPSAMapping.jpg)
 
 ## <a name="project-expense-category-synchronization-from-project-service-automation-to-finance"></a>Жобаның шығыс санатын Project Service Automation бағдарламасынан Finance жүйесіне синхрондау
 
@@ -121,7 +121,7 @@ Project Service Automation бағдарламасына синхрондау к�
 > [!NOTE]
 > Картада Project Service Automation бағдарламасынан Finance бағдарламасына синхрондалатын өріс туралы ақпарат көрсетілген.
 
-[![Project Service Automation бағдарламасын және Finance бағдарламасының үлгісімен салыстыру](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
+[![Project Service Automation бағдарламасын және Finance бағдарламасының үлгісімен салыстыру.](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

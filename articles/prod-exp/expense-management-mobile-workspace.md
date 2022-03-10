@@ -2,12 +2,8 @@
 title: Шығысты басқару мобильді жұмыс кеңістігі
 description: Осы тақырып Шығысты басқару ұялы жұмыс кеңістігі туралы ақпаратпен қамтамасыз етеді. Бұл жұмыс кеңістігі пайдаланушыларға кейіннен шығыс туралы есепке тіркеу үшін түсімді суретке түсіруге және жүктеуге мүмкіндік береді. Тіркелген түсімді пайдаланып, пайдаланушылар шығыс бабын жылдам жасап, шығыс есептерін жасап, басқара алады.
 author: suvaidya
-manager: AnnBe
 ms.date: 12/01/2017
 ms.topic: article
-ms.prod: ''
-ms.service: dynamics-ax-applications
-ms.technology: ''
 audience: Application User
 ms.reviewer: roschlom
 ms.search.scope: Core, Operations
@@ -17,12 +13,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: cc19297131937949fe6f7eed00ee66fb5e3bff13
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
-ms.translationtype: HT
+ms.openlocfilehash: 0559f881aba2d0a9c65ad123a40803743fc7407bb0d87ac6e8280ee8e30d36b7
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5950486"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001483"
 ---
 # <a name="expense-management-mobile-workspace"></a>Шығысты басқару мобильді жұмыс кеңістігі
 
@@ -104,7 +100,7 @@ Dynamics 365 Unified Ops ұялы қолданбасын көшіріп алып
 5. Кіргеннен кейін, компанияңыз үшін қолжетімді жұмыс кеңістіктері көрсетіледі. Егер жүйе әкімшісі кейінірек жаңа жұмыс кеңістігін жарияласа, мобильді жұмыс кеңістігінің тізімін жаңартуыңыз керек екенін ескеріңіз.
 
 
-[![Жаңарту үшін тарту](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
+[![Жаңарту үшін тарту.](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
 
 ## <a name="capture-a-receipt-by-using-the-expense-management-mobile-workspace"></a>Шығысты басқару ұялы жұмыс кеңістігін пайдаланып, түсімді суретке түсіріңіз
 

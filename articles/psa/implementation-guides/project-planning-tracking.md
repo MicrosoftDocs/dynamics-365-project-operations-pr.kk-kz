@@ -2,8 +2,6 @@
 title: Жобаны жоспарлау және бақылау
 description: Бұл тақырыпта Project Service Automation бағдарламасындағы жоспарлау және бақылау туралы ақпарат сілтемесі беріледі.
 author: kfend
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 2/04/2019
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0dfd05f7f22d0f339bd2437bbd47009e92ebb72a
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 4dafe76864ac873c596381324ab6865b1b3adc24a495d828b552e7ac459954b9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4079761"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985463"
 ---
 # <a name="project-planning-and-tracking"></a>Жобаны жоспарлау және бақылау
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -43,3 +43,6 @@ Project Service бағдарламасы қызмет көрсету ұйымд�
 
 > [!NOTE]
 > Бұл тақырып болашақтағы құжаттамалық жаңартудан жойылады. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

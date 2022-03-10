@@ -2,10 +2,9 @@
 title: Қолда бар тауарларға шолу
 description: Бұл тақырыпта жобаның нақты мәндері туралы ақпарат берілген.
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 08/03/2020
 ms.topic: article
 ms.author: rumant
@@ -18,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c4a3424bed704243dfb5524fa541c3fcc0899e57
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 15c8d26fcf4eb9fda8a4fe4ce085ea3becdc2c76f11525357b75f59e18fd6017
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285625"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992483"
 ---
 # <a name="actuals-overview"></a>Қолда бар тауарларға шолу
 
@@ -33,7 +32,7 @@ ms.locfileid: "5285625"
 
 Нақты мәндер — жоба бойынша аяқталған жұмыс көлемі. Жобаның нақты мәндерін олардың бастапқы құжаттарына белгілеуге болады. Бұл бастапқы құжаттар уақытты, шығыстарды және журнал жазбаларын, сондай-ақ есеп-шоттарды қамтиды.
 
-![Жобаның нақты мәндерін олардың бастапқы құжаттарына белгілеу жолы](media/basic-guide-18.png)
+![Жобаның нақты мәндерін олардың бастапқы құжаттарына белгілеу жолы.](media/basic-guide-18.png)
 
 ## <a name="submitting-a-time-entry"></a>Осы уақыт жазбасын жіберу
 
