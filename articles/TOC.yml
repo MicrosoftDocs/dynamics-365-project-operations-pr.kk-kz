@@ -54,7 +54,7 @@
               href: environment/resource-dual-write-estimates-actuals.md
             - name: Жоба есеп-шотының интеграциясы
               href: environment/resource-dual-write-project-invoice.md
-            - name: Шығысты басқару интеграциясы
+            - name: Шығыстарды басқару интеграциясы
               href: environment/resource-dual-write-expense.md
             - name: Жеткізуші есеп-шотының интеграциясы
               href: environment/resource-dual-write-vendor-invoice.md
@@ -62,7 +62,15 @@
           href: environment/uninstall-project-operations.md
     - name: Жаңалықтар
       items:
-        - name: 'Желтоқсан, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+        - name: 'Мамыр, 2022 ж. - Ресурс/биржадан тыс негізіндегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-may-2022-resource-based.md
+        - name: 'Сәуір, 2022 ж. - Ресурс/биржадан тыс негізіндегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-apr-2022-resource-based.md
+        - name: 'Наурыз, 2022 ж. - Ресурс/биржадан тыс негізіндегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-mar-2022-resource-based.md
+        - name: 'Ақпан, 2022 ж. - Ресурс/биржадан тыс негізіндегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-feb-2022-resource-based.md
+        - name: 'Желтоқсан, 2021 ж. - Ресурс/биржадан тыс негізіндегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-dec-2021-resource-based.md
         - name: 'Қараша, 2021 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
           href: whats-new/whats-new-nov-2021-resource-based.md
@@ -94,7 +102,7 @@
       items:
         - name: Жобаның сату процесіне шолу
           href: sales/sales-overview.md
-        - name: Орнату
+        - name: Реттеу
           items:
             - name: Өнімдер
               href: sales/sales-products.md
@@ -102,6 +110,8 @@
               href: sales/sales-units-unit-groups.md
             - name: Валюта
               href: sales/sales-currency.md
+            - name: Ұйымдық бірліктер
+              href: sales/OrgUnits.md
         - name: Жобаның ықтимал тұтынушыларын басқару
           href: sales/manage-leads.md
         - name: Жоба мүмкіндіктерін басқару
@@ -288,8 +298,6 @@
               href: project-management/project-cost-tracking.md
             - name: Жоба бойынша еңбек табысын бақылау
               href: project-management/project-sales-tracking.md
-            - name: Аяқтау кезіндегі құн болжамын жаңарту
-              href: project-management/update-completed-estimate.md
         - name: Жоба тобының мүшелері
           items:
             - name: Жоба тобының мүшелеріне шолу
@@ -308,6 +316,8 @@
               href: project-management/dev-copy-project.md
             - name: Жоба кестесінің API интерфейстерін пайдалану
               href: project-management/schedule-api-preview.md
+            - name: Жоба кестесінің API интерфейстерін Power Automate көмегімен пайдалану
+              href: project-management/scheduling-apis-powerautomate.md
             - name: Жоба кестесі API интерфейсінің өнімділігі
               href: project-management/project-schedule-api-performance.md
             - name: Жобаны жоспарлау журналдары
@@ -426,8 +436,8 @@
           href: expense/travel-requisition.md
         - name: Ақшалай аванс
           href: expense/cash-advance.md
-        - name: Тәуліктік
-          href: expense/per-diems.md
+        - name: Тәуліктік шығыстар
+          href: expense/per-diem-expenses.md
         - name: Мобильді шығыс бағдарламасы
           href: expense/expense-using-mobile.md
         - name: Қаржыны басқару
@@ -442,29 +452,41 @@
       items:
         - name: Бекітулерге шолу
           href: approvals/approvals-overview.md
-        - name: Растау жинақтары
+        - name: Бекіту жинақтары
           href: approvals/approval-sets.md
+        - name: Бұрын бекітілген жазбаларды бекітуден бас тарту
+          href: approvals/cancelapproval.md
+        - name: Бұрын бекітілген жазбаларды кері қайтару
+          href: approvals/recall-cancel.md
         - name: Әзірлеуші ескертпелері
           items:
             - name: Бекітулер үшін әзірлеуші ескертпелері
               href: approvals/dev-notes-approvals.md
     - name: Нақты көрсеткіштер
       items:
+        - name: Project Operations бағдарламасындағы іскерлік транзакциялар
+          href: actuals/businesstransactions.md
         - name: Нақты көрсеткіштерге шолу
           href: actuals/actuals-overview.md
-        - name: Нақты көрсеткіштерді бастапқы жазбалармен байланыстыру
+        - name: Транзакция көздері - нақты деректерді дереккөзге байланыстыру
           href: actuals/linkingactuals.md
-        - name: Түзету журналдары
+        - name: Транзакция қосылымдары - әртүрлі транзакция түрлерінің нақты көрсеткіштерін байланыстыру
+          href: actuals/connectingactuals.md
+        - name: Журналдар
           items:
+            - name: Жазба журналдарын жасау және растау
+              href: actuals/create-confirm-entry-journals.md
             - name: Түзету журналдарын жасау және растау
               href: actuals/create-confirm-correction-journals.md
     - name: Сатып алу
       items:
-        - name: Биржадан тыс материалдарды және күтудегі жеткізуші есеп-шоттарын конфигурациялау
+        - name: Биржадан тыс материалдарды және күту режиміндегі жеткізуші есеп-шоттарын конфигурациялау
           href: procurement/configure-materials-nonstocked.md
-        - name: Күтудегі жеткізуші есеп-шоттарын пайдаланып жобаға арналған биржадан тыс материалдарды сатып алу
+        - name: Жобалар үшін сатып алу санаттарын конфигурациялау
+          href: procurement/configure-procurement-categories.md
+        - name: 'Күту режиміндегі жеткізуші есеп-шоттарын пайдаланып, жобаларға арналған тауарлар мен қызметтерді сатып алу'
           href: procurement/pending-vendor-invoices.md
-        - name: Жобаны сатып алуға тапсырыстарды пайдаланып жобаға арналған биржадан тыс материалдарға тапсырыс беру
+        - name: 'Жобаны сатып алуға тапсырыстарды пайдаланып, жобаларға арналған тауарлар мен қызметтерге тапсырыс беру'
           href: procurement/non-stocked-materials-project-purchase-orders.md
         - name: Жеткізушіні сақтау
           items:
@@ -538,6 +560,18 @@
           href: revenue-recognition/cost-complete-methods.md
         - name: Табыс болжамдарын басқару
           href: revenue-recognition/rev-rec-completed-contract-method.md
+    - name: Кеңейтілген конфигурация
+      items:
+        - name: Қысқарту кезінде толық есепшот ұсыну кезеңдерін ауыстыру
+          href: advanced-configuration/migrating-invoiced-milestones.md
+    - name: Жаңарту
+      items:
+        - name: Заманауи мақұлдауларға арналған жаңартулар
+          href: upgrade/upgrade-considerations-modern-approvals.md
+    - name: Project Operations бағдарламалары
+      items:
+        - name: Project Operations топ мүшесі бағдарламасы
+          href: team-member/project-operations-team-member.md
     - name: Ақауларды жою
       items:
         - name: Жобаның сату процесі
@@ -560,8 +594,16 @@
           href: environment/security-model.md
     - name: Жаңалықтар
       items:
-        - name: 2021 шығарылымының 2-толқынын ерте қолдану жаңалықтары - жеңілдетілген орналастыру
+        - name: 2021 жылғы 2-толқынның ерте қол жеткізу жаңалықтары - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: 2022 жылдың мамыр айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-may-2022-lite.md
+        - name: 2022 жылдың сәуір айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-apr-2022-lite.md
+        - name: 2022 жылдың наурыз айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-mar-2022-lite.md
+        - name: 2022 жылдың ақпан айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-feb-2022-lite.md
         - name: 2021 жылдың желтоқсан айындағы жаңалықтар - жеңілдетілген орналастыру
           href: pro/whats-new/whats-new-dec-2021-lite.md
         - name: 2021 жылдың қараша айындағы жаңалықтар - жеңілдетілген орналастыру
@@ -594,7 +636,7 @@
       items:
         - name: Жобаның сату процесіне шолу
           href: sales/sales-overview.md
-        - name: Орнату
+        - name: Реттеу
           items:
             - name: Өнімдер
               href: sales/sales-products.md
@@ -602,6 +644,8 @@
               href: sales/sales-units-unit-groups.md
             - name: Валюта
               href: sales/sales-currency.md
+            - name: Ұйымдық бірліктер
+              href: sales/OrgUnits.md
         - name: Жобаның ықтимал тұтынушыларын басқару
           href: pro/sales/managing-leads-sales.md
         - name: Жоба мүмкіндіктерін басқару
@@ -808,8 +852,6 @@
               href: project-management/project-cost-tracking.md
             - name: Жоба бойынша еңбек табысын бақылау
               href: project-management/project-sales-tracking.md
-            - name: Аяқтау кезіндегі құн болжамын жаңарту
-              href: project-management/update-completed-estimate.md
         - name: Жоба тобының мүшелері
           items:
             - name: Жоба тобының мүшелеріне шолу
@@ -828,6 +870,8 @@
               href: project-management/dev-copy-project.md
             - name: Жоба кестесінің API интерфейстерін пайдалану
               href: project-management/schedule-api-preview.md
+            - name: Жоба кестесінің API интерфейстерін Power Automate көмегімен пайдалану
+              href: project-management/scheduling-apis-powerautomate.md
             - name: Жоба кестесі API интерфейсінің өнімділігі
               href: project-management/project-schedule-api-performance.md
     - name: Ресурстарды басқару
@@ -886,12 +930,10 @@
           items:
             - name: Ресурсты пайдалануға шолу
               href: resource-management/resource-utilization-overview.md
-    - name: Project Operations бағдарламасындағы қосалқы келісім-шартты басқару
+    - name: Қосалқы мердігерлік басқару
       items:
         - name: Project Operations бағдарламасындағы қосалқы келісім-шартты басқару
           href: pro/subcontracting/managing-subcontracts-overview.md
-        - name: 2021 жылдың қазан айындағы ерте қолдануда қосалқы келісім-шарт жасау
-          href: pro/subcontracting/Subcontracting_EA_scope.md
         - name: Қосалқы келісім-шарт жасаудағы негізгі ұғымдар
           href: pro/subcontracting/key-concepts-subcontracting.md
         - name: Жеткізушілер мен жоба бағатізбелерін басқару
@@ -902,7 +944,7 @@
           href: pro/subcontracting/subcontract-header-details.md
         - name: Уақытқа арналған қосалқы келісім-шарт жолдары
           href: pro/subcontracting/subcontract-line-time.md
-        - name: Шығын санаттарына арналған қосалқы келісім-шарт жолдары
+        - name: Шығыс санаттарына арналған қосалқы келісім-шарт жолдары
           href: pro/subcontracting/subcontract-line-expense.md
         - name: Өнімдерге арналған қосалқы келісім-шарт жолдары
           href: pro/subcontracting/subcontract-line-products.md
@@ -920,10 +962,32 @@
           href: pro/subcontracting/configure-sb-subcon.md
         - name: Келісім-шарт бойынша жұмысшылар мен қосалқы келісім-шарт жасасқан мүмкіндіктермен жобаға штат кестесін жасау
           href: pro/subcontracting/staffing-cw.md
-        - name: 'Қосалқы келісім-шарт жасасқан құрамдастар үшін уақытты, шығындарды және материалдың пайдаланылуын жазу'
+        - name: 'Қосалқы келісім-шарт жасасқан құрамдастар үшін уақытты, шығыстарды және материалдың пайдаланылуын жазу'
           href: pro/subcontracting/recording-subcon-actuals.md
         - name: Қосалқы келісім-шарт бойынша күй ауысымдары
           href: pro/subcontracting/subcon-states.md
+    - name: Жобалық жеткізушінің есеп-шоттары
+      items:
+        - name: Жеткізуші шот-фактурасы - Тұжырымдама және құру
+          href: pro/subcontracting/vendor-invoice-overview.md
+        - name: Жеткізуші есеп-шоттарының тақырып мәліметтері
+          href: pro/subcontracting/vendor-invoice-header.md
+        - name: Уақыт бойынша жеткізушінің есеп-шот желілері
+          href: pro/subcontracting/vendor-invoice-line-time.md
+        - name: Өнімдер бойынша жеткізушінің есеп-шот желілері
+          href: pro/subcontracting/vi-line-material.md
+        - name: Кезеңдер бойынша жеткізушінің есеп-шот желілері
+          href: pro/subcontracting/vi-line-milestone.md
+        - name: Шығыс санаттарына арналған жеткізушінің есеп-шот жолдары
+          href: pro/subcontracting/vi-line-expense.md
+        - name: Жеткізушінің есеп-шоттарын бекітілген фактілермен тексеру
+          href: pro/subcontracting/VI-Verification.md
+        - name: Жобалық жеткізушінің есеп-шотынан бас тарту
+          href: pro/subcontracting/cancel-vi.md
+        - name: Жоба жеткізушісінің есеп-шотын растау
+          href: pro/subcontracting/confirm-vi.md
+        - name: Жеткізушінің есеп-шотындағы күй ауысымдары
+          href: pro/subcontracting/vi-state-model.md
     - name: Уақыт
       items:
         - name: Уақытқа шолу
@@ -950,20 +1014,30 @@
       items:
         - name: Бекітулерге шолу
           href: approvals/approvals-overview.md
-        - name: Растау жинақтары
+        - name: Бекіту жинақтары
           href: approvals/approval-sets.md
+        - name: Бұрын бекітілген жазбаларды бекітуден бас тарту
+          href: approvals/cancelapproval.md
+        - name: Бұрын бекітілген жазбаларды кері қайтару
+          href: approvals/recall-cancel.md
         - name: Әзірлеуші ескертпелері
           items:
             - name: Бекітулер үшін әзірлеуші ескертпелері
               href: approvals/dev-notes-approvals.md
     - name: Нақты көрсеткіштер
       items:
+        - name: Project Operations бағдарламасындағы іскерлік транзакциялар
+          href: actuals/businesstransactions.md
         - name: Нақты көрсеткіштерге шолу
           href: actuals/actuals-overview.md
-        - name: Нақты көрсеткіштерді бастапқы жазбалармен байланыстыру
+        - name: Транзакция көздері - нақты деректерді дереккөзге байланыстыру
           href: actuals/linkingactuals.md
-        - name: Түзету журналдары
+        - name: Транзакция қосылымдары - әртүрлі транзакция түрлерінің нақты көрсеткіштерін байланыстыру
+          href: actuals/connectingactuals.md
+        - name: Журналдар
           items:
+            - name: Жазба журналдарын жасау және растау
+              href: actuals/create-confirm-entry-journals.md
             - name: Түзету журналдарын жасау және растау
               href: actuals/create-confirm-correction-journals.md
     - name: Проформа есеп‑шоты
@@ -984,6 +1058,14 @@
           href: pro/proforma-invoicing/corrective-invoices-sales.md
         - name: Жоба есеп-шотын автоматтандыруды конфигурациялау
           href: pro/proforma-invoicing/configure-automated-invoice-creation-sales.md
+    - name: Жаңарту
+      items:
+        - name: Заманауи мақұлдауларға арналған жаңартулар
+          href: upgrade/upgrade-considerations-modern-approvals.md
+    - name: Project Operations бағдарламалары
+      items:
+        - name: Project Operations топ мүшесі бағдарламасы
+          href: team-member/project-operations-team-member.md
 - name: Қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
   items:
     - name: Жаңалықтар
@@ -1010,43 +1092,39 @@
       href: prod-pma/project-operations-prod-order-deployment-overview.md
     - name: Жобаларды басқару және есепке шолу
       href: prod-pma/overview-project-management-accounting.md
-    - name: Компанияаралық шот жіберу
-      href: prod-pma/intercompany-invoicing.md
-    - name: Компанияаралық жоба шотын ұсынуды конфигурациялау
-      href: prod-pma/tasks/configure-intercompany-project-invoicing.md
-    - name: Стандартты еңбек шығындары мен шығыстарды конфигурациялау
-      href: prod-pma/tasks/configure-standard-costs-labor-expenses.md
-    - name: Жеткізушілердің төлемдерін ұстап қалу шарттарын жасау және қолдану
-      href: prod-pma/create-and-apply-vendor-payment-retention-terms.md
-    - name: Төлем алғаннан кейін төленетін жеткізуші төлемдерін орнату және пайдалану
-      href: prod-pma/setup-manage-vendor-payments.md
-    - name: Сатып алу түбіртектері бойынша жоба құнын есептеу
-      href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
-    - name: Жоба есеп-шотын ұсыну
-      href: /dynamics365/finance/accounts-payable/project-invoicing
-    - name: Жоба есеп-шоты ұсыныстарының өнімділігі
-      href: prod-pma/project-invoice-proposal-performance.md
-    - name: Жобалық келісім-шарттар
-      href: prod-pma/project-contracts.md
-    - name: Орындалу барысы бойынша шот ұсынуға арналған кеңейтілген келісім-шарттарды жасау
-      href: prod-pma/project-create-advanced-contracts-for-billing-based-progress.md
-    - name: Жоба болжамдары мен бюджеттері
-      href: prod-pma/project-forecasts-budgets.md
-    - name: Жоба бюджеттеріне арналған болжам үлгілерін жасау
-      href: prod-pma/create-forecast-models-project-budgets.md
-    - name: Жоба бюджеттерін қаржы жылының соңына тасымалдау
-      href: prod-pma/process-project-budgets-for-fiscal-year-end.md
-    - name: Жобаның сатылым тапсырыстары
-      href: prod-pma/project-sales-orders.md
-    - name: Жобаға арналған сатып алуға тапсырыстар
-      href: prod-pma/project-purchase-orders.md
-    - name: Жоба ұсыныстары
-      href: prod-pma/project-quotations.md
-    - name: 'Жоба ұсыныстарын мақұлдау, жаңарту және жіберу'
-      href: prod-pma/confirm-update-send-project-quotation.md
-    - name: Ұсынысты жобаға тасымалдау
-      href: prod-pma/transfer-quote-new-existing-project.md
-    - name: Жоба ресурстары
+    - name: Жобаның сату процесі
+      items:
+        - name: Жоба ұсыныстары
+          href: prod-pma/project-quotations.md
+        - name: 'Жоба ұсыныстарын растау, жаңарту және жіберу'
+          href: prod-pma/confirm-update-send-project-quotation.md
+        - name: Ұсынысты жобаға тасымалдау
+          href: prod-pma/transfer-quote-new-existing-project.md
+        - name: Жобалық келісім-шарттар
+          href: prod-pma/project-contracts.md
+        - name: Жоба гранттары
+          href: prod-pma/project-grants.md
+    - name: Баға мен құн
+      items:
+        - name: Стандартты еңбек шығындары мен шығыстарды конфигурациялау
+          href: prod-pma/tasks/configure-standard-costs-labor-expenses.md
+    - name: Жобаны басқару
+      items:
+        - name: Жұмыс декомпозициясының құрылымдарына шолу
+          href: prod-pma/work-breakdown-structures.md
+        - name: Microsoft Project Client интеграциясы
+          href: prod-pma/project-integration.md
+        - name: Project мобильді бағдарламаларына шолу
+          href: prod-pma/project-mobile-application-overview.md
+        - name: Жобаның уақыт жазбасының мобильді жұмыс кеңістігі
+          href: prod-pma/project-time-entry-mobile-workspace.md
+        - name: Project Timesheet мобильді бағдарламасы
+          href: prod-pma/project-timesheet.md
+        - name: Мобильді құрылғыдағы Project Timesheet бағдарламасы
+          href: prod-pma/mobile-timesheets.md
+        - name: Project Timesheet мобильді бағдарламасы үшін реттелмелі өрістерді ендіру
+          href: prod-pma/custom-fields-mobile.md
+    - name: Ресурстарды басқару
       items:
         - name: Жоба ресурстарына шолу
           href: prod-pma/project-resourcing.md
@@ -1064,32 +1142,110 @@
           href: prod-pma/synchronize-resource-capacity.md
         - name: Жоба ресурстарын жоспарлау өнімділігі
           href: prod-pma/project-scheduling-performance.md
-        - name: Жұмыс декомпозициясының құрылым үлгілері бойынша рөлдерді орнату
+        - name: Жұмыс декомпозициясының құрылымы үлгілері бойынша рөлдерді орнату
           href: prod-pma/set-up-roles-wbs-template.md
         - name: Жоспарланған ресурстарға арналған ресурстарды орындау
           href: prod-pma/resource-fulfillment-planned-resources.md
-    - name: Элемент талабынан сатып алуға тапсырыс бойынша элементтерді алу
-      href: prod-pma/tasks/receive-items-purchase-order-item-requirement.md
-    - name: Жұмыс декомпозициясының құрылымдары
+    - name: Жоба бюджеттері мен болжамдары
       items:
-        - name: Жұмыс декомпозициясының құрылымдарына шолу
-          href: prod-pma/work-breakdown-structures.md
-        - name: Microsoft Project Client интеграциясы
-          href: prod-pma/project-integration.md
-        - name: Project мобильді бағдарламаларына шолу
-          href: prod-pma/project-mobile-application-overview.md
-        - name: Жобаның уақыт жазбасының мобильді жұмыс кеңістігі
-          href: prod-pma/project-time-entry-mobile-workspace.md
-        - name: Жоба уақыт кестесі мобильді құрылғы бағдарламасы
-          href: prod-pma/project-timesheet.md
-        - name: Мобильді құрылғыдағы жоба уақыт кестелері
-          href: prod-pma/mobile-timesheets.md
-        - name: Жоба табелі мобильді бағдарламасы үшін реттелмелі өрістерді ендіру
-          href: prod-pma/custom-fields-mobile.md
-    - name: Жоба гранттары
-      href: prod-pma/project-grants.md
-    - name: Жоба болжамын жою
-      href: prod-pma/eliminate-project-estimate.md
+        - name: Жоба болжамдары мен бюджеттері
+          href: prod-pma/project-forecasts-budgets.md
+        - name: Жоба бюджеттеріне арналған болжам үлгілерін жасау
+          href: prod-pma/create-forecast-models-project-budgets.md
+        - name: Жоба бюджеттерін қаржы жылының соңына тасымалдау
+          href: prod-pma/process-project-budgets-for-fiscal-year-end.md
+    - name: Уақыт
+      items:
+        - name: Жоба уақыты жазбаларына арналған әдепкі қаржылық өлшемдер
+          href: prod-pma/time-entry-dimension-defaults.md
+    - name: Шығыс
+      items:
+        - name: Шығысқа шолу
+          href: expense/expense-overview.md
+        - name: Жаңа шығыс тәжірибесі
+          items:
+            - name: Шығыс туралы есептерге жаңа көзқарас
+              href: expense/expense-reports-reimagined.md
+            - name: Мәтінді оптикалық тану (OCR) арқылы түбіртекті түсіру
+              href: expense/match-receipt-expense-ocr.md
+        - name: Конфигурация және орнату
+          items:
+            - name: Саясаттарды орнату
+              href: expense/set-up-policies.md
+            - name: Жұмыс ағындарын орнату
+              href: expense/set-up-workflows.md
+            - name: Өкілеттікті басқару
+              href: expense/manage-delegation.md
+            - name: Шығысты басқару параметрлерін конфигурациялау
+              href: expense/configure-expense-management-parameters.md
+            - name: Несие картасы біріктіруін орнату
+              href: expense/set-up-credit-card-integration.md
+            - name: Шығыс санаттарын орнату
+              href: expense/set-up-expense-categories.md
+            - name: Жүрісті жүріс жылдамдығы деңгейлерінің көмегімен орнату
+              href: expense/set-up-mileage.md
+        - name: Шығысқа элемент қосу
+          href: prod-exp/expense-itemization.md
+        - name: Жеке шығыстар
+          href: expense/personal-expenses-expense-report.md
+        - name: Компанияаралық шығыстар
+          href: prod-exp/intercompany-expense.md
+        - name: Шығыс туралы есептер жасау
+          items:
+            - name: Шығыс туралы есеп бойынша тарату
+              href: expense/distributions-expense-report.md
+        - name: Шығыс туралы есептерді бекіту
+          items:
+            - name: Шығыс туралы есептер және бірнеше бекітуші
+              href: expense/expense-reports-multiple-approvers.md
+        - name: Шығыс туралы есептерді өткізу
+          href: expense/posting-expense-reports.md
+        - name: Іссапарға өтінім
+          href: expense/travel-requisition.md
+        - name: Ақшалай аванс
+          href: expense/cash-advance.md
+        - name: Тәуліктік шығыстар
+          href: expense/per-diem-expenses.md
+        - name: Мобильді шығыс бағдарламасы
+          href: expense/expense-using-mobile.md
+        - name: Қаржыны басқару
+          items:
+            - name: ҚҚС қалпына келтіруі
+              href: expense/vat-recovery.md
+    - name: Сатып алу
+      items:
+        - name: Жобаға арналған сатып алуға тапсырыстар
+          href: prod-pma/project-purchase-orders.md
+        - name: Сатып алу түбіртектері бойынша жоба құнын есептеу
+          href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
+        - name: Элемент талабынан сатып алуға тапсырыс бойынша элементтерді алу
+          href: prod-pma/tasks/receive-items-purchase-order-item-requirement.md
+        - name: Төлем алғаннан кейін төленетін жеткізуші төлемдерін орнату және пайдалану
+          href: prod-pma/setup-manage-vendor-payments.md
+        - name: Жеткізушілердің төлемдерін ұстап қалу шарттарын жасау және қолдану
+          href: prod-pma/create-and-apply-vendor-payment-retention-terms.md
+    - name: Жоба есеп-шотын ұсыну
+      items:
+        - name: Жоба есеп-шотын ұсыну
+          href: /dynamics365/finance/accounts-payable/project-invoicing
+        - name: Жоба есеп-шоты ұсыныстарының өнімділігі
+          href: prod-pma/project-invoice-proposal-performance.md
+        - name: Орындалу барысы бойынша шот ұсынуға арналған кеңейтілген келісім-шарттарды жасау
+          href: prod-pma/project-create-advanced-contracts-for-billing-based-progress.md
+        - name: Жобаның сатылым тапсырыстары
+          href: prod-pma/project-sales-orders.md
+        - name: Көптеген қаржыландыру көзі бар жобалық келісім-шарттарға қойылатын талаптар
+          href: prod-pma/multiple-funding-sources-item-req.md
+    - name: Компанияаралық шот жіберу
+      items:
+        - name: Компанияаралық шот жіберу
+          href: prod-pma/intercompany-invoicing.md
+        - name: Компанияаралық жоба шотын ұсынуды конфигурациялау
+          href: prod-pma/tasks/configure-intercompany-project-invoicing.md
+    - name: Табысты тану
+      items:
+        - name: Жоба болжамын жою
+          href: prod-pma/eliminate-project-estimate.md
 - name: Шығысты басқару
   items:
     - name: Шығыстарды басқаруға шолу
@@ -1148,9 +1304,19 @@
       items:
         - name: Project Service 3.x нұсқасына арналған жаңарту шығарылымдарының кестесі
           href: psa/version-history-ps.md
+        - name: 43-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur43.md
+        - name: 42-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-42.md
+        - name: 41-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-41.md
+        - name: 40-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-40.md
+        - name: 39-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+          href: psa/whats-new-ur-39.md
         - name: 38-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-38.md
-        - name: 37.5-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
+        - name: '37.5, V3 жаңарту шығарылымы нұсқасындағы жаңалықтар мен өзгерістер'
           href: psa/whats-new-ur-37-5.md
         - name: 37-жаңарту шығарылымының V3 нұсқасындағы жаңалықтар мен өзгерістер
           href: psa/whats-new-ur-37.md
@@ -1236,8 +1402,10 @@
           href: psa/implementation-guides/resource-management-guide.md
         - name: Есеп беру жөніндегі нұсқаулық
           href: psa/implementation-guides/reporting-guide.md
-    - name: Project Service Automation Project Operations - жеңілдетілген нұсқасына жаңарту
+    - name: Project Service Automation - Project Operations - жеңілдетілген нұсқасына жаңарту
       href: psa/upgrade-project-operations-non-stocked.md
+    - name: Project Service Automation - Project Operations функция өзгерістері
+      href: psa/psa-project-operations-changes.md
     - name: Project Service Automation жаңартуы (бағдарламаның 3.x нұсқасы)
       items:
         - name: Project Service Automation жаңартуы
@@ -1268,7 +1436,7 @@
               href: psa/project-estimating.md
             - name: Сатылым бойынша болжамдар және жобалар
               href: psa/project-leveraging.md
-            - name: Жобаның барысы және құн шығыны
+            - name: Жобаның орындалу барысы және құн шығыны
               href: psa/project-tracking.md
             - name: Жоба үлгілері
               href: psa/project-templates.md
