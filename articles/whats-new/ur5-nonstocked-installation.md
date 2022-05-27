@@ -1,25 +1,25 @@
 ---
 title: Finance ортасында Project Operations бағдарламасын жаңарту
-description: Бұл тақырыпта Project Operations бағдарламасын Dynamics 365 Finance ортасында жаңарту жолы туралы ақпарат берілген.
+description: Бұл тақырып Dynamics 365 Finance ортасында жоба әрекеттерін жаңарту жолы туралы ақпаратты береді.
 author: ruhercul
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 3665bccfa25c759c0f2351c691d24901867c178f7c339f4a524856842666aec5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9cd562ac3360298796fbe34dbe2ac8708b00150f
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986768"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8579941"
 ---
 # <a name="update-project-operations-in-your-finance-environment"></a>Finance ортасында Project Operations бағдарламасын жаңарту
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 
-Бұл тақырыпта Dynamics 365 Project Operations бағдарламасын Dynamics 365 Finance ортасында жаңарту жолы туралы ақпарат берілген. Project Operations бағдарламасын 5-жаңартуға (UR5) дейін жаңарту үшін қажет үш процедура бар:
+Бұл тақырып жаңарту жолы туралы ақпаратты береді Dynamics 365 Project Operations Dynamics 365 Finance ортаңызда. Project Operations бағдарламасын 5-жаңартуға (UR5) дейін жаңарту үшін қажет үш процедура бар:
 
 - [Буманы алдын ала қарау нұсқасындағы жобаға импорттау](#import)
 - [Жаңартуды қолдану](#apply)
@@ -119,7 +119,7 @@ UR5 жаңарту орамасына жаңарту бөлігі ретінде
 4. **Кесте картасының нұсқасы** бетінде үш нұсқаның әрқайсысына картаның жаңа нұсқасын қолданыңыз.
 5. **Қос жазу** бетінде карталарды қайта іске қосу үшін "іске қосу" түймешігін басыңыз.
 6. Карталар тізімінен барлық артықшылықтарымен бірге **Кітап (msdyn_ledgers)** картасын таңдап, **Бастапқы синхрондау** ұяшығына құсбелгі қойыңыз. 
-7. **Бастапқы синхрондау шебері** өрісінен **Finance and Operations бағдарламалары** тармағын таңдап, **Іске қосу** түймешігін басыңыз.
+7. Ішінде **Бастапқы синхрондауға арналған шебер** өрісін таңдаңыз **Қаржы және операциялар қолданбалары** содан кейін таңдаңыз **Жүгіру**.
  
  ![Кітап картасын синхрондау.](media/DW6.png)
  

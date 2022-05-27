@@ -6,7 +6,7 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 audience: Application User
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.search.scope: ''
 ms.custom: ''
 ms.assetid: ''
@@ -15,22 +15,22 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 085b7e4d9274f8c8d94d7a84109cfa782acf3dbb9241bfd25ecb8c2f329e1bb8
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 5c57b2596e1d480ff59591618f073ceb8f70a289
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986858"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8574115"
 ---
 # <a name="products"></a>Өнімдер
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Өнімдер - бизнестің омыртқасы. Dynamics 365 Sales Professional бағдарламасындағы өнім каталогы өнімдер топтамасы мен баға туралы ақпарат болып табылады. Өнім каталогын жылдам жасау арқылы сатылымды арттыру әрекетін оңайлатады.
+Өнімдер - бизнестің омыртқасы. Dynamics 365 Sales Professional ішіндегі өнім каталогы - өнімдер топтамасы және баға туралы ақпарат. Өнім каталогын жылдам жасау арқылы сатылымды арттыру әрекетін оңайлатады.
 
 ## <a name="add-a-product"></a>Өнім қосу
 
-1.  Dynamics 365 Sales Professional бағдарламасында өнімдерді қоса алу үшін Sales Professional менеджері немесе жүйелік әкімші рөліне ие екеніңізге көз жеткізіңіз.
+1.  Dynamics 365 Sales Professional жүйесінде өнімдерді қоса алу үшін Sales Professional менеджері немесе жүйелік әкімші рөліне ие екеніңізге көз жеткізіңіз.
 2.  Торап картасында **Орнату** астынан **Өнімдер** параметрін таңдаңыз.
 3.  **Өнім қосу** түймешігін таңдап, келесі ақпаратты толтырыңыз:
 

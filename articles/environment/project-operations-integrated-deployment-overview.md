@@ -3,16 +3,15 @@ title: Ресурс/биржадан тыс негіздегі сценарий�
 description: Бұл тақырыпта орналастыру түрі, ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі туралы ақпарат беріледі.
 author: rumant
 ms.date: 11/02/2020
-ms.topic: article
-ms.reviewer: kfend
+ms.topic: overview
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.custom: intro-internal
-ms.openlocfilehash: a66877471e584bc76ddfe508a5d4cb47e38dd7aeb5f2bebe795b41a1de462ef9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: d751ec9c75e72a6804f073f181591755afc6e261
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7009718"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8575128"
 ---
 # <a name="project-operations-for-resourcenon-stocked-based-scenarios-deployment-overview"></a>Ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations бағдарламасына шолу
 
@@ -32,7 +31,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 - Жоба табысын тану
 - Power Platform арқылы кеңейту
 
-Бұл орналастыру түрі Dynamics 365 Finance және Dynamics 365 Supply Chain Management бағдарламалары арқылы берілетін функционалдылыққа кеңейтім ұсынады.
+Бұл орналастыру түрі Dynamics 365 Finance және Dynamics 365 Supply Chain Management қолданбалар.
 
 Осы орналастыруды таңдау қажет және Project Operations болжамы келесі талаптарды қамтитын жобаның толық жарамдылық кезеңін пайдалану болып табылады:
 

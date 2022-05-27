@@ -3,17 +3,16 @@ title: Бағалар өлшемдеріне шолу
 description: Бұл тақырыпта Dynamics 365 Project Operations бағдарламасындағы бағалар өлшемдері туралы ақпарат берілген.
 author: rumant
 ms.date: 11/30/2020
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.custom: intro-internal
-ms.openlocfilehash: 4b3b71c0b64a24f6914c70c4383eee654e7d4947ececaf9b4e6394f45a081a4c
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 5f1fa83b52c3812f26e3ab75a8b08ebd40d82aa8
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001978"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8579267"
 ---
 # <a name="pricing-dimensions-overview"></a>Бағалар өлшемдеріне шолу
 
@@ -60,16 +59,16 @@ Dynamics 365 Project Operations бағдарламасы әдепкі бағал
 
 | Рөл        | Ұйымдық бөлімше    |Бірлік      |Баға      |Валюта  |
 | ------------|-------------|----------|----------:|----------|
-| Әзірлеуші   | Contoso (АҚШ)  |Сағат | 200|USD     |
-| Әзірлеуші   | Contoso India |Сағат|   112|USD     |
+| Әзірлеуші   | Contoso АҚШ  |Hour | 200|USD     |
+| Әзірлеуші   | Contoso India |Hour|   112|USD     |
 
 
 **Үлгілі құн мөлшерлемелері**
 
 | Жалақы деңгейі     | Ұйымдық бөлімше    |Бірлік      |Баға      |Валюта  |
 | ----------------|-------------|----------|----------:|----------|
-| My company_Band1 | Contoso (АҚШ)  |Сағат | 145|USD     |
-| My company_Band2 | Contoso India |Сағат|   67|USD     |
+| My company_Band1 | Contoso АҚШ  |Hour | 145|USD     |
+| My company_Band2 | Contoso India |Hour|   67|USD     |
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
