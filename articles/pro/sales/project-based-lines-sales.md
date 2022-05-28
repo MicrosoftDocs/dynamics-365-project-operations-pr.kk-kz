@@ -4,14 +4,14 @@ description: Бұл тақырыпта жобаға негізделген мү�
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 1978b452b84486cabd5b6b4e550261e2c8f76cd89a140709b137ac184c8967c1
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: c0c868aa6c54209c31429278fda19bf925267bce
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999008"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8596747"
 ---
 # <a name="project-based-opportunity-lines---lite"></a>Жобаға негізделген мүмкіндік жолдары - жеңілдетілген
 

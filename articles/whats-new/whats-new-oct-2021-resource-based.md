@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 10/06/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 078869ad01a23bac1108629c5f532ba57a2967e9
-ms.sourcegitcommit: f37502a50cabdaf736aeba149feb5f8288e23df7
+ms.openlocfilehash: c64ef1e2ba9e33b2ca7575a40cc51e0ae987a9f8
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "7753299"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8598495"
 ---
 # <a name="whats-new-october-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылдың қазан айындағы жаңалықтар - ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
 
@@ -21,7 +21,7 @@ ms.locfileid: "7753299"
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
    - 4.25.0.91 нұсқасындағы Microsoft Dataverse ортасындағы Project Operations бағдарламасы
-   - 10.0.21 нұсқасындағы Dynamics 365 Finance ортасындағы жобаны басқару және есепке алу
+   - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.21 нұсқасында
 
 ## <a name="features-included-in-this-release"></a>Осы шығарылымда қамтылған мүмкіндіктер
 
@@ -49,7 +49,7 @@ ms.locfileid: "7753299"
 | Есеп-шот ұсыну және баға белгілеу | 2338357 | Материалды пайдалану журналындағы валюта жоба таңдалған кезде әдепкі бойынша жоба валютасына сай болуы керек. |
 | Уақыт және шығыс | 2414777 | Шығындар мен уақытты енгізу бірнеше байланысты жобаны растауы мүмкін болған кезде растауды болдырмау қажет. |
 
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаларды басқару және есепке алу
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance сайтында жобаны басқару және есепке алу
 
 | Мүмкіндік аумағы | Сілтемелік нөмір | Сапа жаңартуы |
 | --- | --- | --- |

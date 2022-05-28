@@ -5,24 +5,24 @@ author: sigitac
 ms.date: 01/13/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9d54d5fed6e8ec1535ad798073ac8a1eec36e87d1dbba4cc4acd94d8bbdc5157
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 50874d771afe03b08bd95b670f7095bc2d61509d
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008098"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8599553"
 ---
 # <a name="whats-new-january-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылғы қаңтардағы жаңалық - ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
   - 4.6.0.154 нұсқалы Dataverse ортасындағы Project Operations жүйесі
-  - 10.0.16 нұсқасындағы Dynamics 365 Finance ортасындағы жобаны басқару және есепке алу
+  - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.16 нұсқасында
 
 ## <a name="quality-updates"></a>Сапа жаңартулары
 
@@ -43,7 +43,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 | **Жобаны жоспарлау және қадағалау** | 2090202-көше | Енді қолданылмайтын бизнес ережелері **Ескірген** ретінде белгіленді. |
 | **Уақыт және шығыс** | 2091249-көше | Басқару элементтері пайдаланушылар жіберілген немесе мақұлданған уақыт жазбасындағы тапсырманы өзгерте алмайтындай етіп күшейтілді. |
 
-### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаларды басқару және есеп
+### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаны басқару және есепке алу
 
 | **Мүмкіндік аймағы** | **Сілтемелік нөмір** | **Сапа жаңартуы** |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 ## <a name="regulatory-updates"></a>Нормативтік жаңартулар
 
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Қаржы және операциялар қолданбаларына арналған нормативтік жаңартулар туралы ақпаратты қараңыз [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates). Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

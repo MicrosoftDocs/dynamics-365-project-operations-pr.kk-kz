@@ -4,14 +4,14 @@ description: Бұл тақырып есепшот ұсынылатын жоба�
 author: sigitac
 ms.date: 04/05/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: cbc6bcbfa527486df4c740c52cec8c4be1dabe0478783fb7d2e71a65f18c050f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1159a31ba4f30f09734bf9c5a9e594b5c77a831e
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991042"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8596471"
 ---
 # <a name="configure-accounting-for-billable-projects"></a>Есеп-шот ұсынылатын жобалар үшін есепті конфигурациялау
 

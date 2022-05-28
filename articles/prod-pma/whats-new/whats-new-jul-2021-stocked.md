@@ -5,14 +5,14 @@ author: andchoi
 ms.date: 07/01/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: dadcf3e9fa8432fb66f76b7c2f0fdb98bc00511d93984ea98fa30b4fc03fa426
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: db5bb27650d65bb68f45f95cb2562f4b773ddcea
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992708"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8597069"
 ---
 # <a name="whats-new-or-changed-in-project-operations-july-2021-for-stockedproduction-based-scenarios"></a>2021 жылдың шілде айындағы қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations бағдарламасындағы жаңалықтар немесе өзгерістер
 
@@ -20,7 +20,7 @@ _**Келесіге қолданылады:** қосалқы/өндіріске 
 
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
-- 10.0.20 нұсқасындағы Dynamics 365 Finance ортасындағы жобаны басқару және есепке алу
+- Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.20 нұсқасында
  
 ### <a name="quality-updates"></a>Сапа жаңартулары
                                                                                                                                                                                   
@@ -64,7 +64,7 @@ _**Келесіге қолданылады:** қосалқы/өндіріске 
 | Сапар және шығыс                  | [523557](https://fix.lcs.dynamics.com/Issue/Details/?bugId=523557) | **Шығын құжатының күйін қалпына келтіру** құралы жұмыс ағыны табылмаса, шығындар туралы есеп күйін **Жоба** күйіне қалпына келтіруі керек. 
 
 ### <a name="regulatory-updates"></a>Нормативтік жаңартулар
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай‑ақ Lifecycle Services (LCS) қызметіне кіріп, мәселе іздеу құралының көмегімен жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Қаржы және операциялар қолданбаларына арналған нормативтік жаңартулар туралы ақпаратты қараңыз [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates). Сондай‑ақ Lifecycle Services (LCS) қызметіне кіріп, мәселе іздеу құралының көмегімен жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

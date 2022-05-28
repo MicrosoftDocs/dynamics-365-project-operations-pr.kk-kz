@@ -5,14 +5,14 @@ author: Yowelle
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 14c31f27c0d8871063b3c6689a70f32201958002b50ac4c721c4e26c3359b631
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9550cf8fd594585b70d373ecf9eea1b32285e47f
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008818"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8594953"
 ---
 # <a name="whats-new-or-changed-in-project-operations-december-2020-for-stockedproduction-based-scenarios"></a>2020 жылдың желтоқсан айындағы қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations жаңалықтары немесе өзгерістері
 
@@ -20,7 +20,7 @@ _Келесіге қолданылады: қосалқы/өндіріске не
 
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
-  - 10.0.15 нұсқасындағы Dynamics 365 Finance ортасындағы жобаны басқару және есепке алу
+  - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.15 нұсқасында
 
 ## <a name="quality-updates"></a>Сапа жаңартулары
 
@@ -139,7 +139,7 @@ _Келесіге қолданылады: қосалқы/өндіріске не
 
 ## <a name="regulatory-updates"></a>Нормативтік жаңартулар
 
-Dynamics 365 Finance бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Dynamics 365 Finance үшін нормативтік жаңартулар туралы ақпаратты қараңыз [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates). Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

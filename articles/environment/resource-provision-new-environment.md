@@ -5,20 +5,20 @@ author: sigitac
 ms.date: 09/13/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: a00426678d23000dc19386792d346318eab74ed9
-ms.sourcegitcommit: d3f66dfb5978c5c6b7fd51363c7f9278737c49c1
-ms.translationtype: HT
+ms.openlocfilehash: 03626cb1579fad7f8d8eb501905056cd13092754
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "7928668"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8594861"
 ---
 # <a name="provision-a-new-environment"></a>Жаңа ортаны дайындау
 
 _**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 Бұл тақырыпта ресурс/биржадан тыс негіздегі сценарийлерге арналған жаңа Dynamics 365 Project Operations ортасын дайындау жолдары туралы ақпарат беріледі.
 
@@ -34,7 +34,7 @@ LCS жобаңыздың Project Operations автоматтандырылған
 
 ## <a name="provision-a-project-operations-environment"></a>Project Operations ортасын дайындау
 
-1. Жаңа Dynamics 365 Finance [демо-ортасын](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) немесе [сынақ ортасы/өндіріс ортасы](/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure) орналастыруын ашыңыз. 
+1. Жаңа Dynamics 365 Finance ашыңыз [демо орта](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) немесе [құмсалғыш/өндірістік орта](/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure) орналастыру. 
 2. **Ортаны дайындау** шебері арқылы өтіңіз. 
 
    > [!IMPORTANT]
@@ -117,7 +117,7 @@ Project Operations жүйесі бағдарлама нұсқасының **10.0
 
     ![Шешімдерді қолдану.](./media/13ApplySolutions.png)
 
-5. **Dynamics 365 Finance and Operations қос жазу нысан картасы** және **Dynamics 365 Project Operations қос жазу нысан карталары** шешімдерінің екеуін де таңдап, содан соң **Қолдану** түймесін таңдаңыз.
+5. Екі шешімді де таңдаңыз, **Dynamics 365 Finance and Operations Қос жазу нысанының картасы** және **Dynamics 365 Project Operations Қос жазу нысанының карталары**, содан кейін таңдаңыз **Қолдану**.
 
     ![Шешімдерді растау.](./media/14ConfirmSolutions.png)
 

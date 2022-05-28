@@ -4,14 +4,14 @@ description: Бұл тақырыпта Project Operations бағдарламас
 author: sigitac
 ms.date: 11/18/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b3a9f1e4f5ea0abe34dc860db87ef349daa46c487b03d271bfe207868c521f39
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9e163dc3180d2b35ddf9b15aa0577bf51e3b72ce
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993563"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8594217"
 ---
 # <a name="set-up-cost-templates"></a>Құн үлгілерін орнату
 
@@ -56,7 +56,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 ## <a name="create-cost-templates"></a>Құн үлгісін жасау
 Құн үлгілерін жасау үшін, осы қадамдарды орындаңыз:
 
-1. Құн үлгілеріне қол жеткізу үшін Dynamics 365 Finance ортасында **Жобаларды басқару және есеп** > **Орнату** > **Болжамдар** > **Құн үлгісі** тармағына өтіңіз.
+1. Шығын үлгілеріне қол жеткізу үшін Dynamics 365 Finance ортасында өтіңіз **Жобаны басқару және бухгалтерлік есеп** > **Орнату** > **Бағалар** > **Шығын үлгісі**.
 2. Жаңа құн үлгісін жасау үшін **Жаңа** пәрменін таңдаңыз. Атауы мен сипаттамасын енгізіңіз.
 3. Әр транзакция түрі үшін шығындар жолының идентификаторын беріңіз.
 4. Әдепкі аяқтау әдісін таңдаңыз:

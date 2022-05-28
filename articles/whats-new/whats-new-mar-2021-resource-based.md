@@ -5,23 +5,23 @@ author: sigitac
 ms.date: 03/03/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b11a57ae152be154fd6a7d330c8520f3b295ce3ef5cc7051ac9b343e3bcdbe12
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: a59aa5591dd5f5ed129ce710196eea572e66ea0b
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006343"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8599461"
 ---
 # <a name="whats-new-march-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылдың наурыз айындағы жаңалықтар - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
 - 4.8.0.91 нұсқалы Dataverse ортасындағы Project Operations жүйесі 
-- 10.0.16 нұсқасындағы Dynamics 365 Finance ортасында жобаны басқару және есепке алу 
+- Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.16 нұсқасы 
 
 ## <a name="quality-updates"></a>Сапа жаңартулары
 
@@ -42,13 +42,13 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 | Уақыт және шығыс | 2148910-көше | **Уақыт жазбасы** торындағы **Жазбаны өңдеу** бетінде көрсетілу мәселесі шешілді. |
 | Уақыт және шығыс | 2159798-көше | Бекітілген шығыс жазбаларын қамтамасыз ету үшін бекітілген бақылау элементтерін өңдеу мүмкін емес. |
 
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаларды басқару және есепке алу
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance сайтында жобаны басқару және есепке алу
 
 Қосымша ақпарат алу үшін [2021 жылдың қаңтар айындағы жаңалықтар - ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations](whats-new-jan-2021-resource-based.md).
 
 ## <a name="regulatory-updates"></a>Нормативтік жаңартулар
 
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — LCS қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Қаржы және операциялар қолданбаларына арналған нормативтік жаңартулар туралы ақпаратты қараңыз [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates). Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — LCS қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
