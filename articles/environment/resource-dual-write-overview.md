@@ -3,23 +3,22 @@ title: Project Operations қос жазу интеграциясы
 description: Бұл тақырыпта Project Operations қос жазу интеграциясына шолу ұсынылады.
 author: sigitac
 ms.date: 04/28/2021
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.custom: intro-internal
-ms.openlocfilehash: b65c40e8aaa9524c1c634738dadd23f21e86e2ec095c47bc849467c8806addbc
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 9b57b8bab9a6821e71a16b191804af21ae5d0b5a
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7007918"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8582763"
 ---
 # <a name="project-operations-dual-write-integration-overview"></a>Project Operations қос жазу интеграциясына шолу
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Project Operations бағдарламасы Microsoft Dataverse және Dynamics 365 Finance бағдарламаларында деректерді синхрондау үшін [қос жазу мүмкіндіктерін](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-home-page) пайдаланады.
+Project Operations пайдаланады [қосарлы жазу мүмкіндіктері](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-home-page) деректерді синхрондау үшін Microsoft Dataverse және Dynamics 365 Finance.
 
 Келесі суретте деректердің Dataverse және Finance бағдарламалары арасында интеграция бөлігі ретінде синхрондалу жолы көрсетіледі.
 

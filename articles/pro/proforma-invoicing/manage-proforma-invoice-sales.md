@@ -4,14 +4,14 @@ description: Бұл тақырыпта жоба проформа шоттары�
 author: rumant
 ms.date: 04/05/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: f14cf9d5ee25247500180081b8f407ee311db481a5ef5eac330e75d45baba54a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 359f17fb5510b13de97d2349dcbc91d11b48e0f9
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997433"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8582625"
 ---
 # <a name="manage-a-proforma-project-invoice"></a>Жобаның есеп-шотын басқару 
 

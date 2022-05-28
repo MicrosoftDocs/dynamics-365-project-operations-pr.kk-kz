@@ -4,26 +4,26 @@ description: Бұл тақырыпта Project Operations бағдарламас
 author: rumant
 ms.date: 10/07/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: ce84984f873e6336a6d065f0aa7a72f1474404a84d3dbb614c09d58bff66d83d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: f87a29893ca3d9bec6fbd07dded66a282ff597c3
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986948"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8582947"
 ---
 # <a name="concepts-unique-to-project-based-contracts"></a>Жобаға негізделген келісім-шарттар үшін бірегей түсініктер
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 Бұл тақырыпта Dynamics 365 Project Operations бағдарламасындағы жоба келісім-шарттарын пайдалануды бастамас бұрын, білуге тиісті негізгі ұғымдар ұсынылған:
 
 ## <a name="owning-company"></a>Иеленуші компания
 
-Меншіктік компания - бұл Dynamics 365 Finance бағдарламасынан Project Operations жүйесі үшін **Жобаны басқару және бухгалтерлік есеп** модулінің заңды нысаны. Меншіктік компания мәміле нәтижесінде пайда болатын шығындар мен кірістерді ескеретін заңды нысан болып табылады.
+Иелік ететін компания заңды тұлға болып табылады **Жобаны басқару және бухгалтерлік есеп** Dynamics 365 Finance сайтындағы Жоба операцияларына арналған модуль. Меншіктік компания мәміле нәтижесінде пайда болатын шығындар мен кірістерді ескеретін заңды нысан болып табылады.
 
 ## <a name="contracting-unit"></a>Келісім-шарт бірлігі
 

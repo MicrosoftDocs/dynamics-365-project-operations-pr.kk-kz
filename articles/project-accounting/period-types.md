@@ -4,14 +4,14 @@ description: Бұл тақырып табыс болжамы үшін кезең
 author: sigitac
 ms.date: 11/16/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 487e3de7895ca0752e6c9033c7bb7007ba89301c01e6205b3bc8a7d750724bc9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 83cf88bafbc7fc97fba664e278b232c24db53391
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6998783"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8580463"
 ---
 # <a name="period-types"></a>Кезең түрлері
 
@@ -22,7 +22,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 ## <a name="create-and-work-with-period-types"></a>Кезең түрлерін жасап, олармен жұмыс істеу
 Кезең түрлерін құрып, олармен жұмыс істеу үшін келесі қадамдарды орындаңыз:
 
-1. Dynamics 365 Finance ортасында **Жобаларды басқару және есеп** > **Орнату** > **Болжамдар** > **Кезең түрлері** тармағына өтіңіз.
+1. Dynamics 365 Finance ортаңызда мына сайтқа өтіңіз **Жобаны басқару және бухгалтерлік есеп** > **Орнату** > **Бағалар** > **Кезең түрлері**.
 2. Жаңа кезең түрін жасау үшін **Жаңа** пәрменін таңдаңыз. Атауы мен сипаттамасын енгізіңіз.
 3. **Жиілік** өрісінде жаңа мәнді таңдаңыз:
 

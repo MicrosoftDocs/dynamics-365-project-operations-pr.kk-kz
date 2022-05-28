@@ -4,20 +4,20 @@ description: Бұл тақырып Dynamics 365 Project Operations жүйесі�
 author: stsporen
 ms.date: 10/01/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: 2f283771921504dc29ddcc26ca659d4e151598840339bd8c1a857e8bf5dde9ed
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 8ba220097589655381ac1da5d4d926605c3ae672
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991493"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8585753"
 ---
 # <a name="security-model"></a>Қауіпсіздік үлгісі
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 Microsoft Dynamics 365 Project Operations бағдарламасы Microsoft Office топтарымен бірге жұмыс істейтін рөлге негізделген бизнес-қауіпсіздік үлгісіне мүмкіндік беретін бірегей қауіпсіздік үлгісін қамтиды. 
 
@@ -70,7 +70,7 @@ Office тобының бірлесіп жұмыс істеу үлгісі дам
 
 Толығырақ ақпарат алу үшін [Common Data Service қызметіндегі қауіпсіздік](/power-platform/admin/wp-security) тақырыбын қараңыз.
 
-## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Project Operations және Microsoft Dynamics 365 Finance қауіпсіздігі
+## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Жоба операциялары және Microsoft Dynamics 365 Қаржылық қауіпсіздік
 Project Operations келесі рөлдерді қамтиды:
 
 - Жоба менеджері

@@ -5,23 +5,23 @@ author: sigitac
 ms.date: 09/12/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 842ea95892fa4f7a29a778cfd2c33a66e84f676c
-ms.sourcegitcommit: 74a7e1c9c338fb8a4b0ad57c5560a88b6e02d0b2
+ms.openlocfilehash: 06f23630ef0205394f376e5bb93a29ae8a9eab15
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "7547161"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8582901"
 ---
 # <a name="whats-new-september-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылдың қыркүйек айындағы жаңалықтар - ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
 
-*Келесіге қолданылады: ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations*
+*Қолданылады: ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations*
 
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
    - 4.14.0.99 нұсқасындағы Microsoft Dataverse ортасындағы Project Operations бағдарламасы.
-   - 10.0.20 нұсқасындағы Dynamics 365 Finance ортасындағы жобаны басқару және есепке алу.
+   - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.20 нұсқасы.
 
 ## <a name="project-operations-dual-write-maps-updates"></a>Project Operations қос жазу салыстыруларының жаңартулары
 
@@ -45,7 +45,7 @@ ms.locfileid: "7547161"
 | Есеп-шот ұсыну және баға белгілеу | 2385802 | Жоба қорытындылары жаңартылған кезде теріс нақты сағаттарда пайда болатын қате түзетілді. |
 | Есеп-шот ұсыну және баға белгілеу | 2389675 | Жақсартылған проформа-шотын растау тәртібі. Ұзақ мерзімді тапсырмалар нысаны бухгалтерлік есепті растау нәтижелерін жазу үшін қажет қызметті ескеруі тиіс. |
 
-### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаларды басқару және есеп
+### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаны басқару және есепке алу
 
 | Мүмкіндік аумағы | Сілтемелік нөмір | Сапа жаңартуы |
 | --- | --- | --- |

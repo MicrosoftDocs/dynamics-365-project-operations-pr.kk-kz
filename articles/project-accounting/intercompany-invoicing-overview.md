@@ -3,16 +3,15 @@ title: Компанияаралық есеп-шот ұсынуға шолу
 description: Бұл тақырыпта жобалар үшін компанияаралық есеп-шот туралы ақпарат пен мысалдар келтірілген.
 author: sigitac
 ms.date: 11/19/2020
-ms.topic: article
-ms.reviewer: kfend
+ms.topic: overview
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.custom: intro-internal
-ms.openlocfilehash: c343c5bf525574e496036793cd4e131394e8b1b471153147a66cfebe1acf3fce
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: b7bb4384657c71552390bbc3d60f3c5d0e4136b4
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005398"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8586259"
 ---
 # <a name="intercompany-invoicing-overview"></a>Компанияаралық есеп-шот ұсынуға шолу
 
@@ -20,7 +19,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 Ұйымыңызда жобалар бойынша бір-біріне өнімдер мен қызметтерді тасымалдайтын бірнеше бөлімдер, еншілес бөлімшелер және басқа заңды тұлғалар болуы мүмкін. Қызмет немесе өнімді ұсынатын заңды тұлға *несие беруші заңды тұлға* деп аталады. Қызмет немесе өнімді алатын заңды тұлға *несие алушы заңды тұлға* деп аталады.
 
-Келесі кескінде екі заңды тұлға, Contoso Robotics USA (қарыз алушы заңды тұлға) және Contoso Robotics UK (несие беретін заңды тұлға) Adventure Works тұтынушысына жобаны ұсыну үшін ресурстарды бөлісетін әдеттегі сценарий көрсетілген. Осы сценарий үшін Contoso Robotics USA компаниясымен Adventure Works тұтынушысы үшін жұмысты орындау келісімшарты жасалды.
+Келесі суретте екі заңды тұлға, яғни Contoso Robotics USA (қарыз алушы заңды тұлға) және Contoso Robotics UK (несие беруші заңды тұлға) Adventure works тұтынушысына жобаны ұсынуға арналған ресурстарды бөлісетін әдеттегі сценарий көрсетілген. Осы сценарий үшін Contoso Robotics USA компаниясы Adventure Works дерекқорына жұмысты жеткізуге келісім-шарт жасады.
 
 ![Компанияаралық шот жіберу.](./media/IntercompanyScenario.png) 
 
