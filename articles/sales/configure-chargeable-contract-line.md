@@ -4,14 +4,14 @@ description: Бұл тақырып келісім-шарт жолдарында�
 author: rumant
 ms.date: 10/12/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: 51151089df67e2d164fc6315c1291f880917f43f1fba189304cb305ea973cecb
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: bd419e189cd063f1cb2a1f0ecd3cd6450de0996b
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004048"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8586627"
 ---
 # <a name="configure-chargeable-components-of-a-project-contract-line"></a>Жоба келісім-шарты жолының ақылы құрамдастарын конфигурациялау
 
