@@ -5,23 +5,23 @@ author: sigitac
 ms.date: 02/08/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 41d7d7133652069ca3899db7f12e67e9ba531bcd3e36d67c3686a6b637b077d3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: cb6ab1337652d18a30fba56560ffe50f78dd4eb4
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986813"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8589019"
 ---
 # <a name="whats-new-february-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылғы ақпандағы жаңалық - ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
 - Dataverse (4.7.0.95) ортасындағы Project Operations
-- 10.0.16 нұсқасындағы Dynamics 365 Finance ортасындағы жобаны басқару және есепке алу 
+- Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.16 нұсқасында 
 
 ## <a name="quality-updates"></a>Сапа жаңартулары
 
@@ -44,14 +44,14 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 | **Уақыт жазбасы** | 2129161-көше | Пайдаланушылардың жіберілген немесе мақұлданған уақыт жазбасын өзгерте немесе жаңарта алмайтындығына көз жеткізу үшін шектеулер күшейтілді. |
 | **Уақыт жазбасы** | 2103572-көше | Жобадан тыс уақыт жазбалары үшін уақытты мақұлдау қызметі жобаны мақұлдаушы рөлін іздемеуі керек. |
 
-### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаларды басқару және есеп 
+### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаны басқару және есепке алу 
 
-Dynamics 365 Finance ішінде жобаны басқару және есеп туралы толық ақпарат алу үшін [2021 жылғы қаңтардағы жаңалық - ресурс/биржадан тыс негіздегі сценарийлерді орналастыруға арналған Project Operations](whats-new-jan-2021-resource-based.md) бөлімін қараңыз.
+Dynamics 365 Finance ішінде жобаны басқару және есепке алу туралы қосымша ақпаратты қараңыз [2021 жылдың қаңтарындағы жаңалық – Ресурсқа/қорда жоқ сценарийлерге арналған жоба операциялары](whats-new-jan-2021-resource-based.md).
 
 
 ## <a name="regulatory-updates"></a>Нормативтік жаңартулар
 
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Қаржы және операциялар қолданбаларына арналған нормативтік жаңартулар туралы ақпаратты қараңыз [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates). Нормативті жаңартулар туралы ақпарат алудың тағы бір жолы — Lifecycle Services (LCS) қызметтеріне кіру және мәселелерді іздеу құралы арқылы жоспарланған жаңартуларды қарау. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

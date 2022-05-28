@@ -4,25 +4,25 @@ description: Бұл тақырыпта Project Operations бағдарламас
 author: sigitac
 ms.date: 10/28/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 15533febe12f970bb35ccb4cdceedce251d1f837bfb59ffcd10e633eec1a3a92
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 50afe2c0e247cb9d9c5f970810fa917d002ae1d0
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994598"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8591871"
 ---
 # <a name="navigate-project-operations"></a>Project Operations бағдарламасы бойынша шарлау
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 Ресурс/биржадан тыс сценарийлерге арналған Dynamics 365 Project Operations жүйесі екі құрамдастан тұрады: 
 
  - **Common Data Service (CDS) қызметіндегі Project Operations ортасы**: бұл құрамдас мүмкіндіктерден бастап проформа-шотына дейінгі мүмкіндіктер мен процестерді қамтиды. 
- - **Dynamics 365 Finance ортасында жобаны басқару және есеп жүргізу**: бұл құрамдас шығынды басқару, жоба есебін және кірісті тану мүмкіндіктерін қамтиды. 
+ - **Dynamics 365 Finance ортасында жобаны басқару және есепке алу** : Бұл құрамдас шығыстарды басқару мүмкіндіктерін, жоба есебін және кірісті тануды қамтиды. 
 
 Сіз осы тақырыпта сипатталғандай Project Operations жүйесін ұсынғаннан кейін, Lifecycle Services (LCS) **Орта туралы мәліметтер** бетінде Project Operations жүйесінің екі компонентіне оңай қатынасу беріледі.  
 

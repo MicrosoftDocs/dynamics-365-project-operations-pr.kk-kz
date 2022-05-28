@@ -15,12 +15,13 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 9503b6528f91f86cc1ebe1c7ed6111171e74c4a3cbf83b3f68810c3ee5efdd28
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 91ec6d502a44771e7e03b67cc2be40c527fff355
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7002338"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8591917"
 ---
 # <a name="setting-up-custom-fields-as-pricing-dimensions"></a>Реттелетін өрістерді баға өлшемдері ретінде орнату 
 
@@ -73,7 +74,7 @@ ms.locfileid: "7002338"
 | ------------|-------------|-------------------|--------------------|-------------------------|--------:|
 |             | Contoso India|Жергілікті            |                    |Үстеме жұмыс                 |15     |
 |             | Contoso India|Жергілікті             |                    |Үстеме жұмыс                 |10     |
-|             | Contoso (АҚШ)   |Жергілікті             |                    |Үстеме жұмыс                 |20     |
+|             | Contoso АҚШ   |Жергілікті             |                    |Үстеме жұмыс                 |20     |
 
 
 Егер Contoso India компаниясының есептік мөлшерлемесі 100 АҚШ доллары болатын ресурсы жергілікті жұмыс істесе және олар қалыпты уақытта 8 сағатқа және уақыт жазбасында 2 сағат үстеме жұмысқа тіркелсе, Project Service баға механизмі 800 АҚШ долларын жазу үшін, 8 сағатқа 100 АҚШ доллары есептік мөлшерлемесін пайдаланады. 2 сағаттық үстеме жұмыс үшін, 115 АҚШ доллары болатын бірлік бағасын алу үшін 100 есептік мөлшерлемеге 15% үстеме баға қосылып, 230 АҚШ доллары болатын жалпы құнын жазады.

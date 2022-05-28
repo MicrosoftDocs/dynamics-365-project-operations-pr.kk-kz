@@ -2,16 +2,16 @@
 title: Жоспарлау нысандарымен операцияларды орындау үшін жоба кестесінің API интерфейстерін пайдалану
 description: Бұл тақырып жоба кестесінің API интерфейсін пайдалану үшін ақпарат пен үлгілерді ұсынады.
 author: sigitac
-ms.date: 09/09/2021
+ms.date: 01/13/2022
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 6be35b1c52996f4f94dc429974ef47343a027c8c
-ms.sourcegitcommit: bbe484e58a77efe77d28b34709fb6661d5da00f9
-ms.translationtype: HT
+ms.openlocfilehash: cabdf9716e4e25ed682368b99a87b3a3bf483cca
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "7487692"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8592055"
 ---
 # <a name="use-project-schedule-apis-to-perform-operations-with-scheduling-entities"></a>Жоспарлау нысандарымен операцияларды орындау үшін жоба кестесінің API интерфейстерін пайдалану
 
@@ -42,7 +42,7 @@ OperationSet — транзакция шеңберінде бірнеше кес
 
 Төменде ағымдағы жоба кестесінің API интерфейстерінің тізімі келтірілген.
 
-- **msdyn_CreateProjectV1**: бұл API интерфейсін жобаны құру үшін қолдануға болады. Жоба және әдепкі жоба контейнері дереу жасалады.
+- **msdyn_CreateProjectV1**: бұл API интерфейсін жобаны құру үшін қолдануға болады. Жоба және әдепкі жоба шелегі бірден жасалады.
 - **msdyn_CreateTeamMemberV1**: бұл API интерфейсін жоба тобының мүшесін құру үшін қолдануға болады. Топ мүшелерінің жазбасы дереу жасалады.
 - **msdyn_CreateOperationSetV1**: бұл API интерфейсін транзакция кезінде орындалуы керек бірнеше сұраныстарды жоспарлау үшін қолдануға болады.
 - **msdyn_PSSCreateV1**: бұл API интерфейсін нысанды құру үшін пайдалануға болады. Нысан жасау операциясына қолдау көрсететін кез келген жобаны жоспарлау нысандары болуы мүмкін.
@@ -56,14 +56,14 @@ OperationSet — транзакция шеңберінде бірнеше кес
 
 ## <a name="supported-operations"></a>Қолдау көрсетілетін операциялар
 
-| Жоспарлау нысаны | Жасау | Жаңарту | Delete | Маңызды жайттар |
+| Жоспарлау нысаны | Жасау | Update | Delete | Маңызды жайттар |
 | --- | --- | --- | --- | --- |
-Жоба тапсырмасы | Иә | Иә | Иә | Ешқайсысы |
-| Жоба тапсырмасы тәуелділігі | Иә | Иә | | Жоба тапсырмасына тәуелділік туралы жазбалар жаңартылмайды. Оның орнына ескі жазбаны жоюға және жаңа жазба жасауға болады. |
+Жоба тапсырмасы | Иә | Иә | Иә | The **Прогресс**, **аяқталды**, және **Қалған күш** өрістерді Project for the Web қолданбасында өңдеуге болады, бірақ оларды Project Operations ішінде өңдеу мүмкін емес.  |
+| Жоба тапсырмасы тәуелділігі | Иә |  | Иә | Жоба тапсырмасына тәуелділік туралы жазбалар жаңартылмайды. Оның орнына ескі жазбаны жоюға және жаңа жазба жасауға болады. |
 | Ресурс тағайындауы | Иә | Иә | | Келесі өрістермен операцияларға қолдау көрсетілмейді: **BookableResourceID**, **Талпыныс**, **EffortCompleted**, **EffortRemaining** және **PlannedWork**. Ресурстарды тағайындау туралы жазбалар жаңартылмайды. Оның орнына ескі жазбаны жоюға және жаңа жазба жасауға болады. |
-| Жоба контейнері | Қолданылмайды | Қолданылмайды | Қолданылмайды | Әдепкі контейнер **CreateProjectV1** API интерфейсі арқылы жасалады. |
+| Жоба контейнері | Иә | Иә | Иә | Әдепкі шелек көмегімен жасалады **CreateProjectV1** API. Жоба шелектерін жасау және жою үшін қолдау 16-шығарылым жаңартуына қосылды. |
 | Жоба тобының мүшесі | Иә | Иә | Иә | Жасау операциясы үшін **CreateTeamMemberV1** API интерфейсін пайдаланыңыз. |
-| Project | Иә | Иә | Қолданылмайды | Келесі өрістермен операцияларға қолдау көрсетілмейді: **StateCode**, **BulkGenerationStatus**, **GlobalRevisionToken**, **CalendarID**, **Талпыныс**, **EffortCompleted**, **EffortRemaining**, **Орындалу барысы**, **Аяқтау**, **TaskEarliestStart** және **Ұзақтығы**. |
+| Project | Иә | Иә |  | Келесі өрістермен операцияларға қолдау көрсетілмейді: **StateCode**, **BulkGenerationStatus**, **GlobalRevisionToken**, **CalendarID**, **Талпыныс**, **EffortCompleted**, **EffortRemaining**, **Орындалу барысы**, **Аяқтау**, **TaskEarliestStart** және **Ұзақтығы**. |
 
 Бұл API интерфейсін реттелетін өрістерді қамтитын нысан объектілерімен шақыруға болады.
 
@@ -71,196 +71,207 @@ ID сипаты міндетті емес. Егер ол қарастырылғ�
 
 ## <a name="restricted-fields"></a>Шектеулі өрістер
 
-Келесі кестелер **Жасау** және **Өңдеу** параметрлерінен шектелген өрістерді анықтайды.
+Келесі кестелер шектелген өрістерді анықтайды **Жасау** және **Өңдеу**.
 
 ### <a name="project-task"></a>Жоба тапсырмасы
 
-| **Логикалық атау**                       | **Жасалады** | **Өңделеді**     |
+| Логикалық атау                           | Құра алады     | Өңделеді         |
 |----------------------------------------|----------------|------------------|
-| msdyn_actualcost                       | жоқ             | жоқ               |
-| msdyn_actualcost_base                  | жоқ             | жоқ               |
-| msdyn_actualend                        | жоқ             | жоқ               |
-| msdyn_actualsales                      | жоқ             | жоқ               |
-| msdyn_actualsales_base                 | жоқ             | жоқ               |
-| msdyn_actualstart                      | жоқ             | жоқ               |
-| msdyn_costatcompleteestimate           | жоқ             | жоқ               |
-| msdyn_costatcompleteestimate_base      | жоқ             | жоқ               |
-| msdyn_costconsumptionpercentage        | жоқ             | жоқ               |
-| msdyn_effortcompleted                  | жоқ             | жоқ               |
-| msdyn_effortestimateatcomplete         | жоқ             | жоқ               |
-| msdyn_iscritical                       | жоқ             | жоқ               |
-| msdyn_iscriticalname                   | жоқ             | жоқ               |
-| msdyn_ismanual                         | жоқ             | жоқ               |
-| msdyn_ismanualname                     | жоқ             | жоқ               |
-| msdyn_ismilestone                      | жоқ             | жоқ               |
-| msdyn_ismilestonename                  | жоқ             | жоқ               |
-| msdyn_LinkStatus                       | жоқ             | жоқ               |
-| msdyn_linkstatusname                   | жоқ             | жоқ               |
-| msdyn_msprojectclientid                | жоқ             | жоқ               |
-| msdyn_plannedcost                      | жоқ             | жоқ               |
-| msdyn_plannedcost_base                 | жоқ             | жоқ               |
-| msdyn_plannedsales                     | жоқ             | жоқ               |
-| msdyn_plannedsales_base                | жоқ             | жоқ               |
-| msdyn_pluginprocessingdata             | жоқ             | жоқ               |
-| msdyn_progress                         | жоқ             | жоқ (P4W үшін "иә") |
-| msdyn_remainingcost                    | жоқ             | жоқ               |
-| msdyn_remainingcost_base               | жоқ             | жоқ               |
-| msdyn_remainingsales                   | жоқ             | жоқ               |
-| msdyn_remainingsales_base              | жоқ             | жоқ               |
-| msdyn_requestedhours                   | жоқ             | жоқ               |
-| msdyn_resourcecategory                 | жоқ             | жоқ               |
-| msdyn_resourcecategoryname             | жоқ             | жоқ               |
-| msdyn_resourceorganizationalunitid     | жоқ             | жоқ               |
-| msdyn_resourceorganizationalunitidname | жоқ             | жоқ               |
-| msdyn_salesconsumptionpercentage       | жоқ             | жоқ               |
-| msdyn_salesestimateatcomplete          | жоқ             | жоқ               |
-| msdyn_salesestimateatcomplete_base     | жоқ             | жоқ               |
-| msdyn_salesvariance                    | жоқ             | жоқ               |
-| msdyn_salesvariance_base               | жоқ             | жоқ               |
-| msdyn_scheduleddurationminutes         | жоқ             | жоқ               |
-| msdyn_scheduledend                     | жоқ             | жоқ               |
-| msdyn_scheduledstart                   | жоқ             | жоқ               |
-| msdyn_schedulevariance                 | жоқ             | жоқ               |
-| msdyn_skipupdateestimateline           | жоқ             | жоқ               |
-| msdyn_skipupdateestimatelinename       | жоқ             | жоқ               |
-| msdyn_summary                          | жоқ             | жоқ               |
-| msdyn_varianceofcost                   | жоқ             | жоқ               |
-| msdyn_varianceofcost_base              | жоқ             | жоқ               |
+| msdyn_actualcost                       | No             | No               |
+| msdyn_actualcost_base                  | No             | No               |
+| msdyn_actualend                        | No             | No               |
+| msdyn_actualsales                      | No             | No               |
+| msdyn_actualsales_base                 | No             | No               |
+| msdyn_actualstart                      | No             | No               |
+| msdyn_costatcompleteestimate           | No             | No               |
+| msdyn_costatcompleteestimate_base      | No             | No               |
+| msdyn_costconsumptionpercentage        | No             | No               |
+| msdyn_effortcompleted                  | Жоқ (жоба үшін иә)             | Жоқ (жоба үшін иә)               |
+| msdyn_effortremaining                  | Жоқ (жоба үшін иә)              | Жоқ (жоба үшін иә)                |
+| msdyn_effortestimateatcomplete         | No             | No               |
+| msdyn_iscritical                       | No             | No               |
+| msdyn_iscriticalname                   | No             | No               |
+| msdyn_ismanual                         | No             | No               |
+| msdyn_ismanualname                     | No             | No               |
+| msdyn_ismilestone                      | No             | No               |
+| msdyn_ismilestonename                  | No             | No               |
+| msdyn_LinkStatus                       | No             | No               |
+| msdyn_linkstatusname                   | No             | No               |
+| msdyn_msprojectclientid                | No             | No               |
+| msdyn_plannedcost                      | No             | No               |
+| msdyn_plannedcost_base                 | No             | No               |
+| msdyn_plannedsales                     | No             | No               |
+| msdyn_plannedsales_base                | No             | No               |
+| msdyn_pluginprocessingdata             | No             | No               |
+| msdyn_progress                         | Жоқ (жоба үшін иә)             | Жоқ (жоба үшін иә) |
+| msdyn_remainingcost                    | No             | No               |
+| msdyn_remainingcost_base               | No             | No               |
+| msdyn_remainingsales                   | No             | No               |
+| msdyn_remainingsales_base              | No             | No               |
+| msdyn_requestedhours                   | No             | No               |
+| msdyn_resourcecategory                 | No             | No               |
+| msdyn_resourcecategoryname             | No             | No               |
+| msdyn_resourceorganizationalunitid     | No             | No               |
+| msdyn_resourceorganizationalunitidname | No             | No               |
+| msdyn_salesconsumptionpercentage       | No             | No               |
+| msdyn_salesestimateatcomplete          | No             | No               |
+| msdyn_salesestimateatcomplete_base     | No             | No               |
+| msdyn_salesvariance                    | No             | No               |
+| msdyn_salesvariance_base               | No             | No               |
+| msdyn_scheduleddurationminutes         | No             | No               |
+| msdyn_scheduledend                     | No             | No               |
+| msdyn_scheduledstart                   | No             | No               |
+| msdyn_schedulevariance                 | No             | No               |
+| msdyn_skipupdateestimateline           | No             | No               |
+| msdyn_skipupdateestimatelinename       | No             | No               |
+| msdyn_summary                          | No             | No               |
+| msdyn_varianceofcost                   | No             | No               |
+| msdyn_varianceofcost_base              | No             | No               |
 
 ### <a name="project-task-dependency"></a>Жоба тапсырмасы тәуелділігі
 
-| **Логикалық атау**              | **Жасалады** | **Өңделеді** |
+| Логикалық атау                  | Құра алады     | Өңделеді     |
 |-------------------------------|----------------|--------------|
-| msdyn_linktype                | жоқ             | жоқ           |
-| msdyn_linktypename            | жоқ             | жоқ           |
-| msdyn_predecessortask         | иә            | жоқ           |
-| msdyn_predecessortaskname     | иә            | жоқ           |
-| msdyn_project                 | иә            | жоқ           |
-| msdyn_projectname             | иә            | жоқ           |
-| msdyn_projecttaskdependencyid | иә            | жоқ           |
-| msdyn_successortask           | иә            | жоқ           |
-| msdyn_successortaskname       | иә            | жоқ           |
+| msdyn_linktype                | No             | No           |
+| msdyn_linktypename            | No             | No           |
+| msdyn_predecessortask         | Иә            | No           |
+| msdyn_predecessortaskname     | Иә            | No           |
+| msdyn_project                 | Иә            | No           |
+| msdyn_projectname             | Иә            | No           |
+| msdyn_projecttaskdependencyid | Иә            | No           |
+| msdyn_successortask           | Иә            | No           |
+| msdyn_successortaskname       | Иә            | No           |
 
 ### <a name="resource-assignment"></a>Ресурс тағайындауы
 
-| **Логикалық атау**             | **Жасалады** | **Өңделеді** |
+| Логикалық атау                 | Құра алады     | Өңделеді     |
 |------------------------------|----------------|--------------|
-| msdyn_bookableresourceid     | иә            | жоқ           |
-| msdyn_bookableresourceidname | иә            | жоқ           |
-| msdyn_bookingstatusid        | жоқ             | жоқ           |
-| msdyn_bookingstatusidname    | жоқ             | жоқ           |
-| msdyn_committype             | жоқ             | жоқ           |
-| msdyn_committypename         | жоқ             | жоқ           |
-| msdyn_effort                 | жоқ             | жоқ           |
-| msdyn_effortcompleted        | жоқ             | жоқ           |
-| msdyn_effortremaining        | жоқ             | жоқ           |
-| msdyn_finish                 | жоқ             | жоқ           |
-| msdyn_plannedcost            | жоқ             | жоқ           |
-| msdyn_plannedcost_base       | жоқ             | жоқ           |
-| msdyn_plannedcostcontour     | жоқ             | жоқ           |
-| msdyn_plannedsales           | жоқ             | жоқ           |
-| msdyn_plannedsales_base      | жоқ             | жоқ           |
-| msdyn_plannedsalescontour    | жоқ             | жоқ           |
-| msdyn_plannedwork            | жоқ             | жоқ           |
-| msdyn_projectid              | иә            | жоқ           |
-| msdyn_projectidname          | жоқ             | жоқ           |
-| msdyn_projectteamid          | жоқ             | жоқ           |
-| msdyn_projectteamidname      | жоқ             | жоқ           |
-| msdyn_start                  | жоқ             | жоқ           |
-| msdyn_taskid                 | жоқ             | жоқ           |
-| msdyn_taskidname             | жоқ             | жоқ           |
-| msdyn_userresourceid         | жоқ             | жоқ           |
+| msdyn_bookableresourceid     | Иә            | No           |
+| msdyn_bookableresourceidname | Иә            | No           |
+| msdyn_bookingstatusid        | No             | No           |
+| msdyn_bookingstatusidname    | No             | No           |
+| msdyn_committype             | No             | No           |
+| msdyn_committypename         | No             | No           |
+| msdyn_effort                 | No             | No           |
+| msdyn_effortcompleted        | No             | No           |
+| msdyn_effortremaining        | No             | No           |
+| msdyn_finish                 | No             | No           |
+| msdyn_plannedcost            | No             | No           |
+| msdyn_plannedcost_base       | No             | No           |
+| msdyn_plannedcostcontour     | No             | No           |
+| msdyn_plannedsales           | No             | No           |
+| msdyn_plannedsales_base      | No             | No           |
+| msdyn_plannedsalescontour    | No             | No           |
+| msdyn_plannedwork            | No             | No           |
+| msdyn_projectid              | Иә            | No           |
+| msdyn_projectidname          | No             | No           |
+| msdyn_projectteamid          | No             | No           |
+| msdyn_projectteamidname      | No             | No           |
+| msdyn_start                  | No             | No           |
+| msdyn_taskid                 | No             | No           |
+| msdyn_taskidname             | No             | No           |
+| msdyn_userresourceid         | No             | No           |
 
 ### <a name="project-team-member"></a>Жоба тобының мүшесі
 
-| **Логикалық атау**                                 | **Жасалады** | **Өңделеді** |
+| Логикалық атау                                     | Құра алады     | Өңделеді     |
 |--------------------------------------------------|----------------|--------------|
-| msdyn_calendarid                                 | жоқ             | жоқ           |
-| msdyn_creategenericteammemberwithrequirementname | жоқ             | жоқ           |
-| msdyn_deletestatus                               | жоқ             | жоқ           |
-| msdyn_deletestatusname                           | жоқ             | жоқ           |
-| msdyn_effort                                     | жоқ             | жоқ           |
-| msdyn_effortcompleted                            | жоқ             | жоқ           |
-| msdyn_effortremaining                            | жоқ             | жоқ           |
-| msdyn_finish                                     | жоқ             | жоқ           |
-| msdyn_hardbookedhours                            | жоқ             | жоқ           |
-| msdyn_hours                                      | жоқ             | жоқ           |
-| msdyn_markedfordeletiontimer                     | жоқ             | жоқ           |
-| msdyn_markedfordeletiontimestamp                 | жоқ             | жоқ           |
-| msdyn_msprojectclientid                          | жоқ             | жоқ           |
-| msdyn_percentage                                 | жоқ             | жоқ           |
-| msdyn_requiredhours                              | жоқ             | жоқ           |
-| msdyn_softbookedhours                            | жоқ             | жоқ           |
-| msdyn_start                                      | жоқ             | жоқ           |
+| msdyn_calendarid                                 | No             | No           |
+| msdyn_creategenericteammemberwithrequirementname | No             | No           |
+| msdyn_deletestatus                               | No             | No           |
+| msdyn_deletestatusname                           | No             | No           |
+| msdyn_effort                                     | No             | No           |
+| msdyn_effortcompleted                            | No             | No           |
+| msdyn_effortremaining                            | No             | No           |
+| msdyn_finish                                     | No             | No           |
+| msdyn_hardbookedhours                            | No             | No           |
+| msdyn_hours                                      | No             | No           |
+| msdyn_markedfordeletiontimer                     | No             | No           |
+| msdyn_markedfordeletiontimestamp                 | No             | No           |
+| msdyn_msprojectclientid                          | No             | No           |
+| msdyn_percentage                                 | No             | No           |
+| msdyn_requiredhours                              | No             | No           |
+| msdyn_softbookedhours                            | No             | No           |
+| msdyn_start                                      | No             | No           |
 
 ### <a name="project"></a>Project
 
-| **Логикалық атау**                       | **Жасалады** | **Өңделеді** |
+| Логикалық атау                           | Құра алады     | Өңделеді     |
 |----------------------------------------|----------------|--------------|
-| msdyn_actualexpensecost                | жоқ             | жоқ           |
-| msdyn_actualexpensecost_base           | жоқ             | жоқ           |
-| msdyn_actuallaborcost                  | жоқ             | жоқ           |
-| msdyn_actuallaborcost_base             | жоқ             | жоқ           |
-| msdyn_actualsales                      | жоқ             | жоқ           |
-| msdyn_actualsales_base                 | жоқ             | жоқ           |
-| msdyn_contractlineproject              | иә            | жоқ           |
-| msdyn_contractorganizationalunitid     | иә            | жоқ           |
-| msdyn_contractorganizationalunitidname | иә            | жоқ           |
-| msdyn_costconsumption                  | жоқ             | жоқ           |
-| msdyn_costestimateatcomplete           | жоқ             | жоқ           |
-| msdyn_costestimateatcomplete_base      | жоқ             | жоқ           |
-| msdyn_costvariance                     | жоқ             | жоқ           |
-| msdyn_costvariance_base                | жоқ             | жоқ           |
-| msdyn_duration                         | жоқ             | жоқ           |
-| msdyn_effort                           | жоқ             | жоқ           |
-| msdyn_effortcompleted                  | жоқ             | жоқ           |
-| msdyn_effortestimateatcompleteeac      | жоқ             | жоқ           |
-| msdyn_effortremaining                  | жоқ             | жоқ           |
-| msdyn_finish                           | иә            | иә          |
-| msdyn_globalrevisiontoken              | жоқ             | жоқ           |
-| msdyn_islinkedtomsprojectclient        | жоқ             | жоқ           |
-| msdyn_islinkedtomsprojectclientname    | жоқ             | жоқ           |
-| msdyn_linkeddocumenturl                | жоқ             | жоқ           |
-| msdyn_msprojectdocument                | жоқ             | жоқ           |
-| msdyn_msprojectdocumentname            | жоқ             | жоқ           |
-| msdyn_plannedexpensecost               | жоқ             | жоқ           |
-| msdyn_plannedexpensecost_base          | жоқ             | жоқ           |
-| msdyn_plannedlaborcost                 | жоқ             | жоқ           |
-| msdyn_plannedlaborcost_base            | жоқ             | жоқ           |
-| msdyn_plannedsales                     | жоқ             | жоқ           |
-| msdyn_plannedsales_base                | жоқ             | жоқ           |
-| msdyn_progress                         | жоқ             | жоқ           |
-| msdyn_remainingcost                    | жоқ             | жоқ           |
-| msdyn_remainingcost_base               | жоқ             | жоқ           |
-| msdyn_remainingsales                   | жоқ             | жоқ           |
-| msdyn_remainingsales_base              | жоқ             | жоқ           |
-| msdyn_replaylogheader                  | жоқ             | жоқ           |
-| msdyn_salesconsumption                 | жоқ             | жоқ           |
-| msdyn_salesestimateatcompleteeac       | жоқ             | жоқ           |
-| msdyn_salesestimateatcompleteeac_base  | жоқ             | жоқ           |
-| msdyn_salesvariance                    | жоқ             | жоқ           |
-| msdyn_salesvariance_base               | жоқ             | жоқ           |
-| msdyn_scheduleperformance              | жоқ             | жоқ           |
-| msdyn_scheduleperformancename          | жоқ             | жоқ           |
-| msdyn_schedulevariance                 | жоқ             | жоқ           |
-| msdyn_taskearlieststart                | жоқ             | жоқ           |
-| msdyn_teamsize                         | жоқ             | жоқ           |
-| msdyn_teamsize_date                    | жоқ             | жоқ           |
-| msdyn_teamsize_state                   | жоқ             | жоқ           |
-| msdyn_totalactualcost                  | жоқ             | жоқ           |
-| msdyn_totalactualcost_base             | жоқ             | жоқ           |
-| msdyn_totalplannedcost                 | жоқ             | жоқ           |
-| msdyn_totalplannedcost_base            | жоқ             | жоқ           |
+| msdyn_actualexpensecost                | No             | No           |
+| msdyn_actualexpensecost_base           | No             | No           |
+| msdyn_actuallaborcost                  | No             | No           |
+| msdyn_actuallaborcost_base             | No             | No           |
+| msdyn_actualsales                      | No             | No           |
+| msdyn_actualsales_base                 | No             | No           |
+| msdyn_contractlineproject              | Иә            | No           |
+| msdyn_contractorganizationalunitid     | Иә            | No           |
+| msdyn_contractorganizationalunitidname | Иә            | No           |
+| msdyn_costconsumption                  | No             | No           |
+| msdyn_costestimateatcomplete           | No             | No           |
+| msdyn_costestimateatcomplete_base      | No             | No           |
+| msdyn_costvariance                     | No             | No           |
+| msdyn_costvariance_base                | No             | No           |
+| msdyn_duration                         | No             | No           |
+| msdyn_effort                           | No             | No           |
+| msdyn_effortcompleted                  | No             | No           |
+| msdyn_effortestimateatcompleteeac      | No             | No           |
+| msdyn_effortremaining                  | No             | No           |
+| msdyn_finish                           | Иә            | Иә          |
+| msdyn_globalrevisiontoken              | No             | No           |
+| msdyn_islinkedtomsprojectclient        | No             | No           |
+| msdyn_islinkedtomsprojectclientname    | No             | No           |
+| msdyn_linkeddocumenturl                | No             | No           |
+| msdyn_msprojectdocument                | No             | No           |
+| msdyn_msprojectdocumentname            | No             | No           |
+| msdyn_plannedexpensecost               | No             | No           |
+| msdyn_plannedexpensecost_base          | No             | No           |
+| msdyn_plannedlaborcost                 | No             | No           |
+| msdyn_plannedlaborcost_base            | No             | No           |
+| msdyn_plannedsales                     | No             | No           |
+| msdyn_plannedsales_base                | No             | No           |
+| msdyn_progress                         | No             | No           |
+| msdyn_remainingcost                    | No             | No           |
+| msdyn_remainingcost_base               | No             | No           |
+| msdyn_remainingsales                   | No             | No           |
+| msdyn_remainingsales_base              | No             | No           |
+| msdyn_replaylogheader                  | No             | No           |
+| msdyn_salesconsumption                 | No             | No           |
+| msdyn_salesestimateatcompleteeac       | No             | No           |
+| msdyn_salesestimateatcompleteeac_base  | No             | No           |
+| msdyn_salesvariance                    | No             | No           |
+| msdyn_salesvariance_base               | No             | No           |
+| msdyn_scheduleperformance              | No             | No           |
+| msdyn_scheduleperformancename          | No             | No           |
+| msdyn_schedulevariance                 | No             | No           |
+| msdyn_taskearlieststart                | No             | No           |
+| msdyn_teamsize                         | No             | No           |
+| msdyn_teamsize_date                    | No             | No           |
+| msdyn_teamsize_state                   | No             | No           |
+| msdyn_totalactualcost                  | No             | No           |
+| msdyn_totalactualcost_base             | No             | No           |
+| msdyn_totalplannedcost                 | No             | No           |
+| msdyn_totalplannedcost_base            | No             | No           |
 
+### <a name="project-bucket"></a>Жоба контейнері
+
+| Логикалық атау          | Құра алады      | Өңделеді     |
+|-----------------------|-----------------|--------------|
+| msdyn_displayorder    | Иә             | No           |
+| msdyn_name            | Иә             | Иә          |
+| msdyn_project         | Иә             | No           |
+| msdyn_projectbucketid | Иә             | No           |
 
 ## <a name="limitations-and-known-issues"></a>Шектеулер мен белгілі қателер
 Төменде шектеулер мен белгілі мәселелер тізімі берілген:
 
-- Жоба кестесінің API интерфейстерін тек **Microsoft Project лицензиясы бар пайдаланушылар** ғана пайдалана алады. Оларды пайдалана алмайды:
+- Project Schedule API интерфейсін тек пайдаланушы пайдалана алады **Microsoft Project лицензиясы бар пайдаланушылар**. Оларды пайдалана алмайды:
+
     - Бағдарлама пайдаланушылары
     - Жүйе пайдаланушылары
     - Интеграция пайдаланушылары
     - Қажетті лицензиясы жоқ басқа пайдаланушылар
+
 - Әр **OperationSet** ең көбі 100 операция жасай алады.
 - Әрбір пайдаланушыда ең көбі 10 ашық **OperationSets** бола алады.
 - Қазіргі уақытта Project Operations жобадағы ең көбі 500 тапсырманы қолдайды.
@@ -269,8 +280,8 @@ ID сипаты міндетті емес. Егер ол қарастырылғ�
 
 ## <a name="error-handling"></a>Қатені өңдеу
 
-   - Операциялық жиындардан туындаған қателерді қарап шығу үшін **Параметрлер** \> **Кесте интеграциясы** \> **Операциялар жиындары** бөліміне өтіңіз.
-   - Жоба кестесіндегі қызметтен туындаған қателерді қарап шығу үшін **Параметрлер** \> **Кестені біріктіру** \> **PSS қателер журналдары** тармағына өтіңіз.
+- Операциялық жиындардан туындаған қателерді қарап шығу үшін **Параметрлер** \> **Кесте интеграциясы** \> **Операциялар жиындары** бөліміне өтіңіз.
+- Жоба кестесіндегі қызметтен туындаған қателерді қарап шығу үшін **Параметрлер** \> **Кестені біріктіру** \> **PSS қателер журналдары** тармағына өтіңіз.
 
 ## <a name="sample-scenario"></a>Үлгі сценарий
 
@@ -492,7 +503,6 @@ private Entity GetTask(string name, EntityReference projectReference, EntityRefe
     task["msdyn_effort"] = 4d;
     task["msdyn_scheduledstart"] = DateTime.Today;
     task["msdyn_scheduledend"] = DateTime.Today.AddDays(5);
-    task["msdyn_progress"] = 0.34m;
     task["msdyn_start"] = DateTime.Now.AddDays(1);
     task["msdyn_projectbucket"] = GetBucket(projectReference).ToEntityReference();
     task["msdyn_LinkStatus"] = new OptionSetValue(192350000);
@@ -524,9 +534,7 @@ private Entity GetResourceAssignment(string name, Entity teamMember, Entity task
     assignment["msdyn_taskid"] = task.ToEntityReference();
     assignment["msdyn_projectid"] = project.ToEntityReference();
     assignment["msdyn_name"] = name;
-    assignment["msdyn_start"] = DateTime.Now;
-    assignment["msdyn_finish"] = DateTime.Now;
-
+   
     return assignment;
 }
 

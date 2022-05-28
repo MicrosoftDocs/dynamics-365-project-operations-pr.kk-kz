@@ -2,76 +2,80 @@
 title: Copy Project көмегімен жоба үлгілерін жасау
 description: Бұл тақырыпта Copy Project реттелетін әрекеті көмегімен жоба үлгілерін жасау жолы туралы ақпарат берілген.
 author: stsporen
-ms.date: 01/21/2021
+ms.date: 03/10/2022
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: d12301b4e7baabeb0f045f9a11d4695fc026339af3fa7650db7177c495c71e90
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 72aa2db7c717eeab85ada448c673bf702087baeb
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989267"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8590905"
 ---
 # <a name="develop-project-templates-with-copy-project"></a>Copy Project көмегімен жоба үлгілерін жасау
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 Dynamics 365 Project Operations бағдарламасы жобаны көшіру және кез келген тапсырманы рөлді көрсететін жалпы ресурстарға қайтару мүмкіндігін қолдайды. Тұтынушылар бұл функцияны жобаның негізгі үлгілерін құру үшін пайдалана алады.
 
 **Copy Project** таңдалған кезде, мақсатты жобаның күйі жаңартылады. Көшіру әрекеті қашан аяқталғанын анықтау **Күй себебі** пәрменін пайдаланыңыз. **Copy Project** таңдау мақсатты жоба нысанында ешқандай мақсатты күн анықталмаса, жобаның басталу күнін ағымдағы басталу күніне дейін жаңартады.
 
-## <a name="copy-project-custom-action"></a>Copy Project реттелетін әрекеті 
+## <a name="copy-project-custom-action"></a>Copy Project реттелетін әрекеті
 
-### <a name="name"></a>Атауы 
+### <a name="name"></a>Аты 
 
-**msdyn_CopyProjectV2**
+msdyn\_ CopyProjectV3
 
 ### <a name="input-parameters"></a>Кіріс параметрлер
+
 Үш кіріс параметрі берілген:
 
-| Параметр          | Түр   | Мәндер                                                   | 
-|--------------------|--------|----------------------------------------------------------|
-| ProjectCopyOption  | String | **{"removeNamedResources":true}** немесе **{"clearTeamsAndAssignments":true}** |
-| SourceProject      | Нысан анықтамасы | Бастапқы жоба |
-| Мақсатты мән             | Нысан анықтамасы | Мақсатты жоба |
+- **ReplaceNamedResources** немесе **Топтарды және тапсырмаларды тазалау** – Опциялардың тек біреуін орнатыңыз. Екеуін де орнатпаңыз.
 
+    - **\{"ReplaceNamedResources":шын\}** – Жоба операцияларының әдепкі әрекеті. Кез келген атаулы ресурстар жалпы ресурстармен ауыстырылады.
+    - **\{«Таза командалар мен тапсырмалар»:шын\}** – Web for Project үшін әдепкі әрекет. Барлық тапсырмалар мен топ мүшелері жойылады.
 
-- **{"clearTeamsAndAssignments":true}**: интернетке арналған жобаның әдепкі әрекеті және барлық тапсырмалар мен топ мүшелерін жояды.
-- **{"removeNamedResources":true}** Project Operation бағдарламасына арналған әдепкі әрекет және тағайындауларды жалпы ресурстарға қайтарады.
+- **SourceProject** – Көшірілетін бастапқы жобаның нысан сілтемесі. Бұл параметр нөл болуы мүмкін емес.
+- **Мақсат** – Көшірілетін мақсатты жобаның нысан сілтемесі. Бұл параметр нөл болуы мүмкін емес.
 
-Әрекеттердегі әдепкі параметрлер туралы ақпарат алу үшін [Веб API әрекеттерін пайдалану](/powerapps/developer/common-data-service/webapi/use-web-api-actions) бөлімін қараңыз
+Келесі кестеде үш параметрдің қысқаша мазмұны берілген.
 
-## <a name="specify-fields-to-copy"></a>Көшіру үшін өрістерді көрсетіңіз 
+| Параметр                | Түр             | Value                 |
+|--------------------------|------------------|-----------------------|
+| ReplaceNamedResources    | Boolean          | **Рас** немесе **Жалған** |
+| Топтарды және тапсырмаларды тазалау | Boolean          | **Рас** немесе **Жалған** |
+| SourceProject            | Нысан анықтамасы | Бастапқы жоба    |
+| Межелі орын                   | Нысан анықтамасы | Мақсатты жоба    |
+
+Әрекеттердің қосымша әдепкі параметрлері үшін қараңыз [Web API әрекеттерін пайдаланыңыз](/powerapps/developer/common-data-service/webapi/use-web-api-actions).
+
+### <a name="validations"></a>Тексерулер
+
+Келесі тексерулер орындалады.
+
+1. Нөл ұйымдағы екі жобаның да бар екенін растау үшін бастапқы және мақсатты жобаларды тексереді және шығарып алады.
+2. Жүйе келесі шарттарды тексеру арқылы мақсатты жобаның көшіру үшін жарамды екенін растайды:
+
+    - Жобада бұрынғы әрекет жоқ (соның ішінде **Тапсырмалар** қойындысы) және жоба жаңадан жасалған.
+    - Бұл жобада алдыңғы көшірме жоқ, импорттау сұралмаған және жобада жоқ **Сәтсіз** күй.
+
+3. Операция HTTP арқылы шақырылмайды.
+
+## <a name="specify-fields-to-copy"></a>Көшіру үшін өрістерді көрсетіңіз
+
 Әрекет шақырылған кезде, **Copy Project** жоба көшірілгенде қандай өрістер көшірілетінін анықтау үшін **Жоба бағандарын көшіру** жоба көрінісін қарастырады.
 
-
 ### <a name="example"></a>Мысал
-Келеcі мысалда **removeNamedResources** параметрлер жинағы көмегімен **CopyProject** пайдаланушы әрекетін шақыру әдісі көрсетілген.
+
+Келесі мысалда қоңырау шалу жолы көрсетілген **CopyProjectV3** көмегімен реттелетін әрекет **RemoveNamedResources** параметр жинағы.
+
 ```C#
 {
     using System;
     using System.Runtime.Serialization;
     using Microsoft.Xrm.Sdk;
     using Newtonsoft.Json;
-
-    [DataContract]
-    public class ProjectCopyOption
-    {
-        /// <summary>
-        /// Clear teams and assignments.
-        /// </summary>
-        [DataMember(Name = "clearTeamsAndAssignments")]
-        public bool ClearTeamsAndAssignments { get; set; }
-
-        /// <summary>
-        /// Replace named resource with generic resource.
-        /// </summary>
-        [DataMember(Name = "removeNamedResources")]
-        public bool ReplaceNamedResources { get; set; }
-    }
 
     public class CopyProjectSample
     {
@@ -89,27 +93,32 @@ Dynamics 365 Project Operations бағдарламасы жобаны көшір
             var sourceProject = new Entity("msdyn_project", sourceProjectId);
 
             Entity targetProject = new Entity("msdyn_project");
-            targetProject["msdyn_subject"] = "Example Project";
+            targetProject["msdyn_subject"] = "Example Project - Copy";
             targetProject.Id = organizationService.Create(targetProject);
 
-            ProjectCopyOption copyOption = new ProjectCopyOption();
-            copyOption.ReplaceNamedResources = true;
-
-            CallCopyProjectAPI(sourceProject.ToEntityReference(), targetProject.ToEntityReference(), copyOption);
+            CallCopyProjectAPI(sourceProject.ToEntityReference(), targetProject.ToEntityReference(), copyOption, true, false);
             Console.WriteLine("Done ...");
         }
 
-        private void CallCopyProjectAPI(EntityReference sourceProject, EntityReference TargetProject, ProjectCopyOption projectCopyOption)
+        private void CallCopyProjectAPI(EntityReference sourceProject, EntityReference TargetProject, bool replaceNamedResources = true, bool clearTeamsAndAssignments = false)
         {
-            OrganizationRequest req = new OrganizationRequest("msdyn_CopyProjectV2");
+            OrganizationRequest req = new OrganizationRequest("msdyn_CopyProjectV3");
             req["SourceProject"] = sourceProject;
             req["Target"] = TargetProject;
-            req["ProjectCopyOption"] = JsonConvert.SerializeObject(projectCopyOption);
+
+            if (replaceNamedResources)
+            {
+                req["ReplaceNamedResources"] = true;
+            }
+            else
+            {
+                req["ClearTeamsAndAssignments"] = true;
+            }
+
             OrganizationResponse response = organizationService.Execute(req);
         }
     }
 }
 ```
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

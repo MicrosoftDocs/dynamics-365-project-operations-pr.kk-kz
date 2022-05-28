@@ -1,24 +1,24 @@
 ---
 title: Демо деректерді Finance бұлт қызметтеріне орналастырылған ортаға қолдану
-description: Бұл тақырып Project Operations демо деректерін Dynamics 365 Finance бұлт қызметтеріне орналастырылған ортаға қалай қолдануға болатындығын түсіндіреді.
+description: Бұл тақырып Dynamics 365 Finance бұлтта орналастырылған ортаға Жоба әрекеттерінен демонстрациялық деректерді қалай қолдану керектігін түсіндіреді.
 author: sigitac
 ms.date: 10/01/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: c04aab6ffb332a3095ca2a7890deb73f15a8b5e3713021c60eec02eb13dbd0cb
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: e4ccc7eb02fabdc0476fe454f33bff637ab8b835
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7009673"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8588973"
 ---
 # <a name="apply-demo-data-to-a-finance-cloud-hosted-environment"></a>Демо деректерді Finance бұлт қызметтеріне орналастырылған ортаға қолдану
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 > [!IMPORTANT]
-> Бұл тақырып тек Microsoft Dynamics 365 Finance 10.0.13 нұсқасына ғана қатысты және тек бұлт қызметтеріне орналастырылған ортада орындалуы мүмкін. Ортағаның сапа жаңартуларын қолданар **АЛДЫНДА** осы тақырыптағы қадамдарды аяқтаңыз.
+> Бұл тақырып тек қана қолданылады Microsoft Dynamics 365 Finance 10.0.13 нұсқасы және оны тек бұлтқа орналастырылған ортада орындауға болады. Ортағаның сапа жаңартуларын қолданар **АЛДЫНДА** осы тақырыптағы қадамдарды аяқтаңыз.
 
 1. LCS жобасында **Орта туралы мәліметтер** бетін ашыңыз. Оның Remote Desktop Protocol (RDP) бағдарламалық жасақтамасы арқылы ортаға қосылуға қажетті мәліметтерді қамтитынына назар аударыңыз.
 
@@ -76,7 +76,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 18. Қашықтағы жұмыс үстелінің сессиясын жауып, оның күтілгендей жұмыс істеп тұрғанын растау үшін ортаға кіру мақсатында LCS **Орта туралы мәліметтер** бетін пайдаланыңыз.
 
-![Finance and Operations.](./media/10FinanceAndOperations.png)
+![Қаржы және операциялар.](./media/10FinanceAndOperations.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
