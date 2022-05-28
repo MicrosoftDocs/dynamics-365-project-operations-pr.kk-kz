@@ -15,16 +15,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ac8e17dddd48eed61070bb93660e0c1ccf6d0bafb78a64cecf1b6ab45da7d1a9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: df0f486a3a3d592b8780671ab05ed26f97df24ea
+ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7002203"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "8723592"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-295-v3"></a>Project Service Automation бағдарламасының 29.5 жаңарту шығарылымы 3-нұсқасындағы жаңалықтар немесе өзгерістер
 
-Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution.md) мақаласын қараңыз.
+Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
 Бұл бөлімде Project Service Automation бағдарламасының 29.5 жаңарту шығарылымының 3-нұсқасындағы мүмкіндіктер мен түзетулер берілген. Бұл нұсқа V3.10.47.150 құрылым нөміріне ие және әдетте 2021 жылдың қаңтар айында шыққан өзін-өзі жаңарту мүмкіндігі арқылы қолжетімді.
 

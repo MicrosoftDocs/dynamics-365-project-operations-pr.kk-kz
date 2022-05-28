@@ -1,33 +1,31 @@
 ---
 title: Project Service Automation бағдарламасына шолу
-description: Бұл тақырыпта Dynamics 365 Project Service Automation бағдарламасын Dynamics 365 Finance бағдарламасына біріктіру шешімі туралы ақпарат көрсетілген.
+description: Бұл тақырып туралы ақпарат берілген Dynamics 365 Project Service Automation Dynamics 365 Finance интеграциялық шешіміне.
 author: ruhercul
 ms.date: 07/25/2019
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: ruhercul
-ms.search.scope: Core, Operations
-ms.custom: intro-internal
+ms.reviewer: johnmichalak
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: ruhercul
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 551d511fda83857459a0488cfb48a9c7829171d2e4bd526ab27b4ee74b21910d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 1b8588e664f140ca1b0dd740d27fe6a5137da595
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005893"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8685523"
 ---
 # <a name="project-service-automation-overview"></a>Project Service Automation бағдарламасына шолу
 
 [!include[banner](../includes/banner.md)]
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-Project Service Automation және Finance біріктіру шешімі Common Data Service арқылы Dynamics 365 Finance және Dynamics 365 Project Service Automation даналары бойынша деректерді синхрондау үшін деректерді біріктіру мүмкіндігін пайдаланады. Деректерді біріктіру мүмкіндігімен бірге қолжетімді біріктіру үлгілері Project Service Automation бағдарламасынан Finance бағдарламасына жоба, жоба келісім-шарттары, жоба келісім-шарты жолдары, жоба келісім-шарты жолының кезеңдері, жоба тапсырмалары, шығыс транзакция санаттары, сағаттық болжамдар және шығын болжамдары ағынына мүмкіндік береді.
+
+Project Service Automation to Finance интеграциялық шешімі деректерді біріктіру мүмкіндігін Dynamics 365 Finance даналары арасында синхрондау және Dynamics 365 Project Service Automation арқылы Common Data Service. Деректерді біріктіру мүмкіндігімен бірге қолжетімді біріктіру үлгілері Project Service Automation бағдарламасынан Finance бағдарламасына жоба, жоба келісім-шарттары, жоба келісім-шарты жолдары, жоба келісім-шарты жолының кезеңдері, жоба тапсырмалары, шығыс транзакция санаттары, сағаттық болжамдар және шығын болжамдары ағынына мүмкіндік береді.
 
 > [!NOTE]
 > - Егер 7.3.0 нұсқасын пайдалансаңыз, 4074835 білім қорын орнату қажет. Содан кейін белгіленген баға жобаларын біріктіре аласыз.

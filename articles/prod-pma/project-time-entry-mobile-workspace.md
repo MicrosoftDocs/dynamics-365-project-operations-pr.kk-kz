@@ -7,8 +7,7 @@ ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 272101
 ms.assetid: 4505f021-b9bb-4b87-be24-6bf0bd88ee60
 ms.search.region: Global
@@ -16,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 04024cc005b67b8f4e5821b22be65cfd1822b2414c85e1fbb75c3b2ac4339dc4
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 64a80d931332a4d6edfcd175d7168a7815ddca38
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989558"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8683959"
 ---
 # <a name="project-time-entry-mobile-workspace"></a>Жоба уақытын енгізуге арналған мобильді жұмыс кеңістігі
 
@@ -45,7 +44,7 @@ ms.locfileid: "6989558"
 ## <a name="prerequisites"></a>Алғышарттар
 Ұйымыңыз үшін орналастырылған Microsoft Dynamics 365 нұсқасына негізделген алғышарттар әртүрлі болады.
 
-### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Dynamics 365 Finance пайдалану үшін қажетті алғышарттар
+### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Алғышарттар, егер сіз Dynamics 365 Finance пайдалансаңыз
 Ұйымыңызға Finance бағдарламасы орналастырылған болса, жүйе әкімшісі **Жоба уақытын енгізу** мобильді жұмыс кеңістігін жариялауы тиіс. Нұсқауларды [Мобильді жұмыс кеңістігін жариялау](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace) бөлімінен қараңыз.
 
 ### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a>Platform 3 немесе одан кейінгі жаңартуы бар 1611 нұсқасын пайдалану үшін қажетті алғышарттар
@@ -83,7 +82,7 @@ ms.locfileid: "6989558"
 
 ## <a name="download-and-install-the-mobile-app"></a>Мобильді құрылғы бағдарламасын жүктеп алу және орнату
 
-Finance and Operations мобильді құрылғы бағдарламасын жүктеп алыңыз және орнатыңыз:
+Қаржы және операциялар мобильді қосымшасын жүктеп алыңыз және орнатыңыз:
 
 -   [Android телефондарына арналған](https://go.microsoft.com/fwlink/?linkid=850662)
 -   [iPhone телефондарына арналған](https://go.microsoft.com/fwlink/?linkid=850663)

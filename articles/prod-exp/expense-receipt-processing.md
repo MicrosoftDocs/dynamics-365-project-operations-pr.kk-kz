@@ -1,24 +1,23 @@
 ---
 title: Шығыс түбіртегін өңдеу
-description: Осы тақырып түсімдерге таңбаларды оптикалық түрде тану (OCR) өңдеуі туралы ақпаратты ұсынады. Бұл мүмкіндік шығыс туралы есептер Microsoft Dynamics 365 Finance жүйесінде жасалған кезде пайдаланушы тәжірибесін жақсартуға арналған.
+description: Осы тақырып түсімдерге таңбаларды оптикалық түрде тану (OCR) өңдеуі туралы ақпаратты ұсынады. Бұл мүмкіндік шығыс есептері жасалған кезде пайдаланушы тәжірибесін жақсартуға арналған Microsoft Dynamics 365 Қаржы.
 author: stsporen
 ms.date: 05/14/2020
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: roschlom
-ms.search.scope: Operations, Core
+ms.reviewer: johnmichalak
 ms.search.region: Global
 ms.author: stsporen
 ms.search.validFrom: 2019-11-20
 ms.dyn365.ops.version: 10.0.8
-ms.openlocfilehash: 0d43c44bf4f2a58e3249d6cc1028353555cfd836580a802ad6e1878dc9b2e263
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 067432106742447d2b8fa215ec05bf05f4b41e70
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001393"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8684327"
 ---
 # <a name="expense-receipt-processing"></a>Шығыс түбіртегін өңдеу
 
@@ -51,7 +50,7 @@ ms.locfileid: "7001393"
 
 Бұл мүмкіндік шығыс тәжірибесін жеңілдетуге көмектесу үшін **Шығындар туралы есептер қайта қаралды** мүмкіндігімен тіркесімде жұмыс істейді. Бұл мүмкіндік тек сынақ данасын және өндіріс данасы деңгейіндегі 2-деңгейлі орталар үшін қолжетімді.
 
-Осы жетілдірілген шығыс мүмкіндіктерін пайдалану үшін Microsoft Dynamics 365 Finance бағдарламасы үшін шығысты басқару қызметі қондырмасын орнатыңыз және сіздің данаңыздағы мүмкіндіктерді қосыңыз. Microsoft Dynamics өмірлік цикл қызметтері (LCS) жүйесінде жобаңыздан қондырмаға кіруге болады.
+Осы кеңейтілген шығыс мүмкіндіктерін пайдалану үшін, шығыстарды басқару қызметінің қондырмасын орнатыңыз Microsoft Dynamics 365 Қаржы және данада мүмкіндіктерді қосыңыз. Microsoft Dynamics өмірлік цикл қызметтері (LCS) жүйесінде жобаңыздан қондырмаға кіруге болады.
 
 1. LCS жүйесіне кіріп, қажетті ортаны ашыңыз.
 2. **Толық мәліметтер** бөліміне өтіңіз.

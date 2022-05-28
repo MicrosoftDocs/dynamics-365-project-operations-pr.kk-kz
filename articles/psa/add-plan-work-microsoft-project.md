@@ -16,12 +16,13 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ccebf1439f49092b23da5b4fc2ebb4fc484de4dd17c870eea9fe37b00fbb3689
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 460b5bb7baabcb804b9745f5fddae9bcc3fc7541
+ms.sourcegitcommit: 30242d7754bca300b594b0887eb4212d10bea1c4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005308"
+ms.lasthandoff: 05/07/2022
+ms.locfileid: "8727965"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Microsoft Project бағдарламасында жұмысты жоспарлау үшін Project Service Automation қосылатын модулін пайдалану
 
@@ -40,7 +41,7 @@ ms.locfileid: "7005308"
 ## <a name="download-and-install-the-add-in"></a>Қосылатын модульді жүктеп алу және орнату  
  [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] жүйесіне кіру ақпаратын дайындап қойыңыз. Осы ақпарат [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] бағдарламасынан [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] жүйесіне қосылу үшін қажет.  
 
-1.  Жүктеп алу орталығынан Project Service бағдарламасының [V2.X](https://go.microsoft.com/fwlink/?linkid=828268) немесе [V3.4+](https://www.microsoft.com/download/details.aspx?id=57956) қолдау көрсетілетін нұсқасы үшін қондырманы жүктеп алыңыз.  
+1.  Жүктеп алу орталығынан Project Service бағдарламасының [V2.X](/dynamics365/project-operations/psa/overview#guidance-for-earlier-versions-app-version-2x-or-1x) немесе [V3.4+](https://www.microsoft.com/download/details.aspx?id=57956) қолдау көрсетілетін нұсқасы үшін қондырманы жүктеп алыңыз.  
 
 2.  Жүктеп алу сілтемесін басыңыз.  
 
@@ -87,9 +88,8 @@ ms.locfileid: "7005308"
 
 Жоба [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] жүйесіне импортталады. Бағалар және топ жасау процесі қолданылады. Топтың, жоба болжамдарының және жұмыс декомпозициясы құрылымының жасалғанын көру үшін жобаны [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] жүйесінде ашыңыз. Төмендегі кестеде нәтижелерді табатын жер көрсетілген:
 
-
-|                                                                                          |                                                                                                                                   |
-|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Project | Толық мәліметтер |
+| ---- | --- |
 |  [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Гант диаграммасы**   | [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Жұмыс декомпозициясының құрылымы** экранына импорттайды. |
 | [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Ресурс парағы** |   [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Жоба тобы мүшелері** экранына импорттайды.   |
 |   [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Пайдалану пайдалану**    |    [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Жоба болжамдары** экранына импорттайды.     |

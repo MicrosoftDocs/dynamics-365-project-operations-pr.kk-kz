@@ -5,20 +5,19 @@ author: suvaidya
 ms.date: 12/01/2017
 ms.topic: article
 audience: Application User
-ms.reviewer: roschlom
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 274023
 ms.assetid: 3605eda1-a7ed-4675-8031-5279c5a8f5e4
 ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 0559f881aba2d0a9c65ad123a40803743fc7407bb0d87ac6e8280ee8e30d36b7
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d5309b55ed146d21d7a42e0b40add9ee346d48aa
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001483"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8682809"
 ---
 # <a name="expense-management-mobile-workspace"></a>Шығысты басқару мобильді жұмыс кеңістігі
 
@@ -35,7 +34,7 @@ ms.locfileid: "7001483"
 
 Атап айтқанда, **Шығысты басқару** ұялы жұмыс кеңістігі пайдаланушыларға келесі тапсырмаларды орындауға мүмкіндік береді.
 
-- Түбіртекті суретке түсіріп, оны Dynamics 365 Finance жүйесіне жүктеп салыңыз. Содан кейін сіз ол шығыс туралы есепке бекіте аласыз.
+- Түбіртекті суретке түсіріп, Dynamics 365 Finance сайтына жүктеңіз. Содан кейін сіз ол шығыс туралы есепке бекіте аласыз.
 - Файлды суретке түсірілген түсім ретінде жүктеу. Содан кейін ол файлды шығыс туралы есепке кейіннен тіркей аласыз.
 - Тіркелген түсімді пайдалана отырып, жаңа шығыс бабын жасаңыз. Сіз де өзіңіздің шығыс туралы есептеріңізді жасап, басқара аласыз және кейіннен ұялы құрылғыларыңызды пайдаланып оларды растау немесе өтеу үшін жібере аласыз.
 
@@ -53,7 +52,7 @@ ms.locfileid: "7001483"
 ## <a name="prerequisites"></a>Алғышарттар
 Сіздің ұйымыңызға арналған нұсқаға негізделген алғышарттар әртүрлі болады.
 
-### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Dynamics 365 Finance пайдалану үшін қажетті алғышарттар 
+### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Алғышарттар, егер сіз Dynamics 365 Finance пайдалансаңыз 
 Егер сіздің ұйымыңызға Finance жүйесі арналған болса, жүйе әкімшісі **Шығысты басқару** ұялы жұмыс кеңістігін жариялауы керек. Нұсқауларды [Мобильді жұмыс кеңістіктерін жариялау](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace) бөлімінен қараңыз.
 
 ### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a>Егер сіз 1611 нұсқасын 3 немесе одан кейінгі жаңартумен бірге пайдаланған жағдайдағы алғышарттар

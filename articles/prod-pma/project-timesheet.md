@@ -7,8 +7,7 @@ ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: ''
 ms.assetid: ''
 ms.search.region: Global
@@ -16,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: df6d286b6d5716fb0ea908ed71c2257b4db21ecfd35148fea65dfd96e058ac9a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: cd5ea257472ef8dfa0d7181223a518c677c6d77b
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997208"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8683194"
 ---
 # <a name="project-timesheet-mobile-application"></a>Жоба уақыт кестесі мобильді құрылғы бағдарламасы
 
@@ -29,7 +28,7 @@ ms.locfileid: "6997208"
 
 ## <a name="overview"></a>Шолу
 
-Microsoft Dynamics 365 Project Timesheet мобильді құрылғы бағдарламасы пайдаланушыларға олардың мобильді құрылғысындағы (iPhone немесе Android) жобаларға арналған уақыт кестелерін жіберуге және бекітуге мүмкіндік береді. Бұл мобильді құрылғы бағдарламасы пайдаланушылардың өнімділігі мен тиімділігін жетілдіретін, сондай-ақ жоба уақыт кестелеріне уақытылы кіруге және бекітуге мүмкіндік беретін, Dynamics 365 Finance жобаны басқару және есеп аймағында орналасқан уақыт кестесі функционалдығын қамтамасыз етеді.
+Microsoft Dynamics 365 Project Timesheet мобильді құрылғы бағдарламасы пайдаланушыларға олардың мобильді құрылғысындағы (iPhone немесе Android) жобаларға арналған уақыт кестелерін жіберуге және бекітуге мүмкіндік береді. Бұл мобильді қолданба Dynamics 365 Finance жобаны басқару және есепке алу аймағында орналасқан уақыт кестесінің функционалдығын көрсетеді, пайдаланушы өнімділігі мен тиімділігін арттырады, сонымен қатар жобаның уақыт кестесін уақтылы енгізуге және бекітуге мүмкіндік береді.
 
 ## <a name="download-and-install-the-mobile-app"></a>Мобильді құрылғы бағдарламасын жүктеп алу және орнату
 

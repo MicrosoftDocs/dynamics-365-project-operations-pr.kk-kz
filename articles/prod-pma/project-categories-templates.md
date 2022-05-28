@@ -1,32 +1,31 @@
 ---
-title: Жобаның шығыс санаттарын Finance and Operations және Project Service Automation арасында синхрондаңыз
-description: Бұл тақырыпта жобаның шығыс санаттарын Microsoft Dynamics 365 Finance және Dynamics 365 Project Service Automation арасында синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмалар сипатталады.
+title: «Қаржы» және «Операциялар» және «Жоба қызметін автоматтандыру» арасында жоба шығындарының санаттарын синхрондаңыз
+description: Бұл тақырып жоба шығындарының санаттарын синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмаларды сипаттайды.Microsoft Dynamics 365 Қаржы және Dynamics 365 Project Service Automation.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 87983
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: 52c79f8b641d4b2df3b30964331633f2487402f8f8d229b540f9544c0f848557
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: c5513285c8beb96e2aa8b9c67ebde38b3c938edd
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001123"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8685477"
 ---
-# <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Жобаның шығыс санаттарын Finance and Operations және Project Service Automation арасында синхрондаңыз
+# <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>«Қаржы» және «Операциялар» және «Жоба қызметін автоматтандыру» арасында жоба шығындарының санаттарын синхрондаңыз
 
 [!include[banner](../includes/banner.md)]
 
-Бұл тақырыпта жобаның шығыс санаттарын Dynamics 365 Finance және Dynamics 365 Project Service Automation арасында синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмалар сипатталады.
+Бұл тақырып Dynamics 365 Finance және арасында жоба шығыстарының санаттарын синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмаларды сипаттайды Dynamics 365 Project Service Automation.
 
 > [!NOTE]
 > - Жоба тапсырмаларын біріктіру, шығындар транзакциясының санаттары, сағаттық болжамдар, шығын болжамдары және функционалды құлыптау 8.0 нұсқасында қолжетімді.
@@ -81,10 +80,10 @@ Project Service Automation және Finance біріктіру шешімі Proj
 
 ### <a name="power-query"></a>Power Query
 
-Project Service Automation бағдарламасына синхрондау кезінде транзакция санатында шот ұсыну түрін орнату үшін Excel бағдарламасына арналған Microsoft Power Query бағдарламасын пайдалану қажет. Жобаның шығыс транзакция санаттары (Fin және Ops бағдарламасынан PSA бағдарламасына) үлгісі әдепкі баған мен салыстыруды қамтамасыз етеді. Егер жеке үлгіңізді жасасаңыз, Power Query бағдарламасында шартты бағанды қосу қажет. Осы қадамдарды орындаңыз.
+Project Service Automation бағдарламасына синхрондау кезінде Microsoft пайдалану керек Power Query Excel бағдарламасы транзакция санатындағы есепшот түрін орнату үшін. Жобаның шығыс транзакция санаттары (Fin және Ops бағдарламасынан PSA бағдарламасына) үлгісі әдепкі баған мен салыстыруды қамтамасыз етеді. Егер сіз өзіңіздің үлгіңізді жасасаңыз, ішіне шартты баған қосуыңыз керек Power Query. Осы қадамдарды орындаңыз.
 
 1. Жобаның шығыс транзакция санаттарының (Fin және Ops бағдарламаларынан PSA бағдарламасына) үлгісінде жобаның шығыс санаттарыны салыстырылуын ашу үшін көрсеткіні басыңыз.
-2. Power Query бағдарламасын ашу үшін **Кеңейтілген сұрау және сүзгілеу** сілтемесін басыңыз.
+2. түймесін басыңыз **Алдын ала сұрау және сүзу** ашу үшін сілтеме Power Query.
 2. **Шартты бағанды қосу** опциясын таңдаңыз.
 3. Жаңа бағанға арналған **BillingType** сияқты атауды енгізіңіз.
 4. Келесі шартты енгізіңіз: **егер САНАТ ИДЕНТИФИКАТОРЫ нөлге тең болмаса, онда 19235001, нөлге тең**.

@@ -4,23 +4,23 @@ description: Бұл тақырыпта ресурс/биржадан тыс сц
 author: sigitac
 ms.date: 10/30/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9eda9d75f5a4d71e6e4b8bd22dce973270639db3f927ac6a76be5b3c4303fc31
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: b76ebbff1cc2720e699334601d425879f2d20770
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7007963"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8600381"
 ---
 # <a name="whats-new-november-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>2020 жылдың қараша айындағы жаңалықтар - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
 - 4.4.0.70 нұсқасындағы CDS ортасындағы Project Operations жүйесі
-- 10.0.14 нұсқасындағы Dynamics 365 Finance ортасындағы жобаны басқару және есепке алу
+- Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.14 нұсқасында
 
 ## <a name="updates-to-project-operations-for-resource-non-stocked-based-scenarios"></a>Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жаңартулары
 
@@ -42,7 +42,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 | Уақыт және шығындарды жылдам енгізу | 2059859          | Шығыс жазбасын жасау кезінде күтпеген қалқымалы терезе ашылады.                                                                                                                         |
 | Басқа                        | 2044181          | (Сатып алу тапсырысын жою) msdyn_ProjectServiceCore_Patch және msdyn Project қызметтік негізгі шешімдерін жою кезінде «Жазба қол жетімді емес» деген қате пайда болады.  |
 
-### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаларды басқару және есеп
+### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance жүйесінде жобаны басқару және есепке алу
 
 | Мүмкіндік аумағы        | Сілтемелік нөмір | Сапа жаңартуы                                                                                                                                                            |
 |---------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,7 +65,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 | Жоба есебі  | [510041](https://fix.lcs.dynamics.com/Issue/Details/?bugId=510041)           | CDS интеграциясынсыз мүмкіндікті қосу, бірнеше келісім-шарт жолдары мүмкін емес.                                                                                   |
 
 ### <a name="regulatory-updates"></a>Нормативтік жаңартулар
-Finance and Operations бағдарламаларына арналған нормативтік жаңартулар туралы ақпаратты [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates) бөлімінен қараңыз. Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
+Қаржы және операциялар қолданбаларына арналған нормативтік жаңартулар туралы ақпаратты қараңыз [Нормативтік жаңартулар](/dynamics365/finance/localizations/regulatory-updates). Сондай-ақ LCS жүйесіне кіріп, мәселені іздеу құралы арқылы жоспарланған нормативтік жаңартуларды көруге болады. Мәселені іздеу сізге ел, мүмкіндік түрі және шығарылым бойынша іздеуге мүмкіндік береді.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -15,18 +15,19 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 07ca20425d05d1d638d9b2b8c3425562e39dd6627916794d1ad8441f00658459
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: f99d2df3f9f6c0752109c39132c2401e0130d5df
+ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986993"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "8723547"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-30-v3"></a>Project Service Automation бағдарламасының 30-жаңарту шығарылымының 3-нұсқасындағы жаңалықтар немесе өзгерістер
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution.md) мақаласын қараңыз.
+Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
 Бұл бөлімде Project Service Automation бағдарламасының 30-жаңарту шығарылымының 3-нұсқасындағы мүмкіндіктер мен түзетулер берілген. Бұл нұсқа V3.10.51.61 жиынтық нөміріне ие және әдетте өзін-өзі жаңарту арқылы 2021 жылдың сәуірінде қолжетімді.
 
