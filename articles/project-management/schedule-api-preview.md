@@ -1,17 +1,17 @@
 ---
 title: Жоспарлау нысандарымен операцияларды орындау үшін жоба кестесінің API интерфейстерін пайдалану
-description: Бұл тақырып жоба кестесінің API интерфейсін пайдалану үшін ақпарат пен үлгілерді ұсынады.
+description: Бұл мақалада Жоба кестесі API интерфейстерін пайдалану үшін ақпарат пен үлгілер берілген.
 author: sigitac
 ms.date: 01/13/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: cabdf9716e4e25ed682368b99a87b3a3bf483cca
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ada06186121d41edddaa06f747b3e1687c303928
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592055"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929221"
 ---
 # <a name="use-project-schedule-apis-to-perform-operations-with-scheduling-entities"></a>Жоспарлау нысандарымен операцияларды орындау үшін жоба кестесінің API интерфейстерін пайдалану
 

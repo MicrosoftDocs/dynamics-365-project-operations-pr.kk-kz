@@ -1,6 +1,6 @@
 ---
 title: Ақшалай аванс
-description: Бұл тақырыпта ақшалай аванстар туралы ақпарат берілген.
+description: Бұл мақалада ақшалай аванстар туралы ақпарат берілген.
 author: suvaidya
 ms.date: 03/25/2021
 ms.topic: article
@@ -8,16 +8,16 @@ ms.reviewer: johnmichalak
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8151ecfb83f0d6da32451d509364b8f63dffdb4d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: bc270944faa7c16d2e97a988495a2a16380ba879
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585707"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931521"
 ---
 # <a name="cash-advance"></a>Ақшалай аванс
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 Ақшалай аванс қызметкерлерге кез келген шығынға ұшырау алдында өз компаниясынан қарызға ақша алуға мүмкіндік береді. Сұралған ақшалай аванс мақұлданған және төленген кезде, қызметкер ақшаны олар шығуы мүмкін болатын іскери шығындарға жұмсай алады. 
 

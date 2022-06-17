@@ -1,17 +1,17 @@
 ---
 title: Өнімге негізделген баға ұсыну жолдарын есептеу
-description: Бұл тақырыпта өнімге негізделген баға ұсыну жолына шығынды қолдану туралы ақпарат берілген.
+description: Бұл мақала өнімге негізделген баға белгілеу жолына құн бағасын қолдану туралы ақпаратты береді.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 33cfd42a61b368dc2d2d7f18bfaccf3a221a38fe
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 23eb3d29081769347d62098534a9863fd28fa90c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598314"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8932579"
 ---
 # <a name="costing-product-based-quote-lines"></a>Өнімге негізделген баға ұсыну жолдарын есептеу
 

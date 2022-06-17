@@ -1,24 +1,24 @@
 ---
 title: 2021 жылдың сәуір айындағы жаңалықтар - Project Operations жеңілдетілген орналастыру
-description: Бұл тақырыпта Project Operations жеңілдетілген орналастыруының 2021 жылғы сәуірде шығарылған сапа жаңартулары туралы ақпарат берілген.
+description: Бұл мақалада Project Operations lite орналастыруының 2021 жылдың сәуір айындағы шығарылымында қолжетімді сапа жаңартулары туралы ақпарат берілген.
 author: sigitac
 ms.date: 04/07/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 10d9498636d8c5f72b7544be4ec30f399d5e0311
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 987eeaf2e57659a6facae6b0a3688f15992e8bb9
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598127"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931246"
 ---
 # <a name="whats-new-april-2021---project-operations-lite-deployment"></a>2021 жылдың сәуір айындағы жаңалықтар - Project Operations жеңілдетілген орналастыру
 
 _Келесіге қолданылады: жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
   - 4.9.0.221 нұсқалы Dataverse ортасындағы Project Operations жүйесі 
 

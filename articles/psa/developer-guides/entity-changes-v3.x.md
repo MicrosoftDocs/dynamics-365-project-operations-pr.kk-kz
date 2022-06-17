@@ -1,6 +1,6 @@
 ---
 title: Нысан, басқару элементі және пайдаланушы интерфейсіндегі өзгерістер (Project Service Automation 3.x)
-description: Бұл тақырыпта Microsoft Dynamics Project Service Automation 3.x нұсқасы үшін шешім өзгерістері сипатталған.
+description: Бұл мақалада шешім өзгертулері сипатталған Microsoft Dynamics Project Service Automation 3.x.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -15,19 +15,19 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: da43e0d15e655977c0c1be7348192a0189a56a6c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8f54d263666c4fb999464f98c0138fc008dbbbd2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597575"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926875"
 ---
 # <a name="entity-control-and-user-interface-changes-project-service-automation-3x"></a>Нысан, басқару элементі және пайдаланушы интерфейсіндегі өзгерістер (Project Service Automation 3.x)
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
 
-Microsoft Dynamics Project Service Automation (PSA) 3.x нұсқасының шығарылымымен, нысандарға, басқару элементтеріне, көріністерге және пайдаланушы интерфейсіне көптеген өзгерістер енгізілді. Бұл тақырыпта осы маңызды өзгерістер туралы ақпарат берілген.
+Microsoft Dynamics Project Service Automation (PSA) 3.x нұсқасының шығарылымымен, нысандарға, басқару элементтеріне, көріністерге және пайдаланушы интерфейсіне көптеген өзгерістер енгізілді. Бұл мақалада осы маңызды өзгерістер туралы ақпарат берілген.
 
 ## <a name="parent-child-relationships-for-sales-document-sales-document-line-sales-document-line-detail-entities"></a>Сатылым құжаты, сатылым құжатының жолы және сатылым құжаты жолы мәліметінің нысандарына арналған басты-еншілес қарым-қатынастар
 Dynamics 365 Project Service Automation (PSA) бағдарламасының 3.0 нұсқасына дейін шығарылған нұсқаларында, сатылым құжаты, сатылым құжатының жолы және сатылым құжаты жолы мәліметінің нысандары арасындағы кейбір қарым-қатынастар қатысты нысанның GUID идентификаторын жол көрсетіліміне орнататын жолдық өрістер арқылы жүзеге асырылды. Бұл осы қарым-қатынастардың Dynamics CRM нысандар қатынасы сияқты бірдей жұмыс істеуі және жолдық өрістердің іздеу өрістері сияқты қызмет етуі үшін серверде және шешімнің клиенттік жақтарында маңызды реттелетін кодты қажет ететін платформаның шектеулеріне байланысты болды.

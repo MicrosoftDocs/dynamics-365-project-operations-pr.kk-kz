@@ -1,25 +1,25 @@
 ---
 title: Жоба келісім-шарттары - негізгі ұғымдар
-description: Бұл тақырыпта Project Operations бағдарламасындағы жоба келісім-шарттарының негізгі түсініктері туралы ақпарат берілген.
+description: Бұл мақалада Жоба операцияларындағы жоба келісімшарттарының негізгі тұжырымдамалары туралы ақпарат берілген.
 author: rumant
 ms.date: 10/07/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: f87a29893ca3d9bec6fbd07dded66a282ff597c3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 016a5d1defacdc6ba5828ca26395c9123e9323d0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582947"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926231"
 ---
 # <a name="concepts-unique-to-project-based-contracts"></a>Жобаға негізделген келісім-шарттар үшін бірегей түсініктер
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 
 
-Бұл тақырыпта Dynamics 365 Project Operations бағдарламасындағы жоба келісім-шарттарын пайдалануды бастамас бұрын, білуге тиісті негізгі ұғымдар ұсынылған:
+Бұл мақалада жоба келісім-шарттарын пайдалануды бастамас бұрын білу қажет негізгі ұғымдар берілген Dynamics 365 Project Operations:
 
 ## <a name="owning-company"></a>Иеленуші компания
 

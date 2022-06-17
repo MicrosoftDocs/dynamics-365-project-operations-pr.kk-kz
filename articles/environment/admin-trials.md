@@ -1,17 +1,17 @@
 ---
 title: Project Operations сынақ нұсқаларына тіркелу
-description: Бұл тақырып Dynamics 365 Project Operations сынақ нұсқасын қолдану туралы ақпарат береді.
+description: Бұл мақалада сынақ нұсқасын қолдану жолы туралы ақпарат берілген Dynamics 365 Project Operations.
 author: ruhercul
 ms.date: 01/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: a0c2532370c99cfe75b54da42c329f5b244a47e7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7db7ea6b3cffe6eb43ee0519bbaccfc9092c9311
+ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584281"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "8959701"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Project Operations сынақ нұсқаларына тіркелу 
 
@@ -19,9 +19,9 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 
 
 
-Бұл тақырыпта алдын ала қарау нұсқасының серіктестік ұсыныса жазылу және Dynamics 365 Project Operations ортасын орналастыру жолдары түсіндіріледі.
+Бұл мақалада алдын ала қарау серіктес ұсынысына жазылу және a қолдану жолы түсіндіріледі Dynamics 365 Project Operations қоршаған орта.
 
-Жаңа Project Operations сынақ нұсқасымен сіз орналастырудың ең жақсы тәсілін ұсынатын сауалнаманы толтыру арқылы қолдау көрсетілетін үш сценарийдің кез келгенін автоматты түрде орналастыра аласыз. Бұл тақырыпта төмендегілер туралы ақпарат берілген:
+Жаңа Project Operations сынақ нұсқасымен сіз орналастырудың ең жақсы тәсілін ұсынатын сауалнаманы толтыру арқылы қолдау көрсетілетін үш сценарийдің кез келгенін автоматты түрде орналастыра аласыз. Бұл мақалада мыналар туралы ақпарат берілген:
 
 - Сынақ нұсқасы ұсынысын қолдану.
 - Дайындық жүргізуді бастау.
@@ -89,7 +89,8 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 4.  Сәйкесті таңдаңыз Microsoft Dataverse Орналастыруды растау үшін URL және Қаржы және операциялар қолданбаларының URL мекенжайлары.
 
 ## <a name="configuring-dual-write"></a>Қос жазуды конфигурациялау
-- Қосарлы жазу үшін қауіпсіздік рөлдерін конфигурациялау үшін қараңыз [ішінде Жоба операцияларында қауіпсіздік параметрлерін жаңартыңыз Dataverse](resource-provision-new-environment.md).
+- Қосарлы жазу үшін қауіпсіздік рөлдерін конфигурациялау үшін қараңыз [ішінде Жоба операцияларында қауіпсіздік параметрлерін жаңартыңыз Dataverse](resource-provision-new-environment.md#update-security-settings-on-project-operations-on-dataverse).
+- Қосарлы жазу конфигурациясына қол жеткізу үшін «Қаржы және операциялар» данасына өтіңіз, содан кейін тармағына өтіңіз.**Деректерді басқару** > **Қосарлы жазу**.
 - Қосарлы жазу карталарын конфигурациялау үшін қараңыз [Project Operations қос жазу карталарын іске қосыңыз](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
 
 ## <a name="assign-licenses"></a>Лицензияларды тағайындау

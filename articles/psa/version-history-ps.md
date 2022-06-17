@@ -1,6 +1,6 @@
 ---
 title: Project Service 3.x үшін шығарылымды жаңарту кестесі
-description: Бұл тақырыпта қолжетімді және алдағы Dynamics 365 Project Service Automation шығарылымдары туралы ақпарат берілген.
+description: Бұл мақалада қол жетімді және алдағы шығарылымдар туралы ақпарат берілген Dynamics 365 Project Service Automation.
 ms.custom: dyn365-projectservice
 ms.date: 03/28/2022
 ms.reviewer: johnmichalak
@@ -22,12 +22,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5be7327999b4f29801a8ba3826524c66b04be8fa
-ms.sourcegitcommit: f366fe0ba062e4e500921854563d57ee3bfd1ce5
-ms.translationtype: HT
+ms.openlocfilehash: 07bc494d6e2650673f664ef13a38cf50bebf11c9
+ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/09/2022
-ms.locfileid: "8732893"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "8959668"
 ---
 # <a name="update-release-schedule-for-project-service-3x"></a>Project Service 3.x үшін шығарылымды жаңарту кестесі
 
@@ -37,7 +37,7 @@ ms.locfileid: "8732893"
 
 | Шешім  | Ең соңғы нұсқа |
 |-------|----|
-| Project Service Automation    | 3.10.74.200 |
+| Project Service Automation    | 3.10.75.142 |
 | Project Service Automation жұмыс үстелінің қосылатын модулі                | 3.60          |
 
 Project Service жаңартулары туралы ақпарат алу үшін [Dynamics 365 шығарылым жоспарлары](/dynamics365/release-plans/) тақырыбын қараңыз. 
@@ -45,30 +45,30 @@ Project Service жаңартулары туралы ақпарат алу үші
 | Станция  | Өңір | Ағымдағы нұсқа | Келесі нұсқа |  Жоспарланған күн
 | :---   | :---   | :---   | :---   |:---   |         
 |<strong>1-станция</strong> | |  |  | |
-| | <i>Бірінші шығарылым</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 27 мамыр, 2022
+| | <i>Бірінші шығарылым</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 01 шілде, 2022
 |<strong>2-станция</strong> | |  |  | |
-| | <i>Оңтүстік Америка</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
-| | <i>Канада</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
-| | <i>Үндістан</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
-| | <i>Франция</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
-| | <i>Оңтүстік Африка Республикасы</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
-| | <i>Германия</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
-| | <i>Швейцария</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
-| | <i>Оңтүстік Корея</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
-| | <i>Норвегия</i> | [3.10.74.200](whats-new-ur43.md) | TBD | 03 маусым, 2022
+| | <i>Оңтүстік Америка</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
+| | <i>Канада</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
+| | <i>Үндістан</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
+| | <i>Франция</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
+| | <i>Оңтүстік Африка Республикасы</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
+| | <i>Германия</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
+| | <i>Швейцария</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
+| | <i>Оңтүстік Корея</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
+| | <i>Норвегия</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 08 шілде, 2022
 |<strong>3-станция</strong> | |  |  | |
-| | <i>Жапония</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 13 мамыр, 2022
-| | <i>Азия-Тынық мұхиты аймағы</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 13 мамыр, 2022
-| | <i>Ұлыбритания</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 13 мамыр, 2022
-| | <i>Мұхит</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 13 мамыр, 2022
-| | <i>Біріккен Араб Әмірліктері</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 13 мамыр, 2022
+| | <i>Жапония</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 15 шілде, 2022
+| | <i>Азия-Тынық мұхиты аймағы</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 15 шілде, 2022
+| | <i>Ұлыбритания</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 15 шілде, 2022
+| | <i>Мұхит</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 15 шілде, 2022
+| | <i>Біріккен Араб Әмірліктері</i> | [3.10.75.142](whats-new-ur-44.md) | TBD | 15 шілде, 2022
 |<strong>4-станция</strong> | |  |  | |
-| | <i>Европа</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 20 мамыр, 2022
+| | <i>Европа</i> | [3.10.74.200](whats-new-ur43.md) | [3.10.75.142](whats-new-ur-44.md) | 17 маусым, 2022
 |<strong>5-станция</strong> | |  |  | |
-| | <i>Солтүстік Америка</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 29 мамыр, 2022
+| | <i>Солтүстік Америка</i> | [3.10.74.200](whats-new-ur43.md) | [3.10.75.142](whats-new-ur-44.md) | 24 маусым, 2022
 |<strong>6-станция</strong> | |  |  | |
-| | <i>Мемлекеттік мекемелерге арналған қауымдастық бұлты</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 29 мамыр, 2022
-| | <i>Арнайы масштабтау топтары</i> | [3.10.73.61](whats-new-ur-42.md) | [3.10.74.200](whats-new-ur43.md) | 03 маусым, 2022
+| | <i>Мемлекеттік мекемелерге арналған қауымдастық бұлты</i> | [3.10.74.200](whats-new-ur43.md) | [3.10.75.142](whats-new-ur-44.md) | 24 маусым, 2022
+| | <i>Арнайы масштабтау топтары</i> | [3.10.74.200](whats-new-ur43.md) | [3.10.75.142](whats-new-ur-44.md) | 01 шілде, 2022
 
 
 

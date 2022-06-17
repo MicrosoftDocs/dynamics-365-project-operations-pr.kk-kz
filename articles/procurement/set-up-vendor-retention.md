@@ -1,24 +1,24 @@
 ---
 title: Жеткізушіні сақтауды орнату
-description: Бұл тақырыпта жеткізушілерді сақтауды орнату жолы түсіндірілген.
+description: Бұл мақалада сатушыны сақтауды қалай орнату керектігі түсіндіріледі.
 author: sigitac
 ms.date: 09/27/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: e0cd7669c7d6b916261e2c85cce0f24ff241a075
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f30e8829d8d5d99c81fce730cb93cd7ce31913fe
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583711"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929773"
 ---
 # <a name="set-up-vendor-retention"></a>Жеткізушіні сақтауды орнату
 
-_**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырыпта жеткізушілерді сақтауды орнату туралы ақпарат берілген.
+Бұл мақалада сатушыны сақтауды орнату жолы туралы ақпарат берілген.
 
 ## <a name="set-up-a-vendor-retention-account-in-general-ledger"></a>Жалпы кітапта жеткізушілерді сақтау шотын орнату
 

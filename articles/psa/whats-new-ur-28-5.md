@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation бағдарламасының 28.5 жаңарту шығарылымы, Hotfix, 3-нұсқасындағы жаңалықтар немесе өзгерістер
-description: Бұл тақырыпта Project Service Automation бағдарламасының 28.5 жаңарту шығарылымы, Hotfix, 3-нұсқасындағы қолжетімді мүмкіндіктер мен түзетулер берілген.
+description: Бұл мақалада Project Service Automation Update Release 28.5 Hotfix, V3 нұсқасында қолжетімді мүмкіндіктер мен түзетулер тізімі берілген.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 8c10e626094a229f2adf2137e847537becf29b55
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7d232150445091e64ca0ec804994050757b159df
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595321"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928715"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-285-v3"></a>Project Service Automation бағдарламасының 28.5 жаңарту шығарылымы, 3-нұсқасындағы жаңалықтар немесе өзгерістер
 
@@ -29,7 +29,7 @@ ms.locfileid: "8595321"
 
 Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
-Бұл тақырыпта Project Service Automation бағдарламасының 28.5 жаңарту шығарылымының 3-нұсқасы үшін жаңартылған немесе өзгертілген мүмкіндіктер мен түзетулер көрсетілген. Бұл нұсқада 3.10.46.87 нұсқасының құрылым нөмірі бар және ол 2021 жылдың қаңтар айындағы өзіндік жаңартылу арқылы қолжетімді.
+Бұл мақалада Project Service Automation V3, Жаңарту шығарылымы 28.5 үшін жаңа немесе өзгертілген мүмкіндіктер мен түзетулер тізімі берілген. Бұл нұсқада V3.10.46.87 құрастыру нөмірі бар және әдетте 2021 жылдың қаңтарында өзін-өзі жаңарту арқылы қол жетімді.
 
 ## <a name="update-release-285-hotfix"></a>28.5 жаңарту шығарылымы, Hotfix
 

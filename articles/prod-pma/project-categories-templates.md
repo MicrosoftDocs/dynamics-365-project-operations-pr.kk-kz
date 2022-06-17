@@ -1,6 +1,6 @@
 ---
 title: «Қаржы» және «Операциялар» және «Жоба қызметін автоматтандыру» арасында жоба шығындарының санаттарын синхрондаңыз
-description: Бұл тақырып жоба шығындарының санаттарын синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмаларды сипаттайды.Microsoft Dynamics 365 Қаржы және Dynamics 365 Project Service Automation.
+description: Бұл мақалада жоба шығындарының санаттарын синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмалар сипатталады.Microsoft Dynamics 365 Қаржы және Dynamics 365 Project Service Automation.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,18 +14,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: c5513285c8beb96e2aa8b9c67ebde38b3c938edd
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 630c4fa7a159aa46b46984736080cd007d519a6c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8685477"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927243"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>«Қаржы» және «Операциялар» және «Жоба қызметін автоматтандыру» арасында жоба шығындарының санаттарын синхрондаңыз
 
 [!include[banner](../includes/banner.md)]
 
-Бұл тақырып Dynamics 365 Finance және арасында жоба шығыстарының санаттарын синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмаларды сипаттайды Dynamics 365 Project Service Automation.
+Бұл мақала Dynamics 365 Finance және арасында жоба шығыстарының санаттарын синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмаларды сипаттайды Dynamics 365 Project Service Automation.
 
 > [!NOTE]
 > - Жоба тапсырмаларын біріктіру, шығындар транзакциясының санаттары, сағаттық болжамдар, шығын болжамдары және функционалды құлыптау 8.0 нұсқасында қолжетімді.

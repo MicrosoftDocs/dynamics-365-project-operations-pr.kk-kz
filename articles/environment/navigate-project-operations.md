@@ -1,17 +1,17 @@
 ---
 title: Project Operations бағдарламасы бойынша шарлау
-description: Бұл тақырыпта Project Operations бағдарламасына Lifecycle Services жүйесі арқылы кіру туралы ақпарат берілген.
+description: Бұл мақалада Lifecycle Services қызметінен жоба операцияларына кіру жолы туралы ақпарат берілген.
 author: sigitac
 ms.date: 10/28/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 50afe2c0e247cb9d9c5f970810fa917d002ae1d0
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: d8573b65373fe88c5b0617be585e2d3c77f1ca6e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591871"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931659"
 ---
 # <a name="navigate-project-operations"></a>Project Operations бағдарламасы бойынша шарлау
 
@@ -24,7 +24,7 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
  - **Common Data Service (CDS) қызметіндегі Project Operations ортасы**: бұл құрамдас мүмкіндіктерден бастап проформа-шотына дейінгі мүмкіндіктер мен процестерді қамтиды. 
  - **Dynamics 365 Finance ортасында жобаны басқару және есепке алу** : Бұл құрамдас шығыстарды басқару мүмкіндіктерін, жоба есебін және кірісті тануды қамтиды. 
 
-Сіз осы тақырыпта сипатталғандай Project Operations жүйесін ұсынғаннан кейін, Lifecycle Services (LCS) **Орта туралы мәліметтер** бетінде Project Operations жүйесінің екі компонентіне оңай қатынасу беріледі.  
+Осы мақалада сипатталғандай жоба операцияларын қамтамасыз еткеннен кейін, Lifecycle Services (LCS) **Қоршаған орта туралы мәліметтер** бет Жоба операцияларының екі компонентіне де оңай қол жеткізуді қамтамасыз етеді.  
 
 CDS ортасындағы Project Operations жүйесіне шарлау үшін **Common Data Service орта атауы** бөліміндегі орта атауын пайдаланыңыз. 
 

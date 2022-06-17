@@ -1,24 +1,24 @@
 ---
 title: Ресурс тағайындауларын жасау
-description: Бұл тақырыпта жалпы және аталған ресурстарды тағайындау туралы ақпарат берілген.
+description: Бұл мақалада жалпы және аталған ресурс тағайындауларын жасау туралы ақпарат берілген.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 2b918392fbcde1071aa52ffa7834938be1acd383
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 31404fc35d72acb9ad791ef8a755f23108f528ad
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576553"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933499"
 ---
 # <a name="create-resource-assignments"></a>Ресурс тағайындауларын жасау
 
 _**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 
-Ресурсты тағайындау - бұл жоба тобы мүшесінің соңғы түйін тапсырмасына тікелей байланысы. Бұл тақырыпта ресурстарды тағайындаудың әртүрлі жолы туралы ақпарат берілген.
+Ресурсты тағайындау - бұл жоба тобы мүшесінің соңғы түйін тапсырмасына тікелей байланысы. Бұл мақалада ресурстарды тағайындаудың әртүрлі жолдары туралы ақпарат берілген.
 
 ## <a name="create-a-generic-team-member-through-task-assignment"></a>Тапсырма тағайындауы арқылы жалпы топ мүшесін жасау
 

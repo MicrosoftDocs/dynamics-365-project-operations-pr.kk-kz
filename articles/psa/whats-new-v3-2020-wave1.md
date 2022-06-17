@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation бағдарламасының 3.x нұсқасының 1-толқынындағы (2020) жаңалықтар немесе өзгерістер
-description: Бұл тақырыпта Project Service Automation бағдарламасының 3 нұсқасының 1-толқынындағы (2020) жаңалықтар мен өзгерістер туралы ақпарат беріледі.
+description: Бұл мақалада Project Service Automation 3-нұсқадағы 1 толқын 2020-дағы жаңа және өзгерген нәрселер туралы ақпарат берілген.
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/15/2020
@@ -17,18 +17,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 073b70b4ae02d943eb0794b51e888815ee16f438
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c762f2e7931046d32464cfa8486ef8405aa7d836
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577887"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928623"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3-wave-1-2020"></a>Project Service Automation бағдарламасының 3 нұсқасының 1-толқынындағы (2020) жаңалықтар немесе өзгерістер
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Бұл тақырып Project Service Automation (PSA) бағдарламасының 3.x нұсқасының 1-толқынындағы (2020) соңғы шығарылымына көшу кезіндегі негізгі жаңарту мәселелеріне назар аударады.
+Мақалада Project Service Automation (PSA) 3.x 1 толқын 2020 нұсқасының соңғы шығарылымына көшу кезіндегі негізгі жаңартуды ескеру қажет.
 
 ## <a name="time-entry"></a>Уақыт жазбасы
 Уақытты енгізу тәжірибесі тұтынушылардың көп сценарийлеріне уақытты енгізуді ұзартуға мүмкіндік беру үшін кеңейтілген. Бұл **Уақыт көзі** ретінде көрсетілетін және **Уақыт жазбасының параметрлері** деп аталатын өріс схемасына негізделген нақты әрекетті басқаратын жазба түрлерін қосу мүмкіндігін қамтиды. Осы функционалдыққа қолдау көрсету үшін «Уақыт», «Шығыс», «Күй» және «Растаулар» (TESA) деп аталатын жаңа шешім қосылды.

@@ -1,17 +1,17 @@
 ---
 title: Қосалқы мердігерлерді тапсырыс беруге болатын ресурстар ретінде орнату
-description: Бұл тақырыпта Microsoft Dynamics 365 Project Operations жүйесіндегі қосалқы мердігерлермен байланысу үшін жүйеде пайдаланушылар мен контактілер жасаған қосалқы мердігерлердің ресурстарын құру және қолдау жолдары түсіндіріледі.
+description: Бұл мақала жүйедегі пайдаланушылар мен контактілерден жасалған қосалқы мердігер ресурстарын қалай орнату және қолдау керектігін түсіндіреді, осылайша олар Microsoft жүйесіндегі қосалқы мердігерлермен байланыстырылады Dynamics 365 Project Operations.
 author: rumant
 ms.date: 07/28/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 6d2f250063afc24de99e308d8d7583d1822bcabb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f005a05fb874f9e32a0041db5fc8fa1228fc91f1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597253"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927525"
 ---
 # <a name="set-up-subcontractors-as-bookable-resources"></a>Қосалқы мердігерлерді тапсырыс беруге болатын ресурстар ретінде орнату
 

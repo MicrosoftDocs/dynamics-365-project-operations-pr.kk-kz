@@ -1,23 +1,23 @@
 ---
 title: Табысты тануға шолу
-description: Бұл тақырыпта Project Operations бағдарламасындағы табысты тану туралы ақпарат берілген.
+description: Бұл мақалада Жоба операцияларындағы табысты тану туралы ақпарат берілген.
 author: sigitac
 ms.date: 11/16/2020
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 51c553ecf45452615cbcadce6386f32be427acaa
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 22486693226256f765589b272e6df36aceaf9c1c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8601439"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926277"
 ---
 # <a name="revenue-recognition-overview"></a>Табысты тануға шолу
 
 _**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Dynamics 365 Project Operations бағдарламасында табысты тану қағидалары жоба немесе жоба бөлігі үшін таңдалған есептеу әдісі негізінде өзгереді. Бұл тақырыпта Project Operations бағдарламасындағы табысты тану туралы ақпарат берілген.
+Dynamics 365 Project Operations бағдарламасында табысты тану қағидалары жоба немесе жоба бөлігі үшін таңдалған есептеу әдісі негізінде өзгереді. Бұл мақалада Жоба операцияларындағы табысты тану туралы ақпарат берілген.
 
 ## <a name="transactions-accounted-using-time-and-material-billing-method"></a>Уақыт пен материалдарды есепке алу әдісін пайдалана отырып есепке алынатын транзакциялар
 

@@ -1,17 +1,17 @@
 ---
 title: Жоба санаттарын конфигурациялау
-description: Бұл бөлімде жоба санаттарын орнату туралы ақпарат берілген.
+description: Бұл мақалада жоба санаттарын орнату туралы ақпарат берілген.
 author: sigitac
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 94b66feef4164f3cd52d5fe917071647f731b047
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 440fc712750c07e8426d54e3a1f994f506879e3c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591549"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933591"
 ---
 # <a name="configure-project-categories"></a>Жоба санаттарын конфигурациялау
 

@@ -1,17 +1,17 @@
 ---
 title: Жобаға негізделген баға ұсыну жолдарына шолу
-description: Бұл тақырыпта Project Operations бағдарламасындағы жоба жұмысына арналған жобаға негізделген баға ұсыну жолын пайдалану туралы ақпарат берілген.
+description: Бұл мақалада жоба жұмысы үшін жоба негізіндегі дәйексөз жолдарын пайдалану туралы ақпарат берілген.
 author: rumant
 ms.date: 03/30/2021
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 0a9661d9b91ffeece4c66b129846632b30ebebc8
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 90c5affa25b113476e43f0bbbadd5c9615f9c05c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591089"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8934465"
 ---
 # <a name="project-based-quote-lines-overview"></a>Жобаға негізделген баға ұсыну жолдарына шолу 
 

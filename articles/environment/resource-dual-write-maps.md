@@ -1,17 +1,17 @@
 ---
 title: Project Operations қос жазу салыстыруының нұсқалары
-description: Бұл тақырыпта Dynamics 365 Project Operations бағдарламасы үшін қажетті қос жазу карталарының тізімі берілген.
+description: Бұл мақалада қажет қос жазу карталарының тізімі берілген Dynamics 365 Project Operations.
 author: sigitac
 ms.date: 04/22/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 385893e8ecdb29f4dc411c233b9ae19bb2448dfd
-ms.sourcegitcommit: 9916f536a71b6a0078297402564ac79308ec6890
+ms.openlocfilehash: ee0b6a1722405e6a50c42db6bd2a25b872c6118c
+ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/18/2022
-ms.locfileid: "8612761"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "8959665"
 ---
 # <a name="project-operations-dual-write-map-versions"></a>Project Operations қос жазу салыстыруының нұсқалары
 
@@ -54,7 +54,7 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 | Сағаттық бағалау үшін Project Operations интеграциялық нысаны (msdyn_resourceassignments) | 1.0.0.5-көше | Дайындау үшін қажет емес. ||
 | Project Operations интеграциялау жобасының шығыс санаттарын экспорттау нысаны (msdyn_expensecategories) | 1.0.0.1 | Дайындау үшін қажет емес. ||
 | Project Operations интеграциялау жобасының шығындарын экспорттау нысаны (msdyn_expenses) | 1.0.0.3 | Дайындау үшін қажет емес. ||
-| Project Operations интеграциясы жобасының жеткізуші шот-фактурасын экспорттау нысаны (msdyn_projectvendorinvoices) | 1.0.0.0-көше | Дайындау үшін қажет емес. ||
+| Project Operations интеграциясы жобасының жеткізуші шот-фактурасын экспорттау нысаны (msdyn_projectvendorinvoices) | 1.0.0.1 | Дайындау үшін қажет емес. |10.0.26 не одан кейінгі|
 | Project Operations интеграциясы жобасының жеткізуші шот-фактурасы жолын экспорттау нысаны (msdyn_projectvendorinvoicelines) | 1.0.0.4 | Дайындау үшін қажет емес. | 10.0.26 не одан кейінгі |
 | Барлық компанияларға арналған жобалық ресурстардың рөлі (тапсырыс беруге болатын ресурс санаттары) | 1.0.0.1-көше | Дайындау барысында Dynamics 365 Dataverse ортасында толтырылатын жоба менеджері және топ мүшесінің бастапқы рөлдерін синхрондау үшін кесте картасының бастапқы синхрондалуын қажет етеді. Dataverse бағдарламасы бастапқы синхрондаудың негізгі көзі болып табылады. ||
 | Жоба тапсырмалары (msdyn_projecttasks) | 1.0.0.4-көше | Дайындау үшін қажет емес. ||

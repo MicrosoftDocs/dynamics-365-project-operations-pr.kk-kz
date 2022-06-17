@@ -1,17 +1,17 @@
 ---
 title: Жоба келісім-шарттары бойынша жоба бағатізбелерін басқару
-description: Бұл тақырыпта жоба келісім-шарттары бойынша жоба бағатізбелерін басқару туралы ақпарат берілген.
+description: Бұл мақалада жобалық келісім-шарттар бойынша жобаның баға тізімдерін басқару туралы ақпарат берілген.
 author: rumant
 ms.date: 03/30/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 2ad0e260fde65cf3eb32539fbcdb7101796cb53b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 23b9e6f9bc3e4bc3fb03de62064644dd58da34c7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600519"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926185"
 ---
 # <a name="manage-project-price-lists-on-project-contracts"></a>Жоба келісім-шарттары бойынша жоба бағатізбелерін басқару
 

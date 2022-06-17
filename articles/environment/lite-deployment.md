@@ -1,17 +1,17 @@
 ---
 title: Project Operations бағдарламасын орналастыру - жеңілдетілген
-description: Бұл тақырыпта Project Operations жеңілдетілген орналастыру бағдарламасын орнату амалы туралы ақпарат берілген - проформа-шотын ұсыну мәмілесі.
+description: Бұл мақалада Project Operations lite deployment - проформалық шот-фактураға келісімді орнату жолы туралы ақпарат берілген.
 author: stsporen
 ms.date: 02/28/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: e33506504665f2e7ef7ad48469082f9f64a2a44b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 86293b725e86db3d4b8bdaf5810b16b7c670e8a3
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580739"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930325"
 ---
 # <a name="deploy-project-operations---lite"></a>Project Operations бағдарламасын орналастыру - жеңілдетілген
 
@@ -37,7 +37,7 @@ Project Operations бірнеше орналастыру үлгілерін қо
 
 
 ## <a name="install-project-operations-to-an-existing-dataverse-environment"></a><a name="existing"></a> Жоба операцияларын барға орнатыңыз Dataverse қоршаған орта
-1. Ортаның конфигурацияланбағанына көз жеткізіңіз [қосарлы жазу](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview) өйткені орнату содан кейін орнатылады [Ресурс/қорда жоқ негізделген сценарийлер үшін жоба операциялары](project-operations-integrated-deployment-overview.md) мүмкіндіктері.
+1. Ортаның конфигурацияланбағанына көз жеткізіңіз [қосарлы жазу](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview) өйткені орнату содан кейін орнатылады [Ресурс/қорда жоқ негізделген сценарийлерге арналған жоба операциялары](project-operations-integrated-deployment-overview.md) мүмкіндіктері.
 2. Project Operations лицензиясы бар [Басты немесе Power Platform әкімшісі](/power-platform/admin/global-service-administrators-can-administer-without-license) ретінде [PowerPlatform басқару орталығындағы](https://admin.powerplatform.com) Project Operations орнатқыңыз келетін жерге ортаны орналастырыңыз.
 3. Dynamics 365 бағдарламаларын орналастыру тізімінен **Microsoft Dynamics 365 Project Operations** бағдарламасын орнатыңыз. Қосымша ақпарат алу үшін, [Dynamics 365 бағдарламаларын басқару](/power-platform/admin/manage-apps) бөлімін қараңыз.
 

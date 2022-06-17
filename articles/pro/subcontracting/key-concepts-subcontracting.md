@@ -1,17 +1,17 @@
 ---
 title: Қосалқы келісімшарт жасаудағы негізгі түсініктер
-description: Бұл тақырыпта Microsoft Dynamics 365 Project Operations жүйесіндегі келісімшарт жасауға қолданылатын негізгі түсініктер түсіндіріледі.
+description: Бұл мақала Microsoft корпорациясында қосалқы мердігерлікке қолданылатын кейбір негізгі ұғымдарды түсіндіреді Dynamics 365 Project Operations.
 author: rumant
 ms.date: 08/03/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 159eeca3aa9ed0c490be5ce3a8f46c7d7206aebe
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 0ac84d132a2d62528d97ed3776a78062a589a380
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578118"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927703"
 ---
 # <a name="key-concepts-in-subcontracting"></a>Қосалқы келісімшарт жасаудағы негізгі түсініктер
 
@@ -19,7 +19,7 @@ ms.locfileid: "8578118"
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Бұл тақырыпта Microsoft Dynamics 365 Project Operations жүйесінде қосалқы мердігерлік мүмкіндіктерін пайдаланбас бұрын білуіңіз керек кейбір негізгі ұғымдар түсіндіріледі.
+Мақалада Microsoft корпорациясында қосалқы мердігерлік қызметті пайдалануды бастамас бұрын білу қажет кейбір негізгі ұғымдар түсіндіріледі Dynamics 365 Project Operations.
 
 ## <a name="contracting-unit-on-the-subcontract"></a>Қосалқы келісімшарттағы келісімшарт бірлігі
 

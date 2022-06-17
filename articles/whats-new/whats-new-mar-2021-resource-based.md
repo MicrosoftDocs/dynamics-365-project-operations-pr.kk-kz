@@ -1,24 +1,24 @@
 ---
 title: 2021 жылдың наурыз айындағы жаңалықтар - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі
-description: Бұл тақырыпта ресурс/биржадан тыс сценарийлерге арналған Project Operations бағдарламасының 2021 жылғы наурыз айы шығарылымындағы сапа жаңартулары туралы ақпарат берілген.
+description: Бұл мақала 2021 жылдың наурыз айындағы Project Operations шығарылымында ресурс/қорда жоқ негізделген сценарийлер үшін қол жетімді сапа жаңартулары туралы ақпарат береді.
 author: sigitac
 ms.date: 03/03/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: a59aa5591dd5f5ed129ce710196eea572e66ea0b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: fbdcb01117c39f879f80319b01d278c91a56e8f6
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599461"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8932947"
 ---
 # <a name="whats-new-march-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылдың наурыз айындағы жаңалықтар - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі
 
 _**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
 - 4.8.0.91 нұсқалы Dataverse ортасындағы Project Operations жүйесі 
 - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.16 нұсқасы 

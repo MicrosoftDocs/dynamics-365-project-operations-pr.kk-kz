@@ -1,17 +1,17 @@
 ---
 title: Өнімге негізделген баға ұсыну жолы үшін әр пайдаланушыға, әр айда сияқты күрделі блоктарды басқару - жеңілдетілген
-description: Бұл тақырыпта өнімге негізделген баға ұсыну жолдары үшін күрделі бірліктерді басқару туралы ақпарат берілген.
+description: Бұл мақала өнімге негізделген баға белгілеу жолдары үшін күрделі бірліктерді басқару туралы ақпаратты береді.
 author: rumant
 ms.date: 10/06/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 87f6ef70a328164291f37e42d106649178c8cfbe
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 88173468cd2e898331c4aa0a398792d9a0f3df10
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591043"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929911"
 ---
 # <a name="managing-complex-units-such-as-per-user-per-month-for-product-based-quote-lines---lite"></a>Өнімге негізделген баға ұсыну жолы үшін әр пайдаланушыға, әр айда сияқты күрделі блоктарды басқару - жеңілдетілген
 

@@ -1,6 +1,6 @@
 ---
-title: Жоба қызметін автоматтандырудан жобалық операцияларға мүмкіндік өзгертулері
-description: Бұл тақырып Project Service Automation параметрінен параметрге өзгертулер шолуын береді Dynamics 365 Project Operations.
+title: Project Service Automation - Project Operations функция өзгерістері
+description: Бұл мақалада Project Service Automation параметрінен параметрге өзгертулер шолуы берілген Dynamics 365 Project Operations.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2022
@@ -16,16 +16,16 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 7e41b381d6da267f58174305f33fc229c66cd7b7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8a6030faf777051ea1003679589af4bdf97322ab
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595413"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925357"
 ---
-# <a name="feature-changes-from-project-service-automation-to-project-operations"></a>Жоба қызметін автоматтандырудан жобалық операцияларға мүмкіндік өзгертулері
+# <a name="feature-changes-from-project-service-automation-to-project-operations"></a>Project Service Automation - Project Operations функция өзгерістері
 
-Жаңарту Dynamics 365 Project Service Automation дейін Dynamics 365 Project Operations Lite үш кезеңде жеткізіледі. Бұл тақырып жаңарту аяқталған кезде көруге болатын негізгі өзгерістер туралы ақпаратты береді.
+Жаңарту Dynamics 365 Project Service Automation дейін Dynamics 365 Project Operations Lite үш кезеңде жеткізіледі. Бұл мақала жаңарту аяқталған кезде көруге болатын негізгі өзгерістер туралы ақпарат береді.
 
 | Жеткізуді жаңарту | 1-кезең <br>(2022 ж. қаңтар) | 2-кезең <br>(Сәуір толқыны 2022) | 3-кезең  |
 |------------------|------------------------|---------------------------|---------------------------|
@@ -205,7 +205,7 @@ Microsoft Project Desktop қондырмасына қолдау жаңартуд
 
 Келесі кестелер жаңартудан кейін ескірген құрамдастардың шешіміне жылжытылған барлық ескірген өрістерді құжаттайды. Қосымша ақпаратты және шешімге сілтемені қараңыз [Dynamics 365 Project Service Automation Project Operations 4x ескірген құрамдастарға 3x](https://github.com/microsoft/Dynamics365-Project-Operations-PowerApps/tree/main/3x-4x-deprecated-solution).
 
-### <a name="invoicedetail"></a>шот-фактураның детальдары
+### <a name="invoicedetail"></a>шот-фактура мәліметтері
 
 | Өрістер                                                    |
 |-----------------------------------------------------------------------------------------------|
@@ -438,7 +438,7 @@ Microsoft Project Desktop қондырмасына қолдау жаңартуд
 | msdyn_projectteam.msdyn_number                                                                |
 | msdyn_projectteam.msdyn_to                                                                    |
 
-### <a name="msdyn_projectteammembersignup"></a>msdyn_projectteammemberтіркелу
+### <a name="msdyn_projectteammembersignup"></a>msdyn_projectteammemberтіркеу
 
 | Өрістер                                                    |
 |-----------------------------------------------------------------------------------------------|

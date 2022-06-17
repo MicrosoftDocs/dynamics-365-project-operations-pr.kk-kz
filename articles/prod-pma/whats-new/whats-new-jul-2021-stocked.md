@@ -1,24 +1,24 @@
 ---
 title: 2021 жылдың шілде айындағы қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations бағдарламасындағы жаңалықтар немесе өзгерістер
-description: Бұл тақырып қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations бағдарламасының 2021 жылдың шілде айындағы шығарылымында қолжетімді сапа жаңартулары туралы ақпарат береді.
+description: Бұл мақалада жинақталған/өндіріске негізделген сценарийлер үшін Жоба операцияларының 2021 жылдың шілде айындағы шығарылымында қолжетімді сапа жаңартулары туралы ақпарат берілген.
 author: andchoi
 ms.date: 07/01/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: db5bb27650d65bb68f45f95cb2562f4b773ddcea
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: df9a68c5a12e6aec140867eb1db3d88279c05795
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597069"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933637"
 ---
 # <a name="whats-new-or-changed-in-project-operations-july-2021-for-stockedproduction-based-scenarios"></a>2021 жылдың шілде айындағы қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations бағдарламасындағы жаңалықтар немесе өзгерістер
 
 _**Келесіге қолданылады:** қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations бағдарламасы_
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
 - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.20 нұсқасында
  
