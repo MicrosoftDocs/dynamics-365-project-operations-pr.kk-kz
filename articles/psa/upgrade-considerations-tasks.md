@@ -1,6 +1,6 @@
 ---
 title: Жұмыс декомпозициясының құрылымы бойынша пікірлерді жаңарту
-description: Бұл тақырыпта Project Service Automation 2.x және 3.x аралығындағы нұсқадағы жұмыс декомпозициясының құрылымын жаңарту туралы ақпарат берілген.
+description: Бұл мақалада Project Service Automation 2.x нұсқасынан 3.x нұсқасына дейін жұмысты бөлу құрылымын жаңарту туралы ақпарат берілген.
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/18/2019
@@ -17,18 +17,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 13ad93d5be3c0ab07c81db28d3e13561e9d40017
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 42bf03b5e3be4b7bdce87148254ce69e381ffdf1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599737"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913121"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>Жұмыс декомпозициясының құрылымы бойынша пікірлерді жаңарту
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Бұл тақырыпта Project Service Automation 2.x және 3.x аралығындағы нұсқадағы жұмыс декомпозициясының құрылымын жаңарту туралы ақпарат берілген. Бұл тақырыпта сәтті жаңарту үшін қажет Project Service Automation (PSA) жобасындағы дұрыс күйді анықтайды. Сондай-ақ жаңартудың сәтсіз болуына әкелетін блоктаудың жалпы шарттары туралы ақпарат бар. Жоба кестесінде жоба тапсырмалары мен функцияларын анықтау туралы қосымша ақпаратты [Жоба кестелері](project-creating.md) бөлімінен қараңыз.
+Бұл мақалада Project Service Automation 2.x нұсқасынан 3.x нұсқасына дейін жұмысты бөлу құрылымын жаңарту туралы ақпарат берілген. Бұл мақала сәтті жаңарту үшін қажет Project Service Automation (PSA) жүйесіндегі жобаның қалыпты күйін анықтайды. Сондай-ақ жаңартудың сәтсіз болуына әкелетін блоктаудың жалпы шарттары туралы ақпарат бар. Жоба кестесінде жоба тапсырмалары мен функцияларын анықтау туралы қосымша ақпаратты [Жоба кестелері](project-creating.md) бөлімінен қараңыз.
 
 ## <a name="key-entities"></a>Негізгі нысандар
 Ресурстармен жүктеліп қойған жұмыс декомпозициясының нақты құрылымы үшін келесі нысандар қажет:

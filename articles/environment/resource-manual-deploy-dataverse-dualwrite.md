@@ -1,25 +1,25 @@
 ---
 title: Қос жазу мүмкіндігіне ие Project Operations Dataverse бағдарламасын қолмен орналастыру
-description: Бұл тақырып қос жазу мүмкіндігіне қолдау көрсетуі үшін Project Operations Dataverse бағдарламасын қолмен орналастыру жолын түсіндіреді.
+description: Бұл мақала жоба әрекеттерін қолмен қолдану жолын түсіндіреді Dataverse қос жазуды қолдайтындай қолданба.
 author: stsporen
 ms.date: 06/18/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: b82eef7b5f64705f37f224172c14f6734612329e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: be80ea3956fbf0264c2eeb7a5e30dd50b77e3c78
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591227"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912017"
 ---
 # <a name="manually-deploy-the-project-operations-dataverse-app-with-dual-write-support"></a>Қос жазу мүмкіндігіне ие Project Operations Dataverse бағдарламасын қолмен орналастыру
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырып қос жазу мүмкіндігіне қолдау көрсетуі үшін Microsoft Dynamics 365 Project Operations бағдарламасын Microsoft Dataverse жүйесіне қолмен орналастыру жолын түсіндіреді. Project Operations бағдарламасы ортаның конфигурациясын анықтайды және алғышарттар орындалған жағдайда қос жазу мүмкіндігіне қосымша қолдау көрсетеді.
+Бұл мақала Microsoft корпорациясын қолмен қалай орналастыру керектігін түсіндіреді Dynamics 365 Project Operations жылы Microsoft Dataverse ол қос жазуды қолдайды. Project Operations бағдарламасы ортаның конфигурациясын анықтайды және алғышарттар орындалған жағдайда қос жазу мүмкіндігіне қосымша қолдау көрсетеді.
 
-Microsoft Dynamics Lifecycle Services (LCS) арқылы орналастыру кезінде егер сіз осы тақырыптағы нұсқауларды орындаған болсаңыз, Microsoft Power Platform біріктіруін (бұрын Common Data Service ортасы деп аталған) орналастыруды өткізіп жіберсеңіз болады.
+Орналастыру кезінде Microsoft Dynamics Lifecycle Services (LCS), егер сіз осы мақаладағы нұсқауларды орындасаңыз, қолданбаны орналастыруды өткізіп жіберуге болады.Microsoft Power Platform интеграция (бұрын ретінде белгілі Common Data Service қоршаған орта).
 
 Қос жазу мүмкіндігіне қолдау көрсетуі үшін Project Operations бағдарламасын Dataverse жүйесіне орналастырудың төрт негізгі қадамы бар:
 

@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation Update 42, V3 шығарылымындағы жаңалық немесе өзгерістер
-description: Бұл тақырыпта Microsoft Dynamics 365 Project Service Automation 42, V3 жаңарту шығарылымындағы қолжетімді мүмкіндіктер мен түзетулердің тізімі берілген.
+description: Бұл мақалада қолжетімді мүмкіндіктер мен түзетулер тізімі берілген Microsoft Dynamics 365 Project Service Automation Жаңарту шығарылымы 42, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 04/05/2022
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 32cb7a4c5fc29d5c0dcec37dd395ae69037435a2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e9911531e4acbd78db416f554c8d85c4f1fee1cf
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8589203"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912722"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-42-v3"></a>Project Service Automation Update 42, V3 шығарылымындағы жаңалық немесе өзгерістер
 
@@ -29,7 +29,7 @@ ms.locfileid: "8589203"
 
 Біз Microsoft Dynamics 365 Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Осы шығарылымға жаңарту үшін Dynamics 365 онлайн шешімдері бетінің әкімші орталығына кіріп, жаңартуды орнатыңыз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
-Бұл бөлімде Project Service Automation Update Release 42, V3 үшін жаңа немесе өзгертілген мүмкіндіктер мен түзетулер тізімі берілген. Бұл нұсқа V3.10.73.61 жиынтық нөміріне ие және әдетте өзін-өзі жаңарту арқылы 2022 жылдың сәуірінде қолжетімді.
+Бұл мақалада Project Service Automation Update Release 42, V3 үшін жаңа немесе өзгертілген мүмкіндіктер мен түзетулер тізімі берілген. Бұл нұсқа V3.10.73.61 жиынтық нөміріне ие және әдетте өзін-өзі жаңарту арқылы 2022 жылдың сәуірінде қолжетімді.
 
 ## <a name="update-release-42"></a>42-жаңарту шығарылымы
 

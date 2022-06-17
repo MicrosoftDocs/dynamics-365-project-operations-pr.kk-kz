@@ -1,17 +1,17 @@
 ---
 title: Тапсырыстар және тағайындаулар
-description: Бұл тақырыпта ресурстарды резервтеу мен ресурстарды тағайындау арасындағы айырмашылықтар туралы ақпарат берілген.
+description: Бұл мақалада ресурстарды брондау мен ресурс тағайындаулары арасындағы айырмашылықтар туралы ақпарат берілген.
 author: ruhercul
 ms.date: 01/08/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: b06555ec48e50f88c11872336539ca88c5cef34a
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3410a45ce8401905dc162db66b0975e4aa3350dc
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591273"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918595"
 ---
 # <a name="bookings-vs-assignments"></a>Тапсырыстар және тағайындаулар
 

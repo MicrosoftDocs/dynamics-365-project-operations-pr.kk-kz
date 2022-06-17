@@ -1,19 +1,19 @@
 ---
-title: Жоба жеткізушісінің шот-фактурасынан бас тарту
-description: Бұл тақырып Microsoft жүйесінде жоба жеткізушісінің шот-фактурасынан бас тарту жолын түсіндіреді Dynamics 365 Project Operations және жоба жеткізушісінің шот-фактурасын жоюдың қаржылық әсері.
+title: Жобалық жеткізушінің есеп-шотынан бас тарту
+description: Бұл мақала Microsoft корпорациясында жоба жеткізушісінің шот-фактурасынан қалай бас тарту керектігін түсіндіреді Dynamics 365 Project Operations және жоба жеткізушісінің шот-фактурасын жоюдың қаржылық әсері.
 author: rumant
 ms.date: 03/30/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 87f6bdca30c5779e3d70922e75609ff4cdfca167
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7ddaadc0f6e336a8ba67bb4ad8000f7e894f3eb0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580647"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911557"
 ---
-# <a name="cancel-a-project-vendor-invoice"></a>Жоба жеткізушісінің шот-фактурасынан бас тарту
+# <a name="cancel-a-project-vendor-invoice"></a>Жобалық жеткізушінің есеп-шотынан бас тарту
 
 [!include [banner](../../includes/dataverse-preview.md)]
 

@@ -1,24 +1,24 @@
 ---
 title: 2021 жылдың шілде айындағы жаңалықтар - Project Operations бағдарламасын жеңілдетілген орналастыру
-description: Бұл тақырып Project Operations бағдарламасын жеңілдетілген орналастыруының 2021 жылдың шілде айындағы шығарылымында қолжетімді сапа жаңартулары туралы ақпарат береді.
+description: Бұл мақалада Project Operations lite қолдануының 2021 жылдың шілдесіндегі шығарылымында қолжетімді сапа жаңартулары туралы ақпарат берілген.
 author: sigitac
 ms.date: 07/07/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 475ceea3a6c6db9fe63e3950eaca5d9074faa766
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7964f38c1bc7a8e0440e2e922ff153fd9bede131
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583959"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913995"
 ---
 # <a name="whats-new-july-2021---project-operations-lite-deployment"></a>2021 жылдың шілде айындағы жаңалықтар - Project Operations бағдарламасын жеңілдетілген орналастыру
 
 _Келесіге қолданылады: жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
   - Dataverse ортасындағы Project Operations бағдарламасының 4.12.0.148 немесе 4.12.0.152 нұсқасы.
 

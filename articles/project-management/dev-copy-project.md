@@ -1,17 +1,17 @@
 ---
 title: Copy Project көмегімен жоба үлгілерін жасау
-description: Бұл тақырыпта Copy Project реттелетін әрекеті көмегімен жоба үлгілерін жасау жолы туралы ақпарат берілген.
+description: Бұл мақалада Жобаны көшіру теңшелетін әрекетін пайдаланып жоба үлгілерін жасау жолы туралы ақпарат берілген.
 author: stsporen
 ms.date: 03/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: 72aa2db7c717eeab85ada448c673bf702087baeb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 47c1023bbc4c21e3571bffbf3670bf0f7854f81d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8590905"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923839"
 ---
 # <a name="develop-project-templates-with-copy-project"></a>Copy Project көмегімен жоба үлгілерін жасау
 
@@ -31,7 +31,7 @@ msdyn\_ CopyProjectV3
 
 Үш кіріс параметрі берілген:
 
-- **ReplaceNamedResources** немесе **Топтарды және тапсырмаларды тазалау** – Опциялардың тек біреуін орнатыңыз. Екеуін де орнатпаңыз.
+- **ReplaceNamedResources** немесе **Топтарды және тапсырмаларды тазалау** – Опциялардың біреуін ғана орнатыңыз. Екеуін де орнатпаңыз.
 
     - **\{"ReplaceNamedResources":шын\}** – Жоба операцияларының әдепкі әрекеті. Кез келген атаулы ресурстар жалпы ресурстармен ауыстырылады.
     - **\{«Таза командалар мен тапсырмалар»:шын\}** – Web for Project үшін әдепкі әрекет. Барлық тапсырмалар мен топ мүшелері жойылады.
@@ -48,7 +48,7 @@ msdyn\_ CopyProjectV3
 | SourceProject            | Нысан анықтамасы | Бастапқы жоба    |
 | Межелі орын                   | Нысан анықтамасы | Мақсатты жоба    |
 
-Әрекеттердің қосымша әдепкі параметрлері үшін қараңыз [Web API әрекеттерін пайдаланыңыз](/powerapps/developer/common-data-service/webapi/use-web-api-actions).
+Әрекеттердің қосымша әдепкі параметрлерін қараңыз [Web API әрекеттерін пайдаланыңыз](/powerapps/developer/common-data-service/webapi/use-web-api-actions).
 
 ### <a name="validations"></a>Тексерулер
 

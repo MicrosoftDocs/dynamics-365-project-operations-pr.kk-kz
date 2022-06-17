@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation бағдарламасының 18 жаңарту шығарылымының 3 нұсқасындағы жаңалықтар немесе өзгерістер
-description: Бұл бөлімде Project Service Automation бағдарламасының 18 жаңарту шығарылымының 3 нұсқасындағы қолжетімді мүмкіндіктер мен түзетулер берілген.
+description: Бұл мақалада Project Service Automation Update 18, V3 шығарылымында қолжетімді мүмкіндіктер мен түзетулер тізімі берілген.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 04/27/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 8c76672e63fc4b01d5c6f8cce2831782b9c22326
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e8d423c550d9aa09c9cbb7d4f7c277c43bbe10ae
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598771"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918871"
 ---
 # <a name="project-service-automation-update-release-18-v3"></a>Project Service Automation 18 жаңарту шығарылымының 3-нұсқасы
 
@@ -29,7 +29,7 @@ ms.locfileid: "8598771"
 
 Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Осы шығарылымды жаңарту үшін, желідегі Dynamics 365 басқару орталығына, жаңартуды орнату үшін шешімдер бетіне өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
-Бұл бөлімде Project Service Automation бағдарламасының 18 жаңарту шығарылымының 3 нұсқасындағы жаңа немесе өзгертілген мүмкіндіктер мен түзетулер берілген. Бұл нұсқа V3.10.8.12 жиынтық нөміріне ие және әдетте өзін-өзі жаңарту арқылы 2020 жылдың сәуірінде қолжетімді.
+Бұл мақалада Project Service Automation V3, Update 18 шығарылымы үшін жаңа немесе өзгертілген мүмкіндіктер мен түзетулер тізімі берілген. Бұл нұсқа V3.10.8.12 жиынтық нөміріне ие және әдетте өзін-өзі жаңарту арқылы 2020 жылдың сәуірінде қолжетімді.
 
 ## <a name="update-release-18"></a>18-жаңарту шығарылымы
 

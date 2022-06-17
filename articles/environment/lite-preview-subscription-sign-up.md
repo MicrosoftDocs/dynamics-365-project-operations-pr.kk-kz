@@ -1,21 +1,21 @@
 ---
 title: Алдын ала қарау жазылымына тіркелу - жеңілдетілген
-description: Бұл тақырыпта Project Operations жеңілдетілген орналастыру бағдарламасына жазылу және оны орналастыру амалы туралы ақпарат берілген - проформа-шотын ұсыну мәмілесі.
+description: Бұл мақалада Project Operations lite deployment - proforma шот-фактурасына жазылу және қолдану туралы ақпарат берілген.
 author: sigitac
 ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3b06ac29e8021967490534d3aefc8b5ce733413b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6953956c0b3401a6c64ee597f966ba4a4c0d07b5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588007"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921263"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>Алдын ала қарау жазылымына тіркелу - жеңілдетілген 
 
-Бұл тақырып сынақ ұсынысына жазылу және Dynamics 365 Project Operations жеңілдетілген орналастыруын орналастыру әдісін түсіндіреді - проформа есеп‑‑шоты бойынша.
+Бұл мақалада сынақ нұсқасына жазылу және орналастыру жолы түсіндіріледі Dynamics 365 Project Operations lite deployment - проформалық шот-фактураға мәміле.
 
 > [!NOTE]
 > Бұл процесс Project Operations алдағы шығарылымдарында өзгереді.
@@ -50,7 +50,7 @@ ms.locfileid: "8588007"
 
 ## <a name="create-a-new-dataverse-environment"></a>Жаңа Dataverse ортасын жасау
 
-1. [Dataverse орналастыру үлгісі](lite-deployment.md) бөліміндегі нұсқауларды орындау арқылы жаңа Project Operations Dataverse орналастыру ортасын дайындаңыз. Орта түрін таңдағанда, міндетті түрде **Сынақ (жазылымға негізделген)** пайдаланыңыз.
+1. Жаңа жоба операцияларын қамтамасыз ету Dataverse мақаладағы нұсқауларды орындау арқылы орналастыру ортасын, [Dataverse орналастыру моделі](lite-deployment.md). Орта түрін таңдағанда, міндетті түрде **Сынақ (жазылымға негізделген)** пайдаланыңыз.
 
   ![Жаңа орта.](./media/19CreateEnvironment.png)
 
@@ -65,7 +65,7 @@ ms.locfileid: "8588007"
 
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>CDS конфигурациясын орнатып, демо деректерді реттеңіз
 
-[Демо нұсқа параметрлері мен конфигурация деректерін қолдану](lite-apply-demo-setup-config-data.md) бөліміндегі нұсқауларды орындау арқылы CDS конфигурациясын орнатып, демо деректерді реттеңіз.
+CDS конфигурациясын орнатыңыз және мақаладағы нұсқауларды орындау арқылы демонстрациялық деректерді орнатыңыз, [Демонстрациялық орнату және конфигурация деректерін қолданыңыз](lite-apply-demo-setup-config-data.md).
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

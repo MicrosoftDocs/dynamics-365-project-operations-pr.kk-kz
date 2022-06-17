@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation бағдарламасының 23 жаңарту шығарылымы 3-нұсқасындағы жаңалықтар немесе өзгерістер
-description: Бұл бөлімде Project Service Automation бағдарламасының 23-жаңарту шығарылымының 3 нұсқасындағы қолжетімді мүмкіндіктер мен түзетулер берілген.
+description: Бұл мақалада Project Service Automation Update 23, V3 шығарылымында қолжетімді мүмкіндіктер мен түзетулер тізімі берілген.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 08/25/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: cc918f1516d4751b3f8e70a93d8fc66058201f22
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 968626c7b2097a9b85178cb000b3633a766f54c9
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8581613"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913036"
 ---
 # <a name="project-service-automation-update-release-23-v3"></a>Project Service Automation 23-жаңарту шығарылымының 3-нұсқасы
 
@@ -29,7 +29,7 @@ ms.locfileid: "8581613"
 
 Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
-Бұл бөлімде Project Service Automation бағдарламасының 23-жаңарту шығарылымының 3 нұсқасындағы мүмкіндіктер мен түзетулер берілген. Бұл нұсқада V 3.10.34.30 құрылым нөмірі бар және әдетте 2020 жылдың тамыз айында өзін-өзі жаңарту арқылы қолжетімді.
+Бұл мақалада Project Service Automation V3, Жаңарту шығарылымы 23 үшін жаңа немесе өзгертілген мүмкіндіктер мен түзетулер тізімі берілген. Бұл нұсқада V 3.10.34.30 құрылым нөмірі бар және әдетте 2020 жылдың тамыз айында өзін-өзі жаңарту арқылы қолжетімді.
 
 ## <a name="update-release-23"></a>23-жаңарту шығарылымы
 

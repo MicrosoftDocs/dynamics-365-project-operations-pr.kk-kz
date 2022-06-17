@@ -1,6 +1,6 @@
 ---
 title: Қосымша баға ұсыну, бағалау және шот ұсыну
-description: Бұл тақырыпта Project Service Automation бағдарламасындағы баға ұсыну, шот ұсыну және бағалау туралы ақпарат берілген.
+description: Бұл мақалада Project Service Automation жүйесінде баға белгілеу, есеп айырысу және баға белгілеу туралы ақпарат берілген.
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 54047f34d950fc79e510bfe0d6601e271c02a92c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8106a18fefc34141fdc5d350c60e87ec4b2a4c1d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579359"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921815"
 ---
 # <a name="advanced-quoting-pricing-and-billing-guide"></a>Қосымша баға ұсыну, бағалау және шот ұсыну нұсқаулығы
 
@@ -32,7 +32,7 @@ ms.locfileid: "8579359"
 
 Тиісті уақытта тиісті ресурстарды табу, сол ресурстарды жобада тіркеу және оларды пайдалану ұйымдарға табыс мақсаттары мен тұтынушы қанағаттанушылығы мақсаттарына жету үшін көмектеседі. 
 
-Бұрын осы тақырыпта болған PDF сілтемесі жойылып, мазмұны келесі тақырыптарға ауыстырылды:
+Осы мақалада бұрын болған PDF сілтемесі жойылды және мазмұн келесі мақалаларға жылжытылды:
 
 - [Баға белгілеу және есеп-шот ұсыну](../quote-bill-price.md)
 - [Сатылым процестері](../basic-sales-process.md)
@@ -50,7 +50,7 @@ ms.locfileid: "8579359"
 - [Нақты көрсеткіштерді жазу](../advanced-actuals.md)
 
 > [!NOTE]
-> Бұл тақырып болашақтағы құжаттамалық жаңартудан жойылады. 
+> Бұл мақала құжаттаманың болашақ жаңартуында жойылады. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

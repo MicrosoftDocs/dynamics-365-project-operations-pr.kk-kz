@@ -1,17 +1,17 @@
 ---
 title: Шығыстар үшін құн мен сатылым мөлшерлемелерін орнату
-description: Бұл тақырыпта операция және шығыс санаттары үшін құн мен сатылым мөлшерлемелерін орнату жолдары туралы ақпарат берілген.
+description: Бұл мақалада транзакция және шығыс санаттары үшін шығындар мен сату мөлшерлемелерін орнату жолы туралы ақпарат берілген.
 author: rumant
 ms.date: 04/07/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: de7f95f9dcb1dff866d165dba9aaaedb480c1ad5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c503230348750af246f6ee7a4af1176d7bf22ba4
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598449"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911879"
 ---
 # <a name="set-up-cost-and-sales-rates-for-expenses"></a>Шығыстар үшін құн мен сатылым мөлшерлемелерін орнату
 

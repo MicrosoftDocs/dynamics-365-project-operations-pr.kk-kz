@@ -1,24 +1,24 @@
 ---
 title: Жойылған немесе ескірген мүмкіндіктер Dynamics 365 Project Operations
-description: Бұл тақырып жойылған немесе ішінен жою жоспарланған мүмкіндіктерді сипаттайды Dynamics 365 Project Operations.
+description: Бұл мақалада жойылған немесе жою жоспарланған мүмкіндіктер сипатталған Dynamics 365 Project Operations.
 author: sigitac
 ms.date: 03/16/2022
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 61bb84b94274762636eb8532f09634db1109e969
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: df9d8a40fa853e72416e64846bf59748815048be
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8601577"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921493"
 ---
 # <a name="removed-or-deprecated-features-in-dynamics-365-project-operations"></a>Жойылған немесе ескірген мүмкіндіктер Dynamics 365 Project Operations
 
 _**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі және қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations_
 
-Бұл тақырып жойылған немесе ішінен жою жоспарланған мүмкіндіктерді сипаттайды Dynamics 365 Project Operations.
+Бұл мақалада жойылған немесе жою жоспарланған мүмкіндіктер сипатталған Dynamics 365 Project Operations.
 
 - *Жойылған* мүмкіндік өнім ішінде бұдан былай қолжетімді емес.
 - *Ұсынылмаған* функциясы белсенді әзірленуде емес және кейінгі жаңартуда жойылуы мүмкін.

@@ -1,6 +1,6 @@
 ---
 title: Баға ұсынудың, баға белгілеудің және есеп-шот ұсынуға арналған негізгі нұсқаулық
-description: Бұл тақырыпта Project Service Automation бағдарламасындағы негізгі баға ұсыну, баға белгілеу және шот ұсыну туралы ақпарат берілген.
+description: Бұл мақалада Project Service Automation жүйесіндегі негізгі баға белгілеу, баға белгілеу және есеп айырысу туралы ақпаратқа сілтемелер берілген.
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 119fa9941a1f06108950e1ea1c08f84988530373
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 19b149e3cf9ee9c14af591968bc2afeb56a0abd4
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592239"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8910805"
 ---
 # <a name="basic-guide-to-quoting-pricing-and-billing"></a>Баға ұсынудың, баға белгілеудің және есеп-шот ұсынуға арналған негізгі нұсқаулық
 
@@ -32,7 +32,7 @@ ms.locfileid: "8592239"
 
 Тиісті уақытта тиісті ресурстарды табу, сол ресурстарды жобада тіркеу және оларды пайдалану ұйымдарға табыс мақсаттары мен тұтынушы қанағаттанушылығы мақсаттарына жету үшін көмектеседі. 
 
-Бұрын осы тақырыпта болған PDF сілтемесі жойылып, мазмұны келесі тақырыптарға ауыстырылды:
+Осы мақалада бұрын болған PDF сілтемесі жойылды және мазмұн келесі мақалаларға жылжытылды:
 
 - [Баға белгілеу және есеп-шот ұсыну](../quote-bill-price.md)
 - [Сатылым процестері](../basic-sales-process.md)
@@ -50,7 +50,7 @@ ms.locfileid: "8592239"
 - [Нақты көрсеткіштерді жазу](../advanced-actuals.md)
 
 > [!NOTE]
-> Бұл тақырып болашақтағы құжаттамалық жаңартудан жойылады. 
+> Бұл мақала құжаттаманың болашақ жаңартуында жойылады. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

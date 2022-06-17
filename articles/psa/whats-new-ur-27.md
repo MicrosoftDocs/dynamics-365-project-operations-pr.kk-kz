@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation бағдарламасының 27-жаңарту шығарылымы, 3-нұсқасындағы жаңалықтар немесе өзгерістер
-description: Бұл тақырыпта Project Service Automation бағдарламасының 27-жаңарту шығарылымының 3-нұсқасындағы қолжетімді мүмкіндіктер мен түзетулер берілген.
+description: Бұл мақалада Project Service Automation Update 27, V3 шығарылымында қолжетімді мүмкіндіктер мен түзетулер тізімі берілген.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 01/12/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: aab77411760c3d64daa377bffc06391c8e4ed54a
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6c8f4f736f0659f9b6db25f4685ef1278c45d034
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599599"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912937"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-27-v3"></a>Project Service Automation бағдарламасының 27-жаңарту шығарылымы, 3-нұсқасындағы жаңалықтар немесе өзгерістер
 
@@ -29,7 +29,7 @@ ms.locfileid: "8599599"
 
 Біз Dynamics 365 жүйесіне арналған Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Бұл шығарылымды жаңарту үшін, жаңартуды орнату мақсатында Dynamics 365 онлайн шешімдер бетінің басқару орталығына өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
-Бұл бөлімде Project Service Automation бағдарламасының 27-жаңарту шығарылымының 3-нұсқасындағы мүмкіндіктер мен түзетулер берілген. Бұл нұсқа V3.10.45.98 құрылым нөміріне ие және әдетте 2021 жылдың қаңтар айында шыққан өзін-өзі жаңарту мүмкіндігі арқылы қолжетімді.
+Бұл мақалада Project Service Automation V3, Update 27 шығарылымы үшін жаңа немесе өзгертілген мүмкіндіктер мен түзетулер тізімі берілген. Бұл нұсқа V3.10.45.98 құрылым нөміріне ие және әдетте 2021 жылдың қаңтар айында шыққан өзін-өзі жаңарту мүмкіндігі арқылы қолжетімді.
 
 ## <a name="update-release-27"></a>27-жаңарту шығарылымы
 

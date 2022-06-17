@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation бағдарламасының 33 жаңарту шығарылымының 3-нұсқасындағы жаңалықтар немесе өзгерістер
-description: Бұл бөлімде Project Service Automation бағдарламасының 33 жаңарту шығарылымының 3‑нұсқасында қолжетімді мүмкіндіктер мен түзетулер берілген.
+description: Бұл мақалада Project Service Automation Update 33, V3 шығарылымында қолжетімді мүмкіндіктер мен түзетулер тізімі берілген.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 06/30/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 063290526c25e7073137fc88408be6a61d2d20ac
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: d9c282e8b95b111ce71fb441e4dbb2d04f904e0f
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8601485"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915423"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-33-v3"></a>Project Service Automation бағдарламасының 33 жаңарту шығарылымының 3-нұсқасындағы жаңалықтар немесе өзгерістер
 
@@ -29,7 +29,7 @@ ms.locfileid: "8601485"
 
 Біз Microsoft Dynamics 365 Project Service Automation бағдарламасының соңғы жаңартуын хабарлауға қуаныштымыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Осы шығарылымға жаңарту үшін Dynamics 365 онлайн шешімдері бетінің әкімші орталығына кіріп, жаңартуды орнатыңыз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
-Бұл бөлімде Project Service Automation бағдарламасының 33 жаңарту шығарылымының 3 нұсқасындағы жаңа немесе өзгертілген мүмкіндіктер мен түзетулер берілген. Бұл нұсқада V3.10.54.98 құрастыру нөмірі бар және әдетте 2021 жылдың шілде айындағы өзін-өзі жаңарту арқылы қолжетімді.
+Бұл мақалада Project Service Automation V3, Жаңарту шығарылымы 33 үшін жаңа немесе өзгертілген мүмкіндіктер мен түзетулер тізімі берілген. Бұл нұсқада V3.10.54.98 құрастыру нөмірі бар және әдетте 2021 жылдың шілде айындағы өзін-өзі жаңарту арқылы қолжетімді.
 
 ## <a name="update-release-33"></a>33-жаңарту шығарылымы
 

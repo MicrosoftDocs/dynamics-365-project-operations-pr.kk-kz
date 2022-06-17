@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 0ceaa3af630df132339895a8497e49daf2e102c3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 75fe0aab8ea8bf41fcb98f4318380c93ac52fef8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592331"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919239"
 ---
 # <a name="configure-additional-parameter-settings-project-service"></a>Қосымша параметрлерді конфигурациялау (Project Service)
 
@@ -30,7 +30,7 @@ ms.locfileid: "8592331"
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-Алдыңғы бөлімдердегі элементтерді теңшегеннен кейін, жобаларға пайдаланылатын қосымша жоба параметрлерін орнату қажет. [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] қызметін бірінші рет орнатқан кезде алдымен [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] жұмыс істеуі үшін қажетті барлық жазбаларды жасау параметрін жасадыңыз. Енді оралып, осы параметрлердің қосымша өрістерін конфигурациялау уақыты келді.  
+Алдыңғы мақалалардағы элементтерді теңшегеннен кейін жобаларыңыз үшін пайдалану үшін қосымша жоба параметрлерін орнатуыңыз қажет. [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] қызметін бірінші рет орнатқан кезде алдымен [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] жұмыс істеуі үшін қажетті барлық жазбаларды жасау параметрін жасадыңыз. Енді оралып, осы параметрлердің қосымша өрістерін конфигурациялау уақыты келді.  
   
  Мына параметрлерді теңшеу қажет болады:  
   

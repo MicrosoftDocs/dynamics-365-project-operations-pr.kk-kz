@@ -1,17 +1,17 @@
 ---
 title: Жоспарлау режимдері
-description: Бұл тақырыпта жоспарлау режимдері туралы ақпарат берілген.
+description: Бұл мақалада жоспарлау режимдері туралы ақпарат берілген.
 author: ruhercul
 ms.date: 05/28/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: cb507528c4815f5149c813bba0a354f7d840a4a5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3cbe14f8d458c5d9631e0595912afa8cbb87b9de
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588421"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923655"
 ---
 # <a name="scheduling-modes"></a>Жоспарлау режимдері
 
@@ -38,7 +38,7 @@ Project Operations бағдарламасында үш жоспарлау реж
 | Бекітілген әрекет тапсырмасы    | Ұзақтығы қайта есептеледі. | Бірліктер қайта есептеледі.    | Ұзақтығы қайта есептеледі. |
 | Бекітілген ұзақтығы тапсырмасы  | Әрекет қайта есептеледі.   | Әрекет қайта есептеледі.    | Бірліктер қайта есептеледі.   |
 
-Берілген режимнің салдары туралы қосымша ақпаратты [Нақты жоспарлау үшін тапсырма түрін өзгерту](https://support.microsoft.com/en-us/office/change-the-task-type-for-more-accurate-scheduling-b0b969ad-45bc-4e9e-8967-435587548a72) бөлімін қараңыз. Тақырыпта **Жұмыс** термині **Әрекет** термині орнына пайдаланылады.
+Берілген режимнің салдары туралы қосымша ақпаратты [Нақты жоспарлау үшін тапсырма түрін өзгерту](https://support.microsoft.com/en-us/office/change-the-task-type-for-more-accurate-scheduling-b0b969ad-45bc-4e9e-8967-435587548a72) бөлімін қараңыз. Мақалада термин **Жұмыс** орнына қолданылады **Күш**.
 
 ## <a name="change-the-organizations-scheduling-mode"></a>Ұйымның жоспарлау режимін өзгерту
 

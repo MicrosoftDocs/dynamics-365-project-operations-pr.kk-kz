@@ -1,24 +1,24 @@
 ---
 title: Тамыз, 2021 ж. жаңалықтары - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
-description: Бұл тақырыпта Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations бағдарламасының 2021 жылдың тамыз айындағы ерте қолдану шығарылымындағы қолжетімді сапалы жаңартулары туралы ақпарат берілген.
+description: Бұл мақала 2021 жылдың тамыз айындағы Project Operations шығарылымында ресурс/қорда жоқ негізделген сценарийлер үшін қол жетімді сапа жаңартулары туралы ақпарат береді.
 author: sigitac
 ms.date: 08/11/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 144a8c0d5ac47ad6fee54850c149a349f1698049
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: bd91f7f6b3a6f78161f8900aa06c810a58609b53
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594171"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912293"
 ---
 # <a name="whats-new-august-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Тамыз, 2021 ж. жаңалықтары - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
 
 *Қолданылады: ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations*
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
    - 4.13.0.152 нұсқасындағы Microsoft Dataverse ортасындағы Project Operations бағдарламасы.
    - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.20 нұсқасы.

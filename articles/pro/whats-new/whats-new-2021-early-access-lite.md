@@ -1,24 +1,24 @@
 ---
 title: 2021 шығарылымының 2-толқынын ерте қолдану жаңалықтары - Project Operations жеңілдетілген орналастыруы
-description: Бұл тақырыпта Project Operations жеңілдетілген орналастыруының 2021 жылғы 2-толқынын ерте қолдану шығарылымындағы қолжетімді мүмкіндіктер туралы ақпарат берілген.
+description: Бұл мақалада Project Operations lite орналастыруының 2021 жылғы 2-толқын ерте қол жеткізу шығарылымында қолжетімді мүмкіндіктер туралы ақпарат берілген.
 author: sigitac
 ms.date: 08/10/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 7b5f3528e4b4e615b8e7f24bfd3702746fd584c9
-ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
+ms.openlocfilehash: d245868c8bd9ff332707a81c074d6c7ae3649378
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "8723683"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924115"
 ---
 # <a name="whats-new-2021-wave-2-early-access---project-operations-lite-deployment"></a>2021 шығарылымының 2-толқынын ерте қолдану жаңалықтары - Project Operations жеңілдетілген орналастыруы
 
 _Келесіге қолданылады: жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
   - 4.23.0.4 нұсқалы Dataverse ортасындағы Project Operations жүйесі
 

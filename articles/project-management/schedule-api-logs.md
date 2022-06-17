@@ -1,17 +1,17 @@
 ---
 title: Жобаны жоспарлау журналдары
-description: Бұл тақырып Жобаны жоспарлау қызметі мен Жобаны жоспарлау API интерфейстеріне қатысты қателерді бақылау үшін Жобаны жоспарлау журналдарын пайдалануға көмектесетін ақпарат пен үлгілерді қамтамасыз етеді.
+description: Бұл мақалада Жобаны жоспарлау қызметі мен Жобаны жоспарлау API интерфейстеріне қатысты қателерді бақылау үшін Жобаны жоспарлау журналдарын пайдалануға көмектесетін ақпарат пен үлгілер берілген.
 author: ruhercul
 ms.date: 11/30/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 1a58a588d3e2fb92f1b4a4ed0f6f69d0a63908db
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c57419642e90e4def01f2cd2474c9e82dc162b86
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8589525"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923702"
 ---
 # <a name="project-scheduling-logs"></a>Жобаны жоспарлау журналдары
 
@@ -95,7 +95,7 @@ Project Scheduling Service қате журналдары Жобаны жоспа
 Әдепкі бойынша, Project Scheduling Service қате журналдары мен амалдар жинағы журналын 90 күн сайын тазалауға болады. 90 күннен асқан кез келген жазбалар жойылады. Дегенмен, мәнін өзгерту арқылы **msdyn_StateOperationSetAge** бойынша өріс **Жоба параметрлері** бетте, әкімшілер тазалау ауқымын 1 және 120 күн аралығында болатындай етіп реттей алады. Бұл мәнді өзгертудің бірнеше әдістері бар:
 
 - теңшеңіз **Жоба параметрі** пайдаланушы бетін жасау және қосу арқылы нысан **Ескірген операциялар жасын орнату** өріс.
-- қолданатын клиент кодын пайдаланыңыз [WebApi бағдарламалық құралды әзірлеу жинағы (SDK)](/powerapps/developer/model-driven-apps/clientapi/reference/xrm-webapi/updaterecord).
+- пайдаланатын клиент кодын пайдаланыңыз [WebApi бағдарламалық құралды әзірлеу жинағы (SDK)](/powerapps/developer/model-driven-apps/clientapi/reference/xrm-webapi/updaterecord).
 - Xrm SDK пайдаланатын Service SDK кодын пайдаланыңыз **Жазбаны жаңарту** үлгіге негізделген қолданбалардағы әдіс (Client API сілтемесі). Power Apps үшін сипаттаманы және қолдау көрсетілетін параметрлерді қамтиды **Жазбаны жаңарту** әдіс.
 
     ```C#

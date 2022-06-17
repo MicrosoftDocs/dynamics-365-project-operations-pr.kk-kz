@@ -1,6 +1,6 @@
 ---
 title: Еңбек және шығындардың стандартты құнын конфигурациялау
-description: Бұл тақырыпта жобаға арналған еңбек және шығындардың стандартты құнын орнату жолы түсіндірілген.
+description: Бұл мақалада жобаның жұмыс күші мен шығындарының стандартты шығындарын қалай орнату керектігі түсіндіріледі.
 author: Yowelle
 ms.date: 08/02/2019
 ms.topic: business-process
@@ -14,18 +14,18 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.search.validFrom: 2016-06-30
 ms.dyn365.ops.version: Version 7.0.0
-ms.openlocfilehash: fd74da69986a73e933f8cfedce40158555c2ac60
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: a51eee8d2eb960b6f24b6511dab7b7a27303dddb
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8685339"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919517"
 ---
 # <a name="configure-standard-costs-for-labor-and-expenses"></a>Еңбек және шығындардың стандартты құнын конфигурациялау
 
 [!include [banner](../../includes/banner.md)]
 
-Бұл тақырыпта жобаға арналған еңбек және шығындардың стандартты құнын орнату жолы түсіндірілген. Бұл тапсырмада USSI деректер жиынтығы пайдаланылады.
+Бұл мақалада жобаның жұмыс күші мен шығындарының стандартты шығындарын қалай орнату керектігі түсіндіріледі. Бұл тапсырмада USSI деректер жиынтығы пайдаланылады.
 
 1. Шарлау аумағында, **Модульдер > Жобаларды басқару және есепке алу > Орнату > Бағалар > Шығын (сағат)** тармағына өтіңіз.
 2. **Жаңа** пәрменін таңдаңыз.

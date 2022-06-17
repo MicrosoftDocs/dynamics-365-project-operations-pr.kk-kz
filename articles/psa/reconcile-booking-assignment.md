@@ -1,6 +1,6 @@
 ---
 title: Тапсырыстар мен тапсырмаларды салыстырып тексеру
-description: Бұл тақырыпта нақты мәндер туралы ақпарат берілген.
+description: Бұл мақалада нақты деректер туралы ақпарат берілген.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: c0795576239345525704bfcfdfe12ad1db06f59e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 04c238527006daab4c55f17280ce46b7df2aa649
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8601531"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920389"
 ---
 # <a name="reconcile-bookings-and-assignments"></a>Тапсырыстар мен тапсырмаларды салыстырып тексеру
 

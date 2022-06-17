@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation бағдарламасының 12 жаңарту шығарылымы 3-нұсқасындағы жаңалықтар немесе өзгерістер
-description: Бұл тақырыпта Project Service Automation бағдарламасының 12-жаңарту шығарылымының 3 нұсқасындағы жаңалықтар туралы ақпарат беріледі.
+description: Бұл мақалада Project Service Automation Update 12, V3 шығарылымындағы жаңалықтар туралы ақпарат берілген.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 2712cc671e9868bc4b3b143a2067da4381102eda
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 28539b2e1331c8509e40aaf771f4d88d6f54e022
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577427"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8922643"
 ---
 # <a name="project-service-automation-update-release-12-v3"></a>Project Service Automation 12 жаңарту шығарылымының 3-нұсқасы
 
@@ -29,7 +29,7 @@ ms.locfileid: "8577427"
 
 Dynamics 365 Project Service Automation (PSA) бағдарламасының ең соңғы жаңартуын қуана хабарлаймыз. Бұл шығарылым сапаға, өнімділікке және қолдану мүмкіндігіне қатысты маңызды жақсартуларды қамтиды. Бұл шығарылым Dynamics 365 жүйесінің 9.x нұсқасымен үйлесімді. Осы шығарылымды жаңарту үшін, желідегі Dynamics 365 басқару орталығына кіріп, жаңартуды орнату үшін шешімдер бетіне өтіңіз. Қосымша ақпарат алу үшін [Таңдаулы шешімді орнату, жаңарту немесе жою](/power-platform/admin/install-remove-preferred-solution) мақаласын қараңыз.
 
-Бұл бөлімде Project Service Automation бағдарламасының 12-жаңарту шығарылымының 3 нұсқасындағы мүмкіндіктер мен түзетулер берілген. Бұл нұсқа V3.10.2.34 құрылым нөміріне ие және әдетте 2019 жылдың қазан айында шыққан өзін-өзі жаңарту мүмкіндігі арқылы қолжетімді.
+Бұл мақалада Project Service Automation V3, Update 12 шығарылымы үшін жаңа немесе өзгертілген мүмкіндіктер мен түзетулер тізімі берілген. Бұл нұсқа V3.10.2.34 құрылым нөміріне ие және әдетте 2019 жылдың қазан айында шыққан өзін-өзі жаңарту мүмкіндігі арқылы қолжетімді.
 
 ## <a name="update-release-12"></a>12-жаңарту шығарылымы
 

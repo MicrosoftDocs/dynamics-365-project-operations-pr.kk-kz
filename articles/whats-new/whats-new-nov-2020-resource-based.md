@@ -1,23 +1,23 @@
 ---
 title: 2020 жылдың қараша айындағы жаңалықтар - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі
-description: Бұл тақырыпта ресурс/биржадан тыс сценарийлерге арналған Project Operations бағдарламасының 2020 жылғы қараша айы шығарылымындағы сапа жаңартулары туралы ақпарат берілген.
+description: Бұл мақала 2020 жылдың қараша айындағы Project Operations шығарылымында ресурс/қорда жоқ негізделген сценарийлер үшін қол жетімді сапа жаңартулары туралы ақпаратты береді.
 author: sigitac
 ms.date: 10/30/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b76ebbff1cc2720e699334601d425879f2d20770
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b98c968a040c14f4d11c350885e2cbb984596c48
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600381"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923425"
 ---
 # <a name="whats-new-november-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>2020 жылдың қараша айындағы жаңалықтар - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations жүйесі
 
 _**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
 - 4.4.0.70 нұсқасындағы CDS ортасындағы Project Operations жүйесі
 - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.14 нұсқасында

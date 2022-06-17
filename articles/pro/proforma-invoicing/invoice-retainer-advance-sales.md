@@ -1,17 +1,17 @@
 ---
-title: Қаламақы немесе аванс есеп-шотын ұсыну
-description: Бұл тақырыпта Project Operations бағдарламасында қаламақы немесе аванс есеп-шотын қалай ұсыну керектігі туралы ақпарат берілген.
+title: Есеп-шотқа немесе авансқа шот жіберу
+description: Бұл мақалада жоба операцияларында сақтаушыға немесе авансқа шот-фактура жасау жолы туралы ақпарат берілген.
 author: rumant
 ms.date: 10/20/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: aa659ebfa6d848f312caa1d197404d77b1f6ee21
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 044186d5c7759866dec3883103acec19cb571c11
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8590583"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914501"
 ---
 # <a name="invoice-a-retainer-or-an-advance"></a>Есеп-шотқа немесе авансқа шот жіберу
 

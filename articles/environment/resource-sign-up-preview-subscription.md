@@ -1,25 +1,25 @@
 ---
 title: Project Operations ресурстық/қосалқы емес сценарийлерге арналған Project Operations алдын ала қарау жазылымдарына кіру
-description: Бұл тақырыпта ресурстық/қосалқы емес негіздегі сценарийлер үшін Project Operations жүйесіне жазылу және орналастыру туралы ақпарат берілген.
+description: Бұл мақалада ресурстық/қосалқы емес негізделген сценарийлер үшін Жоба операцияларына жазылу және қолдану жолы туралы ақпарат берілген.
 author: sigitac
 ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9094b6928c5c276a40166ef5d8cb0facb539685b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: fb196a50b4cb9e8533db52414e8536d77a30e425
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575817"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920113"
 ---
 # <a name="sign-up-for-project-operations-preview-subscriptions-for-resource-non-stocked-scenarios"></a>Project Operations ресурстық/қосалқы емес сценарийлерге арналған Project Operations алдын ала қарау жазылымдарына кіру
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 
 
-Бұл тақырып сынақ нұсқасы ұсынысына жазылу және ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations бағдарламасын орналастыру жолын түсіндіреді.
+Бұл мақалада сынақ нұсқасына жазылу және жобалық операциялар ортасын ресурс/қорда жоқ негізделген сценарийлер үшін қалай орналастыру керектігі түсіндіріледі.
 
 ## <a name="prerequisites"></a>Алғышарттар
 - Алдын ала қарауды орналастыратын пайдаланушының Azure қатысушысының басты әкімші құқықтары болуы керек. Бірінші ұсыныс өтелімі кезінде қатысушыны жасауға болады. 
@@ -60,19 +60,19 @@ _**Қолданылады:** Ресурс/биржадан тыс негізде
 
 ## <a name="start-a-new-project-in-lcs"></a>LCS параметрінде жаңа жобаны бастау
 
-Тақырыпта сипатталғандай жаңа LCS жобасын жасаңыз,[ LCS қызметінде жаңа жобаны бастаңыз](create-lcs-project.md)
+Мақалада сипатталғандай жаңа LCS жобасын жасаңыз, [LCS жүйесінде жаңа жобаны бастаңыз](create-lcs-project.md)
 
 ## <a name="add-an-azure-subscription-to-an-lcs-project"></a>LCS жобасына Azure жазылымын қосу
 
-Бұл тапсырманы орындау үшін тақырыптағы қадамдарды орындаңыз, [LCS жобасына Azure жазылымын қосыңыз](resource-add-azure-subscription-lcs-project.md).
+Бұл тапсырманы орындау үшін мақаладағы қадамдарды орындаңыз, [LCS жобасына Azure жазылымын қосыңыз](resource-add-azure-subscription-lcs-project.md).
 
 ## <a name="deploy-finance-demo-environment-with-project-operations-for-resourcenon-stocked-scenarios"></a>Ресурстық/қосалқы емес сценарийлерге арналған Project Operations жүйесі үшін Finance демо-ортасын орналастыру
 
-Орналастыруды аяқтау үшін тақырыптағы нұсқауларды орындаңыз, [Жаңа ортаны дайындаңыз](resource-provision-new-environment.md). Алдын ала қарау үшін [демо-орта](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) орналастыру түрін пайдаланыңыз. 
+Мақалада берілген нұсқауларды орындаңыз, [Жаңа ортаны қамтамасыз ету](resource-provision-new-environment.md) орналастыруды аяқтау үшін. Алдын ала қарау үшін [демо-орта](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) орналастыру түрін пайдаланыңыз. 
 
 ## <a name="install-cds-setup-and-configuration-data"></a>CDS параметрі және конфигурация деректерін орнату
 
-CDS баптау және конфигурация туралы деректерді тақырыпта сипатталғандай орнатыңыз, [Common Data Service қызметіндегі конфигурация деректерін орнатыңыз және қолданыңыз](resource-apply-pro-setup-config-data.md).
+CDS орнату және конфигурация деректерін мақалада сипатталғандай орнатыңыз, [ішінде конфигурация деректерін орнатыңыз және қолданыңыз Common Data Service](resource-apply-pro-setup-config-data.md).
 Бұл қадамды қаржы демо ортасы орналастырылғаннан кейін және демо деректер дайын болғаннан кейін ғана орындаңыз.
 
 

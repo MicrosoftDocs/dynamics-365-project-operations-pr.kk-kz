@@ -1,17 +1,17 @@
 ---
 title: Шығыс санаттарын орнату
-description: Бұл тақырып шығыстар санаттарын және шығындар туралы есептер үшін ортақ санаттарды жасау жолдары туралы ақпарат береді.
+description: Бұл мақалада шығыс есептері үшін шығыс санаттары мен ортақ санаттарды орнату жолы туралы ақпарат берілген.
 author: suvaidya
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: suvaidya
-ms.openlocfilehash: 925c0894616df587b8a749bc00ea52ed06672827
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 602a56cb26d2f97143ffedcdfa96ac751c7b252f
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577013"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8917771"
 ---
 # <a name="set-up-expense-categories"></a>Шығыс санаттарын орнату
 

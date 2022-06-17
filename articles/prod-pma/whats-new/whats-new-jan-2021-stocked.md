@@ -1,24 +1,24 @@
 ---
 title: 2021 жылдың қаңтар айындағы қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations жаңалықтары немесе өзгерістері
-description: Бұл тақырыпта қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations шығарылымының 2021 жылғы қаңтар айындағы сапалық жаңартулары туралы ақпарат берілген.
+description: Бұл мақалада жинақталған/өндіріске негізделген сценарийлер үшін Жоба операцияларының 2021 жылдың қаңтарындағы шығарылымында қолжетімді сапа жаңартулары туралы ақпарат берілген.
 author: andchoi
 ms.date: 1/08/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: c41fda3a3c756f8ad4c695b572eea9cad715f2e4
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 84a49994267d0c070769090f9fce9c6a969c98be
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592653"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923931"
 ---
 # <a name="whats-new-or-changed-in-project-operations-january-2021-for-stockedproduction-based-scenarios"></a>2021 жылдың қаңтар айындағы қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations жаңалықтары немесе өзгерістері
 
 _**Келесіге қолданылады:** қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations жүйесі_
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
 - Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.16 нұсқасында
 

@@ -1,24 +1,24 @@
 ---
 title: Шығынды басқару интеграциясы
-description: Бұл тақырып қос жазу арқылы Project Operations жүйесіндегі шығын есебін біріктіру туралы ақпарат береді.
+description: Бұл мақалада қос жазуды қолданатын Жоба операцияларында шығыс есебін біріктіру туралы ақпарат берілген.
 author: sigitac
 ms.date: 04/28/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b41be519dbfa89668712bc28ccb1888cd08c38a2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c64c318dc1915a9a87b6ae3c6b8a2aa6d3c9cd36
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585799"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924621"
 ---
 # <a name="expense-management-integration"></a>Шығынды басқару интеграциясы
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырып қос жазу арқылы Project Operations жүйесінің [толық шығынын орналастыру](../expense/expense-overview.md) ішіндегі шығын туралы есептерді біріктіру туралы ақпарат береді.
+Бұл мақалада Жоба операцияларында шығыс есептерін біріктіру туралы ақпарат берілген [толық шығындарды орналастыру](../expense/expense-overview.md) қосарлы жазуды пайдалану.
 
 ## <a name="expense-categories"></a>Шығын санаттары
 

@@ -1,6 +1,6 @@
 ---
 title: Ресурстарды басқарудың басты беті
-description: Бұл тақырыпта ресурстарды басқару жолы туралы ақпарат берілген.
+description: Бұл мақалада ресурстарды басқару жолы туралы ақпарат берілген.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -18,12 +18,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 1d909b0cb3530b5f1a829983d2d4737d81bf0d1b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: bf61922ab185a4a5589b9aa9247ab93909ce169b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578761"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913259"
 ---
 # <a name="resource-management-home-page"></a>Ресурстарды басқарудың басты беті
 
@@ -31,7 +31,7 @@ ms.locfileid: "8578761"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-Ресурстар — қызмет көрсетуге негізделген ұйымдардың ең маңызды активі. Қажет болған кезде дұрыс ресурстарды табу және тіркеу және оларды пайдалану ұйымға  табыс мақсаттары мен тұтынушы қанағаттанушылығы мақсаттарына қол жеткізу үшін көмектеседі. Келесі тақырыптар Dynamics 365 Project Service Automation бағдарламасының ресурстарды басқару мүмкіндіктеріне назар аударады:
+Ресурстар — қызмет көрсетуге негізделген ұйымдардың ең маңызды активі. Қажет болған кезде дұрыс ресурстарды табу және тіркеу және оларды пайдалану ұйымға  табыс мақсаттары мен тұтынушы қанағаттанушылығы мақсаттарына қол жеткізу үшін көмектеседі. Келесі мақалалар ресурстарды басқару мүмкіндіктеріне бағытталған Dynamics 365 Project Service Automation:
 
 - [Ресурстарды басқару](manage-resources.md)
 - [Негізгі тұжырымдамалар](reports-key-concepts.md)

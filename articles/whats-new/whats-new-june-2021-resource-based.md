@@ -1,24 +1,24 @@
 ---
 title: 2021 жылдың маусым айындағы жаңалықтар - ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
-description: Бұл тақырып ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations бағдарламасының 2021 жылдың маусым айындағы шығарылымында қолжетімді сапа жаңартулары туралы ақпарат береді.
+description: Бұл мақала 2021 жылдың маусым айындағы Project Operations шығарылымында ресурс/қорда жоқ негізделген сценарийлер үшін қолжетімді сапа жаңартулары туралы ақпарат береді.
 author: sigitac
 ms.date: 06/14/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 21a446fdb9526c1a2b110c5368516dafb64b5e01
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 5bc8475554c4348fa1e88b9090450bd3bfaa924e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600795"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8910591"
 ---
 # <a name="whats-new-june-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>2021 жылдың маусым айындағы жаңалықтар - ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
 
 _**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Бұл тақырып келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
+Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
 
 - Dynamics 365 Dataverse ортасындағы Project Operations бағдарламасының 4.11.0.156 немесе 4.11.0.164 нұсқасы.
 - Қаржы және операциялар қолданбалары орталарының 10.0.19 нұсқасындағы жобаны басқару және есепке алу.

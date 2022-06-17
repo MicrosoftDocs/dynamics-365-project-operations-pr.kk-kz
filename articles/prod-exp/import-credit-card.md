@@ -1,6 +1,6 @@
 ---
 title: Несиелік карта бойынша транзакцияларды импорттау және сақтау
-description: Бұл тақырып шығыспен байланысты несиелік карта транзакцияларын қалай импорттау және ұстану туралы түсіндіреді. Бұл транзакциялар автоматты түрде қайталанатын кесте бойынша импортталатындай етіп орнатылуы мүмкін немесе қажет болған жағдайда қолмен импортталуы мүмкін.
+description: Бұл мақалада шығысқа қатысты несие картасы транзакцияларын импорттау және қолдау жолы түсіндіріледі. Бұл транзакциялар автоматты түрде қайталанатын кесте бойынша импортталатындай етіп орнатылуы мүмкін немесе қажет болған жағдайда қолмен импортталуы мүмкін.
 author: KimANelson
 ms.date: 01/12/2018
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: bd7ca997e18bf3c11fa188b603c899cc470df035
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 44aac1db60ef8f0e3f25612d03b46520dd09ee9e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683775"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916801"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>Несиелік карта бойынша транзакцияларды импорттау және сақтау
 
