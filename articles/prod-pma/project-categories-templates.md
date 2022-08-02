@@ -1,5 +1,5 @@
 ---
-title: «Қаржы» және «Операциялар» және «Жоба қызметін автоматтандыру» арасында жоба шығындарының санаттарын синхрондаңыз
+title: Қаржы және операциялар және Project Service Automation арасындағы жоба шығыстарының санаттарын синхрондаңыз
 description: Бұл мақалада жоба шығындарының санаттарын синхрондау үшін пайдаланылатын үлгілер мен негізгі тапсырмалар сипатталады.Microsoft Dynamics 365 Қаржы және Dynamics 365 Project Service Automation.
 author: Yowelle
 ms.date: 07/20/2018
@@ -14,14 +14,14 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: 630c4fa7a159aa46b46984736080cd007d519a6c
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 8eba7defb93bd880db4b0e8fe425d07312cf5cb9
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8927243"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028939"
 ---
-# <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>«Қаржы» және «Операциялар» және «Жоба қызметін автоматтандыру» арасында жоба шығындарының санаттарын синхрондаңыз
+# <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Қаржы және операциялар және Project Service Automation арасындағы жоба шығыстарының санаттарын синхрондаңыз
 
 [!include[banner](../includes/banner.md)]
 
@@ -80,7 +80,7 @@ Project Service Automation және Finance біріктіру шешімі Proj
 
 ### <a name="power-query"></a>Power Query
 
-Project Service Automation бағдарламасына синхрондау кезінде Microsoft пайдалану керек Power Query Excel бағдарламасы транзакция санатындағы есепшот түрін орнату үшін. Жобаның шығыс транзакция санаттары (Fin және Ops бағдарламасынан PSA бағдарламасына) үлгісі әдепкі баған мен салыстыруды қамтамасыз етеді. Егер сіз өзіңіздің үлгіңізді жасасаңыз, ішіне шартты баған қосуыңыз керек Power Query. Осы қадамдарды орындаңыз.
+Project Service Automation бағдарламасына синхрондау кезінде Microsoft пайдалану керек Power Query Excel бағдарламасы транзакция санатындағы есепшот түрін орнату үшін. Жобаның шығыс транзакция санаттары (Fin және Ops бағдарламасынан PSA бағдарламасына) үлгісі әдепкі баған мен салыстыруды қамтамасыз етеді. Егер сіз өзіңіздің үлгіңізді жасасаңыз, ішінде шартты баған қосуыңыз керек Power Query. Осы қадамдарды орындаңыз.
 
 1. Жобаның шығыс транзакция санаттарының (Fin және Ops бағдарламаларынан PSA бағдарламасына) үлгісінде жобаның шығыс санаттарыны салыстырылуын ашу үшін көрсеткіні басыңыз.
 2. түймесін басыңыз **Алдын ала сұрау және сүзу** ашу үшін сілтеме Power Query.

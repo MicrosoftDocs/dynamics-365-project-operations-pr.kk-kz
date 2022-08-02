@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 0cf9da8cc9d1f29dc41d4b119278e545047020bc
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: aedfd815521054d58944496500aa03a27be9267b
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8912477"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9030042"
 ---
 # <a name="update-project-operations-in-your-finance-environment"></a>Finance ортасында Project Operations бағдарламасын жаңарту
 
@@ -119,7 +119,7 @@ UR5 жаңарту орамасына жаңарту бөлігі ретінде
 4. **Кесте картасының нұсқасы** бетінде үш нұсқаның әрқайсысына картаның жаңа нұсқасын қолданыңыз.
 5. **Қос жазу** бетінде карталарды қайта іске қосу үшін "іске қосу" түймешігін басыңыз.
 6. Карталар тізімінен барлық артықшылықтарымен бірге **Кітап (msdyn_ledgers)** картасын таңдап, **Бастапқы синхрондау** ұяшығына құсбелгі қойыңыз. 
-7. Ішінде **Бастапқы синхрондау үшін шебер** өрісін таңдаңыз **Қаржы және операциялар қолданбалары** содан кейін таңдаңыз **Жүгіру**.
+7. Ішінде **Бастапқы синхрондау үшін шебер** өрісін таңдаңыз **Қаржы және операциялық қолданбалар** содан кейін таңдаңыз **Жүгіру**.
  
  ![Кітап картасын синхрондау.](media/DW6.png)
  

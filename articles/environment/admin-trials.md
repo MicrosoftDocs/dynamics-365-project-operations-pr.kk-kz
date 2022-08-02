@@ -6,12 +6,12 @@ ms.date: 01/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 7db7ea6b3cffe6eb43ee0519bbaccfc9092c9311
-ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
+ms.openlocfilehash: 6a6986cfd6c01d1c22d37a10c8d824730fad2e9e
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "8959701"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9029307"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Project Operations сынақ нұсқаларына тіркелу 
 
@@ -86,11 +86,11 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
  
   Дайындық жүргізу аяқталған кезде ортаңыздың күйі **Дайын** болады. Орта дайындығын жүргізу демо деректерді орналастыруды қамтиды.
  
-4.  Сәйкесті таңдаңыз Microsoft Dataverse Орналастыруды растау үшін URL және Қаржы және операциялар қолданбаларының URL мекенжайлары.
+4.  Сәйкесті таңдаңыз Microsoft Dataverse Орналастыруды растау үшін URL мекенжайы және қаржы және операциялық қолданбалардың URL мекенжайлары.
 
 ## <a name="configuring-dual-write"></a>Қос жазуды конфигурациялау
 - Қосарлы жазу үшін қауіпсіздік рөлдерін конфигурациялау үшін қараңыз [ішінде Жоба операцияларында қауіпсіздік параметрлерін жаңартыңыз Dataverse](resource-provision-new-environment.md#update-security-settings-on-project-operations-on-dataverse).
-- Қосарлы жазу конфигурациясына қол жеткізу үшін «Қаржы және операциялар» данасына өтіңіз, содан кейін тармағына өтіңіз.**Деректерді басқару** > **Қосарлы жазу**.
+- Қосарлы жазу конфигурациясына қол жеткізу үшін Қаржы және операциялар данасына өтіңіз, содан кейін тармағына өтіңіз.**Деректерді басқару** > **Қосарлы жазу**.
 - Қосарлы жазу карталарын конфигурациялау үшін қараңыз [Project Operations қос жазу карталарын іске қосыңыз](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
 
 ## <a name="assign-licenses"></a>Лицензияларды тағайындау
@@ -117,7 +117,7 @@ _**Келесіге қолданылады:** ресурс/биржадан ты
 
 ## <a name="frequently-asked-questions"></a>Жиі қойылатын сұрақтар
 
-### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Қаржы және операциялар қолданбалары ортасы үшін ALM немесе ELM қажет болса ше?
+### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Қаржы және операциялық қолданбалар ортасы үшін ALM немесе ELM қажет болса ше?
 
 - Ортаның жарамдылық кезеңін басқарудың толық мүмкіндіктерін қажет ететін серіктестер бойынша жаңа серіктес ұсынысын қарау үшін [Серіктестік сынақ ортасы лицензиясының сұрауы](https://experience.dynamics.com/requestlicense) бөлімін қараңыз. 
 - Ішкі пайдалану құқықтары туралы қосымша ақпарат алғысы келетін серіктестер бойынша[Ішкі пайдалану құқықтарының бұлтты және бағдарламалық жасақтамасының артықшылығы (microsoft.com](https://partner.microsoft.com/membership/internal-use-software) бөлімін қараңыз.
