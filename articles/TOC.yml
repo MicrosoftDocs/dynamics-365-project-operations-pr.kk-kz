@@ -54,7 +54,7 @@
               href: environment/resource-dual-write-estimates-actuals.md
             - name: Жоба есеп-шотының интеграциясы
               href: environment/resource-dual-write-project-invoice.md
-            - name: Шығысты басқару интеграциясы
+            - name: Шығыстарды басқару интеграциясы
               href: environment/resource-dual-write-expense.md
             - name: Жеткізуші есеп-шотының интеграциясы
               href: environment/resource-dual-write-vendor-invoice.md
@@ -62,10 +62,12 @@
           href: environment/uninstall-project-operations.md
     - name: Жаңалық
       items:
-        - name: 'Шілде, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
-          href: whats-new/whats-new-july-2022-resource-based.md
+        - name: 'Тамыз, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-aug-2022-resource-based.md
         - name: Мұрағат
           items:
+            - name: 'Шілде, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+              href: whats-new/whats-new-july-2022-resource-based.md
             - name: 'Маусым, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
               href: whats-new/whats-new-june-2022-resource-based.md
             - name: 'Мамыр, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
@@ -384,6 +386,42 @@
           items:
             - name: Ресурсты пайдалануға шолу
               href: resource-management/resource-utilization-overview.md
+    - name: Қосалқы мердігерлік басқару
+      items:
+        - name: Project Operations бағдарламасындағы қосалқы келісім-шартты басқару
+          href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: Қосалқы келісім-шарт жасаудағы негізгі ұғымдар
+          href: pro/subcontracting/key-concepts-subcontracting.md
+        - name: Жеткізушілер мен жоба бағатізбелерін басқару
+          href: pro/subcontracting/vendors-purchase-price-lists.md
+        - name: Брондалатын ресурстар ретіндегі қосалқы келісім-шарттар
+          href: pro/subcontracting/subcontractors-as-bookable-resources.md
+        - name: Қосалқы келісім-шарттарға арналған тақырып мәліметтері
+          href: pro/subcontracting/subcontract-header-details.md
+        - name: Уақытқа арналған қосалқы келісім-шарт жолдары
+          href: pro/subcontracting/subcontract-line-time.md
+        - name: Шығыс санаттарына арналған қосалқы келісім-шарт жолдары
+          href: pro/subcontracting/subcontract-line-expense.md
+        - name: Өнімдерге арналған қосалқы келісім-шарт жолдары
+          href: pro/subcontracting/subcontract-line-products.md
+        - name: Қосалқы келісім-шарт жолы ресурстары
+          href: pro/subcontracting/subcontract-line-resources.md
+        - name: Қосалқы келісім-шарт жолының аралық кезеңдері
+          href: pro/subcontracting/subcontract-line-milestones.md
+        - name: Жоба тобы мүшелерімен қосалқы келісім-шарт жасасу
+          href: pro/subcontracting/subcontracting-project-team-members.md
+        - name: Жоба тобы мүшелерімен қосалқы келісім-шарт жасасу опциялары
+          href: pro/subcontracting/subcon-options.md
+        - name: Қосалқы келісім-шарт жасасқан ресурс тағайындауларының құнын бағалау
+          href: pro/subcontracting/costing-subcon-ra.md
+        - name: Келісім-шарт бойынша жұмысшылар мен қосалқы келісім-шарт жасасқан мүмкіндіктерді көрсету үшін кесте тақтасын конфигурациялау
+          href: pro/subcontracting/configure-sb-subcon.md
+        - name: Келісім-шарт бойынша жұмысшылар мен қосалқы келісім-шарт жасасқан мүмкіндіктермен жобаға штат кестесін жасау
+          href: pro/subcontracting/staffing-cw.md
+        - name: 'Қосалқы келісім-шарт жасасқан құрамдастар үшін уақытты, шығындарды және материалдың пайдаланылуын жазу'
+          href: pro/subcontracting/recording-subcon-actuals.md
+        - name: Қосалқы келісім-шарт бойынша күй ауысымдары
+          href: pro/subcontracting/subcon-states.md
     - name: Уақыт
       items:
         - name: Уақытқа шолу
@@ -580,6 +618,8 @@
       items:
         - name: Қысқарту кезінде толық есепшот ұсыну кезеңдерін ауыстыру
           href: advanced-configuration/migrating-invoiced-milestones.md
+        - name: Жабық жобаларға кіруін болдырмау үшін жоба күйін синхрондау
+          href: advanced-configuration/sync-project-status.md
     - name: Жаңарту
       items:
         - name: Заманауи мақұлдауларға арналған жаңартулар
@@ -604,16 +644,18 @@
           href: environment/lite-preview-subscription-sign-up.md
         - name: Project Operations бағдарламасын орналастыру - жеңілдетілген
           href: environment/lite-deployment.md
-        - name: Демо нұсқа параметрлері мен конфигурация деректерін қолдану - жеңілдетілген
+        - name: Демо нұсқадағы параметрлер мен конфигурация деректерін қолдану - жеңілдетілген
           href: environment/lite-apply-demo-setup-config-data.md
         - name: Қауіпсіздік моделі
           href: environment/security-model.md
     - name: Жаңалық
       items:
-        - name: 2022 жылдың шілде айындағы жаңалықтар - жеңілдетілген орналастыру
-          href: pro/whats-new/whats-new-july-2022-lite.md
+        - name: 2022 жылдың тамыз айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-aug-2022-lite.md
         - name: Мұрағат
           items:
+            - name: 2022 жылдың шілде айындағы жаңалықтар - жеңілдетілген орналастыру
+              href: pro/whats-new/whats-new-july-2022-lite.md
             - name: 2022 жылдың маусым айындағы жаңалықтар - жеңілдетілген орналастыру
               href: pro/whats-new/whats-new-june-2022-lite.md
             - name: 2021 жылғы 2-толқынның ерте қол жеткізу жаңалықтары - жеңілдетілген орналастыру
