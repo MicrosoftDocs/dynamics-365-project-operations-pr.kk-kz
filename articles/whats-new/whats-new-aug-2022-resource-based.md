@@ -1,0 +1,44 @@
+---
+title: Тамыз, 2022 ж. жаңалықтары - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
+description: Бұл мақалада Microsoft корпорациясының 2022 жылғы тамыздағы шығарылымында қолжетімді сапа жаңартулары туралы ақпарат берілген Dynamics 365 Project Operations ресурстарға/қорда жоқ сценарийлерге арналған.
+author: ramagadu
+ms.date: 07/19/2022
+ms.topic: article
+ms.prod: ''
+ms.reviewer: johnmichalak
+ms.author: ramagadu
+ms.openlocfilehash: 112dbb98de09ef342c03d122a29cb8025058e47f
+ms.sourcegitcommit: 6b6c2bfd04e3e613ed1f38355c7cd47c3a56748d
+ms.translationtype: MT
+ms.contentlocale: kk-KZ
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348104"
+---
+# <a name="whats-new-august-2022---project-operations-for-resourcenon-stocked-based-scenarios"></a>Тамыз, 2022 ж. жаңалықтары - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations
+
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+
+Бұл мақала Microsoft корпорациясының келесі құрамдастары мен нұсқаларына қолданылады Dynamics 365 Project Operations:
+
+- Жоба операциялары а Dataverse орта нұсқасы 4.45.0.53
+- Dynamics 365 Finance ортасында жобаны басқару және есепке алу 10.0.28 нұсқасы
+
+## <a name="project-operations-dual-write-maps-updates"></a>Project Operations қос жазу салыстыруларының жаңартулары
+
+Бұл шығарылымда Project Operations қос жазу карталары үшін жаңартулар жоқ. Project Operations қос жазу карталарының ағымдағы тізімі мен нұсқаларын [Project Operations қос жазу карталарының нұсқалары](../environment/resource-dual-write-maps.md) бөлімінен қараңыз.
+
+Әрқашан ортаңызда картаның соңғы нұсқасын іске қосыңыз және жоба әрекеттерін жаңартқан кезде барлық қатысты кесте карталарын қосыңыз.Dataverse шешім және қаржылық шешім нұсқасы. Картаның соңғы нұсқасы іске қосылмаған болса, кейбір мүмкіндіктер мен мүмкіндіктер дұрыс жұмыс істемеуі мүмкін. Картаның белсенді нұсқасын **Қос жазу** бетіндегі **Нұсқа** бағанында қарауға болады. **Кесте картасының нұсқалары** параметрін, соңғы нұсқаны таңдап, содан кейін таңдалған нұсқаны сақтау арқылы картаның жаңа нұсқасын белсендіруге болады. Егер сіз қораптан тыс кесте картасын теңшеген болсаңыз, өзгертулерді қайта қолданыңыз. Қосымша ақпарат алу үшін [Шешімнің жарамдылық кезеңін басқару](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/app-lifecycle-management) бөлімін қараңыз.
+
+Картаны бастаған кезде мәселеге тап болсаңыз, бөліміндегі нұсқауларды орындаңыз [Карталарда кесте бағандары жоқ](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-troubleshooting-finops-upgrades#missing-table-columns-issue-on-maps) Қосарлы жазу ақауларын жою нұсқаулығы бөлімі.
+
+## <a name="quality-updates"></a>Сапа жаңартулары
+
+### <a name="project-operations-on-dataverse"></a>Dataverse ортасындағы Project Operations бағдарламасы
+
+| Мүмкіндік аумағы | Сілтемелік нөмір | Сапа жаңартуы |
+| --- | --- | --- |
+| Мүмкіндік басқармасы | 2762089-көше | Ұйымда автоматты сақтау өшірілген болса, келісімшартты жабу кезінде қатені өңдеу жоғалды.|
+
+### <a name="project-management-and-accounting-in-finance"></a>Қаржы саласындағы жобаны басқару және есеп
+
+Осы жаңартуға енгізілген қателерді түзету туралы ақпарат алу үшін жүйеге кіріңіз Microsoft Dynamics Lifecycle Services (LCS) және қараңыз [KB мақаласы](https://fix.lcs.dynamics.com/Issue/Details?bugId=694438).

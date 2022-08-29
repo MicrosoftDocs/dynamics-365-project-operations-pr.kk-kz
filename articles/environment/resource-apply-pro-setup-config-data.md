@@ -1,30 +1,30 @@
 ---
-title: Common Data Service қызметінде конфигурация деректерін орнатып, қолдану
+title: Microsoft Dataverse қызметінде конфигурация деректерін орнатып, қолдану
 description: Бұл мақалада Жоба операцияларында конфигурация деректерін орнату және қолдану туралы ақпарат берілген.
 author: sigitac
 ms.date: 05/10/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 2c918425e9a6c5fe8888ed8a4258ca59f0464828
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: b09d3ea7348082a0467fd7b47918c9e00d1f1e8c
+ms.sourcegitcommit: 8edd24201cded2672cec16cd5dc84c6a3516b6c2
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8928025"
+ms.lasthandoff: 08/06/2022
+ms.locfileid: "9230244"
 ---
 # <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Common Data Service қызметінде конфигурация деректерін орнатып, қолдану 
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
 
 
 ## <a name="prerequisites"></a>Алғышарттар
 
-Common Data Service (CDS) бағдарламасында деректерді конфигурациялауды бастамас бұрын, келесі алғышарттар орындалуы керек:
+ішінде деректерді конфигурациялауды бастамас бұрын Microsoft Dataverse, келесі алғышарттар орындалуы керек:
 
-1.  Жоба операциялары үшін CDS ортасын және Dynamics 365 Finance ортасын қамтамасыз етіңіз.
-2.  Dynamics 365 Finance сайтындағы заңды тұлға туралы ақпарат CDS ортасына жіберіледі. Бұл CDS қызметіндегі **Компания** нысанында келесі компаниялық жазбалардың бар екендігін білдіреді:
+1.  Ереже а Dataverse орта және Жоба операцияларына арналған Dynamics 365 Finance ортасы.
+2.  Заңды тұлға туралы ақпарат Dynamics 365 Finance сайтына жіберіледі Dataverse қоршаған орта. Бұл дегеніміз **Компания** нысандағы Dataverse компанияның келесі жазбалары бар:
   - THPM
   - USPM
   - GBPM
