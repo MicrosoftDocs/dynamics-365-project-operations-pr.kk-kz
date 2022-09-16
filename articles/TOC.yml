@@ -232,6 +232,8 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Жоба сатылымдарының бағатізбелерін алдын ала анықтау
               href: pricing-costing/override-project-sales-price-list-default.md
+            - name: Бағатізбедегі белгілі бір бағалар үшін күшіне енетін күннің алдын ала анықтауларын реттеу
+              href: pricing-costing/dateffective_price_overrides.md
             - name: Болжамдар мен нақты көрсеткіштерге арналған шығындарды анықтау
               href: pricing-costing/cost-price-resolution.md
             - name: Болжамдар мен нақты көрсеткіштерге арналған сатылым бағаларын анықтау
@@ -544,6 +546,14 @@
           href: procurement/pending-vendor-invoices.md
         - name: 'Жобаны сатып алуға тапсырыстарды пайдаланып, жобаларға арналған тауарлар мен қызметтерге тапсырыс беру'
           href: procurement/non-stocked-materials-project-purchase-orders.md
+        - name: Dataverse ішіндегі қосалқы келісім-шарттар үшін жеткізушінің есеп-шоттары
+          items:
+            - name: Жеткізуші есеп-шоттарын жасау
+              href: procurement/Vendor-invoicing-concept-and-creation.md
+            - name: Жеткізушінің есеп-шоттарын бекітілген фактілермен тексеру
+              href: pro/subcontracting/VI-Verification.md
+            - name: Жоба жеткізушісінің есеп-шоттарын растау
+              href: procurement/Confirm-a-project-vendor-invoice.md
         - name: Жеткізушіні сақтау
           items:
             - name: Жеткізушіні сақтауға шолу
@@ -844,6 +854,8 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Жоба сатылымдарының бағатізбелерін алдын ала анықтау
               href: pricing-costing/override-project-sales-price-list-default.md
+            - name: Бағатізбедегі белгілі бір бағалар үшін күшіне енетін күннің алдын ала анықтауларын реттеу
+              href: pricing-costing/dateffective_price_overrides.md
             - name: Жоба болжамдары мен нақты көрсеткіштері бойынша шығындарды анықтау
               href: pro/pricing-costing/cost-price-resolution-sales.md
             - name: Жоба болжамдары мен нақты көрсеткіштеріне арналған сатылым бағаларын анықтау
