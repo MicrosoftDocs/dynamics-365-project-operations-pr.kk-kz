@@ -2,20 +2,20 @@
 title: Шығын санаттарына арналған қосалқы келісім-шарт жолдары
 description: Бұл мақалада қосалқы мердігерлік желілерді шығындарға қалай жазу және жеткізушілерден уақытты сатып алуды жазу үшін өрістерді пайдалану түсіндіріледі.
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 7166642abc2187a53f7019639df6f0d7124f4765
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: ba1241ce40b7c5b488e278e8f1b8e9f352f45dc8
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261847"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522614"
 ---
 #  <a name="subcontract-lines-for-expense-categories"></a>Шығын санаттарына арналған қосалқы келісім-шарт жолдары
 
-_**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
+_**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 Dynamics 365 Project Operations бағдарламасындағы қосалқы келісім-шартта шығын санаттарының жолы болуы мүмкін. Шығын санаттарына арналған қосалқы келісім-шарт жолдары жоба менеджеріне сатушыдан жобаға ақысы ретінде орнататын қызметтер немесе өнімдер санаттарын сатып алуға мүмкіндік береді.
 

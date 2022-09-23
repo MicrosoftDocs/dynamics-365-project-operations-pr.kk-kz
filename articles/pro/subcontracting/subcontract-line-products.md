@@ -2,20 +2,20 @@
 title: Өнімдерге арналған қосалқы келісім-шарт жолдары
 description: Бұл мақала өнімдерге арналған қосалқы мердігерлік желілерді қалай жазу керектігін және жеткізушілерден өнімді сатып алуды жазу үшін әртүрлі өрістерді қалай пайдалану керектігін түсіндіреді.
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: b5852df1876eff591ae6a131b229d979eacf5aad
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 1ca042eaf95a5e252f00248e83efb959ab3ce801
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9262126"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522849"
 ---
 # <a name="subcontract-lines-for-products"></a>Өнімдерге арналған қосалқы келісім-шарт жолдары
 
-_**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
+_**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 Dynamics 365 Project Operations бағдарламасындағы қосалқы келісім-шартта өнімдер үшін қосалқы келісім-шарт жолы болуы мүмкін. Бұл жолдар жоба менеджеріне сатушыдан жоба тапсырмаларында пайдалана алатын өнімдерді сатып алуға мүмкіндік береді.
 

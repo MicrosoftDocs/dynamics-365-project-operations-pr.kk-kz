@@ -2,20 +2,20 @@
 title: Қосалқы келісім-шарт жолының аралық кезеңдері
 description: Бұл мақалада жеткізушімен қосалқы мердігерлік шартқа арналған кезеңге негізделген шот-фактура кестесін жасау және қолдау жолы түсіндіріледі.
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 2fe26f5ba3c7bbc689c83a2ba67d444a09a264d5
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 431a57adf82c79f72d44886636183d48e0931f53
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261800"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522471"
 ---
 # <a name="subcontract-line-milestones"></a>Қосалқы келісім-шарт жолының аралық кезеңдері
 
-_**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
+_**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 Dynamics 365 Project Operations бағдарламасында бекітілген баға есеп-шот ұсыну әдісі бар қосалқы келісім-шарт жолы сатушымен аралық кезеңдерге негізделген есеп-шот жоспарын көрсете алады.
 

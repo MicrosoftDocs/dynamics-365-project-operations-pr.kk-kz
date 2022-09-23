@@ -2,20 +2,20 @@
 title: Қосалқы келісім-шарт жолы ресурстары
 description: Бұл мақалада жеткізуші белгілі бір қосалқы мердігерлік желіге уақыт бойынша ұсынатын арнайы ресурстарды қалай көрсету керектігін түсіндіреді.
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: d440201fde26e835b407db0b8ee1de8d663311a0
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 04e3e5ee70c50068304a8a6c8f7e93df48ed7e85
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261471"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522379"
 ---
 # <a name="subcontract-line-resources"></a>Қосалқы келісім-шарт жолы ресурстары
 
-_**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
+_**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 Dynamics 365 Project Operations бағдарламасында жеткізуші уақытқа арналған арнайы қосалқы келісім-шарт жолында сатып алынатын ресурс мүмкіндігін қамтамасыз ету үшін пайдаланылатын ресурстарды көрсете алады.
 
