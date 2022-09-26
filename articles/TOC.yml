@@ -508,6 +508,8 @@
           href: approvals/cancelapproval.md
         - name: Бұрын бекітілген жазбаларды кері қайтару
           href: approvals/recall-cancel.md
+        - name: Қауіпсіздік және растаулар
+          href: approvals/approvals-security.md
         - name: Әзірлеуші ескертпелері
           items:
             - name: Бекітулер үшін әзірлеуші ескертпелері
@@ -560,6 +562,8 @@
               href: procurement/vendor-retention-overview.md
             - name: Жеткізушіні сақтауды орнату
               href: procurement/set-up-vendor-retention.md
+            - name: Төлем алғаннан кейін төлеу
+              href: procurement/Pay-when-paid.md
     - name: Шот жіберу
       items:
         - name: Шот жіберу процесіне шолу
@@ -1102,6 +1106,8 @@
           href: approvals/cancelapproval.md
         - name: Бұрын бекітілген жазбаларды кері қайтару
           href: approvals/recall-cancel.md
+        - name: Қауіпсіздік және растаулар
+          href: approvals/approvals-security.md
         - name: Әзірлеуші ескертпелері
           items:
             - name: Бекітулер үшін әзірлеуші ескертпелері
