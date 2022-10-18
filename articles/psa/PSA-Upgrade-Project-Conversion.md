@@ -1,9 +1,9 @@
 ---
-title: Жоба қызметін автоматтандыру мүмкіндігінің жоба операцияларына өзгертулері
+title: Project Service Automation to Project Operations жобаны жоспарлауды түрлендіру процесі
 description: Бұл мақала мүмкіндік өзгерістеріне шолу жасайды Microsoft Dynamics 365 Project Service Automation дейін Dynamics 365 Project Operations.
 author: ruhercul
 ms.custom: dyn365-projectservice
-ms.date: 02/03/2022
+ms.date: 10/07/2022
 ms.topic: article
 ms.author: ruhercul
 audience: Admin
@@ -16,14 +16,14 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 9869b3ad0fb6429484a26f367e06a0996f110ed8
-ms.sourcegitcommit: a2d720ac6d7ddb20a0967fe87992a376b2478208
-ms.translationtype: HT
+ms.openlocfilehash: 84a40fcc9a8561c4ade0be175b08f701f3196508
+ms.sourcegitcommit: 28004d38800782540fa5642d41f8fe0f6e2d9fa5
+ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 10/04/2022
-ms.locfileid: "9621340"
+ms.lasthandoff: 10/08/2022
+ms.locfileid: "9642575"
 ---
-# <a name="feature-changes-for-project-service-automation-to-project-operations"></a>Жоба қызметін автоматтандыру мүмкіндігінің жоба операцияларына өзгертулері
+# <a name="project-service-automation-to-project-operations-project-scheduling-conversion-process"></a>Project Service Automation to Project Operations жобаны жоспарлауды түрлендіру процесі
 
 Жоба сәтті жаңартылғаннан кейін Microsoft Dynamics 365 Project Service Automation 3.X дейін Dynamics 365 Project Operations Lite, тапсырмалар торындағы жұмыстарды бөлу құрылымында (WBS) жоба тапсырмаларын өңдеу мүмкін емес. Тұтынушылар тапсырмаға қатысты барлық мәліметтерді қамтамасыз ету үшін жаңа өрістер қосылған бақылау торында WBS-ті қарай алады. WBS өзгертулері қажет жобалар үшін жарамды жобаларды таңдамалы түрде веб жоспарлау тәжірибесіне арналған жаңа жобаға түрлендіруге болады.
 
@@ -41,7 +41,7 @@ ms.locfileid: "9621340"
 
     1. Тағайындалған жоба менеджері қолданбаның оң жағында хабарлама алады.
     1. Түрлендіру орындалып жатқанын көрсететін хабар жолағы жойылды.
-    1. The **Кесте** қойындысы вебке арналған жобамен жаңа жоспарлау тәжірибесін көрсетеді. Тиісті лицензиялары мен қауіпсіздік рөлдері бар кез келген пайдаланушы WBS өңдей алады.
+    1. The **Кесте** қойындысы вебке арналған жобамен жаңа жоспарлау тәжірибесін көрсетеді. Сәйкес лицензиялары мен қауіпсіздік рөлдері бар кез келген пайдаланушы WBS өңдей алады.
     1. The **Жоспарлау қозғалтқышы** өрісі жаңартылды **Интернетке арналған жоба**.
     1. The **Түрлендіру** түймесі Әрекеттер аумағынан жойылады.
 
