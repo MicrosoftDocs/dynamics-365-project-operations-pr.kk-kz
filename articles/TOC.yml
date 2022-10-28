@@ -1750,10 +1750,8 @@
               href: psa/FAQ-assign-resources-to-tasks-in-web-app.md
             - name: Ресурстарды қалай “жұмсақ тіркеуге“ болады (бағдарламаның 2.x нұсқасы)?
               href: psa/FAQ-soft-book-in-web-app.md
-            - name: Жоба кезеңдері бизнес процесінің ағынын қалай реттеуге болады?
+            - name: Жоба кезеңдері бизнес процесінің ағынын қалай теңшеуге болады?
               href: psa/FAQ-customize-bpf.md
-            - name: Жұмыс декомпозициясының құрылымына арналған ұсыныстарды жаңарту
-              href: psa/upgrade-considerations-tasks.md
         - name: Ақ қағаздар
           href: psa/white-papers.md
         - name: Әкімші нұсқаулығы
