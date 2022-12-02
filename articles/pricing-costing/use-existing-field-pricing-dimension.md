@@ -1,6 +1,6 @@
 ---
 title: Бағалар өлшемдері түріндегі Project Operations өрістері
-description: Бұл мақала өрістерді баға өлшемдері ретінде пайдаланатын ақпаратты береді Dynamics 365 Project Operations.
+description: Бұл мақалада Dynamics 365 Project Operations бағдарламасында өрістерді баға өлшемдері ретінде пайдалану туралы ақпарат берілген.
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article

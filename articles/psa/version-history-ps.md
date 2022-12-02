@@ -1,6 +1,6 @@
 ---
 title: Project Service 3.x үшін шығарылымды жаңарту кестесі
-description: Бұл мақалада қол жетімді және алдағы шығарылымдар туралы ақпарат берілген Dynamics 365 Project Service Automation.
+description: Бұл мақалада қолжетімді және алдағы Dynamics 365 Project Service Automation шығарылымдары туралы ақпарат берілген.
 ms.custom: dyn365-projectservice
 ms.date: 03/28/2022
 ms.reviewer: johnmichalak
@@ -65,7 +65,7 @@ Project Service жаңартулары туралы ақпарат алу үші
 |<strong>4-станция</strong> | |  |  | |
 | | <i>Европа</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 2022 жыл 21 қазан
 |<strong>5-станция</strong> | |  |  | |
-| | <i>Солтүстік Америка</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 04 қараша 2022 ж
+| | <i>Солтүстік Америка</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 04-қараша, 2022
 |<strong>6-станция</strong> | |  |  | |
 | | <i>Мемлекеттік мекемелерге арналған қауымдастық бұлты</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 02-қараша, 2022
 | | <i>Арнайы масштабтау топтары</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 11-қараша, 2022

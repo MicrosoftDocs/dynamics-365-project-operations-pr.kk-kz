@@ -1,6 +1,6 @@
 ---
 title: Демо нұсқа параметрлері мен конфигурация деректерін қолдану - жеңілдетілген
-description: Бұл мақалада Жоба операциялары үшін демонстрациялық орнату және конфигурация деректерін қолдану жолы туралы ақпарат берілген.
+description: Бұл мақалада Project Operations жүйесі үшін демонстрацияны және конфигурация деректерін қолдану туралы ақпарат берілген.
 author: sigitac
 ms.date: 01/27/2021
 ms.topic: article
@@ -8,7 +8,7 @@ ms.reviewer: johnmichalak
 ms.author: sigitac
 ms.openlocfilehash: 9a3a99c326b7ebbdfa859c3298b35e910af0eb2a
 ms.sourcegitcommit: 16c9eded66d60d4c654872ff5a0267cccae9ef0e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: kk-KZ
 ms.lasthandoff: 09/07/2022
 ms.locfileid: "9409997"
@@ -21,7 +21,7 @@ _**Жеңілдетілген орналастыру - проформа-шоты
 
 ## <a name="prerequisites"></a>Алғышарттар
 
-Конфигурацияны бастамас бұрын, сізде болуы керек Dataverse үшін қамтамасыз етілген орта Dynamics 365 Project Operations.
+Конфигурацияны бастамас бұрын, Dynamics 365 Project Operations бағдарламасы үшін Dataverse ортасы дайындалған болуы қажет.
 
 
 ## <a name="instructions"></a>Нұсқаулар

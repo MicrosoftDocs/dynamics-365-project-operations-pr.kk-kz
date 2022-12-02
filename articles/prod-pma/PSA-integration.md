@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation бағдарламасына шолу
-description: Бұл мақала туралы ақпарат берілген Dynamics 365 Project Service Automation Dynamics 365 Finance интеграциялық шешіміне.
+description: Бұл мақалада Dynamics 365 Project Service Automation бағдарламасын Dynamics 365 Finance бағдарламасымен біріктіру шешімі туралы ақпарат берілген.
 author: ruhercul
 ms.date: 07/25/2019
 ms.topic: overview
@@ -25,7 +25,7 @@ ms.locfileid: "8929589"
 [!include[banner](../includes/banner.md)]
 
 
-Project Service Automation to Finance интеграциялық шешімі деректерді біріктіру мүмкіндігін Dynamics 365 Finance даналары арасында синхрондау және Dynamics 365 Project Service Automation арқылы Common Data Service. Деректерді біріктіру мүмкіндігімен бірге қолжетімді біріктіру үлгілері Project Service Automation бағдарламасынан Finance бағдарламасына жоба, жоба келісім-шарттары, жоба келісім-шарты жолдары, жоба келісім-шарты жолының кезеңдері, жоба тапсырмалары, шығыс транзакция санаттары, сағаттық болжамдар және шығын болжамдары ағынына мүмкіндік береді.
+Project Service Automation және Finance біріктіру шешімі Common Data Service арқылы Dynamics 365 Finance және Dynamics 365 Project Service Automation даналары бойынша деректерді синхрондау үшін деректерді біріктіру мүмкіндігін пайдаланады. Деректерді біріктіру мүмкіндігімен бірге қолжетімді біріктіру үлгілері Project Service Automation бағдарламасынан Finance бағдарламасына жоба, жоба келісім-шарттары, жоба келісім-шарты жолдары, жоба келісім-шарты жолының кезеңдері, жоба тапсырмалары, шығыс транзакция санаттары, сағаттық болжамдар және шығын болжамдары ағынына мүмкіндік береді.
 
 > [!NOTE]
 > - Егер 7.3.0 нұсқасын пайдалансаңыз, 4074835 білім қорын орнату қажет. Содан кейін белгіленген баға жобаларын біріктіре аласыз.

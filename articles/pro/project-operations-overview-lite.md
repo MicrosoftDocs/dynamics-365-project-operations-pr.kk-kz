@@ -1,6 +1,6 @@
 ---
 title: Жеңілдетілген орналастыруға шолу
-description: Бұл мақалада Lite қолданбасы туралы ақпарат берілген Dynamics 365 Project Operations.
+description: Бұл мақалада Dynamics 365 Project Operations бағдарламасын жеңілдетілген орналастыру туралы ақпарат берілген.
 author: rumant
 ms.date: 11/02/2020
 ms.topic: overview

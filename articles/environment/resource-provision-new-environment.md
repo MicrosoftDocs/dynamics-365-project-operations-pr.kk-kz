@@ -1,6 +1,6 @@
 ---
 title: Жаңа ортаны дайындау
-description: Бұл мақалада жаңа Project Operations ортасын қамтамасыз ету жолы туралы ақпарат берілген.
+description: Бұл мақала жаңа Project Operations ортасын дайындау туралы ақпарат береді.
 author: sigitac
 ms.date: 09/13/2021
 ms.topic: article
@@ -20,7 +20,7 @@ _**Қолданылады:** ресурс/биржадан тыс негізде
 
 
 
-Бұл мақалада жаңасын беру жолы туралы ақпарат берілген Dynamics 365 Project Operations ресурстарға/қорда жоқ сценарийлерге арналған орта.
+Бұл мақалада ресурс/биржадан тыс негіздегі сценарийлерге арналған жаңа Dynamics 365 Project Operations ортасын дайындау жолдары туралы ақпарат беріледі.
 
 ## <a name="enable-project-operations-automated-provisioning-in-an-lcs-project"></a>LCS жобасында Project Operations автоматтандырылған дайындық жүргізу процесін қосу
 
@@ -34,7 +34,7 @@ LCS жобаңыздың Project Operations автоматтандырылған
 
 ## <a name="provision-a-project-operations-environment"></a>Project Operations ортасын дайындау
 
-1. Жаңа Dynamics 365 Finance ашыңыз [демо орта](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) немесе [құмсалғыш/өндірістік орта](/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure) орналастыру. 
+1. Жаңа Dynamics 365 Finance [демо-орта](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) немесе [сынақ ортасы/өндіріс ортасы](/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure) орналастыруын ашыңыз. 
 2. **Ортаны дайындау** шебері арқылы өтіңіз. 
 
    > [!IMPORTANT]
@@ -117,7 +117,7 @@ Project Operations жүйесі бағдарлама нұсқасының **10.0
 
     ![Шешімдерді қолдану.](./media/13ApplySolutions.png)
 
-5. Екі шешімді де таңдаңыз, **Dynamics 365 Finance қос жазу нысанының картасы** және **Dynamics 365 Project Operations Қос жазу нысанының карталары**, содан кейін таңдаңыз **Қолдану**.
+5. Екі шешімді, **Dynamics 365 Finance қос жазу нысан картасы** және **Dynamics 365 Project Operations қос жазу нысан карталары** опциясын таңдап, содан соң **Қолдану** опциясын таңдаңыз.
 
     ![Шешімдерді растау.](./media/14ConfirmSolutions.png)
 

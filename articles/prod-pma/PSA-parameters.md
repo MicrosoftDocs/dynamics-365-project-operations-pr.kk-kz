@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation біріктіру параметрлері
-description: Бұл мақала біріктірілген кезде әдепкі деректердің қалай енгізілетінін конфигурациялау жолын түсіндіреді Microsoft Dynamics 365 for Project Service Automation бірге Microsoft Dynamics 365 Қаржы.
+description: Бұл мақалада Microsoft Dynamics 365 for Project Service Automation бағдарламасын Microsoft Dynamics 365 Finance бағдарламасымен біріктіру кезінде әдепкі деректердің енгізілетін жолын конфигурациялау әдісі түсіндіріледі.
 author: ruhercul
 ms.date: 03/03/2020
 ms.topic: article
@@ -25,7 +25,7 @@ ms.locfileid: "8932303"
 
 [!include[banner](../includes/banner.md)]
 
-Үстінде **Project Service Automation интеграциясының параметрлері** бетінде біріктіру кезінде әдепкі деректердің қалай енгізілетінін конфигурациялауға болады Dynamics 365 Project Service Automation Dynamics 365 Finance көмегімен. Жобаларды Project Service Automation бағдарламасынан Finance бағдарламасына сәтті синхрондау үшін, келесі өрістерді орнату қажет.
+**Project Service Automation біріктіру параметрлері** бетінде, Dynamics 365 Project Service Automation бағдарламасын Dynamics 365 Finance бағдарламасымен біріктіру кезінде әдепкі деректердің енгізілетін жолын конфигурациялауға болады. Жобаларды Project Service Automation бағдарламасынан Finance бағдарламасына сәтті синхрондау үшін, келесі өрістерді орнату қажет.
 
 **Project Service Automation біріктіру параметрлері** бетін ашу үшін, **Жобаны басқару және есеп** \> **Орнату** \> **Dynamics 365 for Project Service Automation біріктіру параметрлері** тармағына өтіңіз. 
 

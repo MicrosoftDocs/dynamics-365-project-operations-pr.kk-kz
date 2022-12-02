@@ -1,6 +1,6 @@
 ---
 title: Баға ұсынуды жабу
-description: Бұл мақалада Project Operations ішіндегі баға белгілерін жабу туралы ақпарат берілген.
+description: Бұл мақалада Project Operations бағдарламасындағы баға ұсыныстарын жабу туралы ақпарат берілген.
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article

@@ -1,6 +1,6 @@
 ---
 title: Шығысты басқаруға шолу
-description: Бұл мақалада шығыстарды басқару туралы жалпы ақпарат және қосымша ресурстарға сілтемелер берілген. Сіз шығыстарды басқаруды пайдалана отырып, төлем әдісі туралы ақпаратты сақтай алатын, кредиттік карта транзакцияларын импорттайтын және қызметкерлеріңіз бизнесіңізге шығын келтірген кезде жұмсаған ақшаңызды бақылай алатын біріктірілген жұмыс ағынын құра аласыз.
+description: Бұл мақалада шығыстарды басқару және қосымша ресурстарға сілтемелер туралы жалпы ақпарат берілген. Сіз шығыстарды басқаруды пайдалана отырып, төлем әдісі туралы ақпаратты сақтай алатын, кредиттік карта транзакцияларын импорттайтын және қызметкерлеріңіз бизнесіңізге шығын келтірген кезде жұмсаған ақшаңызды бақылай алатын біріктірілген жұмыс ағынын құра аласыз.
 author: ShylaThompson
 ms.date: 07/25/2019
 ms.topic: overview
@@ -43,7 +43,7 @@ ms.locfileid: "9029353"
 
 ### <a name="blogs"></a>Блогтер
 
-Сіз пікірлерді, жаңалықтарды және басқа ақпаратты таба аласыз [Microsoft Dynamics 365 блог](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) және [Microsoft Dynamics 365 Қаржы - Қаржы блогы](https://community.dynamics.com/365/financeandoperations/b/financials).
+Пікірлер, жаңалықтар және басқа ақпаратты [Microsoft Dynamics 365 блогы](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) және [Microsoft Dynamics 365 Finance - Қаржы блогы](https://community.dynamics.com/365/financeandoperations/b/financials) бөлімдерінен таба аласыз.
 
 [Microsoft Dynamics Operations Partner Community блогы](https://community.dynamics.com/partner/b/operationspartnercommunityblog) Microsoft Dynamics серіктестеріне MBS операцияларындағы жаңалықтар мен трендтерді біле алатын жалғыз ресурсты береді.
 

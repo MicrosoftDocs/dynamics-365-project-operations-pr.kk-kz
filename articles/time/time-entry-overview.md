@@ -1,6 +1,6 @@
 ---
 title: Уақытқа шолу
-description: Бұл мақалада уақыт функциясы туралы ақпарат берілген Dynamics 365 Project Operations.
+description: Бұл мақалада Dynamics 365 Project Operations бағдарламасындағы уақыт функциясы туралы ақпарат берілген.
 author: stsporen
 ms.date: 10/02/2020
 ms.topic: overview
