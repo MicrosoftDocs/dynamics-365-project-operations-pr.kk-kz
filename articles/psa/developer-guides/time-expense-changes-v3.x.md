@@ -1,6 +1,6 @@
 ---
 title: Уақыт және шығыс бойынша өзгертулер (Project Service Automation 3.x)
-description: Бұл мақалада Уақыт пен Шығынға арналған шешім өзгерістері туралы ақпарат берілген.
+description: Бұл мақалада уақыт пен шығыстың шешім өзгертулері туралы ақпарат берілген.
 author: makk
 ms.custom:
 - dyn365-projectservice

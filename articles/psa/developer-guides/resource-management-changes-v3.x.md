@@ -1,6 +1,6 @@
 ---
 title: Ресурсты басқаруға енгізілген өзгерістер (Project Service Automation 3.x)
-description: Бұл мақалада ресурстарды басқару аймағына енгізілген өзгерістер туралы ақпарат берілген.
+description: Бұл мақалада ресурсты басқару аймағына енгізілген өзгерістер туралы ақпарат берілген.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -26,7 +26,7 @@ ms.locfileid: "8916019"
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
-Осы мақаланың бөлімдері ресурстарды басқару аймағына енгізілген өзгерістер туралы ақпаратты береді Dynamics 365 Project Service Automation 3.x нұсқасы.
+Мақаланың бұл бөлімінде Dynamics 365 Project Service Automation 3.x нұсқасының ресурсты басқару аймағына енгізілген өзгерістер туралы ақпарат берілген.
 
 ## <a name="project-estimates"></a>Жоба болжамдары
 

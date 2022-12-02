@@ -1,6 +1,6 @@
 ---
 title: Жұмыс уақыты үлгілерін жасау
-description: Бұл мақала Project Service қызметінде жұмыс уақыты үлгісін жасау жолын сипаттайды.
+description: Бұл мақалада Project Service қызметінде жұмыс сағаттарының үлгісін жасау жолдары сипатталады.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

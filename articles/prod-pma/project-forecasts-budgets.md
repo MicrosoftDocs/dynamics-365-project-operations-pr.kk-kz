@@ -1,6 +1,6 @@
 ---
 title: Жоба болжамдары мен бюджеттері
-description: Microsoft Dynamics 365 Finance жобаларыңызды басқару және бақылау үшін жоба болжамдары мен жоба бюджеттерін қамтамасыз етеді.
+description: Microsoft Dynamics 365 Finance бағдарламасы жобаларды басқару және бақылау үшін жоба болжамдары мен жоба бюджеттерін қамтамасыз етеді.
 author: Yowelle
 ms.date: 10/25/2017
 ms.topic: article

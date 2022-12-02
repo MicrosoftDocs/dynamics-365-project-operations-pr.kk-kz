@@ -1,6 +1,6 @@
 ---
 title: Әзірлеу бойынша бастапқы бет (Project Service Automation 3.x)
-description: Бұл мақала әзірлеу ақпаратын беретін мақалаларға сілтемелер береді Dynamics 365 Project Service Automation (PSA) 3.x нұсқасы.
+description: Бұл мақалада Dynamics 365 Project Service Automation (PSA) 3.x нұсқасы бойынша әзірлеу туралы ақпарат беретін мақалаларға сілтемелер бар.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -27,7 +27,7 @@ ms.locfileid: "8928991"
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
-Dynamics 365 Project Service Automation 3.x нұсқасы жаңа мүмкіндіктерді, платформаның жаңа мүмкіндіктерін іске асыру жолын және әртүрлі бағыттардағы мүмкіндіктердің жақсартуларын ұсынады. Келесі мақалалар PSA жаңа нұсқасында енгізілген өзгерістер туралы қосымша ақпаратты береді:
+Dynamics 365 Project Service Automation 3.x нұсқасы жаңа мүмкіндіктерді, платформаның жаңа мүмкіндіктерін іске асыру жолын және әртүрлі бағыттардағы мүмкіндіктердің жақсартуларын ұсынады. Төмендегі мақалаларда PSA бағдарламасының жаңа нұсқасына енгізілген өзгерістер туралы қосымша ақпарат беріледі:
 
 - [Нысан, басқару элементі және пайдаланушы интерфейсіндегі өзгерістер (Project Service Automation 3.x)](../developer-guides/entity-changes-v3.x.md)
 - [Уақыт және шығыстар бойынша өзгертулер (Project Service Automation 3.x)](../developer-guides/time-expense-changes-v3.x.md)

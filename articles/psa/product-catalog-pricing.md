@@ -1,6 +1,6 @@
 ---
 title: Өнім каталогының бағасы
-description: Бұл мақалада өнім каталогының бағасы қалай жұмыс істейтіні туралы ақпарат берілген Dynamics 365 Project Service Automation (PSA).
+description: Бұл мақалада Dynamics 365 Project Service Automation (PSA) бағдарламасында өнім каталогының бағасы қалай жұмыс істейтіні туралы ақпарат берілген.
 author: rumant
 ms.custom:
 - dyn365-projectservice

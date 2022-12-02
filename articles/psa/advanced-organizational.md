@@ -1,6 +1,6 @@
 ---
-title: Жетілдірілген ұйымдық бөлімшелер
-description: Бұл мақалада ұйымдық бөлімшелер туралы ақпарат берілген Dynamics 365 Project Service Automation.
+title: Кеңейтілген ұйымдық бірліктер
+description: Бұл мақалада Dynamics 365 Project Service Automation бағдарламасындағы ұйымдық бөлімшелер туралы ақпарат берілген.
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -24,7 +24,7 @@ ms.contentlocale: kk-KZ
 ms.lasthandoff: 06/03/2022
 ms.locfileid: "8927105"
 ---
-# <a name="about-organizational-units"></a>Ұйымдастыру бөлімшелері туралы 
+# <a name="about-organizational-units"></a>Ұйымдық бөлімшелер туралы 
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 

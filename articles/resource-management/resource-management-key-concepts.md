@@ -1,6 +1,6 @@
 ---
 title: Ресурстарды басқарудың негізгі тұжырымдамалары
-description: Бұл мақалада ресурстарды басқару мүмкіндіктері туралы ақпарат берілген Microsoft Dynamics Жоба операциялары.
+description: Бұл мақалада Microsoft Dynamics Project Operations жүйесіндегі ресурстарды басқару мүмкіндіктері туралы ақпарат берілген.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article

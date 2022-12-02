@@ -1,6 +1,6 @@
 ---
 title: Үлгі деректерді орнату
-description: Бұл мақалада Project Service Automation жүйесінде үлгі деректерді орнату туралы ақпарат берілген.
+description: Бұл мақалада Project Service Automation бағдарламасындағы үлгі деректерді орнату туралы ақпарат берілген.
 ms.custom: dyn365-projectservice
 ms.date: 11/08/2018
 ms.reviewer: johnmichalak

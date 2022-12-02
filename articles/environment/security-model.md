@@ -1,6 +1,6 @@
 ---
 title: Қауіпсіздік үлгісі
-description: Бұл мақалада қауіпсіздік үлгісі туралы ақпарат берілген Dynamics 365 Project Operations.
+description: Бұл мақала Dynamics 365 Project Operations жүйесіндегі қауіпсіздік үлгісі туралы ақпарат береді.
 author: stsporen
 ms.date: 10/01/2020
 ms.topic: article
@@ -70,7 +70,7 @@ Office тобының бірлесіп жұмыс істеу үлгісі дам
 
 Толығырақ ақпарат алу үшін [Common Data Service қызметіндегі қауіпсіздік](/power-platform/admin/wp-security) тақырыбын қараңыз.
 
-## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Жоба операциялары және Microsoft Dynamics 365 Қаржылық қауіпсіздік
+## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Project Operations және Microsoft Dynamics 365 Finance қауіпсіздігі
 Project Operations келесі рөлдерді қамтиды:
 
 - Жоба менеджері

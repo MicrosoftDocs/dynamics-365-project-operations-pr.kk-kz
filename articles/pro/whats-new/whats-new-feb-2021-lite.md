@@ -1,6 +1,6 @@
 ---
 title: 2021 жылғы ақпандағы жаңалық - Project Operations жеңілдетілген орналастыру
-description: Бұл мақалада Project Operations lite қолдануының 2021 жылдың ақпан айындағы шығарылымында қолжетімді сапа жаңартулары туралы ақпарат берілген.
+description: Бұл мақалада Project Operations жеңілдетілген орналастыру шығарылымының 2021 жылғы ақпандағы сапалық жаңартулары туралы ақпарат берілген.
 author: sigitac
 ms.date: 02/08/2021
 ms.topic: article
@@ -16,7 +16,7 @@ ms.locfileid: "8914041"
 ---
 # <a name="whats-new-february-2021---project-operations-lite-deployment"></a>2021 жылғы ақпандағы жаңалық - Project Operations жеңілдетілген орналастыру
 
-Бұл мақала келесіге қатысты Dynamics 365 Project Operations құрамдас бөліктер мен нұсқалар:
+Бұл мақала келесі Dynamics 365 Project Operations құрамдастары мен нұсқаларына қатысты:
 
   - 4.7.0.95 нұсқалы Dataverse ортасындағы Project Operations жүйесі
 

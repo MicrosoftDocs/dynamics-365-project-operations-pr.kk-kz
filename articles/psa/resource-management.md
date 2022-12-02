@@ -1,6 +1,6 @@
 ---
 title: Ресурстық жобалар басты беті
-description: Бұл мақала Dynamics 365 жүйесіне арналған Project Service Automation (PSA) жүйесіндегі ресурстарды басқару мүмкіндіктері туралы ақпарат береді.
+description: Бұл мақалада Dynamics 365 жүйесіне арналған Project Service Automation (PSA) бағдарламасындағы ресурсты басқару мүмкіндіктері туралы ақпарат берілген.
 author: JohnPBurrows
 ms.custom:
 - dyn365-projectservice

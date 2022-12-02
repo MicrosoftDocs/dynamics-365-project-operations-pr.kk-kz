@@ -1,6 +1,6 @@
 ---
 title: Қолда бар тауарларға шолу
-description: Бұл мақалада нақты жоба туралы ақпарат берілген.
+description: Бұл мақалада жобаның нақты мәндері туралы ақпарат берілген.
 author: rumant
 ms.custom:
 - dyn365-projectservice

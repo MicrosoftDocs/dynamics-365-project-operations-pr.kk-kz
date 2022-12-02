@@ -1,6 +1,6 @@
 ---
 title: Шығысқа шолу
-description: Бұл мақалада Жоба операцияларындағы шығыс функционалдығы туралы ақпарат берілген.
+description: Бұл мақалада Project Operations жүйесіндегі шығыс функциясы туралы ақпарат берілген.
 author: stsporen
 ms.date: 10/06/2020
 ms.topic: overview

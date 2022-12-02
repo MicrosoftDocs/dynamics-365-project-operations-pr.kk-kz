@@ -1,6 +1,6 @@
 ---
-title: Project Operations Team Member қолданбасы
-description: Бұл мақала Microsoft жүйесіндегі Project Operations Team Member қолданбасы туралы ақпарат береді Dynamics 365 Project Operations.
+title: Project Operations Team Member бағдарламасы
+description: Бұл мақалада Microsoft Dynamics 365 Project Operations жүйесіндегі Project Operations Team Member бағдарламасы туралы ақпарат берілген.
 author: stsporen
 ms.date: 04/20/2022
 ms.topic: article
@@ -22,20 +22,20 @@ ms.contentlocale: kk-KZ
 ms.lasthandoff: 06/03/2022
 ms.locfileid: "8918227"
 ---
-# <a name="project-operations-team-member-app"></a>Project Operations Team Member қолданбасы
+# <a name="project-operations-team-member-app"></a>Project Operations Team Member бағдарламасы
 
 _**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
-Project Operations Team Member қолданбасы (бұрын Project Resource Hub ретінде белгілі) Microsoft корпорациясының барлық мүмкіндіктерін қамтиды.Dynamics 365 Project Operations Топ мүшелеріне пайдаланушы лицензиясын ұсынады.
+Project Operations Team Member бағдарламасы (бұрын Project Resource Hub ретінде белгілі болған) Microsoft Dynamics 365 Project Operations жүйесінің Team Member пайдаланушы лицензиясы бойынша ұсынатын барлық мүмкіндіктерін қамтиды.
 
-Мұнда Project Operations Team Member қолданбасының кейбір мүмкіндіктері берілген:
+Мұнда Project Operations Team Member бағдарламасының кейбір мүмкіндіктері берілген:
 
 - Уақыт жазбасы
-- Шығындарды енгізу (Lite қолдану)
+- Шығыс жазбасы (жеңілдетілген орналастыру)
 - Материал қолданысы
 - Мақұлдаулар
 - Кеңейту мүмкіндігі (15 нысанға дейін)
 
-Project Operations Team Member қолданбасын пайдалану үшін сізде толық Project Operations лицензиясы немесе Dynamics Team Members пайдаланушы лицензиясы болуы керек. Лицензиялар туралы қосымша ақпаратты мына жерден қараңыз [Dynamics 365 лицензиялау нұсқаулығы](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409). Project Operations Team Member қолданбасы Project Operations қолданбасын қолдануды талап етеді.
+Project Operations Team Member бағдарламасын пайдалану үшін сізде толық Project Operations лицензиясы немесе Dynamics Team Members пайдаланушы лицензиясы болуы керек. Осы лицензиялар туралы қосымша ақпарат алу үшін мына бөлімді қараңыз: [Dynamics 365 лицензиялау нұсқаулығы](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409) Project Operations Team Member бағдарламасы Project Operations жүйесін орналастыруды талап етеді.
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

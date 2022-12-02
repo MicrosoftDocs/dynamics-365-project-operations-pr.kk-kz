@@ -1,6 +1,6 @@
 ---
 title: Dynamics 365 Project Operations бағдарламасын жою
-description: Бұл мақалада жою әдісі туралы ақпарат берілген Dynamics 365 Project Operations.
+description: Бұл мақалада Dynamics 365 Project Operations бағдарламасын жою жолы туралы ақпарат берілген.
 author: stsporen
 ms.date: 11/09/2021
 ms.topic: article
@@ -35,8 +35,8 @@ Dynamics 365 Project Operations бағдарламасын жою үшін сі�
     | 6 | ProjectServiceCore_Patch                           | Қосымша ескертпелер жоқ.                                                                         |
     | 7 | ProjectServiceCore                                 | Қосымша ескертпелер жоқ.                                                                         |
     | 8 | ProjectServiceDeprecatedComponents                 | Егер табылмаса, бұл шешімді өткізіп жіберіңіз.                                                            |
-    | 9 | FieldServiceCommon                                 | Dynamics 365 Finance немесе көмегімен қосарлы жазу үшін қажет Dynamics 365 Supply Chain Management.   |
-    | 10 | msdyn_AssetCommon                                  | Dynamics 365 Finance немесе көмегімен қосарлы жазу үшін қажет Dynamics 365 Supply Chain Management.   |
+    | 9 | FieldServiceCommon                                 | Dynamics 365 Finance немесе Dynamics 365 Supply Chain Management жүйесімен қос жазу үшін қажет.   |
+    | 10 | msdyn_AssetCommon                                  | Dynamics 365 Finance немесе Dynamics 365 Supply Chain Management жүйесімен қос жазу үшін қажет.   |
     | 11 | msdyn_TESA_Anchor                                  | Dynamics 365 Field Service үшін қажет.                                                     |
     | 12 | msdyn_TESA_Patch                                   | Dynamics 365 Field Service үшін қажет.                                                     |
     | 13 | msdyn_TESA                                         | Dynamics 365 Field Service үшін қажет.                                                     |

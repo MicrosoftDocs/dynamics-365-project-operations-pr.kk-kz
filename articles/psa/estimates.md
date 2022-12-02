@@ -1,6 +1,6 @@
 ---
 title: Болжамдар
-description: Бұл мақалада бағалаулар туралы ақпарат берілген Dynamics 365 Project Service Automation.
+description: Бұл мақалада Dynamics 365 Project Service Automation бағдарламасындағы болжамдар туралы ақпарат берілген.
 author: rumant
 ms.custom:
 - dyn365-projectservice

@@ -1,6 +1,6 @@
 ---
 title: Жобаны басқаруға шолу
-description: Бұл мақалада жобаны басқару туралы ақпарат берілген Dynamics 365 Project Operations.
+description: Бұл мақалада Dynamics 365 Project Operations бағдарламасында жобаны басқару параметрлері туралы ақпарат берілген.
 author: ruhercul
 ms.date: 10/06/2020
 ms.topic: overview

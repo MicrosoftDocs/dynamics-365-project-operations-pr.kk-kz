@@ -1,6 +1,6 @@
 ---
 title: Жаңа реттелетін нысан пішіндерін қосу (Project Service Automation 2.x)
-description: Бұл мақала мүмкіндіктер, баға ұсыныстары, тапсырыстар немесе шот-фактуралар үшін теңшелетін нысан пішіндерін қосу жолы туралы ақпаратты береді.Dynamics 365 Project Service Automation 2.x.
+description: Бұл мақалада Dynamics 365 Project Service Automation 2.x. нұсқасында мүмкіндіктерге, баға ұсыныстарына, тапсырыстарға немесе есеп-шоттарға реттелетін нысан пішіндерін қосу жолы туралы ақпарат берілген.
 author: makk
 ms.custom:
 - dyn365-projectservice

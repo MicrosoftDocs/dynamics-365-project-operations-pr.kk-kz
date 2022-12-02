@@ -1,6 +1,6 @@
 ---
 title: Бақылау тақталары
-description: Бұл мақалада қамтылған есеп беру тақталары туралы ақпарат берілген Dynamics 365 Project Service Automation.
+description: Бұл мақалада Dynamics 365 Project Service Automation ішінде қамтылған есеп беру бақылау тақталары туралы ақпарат берілген.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

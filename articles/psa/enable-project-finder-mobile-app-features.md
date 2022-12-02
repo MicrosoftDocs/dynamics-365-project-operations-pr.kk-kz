@@ -48,11 +48,11 @@ ms.locfileid: "8593692"
   
 4. **Ресурс бойынша дағды жаңартуына рұқсат беру** пәрменін **Иә** мәніне орнатыңыз.  
   
-   ![ProjectService&#95; ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
+   ![ProjectService_ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
   
    Бұл глобалдық параметр. Жоба реттеушілері жеке жобаның осы жобаның **Жоба тобы** бетінде көрінуін орната алады.  
   
-   ![ProjectService&#95; ProjectTeamVisible.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
+   ![ProjectService_ProjectTeamVisible.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
   
 ## <a name="email-notifications"></a>Электрондық пошта хабарландырулары  
  [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] қызметі мына уақыттарда төмендегі алушыларға ресурс сұрауларына қатысты электрондық хабарлар жібереді:  

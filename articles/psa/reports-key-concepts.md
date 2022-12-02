@@ -1,6 +1,6 @@
 ---
 title: Негізгі ұғымдар
-description: Бұл мақалада Project Service Automation жүйесіндегі ресурстарды басқарудың негізгі тұжырымдамалары туралы ақпарат берілген.
+description: Бұл мақалада Project Service Automation бағдарламасындағы ресурстарды басқарудың негізгі тұжырымдамалары туралы ақпарат берілген.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

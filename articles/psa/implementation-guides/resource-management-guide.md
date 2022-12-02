@@ -1,6 +1,6 @@
 ---
 title: Ресурстарды басқару нұсқаулығы
-description: Бұл мақала Project Service Automation ішіндегі ресурстарды басқару туралы ақпаратқа сілтемелер береді
+description: Бұл мақалада Project Service Automation бағдарламасында ресурстарды басқару туралы ақпаратқа сілтемелер берілген
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -30,7 +30,7 @@ ms.locfileid: "8910783"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
-Осы мақалада бұрын болған PDF сілтемесі жойылды және мазмұн келесі мақалаларға жылжытылды:
+Бұрын осы мақалада болған PDF сілтемесі жойылып, мазмұны келесі мақалаларға ауыстырылды:
 
 - [Ресурстарды басқарудың басты беті](../resource-management-home-page.md)
 - [Негізгі тұжырымдамалар](../reports-key-concepts.md)
@@ -42,7 +42,7 @@ ms.locfileid: "8910783"
 - [Ресурстарды басқару туралы жиі қойылатын сұрақтар](../resource-management-faq.md)
 
 > [!NOTE]
-> Бұл мақала құжаттаманың болашақ жаңартуында жойылады. 
+> Бұл мақала болашақтағы құжаттамалық жаңартудан жойылады. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

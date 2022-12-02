@@ -1,6 +1,6 @@
 ---
 title: Жобаның бағасы
-description: Бұл мақалада бағаның қалай жұмыс істейтіні туралы ақпарат берілген Dynamics 365 Project Service Automation.
+description: Бұл мақалада Dynamics 365 Project Service Automation бағдарламасында баға белгілеудің жұмыс істеу жолы туралы ақпарат берілген.
 author: rumant
 ms.custom:
 - dyn365-projectservice

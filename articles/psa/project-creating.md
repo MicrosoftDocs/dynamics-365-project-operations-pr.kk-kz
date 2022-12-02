@@ -1,6 +1,6 @@
 ---
 title: Жоба кестелері
-description: Бұл мақалада кестені құру жолы туралы ақпарат берілген.
+description: Бұл мақалада кестені жасау жолы туралы ақпарат берілген.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

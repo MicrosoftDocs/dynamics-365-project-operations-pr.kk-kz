@@ -1,6 +1,6 @@
 ---
 title: Пайдаланушы интерфейсін шолу
-description: Бұл мақала Dynamics 365 Project әрекеттеріндегі жобаны басқару туралы ақпарат береді.
+description: Бұл мақалада Dynamics 365 Project Operations бағдарламасындағы жобаны басқару туралы ақпарат берілген.
 author: ruhercul
 ms.date: 10/05/2020
 ms.topic: article

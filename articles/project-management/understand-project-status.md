@@ -1,6 +1,6 @@
 ---
 title: Жоба күйін түсіну
-description: Бұл мақалада жобаларға тағайындалған күй туралы ақпарат берілген Dynamics 365 Project Operations.
+description: Бұл мақалада Dynamics 365 Project Operations бағдарламасындағы жобаларға тағайындалған күй туралы ақпарат берілген.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article

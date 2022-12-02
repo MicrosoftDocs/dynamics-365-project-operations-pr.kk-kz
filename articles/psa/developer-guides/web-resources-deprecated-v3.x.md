@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation 3.x нұсқасындағы ұсынылмайтын веб-ресурстар
-description: Бұл мақала бұдан былай пайдаланылмайтын веб-ресурстарды сипаттайды Dynamics 365 Project Service Automation 3.0.
+description: Бұл мақалада Dynamics 365 Project Service Automation 3.0 нұсқасында енді қолданылмайтын веб-ресурстар сипатталады.
 author: makk
 ms.custom:
 - dyn365-projectservice

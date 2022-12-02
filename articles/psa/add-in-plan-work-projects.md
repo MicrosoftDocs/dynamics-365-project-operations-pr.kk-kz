@@ -1,6 +1,6 @@
 ---
 title: Microsoft Project бағдарламасында жұмысты Project Service қондырмасы көмегімен жоспарлаңыз
-description: Бұл мақалада Microsoft Project қызметі үшін Microsoft Project қондырмасын пайдалану жолы туралы ақпарат берілген.
+description: Бұл мақалада Microsoft Project Service үшін Microsoft Project қондырмасын пайдалану жолы туралы ақпарат берілген.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

@@ -1,6 +1,6 @@
 ---
 title: Нысан, басқару элементі және пайдаланушы интерфейсіндегі өзгерістер (Project Service Automation 3.x)
-description: Бұл мақалада шешім өзгертулері сипатталған Microsoft Dynamics Project Service Automation 3.x.
+description: Бұл мақалада Microsoft Dynamics Project Service Automation 3.x нұсқасы үшін шешім өзгерістері сипатталған.
 author: makk
 ms.custom:
 - dyn365-projectservice

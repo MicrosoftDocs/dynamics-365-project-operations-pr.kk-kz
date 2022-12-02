@@ -1,6 +1,6 @@
 ---
 title: Бағалар өлшемдеріне шолу
-description: Бұл мақалада баға өлшемдері туралы ақпарат берілген Dynamics 365 Project Operations.
+description: Бұл мақалада Dynamics 365 Project Operations бағдарламасындағы бағалар өлшемдері туралы ақпарат берілген.
 author: rumant
 ms.date: 11/30/2020
 ms.topic: overview

@@ -1,6 +1,6 @@
 ---
 title: Бағалар өлшемін өшіру
-description: Бұл мақалада Project Service шешімінде баға өлшемдерін орнату жолы көрсетілген.
+description: Бұл мақалада Project Service шешімінде бағалар өлшемдерін орнату жолы көрсетілген.
 author: Rumant
 ms.custom:
 - dyn365-projectservice
