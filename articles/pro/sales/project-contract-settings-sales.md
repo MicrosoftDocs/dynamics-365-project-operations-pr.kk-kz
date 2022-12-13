@@ -1,17 +1,17 @@
 ---
-title: Жоба келісім-шарттарының параметрлері - жеңілдетілген
-description: Бұл мақалада келісім-шарт жолдарына әсер ететін өрістер туралы және барлық жол элементтері бойынша жинақталған келісім-шарт туралы ақпарат берілген.
+title: Жоба келісім-шарттарына арналған тақырып мәліметтері
+description: Бұл мақалада Жоба операцияларындағы өрістер және жоба келісімшарттары туралы ақпарат берілген.
 author: rumant
 ms.date: 03/08/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 6123cbc028cf49cc198173697969f415b0789256
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: f648113f54257e2c303cb2729e282d70f818d838
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8917077"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824915"
 ---
 # <a name="header-details-for-project-contracts"></a>Жоба келісім-шарттарына арналған тақырып мәліметтері
 

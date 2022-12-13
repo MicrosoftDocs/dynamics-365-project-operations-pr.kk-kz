@@ -1,21 +1,21 @@
 ---
-title: Мүмкіндікті жабу
+title: Жоба мүмкіндігін жабу
 description: Бұл мақалада жоба мүмкіндігін жабу туралы ақпарат берілген.
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 72789d2d3fa6f362a5ccd8a4dae7bbcf1c735ea3
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 21366e3371efb958055ac961a8ec88602d847446
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8920251"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9826041"
 ---
-# <a name="close-an-opportunity"></a>Мүмкіндікті жабу
+# <a name="close-a-project-opportunity"></a>Жоба мүмкіндігін жабу 
 
-_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
+_**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 Жоба мүмкіндіктері жеңген немесе жеңілген ретінде жабылуы мүмкін. **Жабу мүмкіндігі** диалогтық терезесі күй себебіне күнін және мүмкіндікті жеңу немесе жоғалту туралы басқа мәліметтерді енгізуге мүмкіндік береді.
 

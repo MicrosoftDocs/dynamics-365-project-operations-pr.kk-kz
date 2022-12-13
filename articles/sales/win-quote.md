@@ -1,23 +1,23 @@
 ---
-title: Баға ұсынуды жабу
+title: Жобаға негізделген баға ұсыныстарын жабу
 description: Бұл мақалада Project Operations бағдарламасындағы баға ұсыныстарын жабу туралы ақпарат берілген.
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 45bdfe5fb9eddb8f96ed1bc017596c8fe436245e
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 7b35417d4258a1e837fdf7a61bbcc303ec04a900
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8931889"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824224"
 ---
-# <a name="close-a-quote"></a>Баға ұсынуды жабу
+# <a name="close-project-based-quotes"></a>Жобаға негізделген баға ұсыныстарын жабу
 
-_**Қолданылады:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
+_**Қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations_
 
-Жобаның баға ұсынысын Ұтқан немесе Ұтылған ретінде жабуға болады. Microsoft Dynamics 365 Project Operations бағдарламасында баға ұсыныстарындағы белсендіру және түзету функцияларына қолдау көрсетілмейтіндіктен, жоба баға ұсынысын жабуға болады.
+Жоба баға белгілеуін **жеңді** немесе **жоғалған ретінде жабуға болады**. 
 
 ## <a name="close-a-quote-as-won"></a>Баға ұсынысын Ұтқан ретінде жабу
 

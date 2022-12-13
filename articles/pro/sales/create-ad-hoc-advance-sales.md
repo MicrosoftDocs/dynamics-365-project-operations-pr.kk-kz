@@ -1,21 +1,21 @@
 ---
-title: Келісім-шартта арнайы аванс жасау
+title: Жоба келісімшартында арнайы аванс жасаңыз
 description: Бұл мақалада қажетінше келісім-шартта авансты жасау туралы ақпарат берілген.
 author: rumant
 ms.date: 10/26/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 3e450a17990c6fc783ddffdb05e1ab5b9429a3c1
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 62e41e5faeb5e40143e26e2cdf48c1279941a6b4
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8922183"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824856"
 ---
-# <a name="creating-an-ad-hoc-advance-on-a-contract"></a>Келісім-шартта арнайы аванс жасау
+# <a name="create-an-ad-hoc-advance-on-a-project-contract"></a>Жоба келісімшартында арнайы аванс жасаңыз
 
-_**Қолданылу аясы:** Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, Жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
+_**Келесіге қолданылады:** ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations, жеңілдетілген орналастыру - проформа-шотын ұсыну мәмілесі_
 
 Microsoft Dynamics 365 Project Operations алдын ала төлемдер мен аванстарды қамтитын есеп-шотты ұсыну сценарийлерін қолдайды. **Project Operations** бағдарламасында **Аванстар** келісім-шарттарын пайдалану процесі **Қаламақы** келісім-шарттарына ұқсас. 
 

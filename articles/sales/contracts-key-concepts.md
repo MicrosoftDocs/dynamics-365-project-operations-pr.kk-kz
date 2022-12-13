@@ -1,17 +1,17 @@
 ---
-title: Жоба келісім-шарттары - негізгі ұғымдар
+title: Жобаға негізделген келісім-шарттар үшін бірегей түсініктер
 description: Бұл мақалада Project Operations бағдарламасындағы жоба келісім-шарттарының негізгі түсініктері туралы ақпарат берілген.
 author: rumant
 ms.date: 10/07/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 016a5d1defacdc6ba5828ca26395c9123e9323d0
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 48053bf6209d0a997e4e8766e29d77f994da06b4
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8926231"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825853"
 ---
 # <a name="concepts-unique-to-project-based-contracts"></a>Жобаға негізделген келісім-шарттар үшін бірегей түсініктер
 

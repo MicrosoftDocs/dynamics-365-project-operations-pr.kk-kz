@@ -1,19 +1,19 @@
 ---
-title: Жобаға негізделген келісім-шарт жолы бойынша есеп-шот кестелерін жасау - жеңілдетілген
+title: Жобаның келісім-шарт жолында шот-фактура кестелерін жасаңыз
 description: Бұл мақалада есеп-шоттың кестелері мен кезеңдерін жасау туралы ақпарат берілген.
 author: rumant
 ms.date: 10/26/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 403b993c3f61ca5f0fb1bac45331aa0613d16439
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 1a6d0647ee012212a74a674cfa4e995d0e375b77
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8921125"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824727"
 ---
-# <a name="create-invoice-schedules-on-a-project-based-contract-line---lite"></a>Жобаға негізделген келісім-шарт жолы бойынша есеп-шот кестелерін жасау - жеңілдетілген
+# <a name="create-invoice-schedules-on-a-project-contract-line"></a>Жобаның келісім-шарт жолында шот-фактура кестелерін жасаңыз
 
 _**Қолданылады:** қарапайым орналастыру - проформа-шотын ұсыну мәмілесі_
 

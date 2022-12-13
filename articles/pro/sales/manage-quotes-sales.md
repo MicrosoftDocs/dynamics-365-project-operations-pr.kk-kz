@@ -6,12 +6,12 @@ ms.date: 10/26/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: b9dad9ab9b6cef11ad337f9c3f536fe467b6a347
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 79da23d83133241204eaad44e39e64c5c6a1591d
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: kk-KZ
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8911649"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9826088"
 ---
 # <a name="manage-project-quotes"></a>Жобаның баға ұсыныстарын басқару
 
@@ -23,7 +23,7 @@ Dynamics 365 Project Operations бағдарламасында жобаның б
   - Әрбір жоғары деңгейлі құрамдас немесе баға ұсынысы жолы үшін жұмыстарды анықтайтын және бағалайтын баға ұсынысы жолының мәліметтері. Кесте немесе күн болжамдары және жұмыс бойынша қаржылық аспектілер сол баға ұсынысы жолына байланыстырылады.
   - Әрбір баға ұсынысы үшін келісім-шарттық үлгілер мен ақылы құрамдастар орнатылған. Бұл параметр кірістердің таралуын, шығындар және әрбір баға ұсынысы жолы мен жалпы баға ұсынысына арналған табыстылықты бағалауға көмектеседі.
 
-## <a name="view-all-project-based-quotes"></a>Барлық жобаға негізделген баға ұсыныстарын қарау
+## <a name="view-all-project-quotes"></a>Барлық жоба баға ұсыныстарын қараңыз
 
 Барлық жобалық баға ұсыныстары тізімін **Баға ұсыныстары** тізімінің бетінен көруге болады. 
 
