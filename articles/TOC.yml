@@ -54,7 +54,7 @@
               href: environment/resource-dual-write-estimates-actuals.md
             - name: Жоба есеп-шотының интеграциясы
               href: environment/resource-dual-write-project-invoice.md
-            - name: Шығыстарды басқару интеграциясы
+            - name: Шығысты басқару интеграциясы
               href: environment/resource-dual-write-expense.md
             - name: Жеткізуші есеп-шотының интеграциясы
               href: environment/resource-dual-write-vendor-invoice.md
@@ -62,10 +62,14 @@
           href: environment/uninstall-project-operations.md
     - name: Жаңалық
       items:
-        - name: 'Қыркүйек, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
-          href: whats-new/whats-new-sept-2022-resource-based.md
+        - name: 'Қараша, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+          href: whats-new/whats-new-nov-2022-resource-based.md
         - name: Мұрағат
           items:
+            - name: 'Қазан, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+              href: whats-new/whats-new-oct-2022-resource-based.md
+            - name: 'Қыркүйек, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
+              href: whats-new/whats-new-sept-2022-resource-based.md
             - name: 'Тамыз, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
               href: whats-new/whats-new-aug-2022-resource-based.md
             - name: 'Шілде, 2022 ж. - Ресурс/биржадан тыс негіздегі сценарийлерге арналған Project Operations'
@@ -122,9 +126,9 @@
               href: sales/sales-currency.md
             - name: Ұйымдық бірліктер
               href: sales/OrgUnits.md
-        - name: Жобаның ықтимал тұтынушыларын басқару
+        - name: Жобаға негізделген ықтимал тұтынушыларды басқару
           href: sales/manage-leads.md
-        - name: Жоба мүмкіндіктерін басқару
+        - name: Жобаға негізделген мүмкіндіктерді басқару
           items:
             - name: Жоба мүмкіндіктерін басқаруға шолу
               href: sales/manage-project-based-opportunities.md
@@ -132,75 +136,73 @@
               href: sales/opportunity-header.md
             - name: Жобаға негізделген мүмкіндік жолдары
               href: sales/project-based-lines.md
-            - name: Мүмкіндіктерден жобаның баға ұсыныстарын жасау
+            - name: Жоба мүмкіндіктерінен баға ұсынуларын жасау
               href: sales/link-quotes-opportunities.md
-            - name: Жобаға негізделген мүмкіндіктерді көшіру
+            - name: Жоба мүмкіндіктерін көшіру
               href: sales/copy-project-based-opportunity.md
             - name: Жоба мүмкіндігін жабу
               href: sales/close-opportunity.md
-        - name: Жобаның баға ұсыныстарын басқару
+        - name: Жобаға негізделген баға ұсынуларын басқару
           items:
-            - name: Жобаның баға ұсыныстарын басқаруға шолу
+            - name: Жобаның баға ұсынуларын басқаруға шолу
               href: pro/sales/manage-quotes-sales.md
-            - name: Жобаға негізделген баға ұсыныстары үшін бірегей түсініктер
+            - name: Жобаға негізделген баға ұсынулары үшін бірегей түсініктер
               href: sales/quotes-key-concepts.md
-            - name: Жобаға негізделген баға ұсыныстарына арналған тақырып мәліметтері
+            - name: Жобаға негізделген баға ұсынуларына арналған тақырып мәліметтері
               href: sales/quote-values-budget-limits-contract.md
-            - name: Бірнеше тұтынушыны жобаның баға ұсынысы бойынша басқару
+            - name: Бірнеше тұтынушыны жобаға негізделген баға ұсыну бойынша басқару
               href: sales/manage-multiple-customers-quote.md
-            - name: Баға ұсынысы бойынша жоба бағатізбелерін басқару
+            - name: Жобаның баға ұсынуларындағы жоба бағатізбелері
               href: pro/sales/manage-project-price-lists-sales.md
             - name: Жобаға негізделген баға ұсыну жолдары
               items:
-                - name: Жобаға негізделген баға ұсыну жолдарына шолу
+                - name: Жобаның баға ұсыну жолдарына шолу
                   href: pro/sales/manage-quoted-values-budget-limits-quote-line-sales.md
                 - name: Бірнеше тұтынушыны жобаға негізделген баға ұсыну жолдары бойынша басқару
                   href: sales/manage-multiple-customers-quote-line.md
-                - name: Жобалар мен тапсырмаларды жобаға негізделген баға ұсыну жолдарымен салыстыру
+                - name: Жобалар мен тапсырмаларды жобаның баға ұсыну жолдарымен салыстыру
                   href: pro/sales/mapping-projects-tasks-quote-line-sales.md
-                - name: Жобаға негізделген баға ұсыну жолдарының ақылы құрамдастарын конфигурациялау
+                - name: Жобаның баға ұсыну жолдарында ақылы құрамдастарды конфигурациялау
                   href: pro/sales/configure-chargeable-components-quote-line-sales.md
-                - name: Жобаның баға ұсыну жолының ақылы құрамдастарын конфигурациялау
-                  href: sales/configure-chargeable-quoteline.md
                 - name: Жобаның баға ұсыну жолын болжау
-                  href: sales/create-estimate-quote-line.md
-                - name: Болжамдарды жобадан жобаға негізделген баға ұсыну жолына импорттау
-                  href: sales/import-estimate-quote-line.md
-                - name: Жобаға негізделген баға ұсыну жолдарындағы есеп-шот кестелері
+                  href: pro/sales/create-estimate-quote-line-sales.md
+                - name: Болжамдарды жобадан жобаның баға ұсыну жолына импорттау
+                  href: pro/sales/import-estimate-project-quote-sales.md
+                - name: Жобаның баға ұсыну жолдарындағы есеп-шот кестелері
                   href: sales/invoice-schedule-quote-line.md
-            - name: Жобаның баға ұсыныстарын көшіру
+            - name: Жобаның баға ұсынуларын көшіру
               href: sales/lose-quote.md
             - name: Жобалық баға ұсынуды белсендіру және қайта қарау
               href: sales/activation-and-revision.md
-            - name: Жобаның баға ұсыныстарын жабу
+            - name: Жобаға негізделген баға ұсынуларын жабу
               href: sales/win-quote.md
-        - name: Жоба келісім-шарттарын басқару
+        - name: Жобаға негізделген келісім-шарттарды басқару
           items:
-            - name: Жоба келісім-шарттарын басқаруға шолу
+            - name: Жоба келісім-шарттарын басқару
               href: pro/sales/manage-contracts-sales.md
             - name: Жобаға негізделген келісім-шарттар үшін бірегей түсініктер
               href: sales/contracts-key-concepts.md
             - name: Жобаға негізделген келісім-шарттарға арналған тақырып мәліметтері
               href: sales/project-contract-settings.md
-            - name: Жоба келісім-шарттары бойынша жоба бағатізбелерін басқару
+            - name: Жобаға негізделген келісім-шарттар бойынша жоба бағатізбелерін басқару
               href: sales/contracts-manage-project-price-lists.md
-            - name: Бірнеше тұтынушыны жоба келісім-шарттары бойынша басқару
+            - name: Бірнеше тұтынушыны жобаға негізделген келісім-шарттар бойынша басқару
               href: sales/manage-multiple-customers-contract.md
             - name: Жобаға негізделген келісім-шарт жолдары
               items:
-                - name: Жобаға негізделген келісім-шарт жолдарына шолу
+                - name: Жобалық келісім-шарт жолдарына шолу
                   href: pro/sales/manage-contract-values-project-based-sales.md
                 - name: Бірнеше тұтынушыны жобаға негізделген келісім-шарт жолдары бойынша басқару
                   href: sales/manage-multiple-customers-contract-line.md
-                - name: Жобалар мен тапсырмаларды жоба келісім-шарты жолында салыстыру
+                - name: Жобалар мен тапсырмаларды жобалық келісім-шарт жолымен салыстыру
                   href: pro/sales/mapping-projects-tasks-contract-line-sales.md
-                - name: Жоба келісім-шарты жолына арналған ақылы құрамдастарды конфигурациялау
+                - name: Жобалық келісім-шарт жолының ақылы құрамдастарын конфигурациялау
                   href: pro/sales/configure-chargeable-components-contract-line.md
-                - name: Жобалық келісім-шарт жолын болжау
+                - name: Жобаға негізделген келісім-шарт жолын болжау
                   href: sales/create-estimate-contract-line.md
-                - name: Болжамдарды жобадан жобаға негізделген келісім-шарт жолына импорттау
-                  href: sales/import-estimate-project-contract-line.md
-                - name: Жобаға негізделген келісім-шарт жолдары бойынша есеп-шот кестелерін жасау
+                - name: Болжамдарды жобадан жобалық келісім-шарт жолына импорттау
+                  href: pro/sales/import-estimate-project-contract-line-sales.md
+                - name: Жобаға негізделген келісім-шарт жолы бойынша есеп-шот кестелерін жасау
                   href: sales/invoice-schedules-contract-line.md
             - name: Жобаға негізделген келісім-шарттарды көшіру
               href: sales/copy-project-based-contracts-sales.md
@@ -208,11 +210,11 @@
               href: pro/sales/confirm-contract-sales.md
             - name: Аванстар мен қаламақылар
               items:
-                - name: Аванстар мен қаламақыға негізделген келісім-шарттар
+                - name: Аванстарға және қаламақыға негізделген жобалық келісім-шарттар
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
                 - name: Қаламақы кестесін орнату
                   href: pro/sales/set-up-schedule-retainers-sales.md
-                - name: Келісім-шартта арнайы аванс жасау
+                - name: Жобалық келісім-шартта арнайы аванс жасау
                   href: pro/sales/create-ad-hoc-advance-sales.md
     - name: Баға мен құн
       items:
@@ -594,9 +596,9 @@
               href: proforma-invoicing/corrective-invoices.md
         - name: Тұтынушы есеп-шоты
           items:
-            - name: Жоба есеп-шотының ұсыныстарын басқару
+            - name: Жоба есеп-шотының ұсынуларын басқару
               href: invoicing/format-update-project-invoice-proposals.md
-            - name: Нобай жобасы есеп‑шот ұсыныстарындағы есепті түзету
+            - name: Нобай жобасы есеп‑шот ұсынуларындағы есепті түзету
               href: invoicing/correct-project-invoice-proposals.md
         - name: Компанияаралық шот жіберу
           items:
@@ -642,6 +644,8 @@
           href: advanced-configuration/migrating-invoiced-milestones.md
         - name: Жабық жобаларға кіруін болдырмау үшін жоба күйін синхрондау
           href: advanced-configuration/sync-project-status.md
+        - name: Шығын мөлшерлемелерінен сату бағаларын есептеу үшін валютаны айырбастауды орнату
+          href: advanced-configuration/currencyconversion.md
     - name: Жаңарту
       items:
         - name: Заманауи мақұлдауларға арналған жаңартулар
@@ -664,7 +668,7 @@
           href: pro/project-operations-overview-lite.md
         - name: Алдын ала қарау жазылымына тіркелу - жеңілдетілген
           href: environment/lite-preview-subscription-sign-up.md
-        - name: Project Operations бағдарламасын орналастыру - жеңілдетілген
+        - name: Project Operations жеңілдетілген бағдарламасын орналастыру
           href: environment/lite-deployment.md
         - name: Демо нұсқадағы параметрлер мен конфигурация деректерін қолдану - жеңілдетілген
           href: environment/lite-apply-demo-setup-config-data.md
@@ -672,10 +676,14 @@
           href: environment/security-model.md
     - name: Жаңалық
       items:
-        - name: 2022 жылдың қыркүйек айындағы жаңалықтар - жеңілдетілген орналастыру
-          href: pro/whats-new/whats-new-sept-2022-lite.md
+        - name: 2022 жылдың қараша айындағы жаңалықтар - жеңілдетілген орналастыру
+          href: pro/whats-new/whats-new-nov-2022-lite.md
         - name: Мұрағат
           items:
+            - name: 2022 жылдың қазан айындағы жаңалықтар - жеңілдетілген орналастыру
+              href: pro/whats-new/whats-new-oct-2022-lite.md
+            - name: 2022 жылдың қыркүйек айындағы жаңалықтар - жеңілдетілген орналастыру
+              href: pro/whats-new/whats-new-sept-2022-lite.md
             - name: 2022 жылдың тамыз айындағы жаңалықтар - жеңілдетілген орналастыру
               href: pro/whats-new/whats-new-aug-2022-lite.md
             - name: 2022 жылдың шілде айындағы жаңалықтар - жеңілдетілген орналастыру
@@ -746,23 +754,23 @@
               href: pro/sales/product-based-lines-sales.md
             - name: Жобаға негізделген мүмкіндік жолдарын басқару
               href: pro/sales/project-based-lines-sales.md
-            - name: Жоба мүмкіндіктерінен баға ұсыныстарын жасау
+            - name: Жоба мүмкіндіктерінен баға ұсынуларын жасау
               href: sales/link-quotes-opportunities.md
-            - name: Жобаға негізделген мүмкіндіктерді көшіру
+            - name: Жоба мүмкіндіктерін көшіру
               href: sales/copy-project-based-opportunity.md
             - name: Жоба мүмкіндігін жабу
               href: sales/close-opportunity.md
-        - name: Жобаға негізделген баға ұсыныстарын басқару
+        - name: Жобаның баға ұсынуларын басқару
           items:
-            - name: Жобаға негізделген баға ұсыныстарына шолу
+            - name: Жобаның баға ұсынуларына шолу
               href: pro/sales/manage-quotes-sales.md
-            - name: Жобаның баға ұсыныстары үшін бірегей түсініктер
+            - name: Жобаның баға ұсынулары үшін бірегей түсініктер
               href: pro/sales/quotes-key-concepts-sales.md
-            - name: Жобаның баға ұсыныстарына арналған тақырып мәліметтері
+            - name: Жобаның баға ұсынуларына арналған тақырып мәліметтері
               href: pro/sales/quote-values-budget-limits-contract-sales.md
-            - name: Жобаның баға ұсыныстарындағы бірнеше тұтынушы
+            - name: Бірнеше тұтынушыны жобаның баға ұсынулары бойынша басқару
               href: pro/sales/manage-multiple-customers-quote-sales.md
-            - name: Жобаның баға ұсыныстарындағы жоба бағатізбелері
+            - name: Жобаның баға ұсынуларындағы жоба бағатізбелері
               href: pro/sales/manage-project-price-lists-sales.md
             - name: Өнімге негізделген баға ұсыну жолдары
               items:
@@ -772,37 +780,37 @@
                   href: pro/sales/costing-product-based-quote-lines-sales.md
                 - name: Өнімге негізделген баға ұсыну жолдары үшін күрделі бірліктерді басқару
                   href: pro/sales/managing-complex-units-product-based-quote-lines-sales.md
-            - name: Жобаға негізделген баға ұсыну жолдары
+            - name: Жобалық баға ұсыну жолдары
               items:
-                - name: Жобаға негізделген баға ұсыну жолдарына шолу
+                - name: Жобаның баға ұсыну жолдарына шолу
                   href: pro/sales/manage-quoted-values-budget-limits-quote-line-sales.md
-                - name: Бірнеше тұтынушыны басқару
+                - name: Бірнеше тұтынушыны жобалық баға ұсыну жолдары бойынша басқару
                   href: pro/sales/manage-multiple-customers-quote-line-sales.md
-                - name: Жобалар мен тапсырмаларды салыстыру
+                - name: Жобалар мен тапсырмаларды жобаның баға ұсыну жолдарымен салыстыру
                   href: pro/sales/mapping-projects-tasks-quote-line-sales.md
-                - name: Ақылы құрамдастарды конфигурациялау
+                - name: Жобаның баға ұсыну жолдарында ақылы құрамдастарды конфигурациялау
                   href: pro/sales/configure-chargeable-components-quote-line-sales.md
-                - name: Жобаға негізделген баға ұсыну жолын болжау
+                - name: Жобаның баға ұсыну жолын болжау
                   href: pro/sales/create-estimate-quote-line-sales.md
-                - name: Болжамды жобадан импорттау
+                - name: Болжамдарды жобадан жобаның баға ұсыну жолына импорттау
                   href: pro/sales/import-estimate-project-quote-sales.md
-                - name: Есеп-шот кестелерін басқару
+                - name: Жобаның баға ұсыну жолдарындағы есеп-шот кестелері
                   href: sales/invoice-schedule-quote-line.md
-            - name: Жобаға негізделген баға ұсыныстарын көшіру
+            - name: Жобаның баға ұсынуларын көшіру
               href: sales/lose-quote.md
             - name: Жобалық баға ұсынуды белсендіру және қайта қарау
               href: sales/activation-and-revision.md
-            - name: Жобаға негізделген баға ұсыныстарын жабу
+            - name: Жобаның баға ұсынуларын жабу
               href: pro/sales/win-quote-sales.md
-        - name: Жобаға негізделген келісім-шарттарды басқару
+        - name: Жоба келісім-шарттарын басқару
           items:
-            - name: Жобаға негізделген келісім-шарттарға шолу
+            - name: Жобалық келісім-шарттарға шолу
               href: pro/sales/manage-contracts-sales.md
             - name: Жоба келісім-шарттары үшін бірегей түсініктер
               href: pro/sales/contracts-key-concepts-sales.md
             - name: Жоба келісім-шарттарына арналған тақырып мәліметтері
               href: pro/sales/project-contract-settings-sales.md
-            - name: Жоба келісім-шарттарындағы бірнеше тұтынушы
+            - name: Бірнеше тұтынушыны жоба келісім-шарттары бойынша басқару
               href: pro/sales/manage-multiple-customers-contract-sales.md
             - name: Жоба келісім-шарттарындағы жоба бағатізбелері
               href: sales/contracts-manage-project-price-lists.md
@@ -814,21 +822,21 @@
                   href: pro/sales/cost-product-based-contract-lines-sales.md
                 - name: Өнімге негізделген келісім-шарт жолдары үшін күрделі бірліктерді басқару
                   href: pro/sales/manage-complex-units-product-based-contract-lines-sales.md
-            - name: Жобаға негізделген келісім-шарт жолдары
+            - name: Жобалық келісім-шарт жолдары
               items:
-                - name: Жобаға негізделген келісім-шарт жолдарына шолу
+                - name: Жобалық келісім-шарт жолдарына шолу
                   href: pro/sales/manage-contract-values-project-based-sales.md
-                - name: Бірнеше келісім-шарт тұтынушыларын басқару
+                - name: Бірнеше тұтынушыны жоба келісім-шарттары бойынша басқару
                   href: pro/sales/manage-multiple-customers-contract-line-sales.md
-                - name: Жобалар мен тапсырмаларды жоба келісім-шарты жолымен салыстыру
+                - name: Жобалар мен тапсырмаларды жобалық келісім-шарт жолымен салыстыру
                   href: pro/sales/mapping-projects-tasks-contract-line-sales.md
-                - name: Жоба келісім-шарты жолындағы ақылы құрамдастарды конфигурациялау
+                - name: Жобалық келісім-шарт жолындағы ақылы құрамдастарды конфигурациялау
                   href: pro/sales/configure-chargeable-components-contract-line.md
-                - name: Жобаға негізделген келісім-шарт жолын болжау
+                - name: Жобалық келісім-шарт жолын болжау
                   href: pro/sales/create-estimate-project-contract-line-sales.md
-                - name: Болжамдарды жобадан жоба келісім-шарты жолына импорттау
+                - name: Болжамдарды жобадан жобалық келісім-шарт жолына импорттау
                   href: pro/sales/import-estimate-project-contract-line-sales.md
-                - name: Есеп-шот кестелерін жоба келісім-шарты жолы бойынша басқару
+                - name: Есеп-шот кестелерін жобалық келісім-шарт жолы бойынша жасау
                   href: pro/sales/invoice-schedules-contract-line-sales.md
             - name: Жоба келісім-шарттарын көшіру
               href: pro/sales/copy-project-contracts-sales.md
@@ -836,11 +844,11 @@
               href: pro/sales/confirm-contract-sales.md
             - name: Аванстар мен қаламақылар
               items:
-                - name: Аванстар және қаламақыға негізделген келісім-шарттар - жеңілдетілген
+                - name: Аванстар мен қаламақыға негізделген келісім-шарттар
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
-                - name: Қаламақы кестесін орнату - жеңілдетілген
+                - name: Қаламақы кестесін орнатуҚаламақы кестесін орнату
                   href: pro/sales/set-up-schedule-retainers-sales.md
-                - name: Келісім-шартта арнайы аванс жасау - жеңілдетілген
+                - name: Жобалық келісім-шартта арнайы аванс жасау
                   href: pro/sales/create-ad-hoc-advance-sales.md
     - name: Баға мен құн
       items:
@@ -1188,10 +1196,12 @@
               href: whats-new/ur5-nonstocked-installation.md
     - name: Жаңалық
       items:
-        - name: 2022 жылдың қыркүйек айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
-          href: prod-pma/whats-new/whats-new-sept-2022-stocked.md
+        - name: 2022 жылдың қазан айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations
+          href: prod-pma/whats-new/whats-new-oct-2022-stocked.md
         - name: Мұрағат
           items:
+            - name: 2022 жылдың қыркүйек айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлеріне арналған Project Operations
+              href: prod-pma/whats-new/whats-new-sept-2022-stocked.md
             - name: 2022 жылдың шілде айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations
               href: prod-pma/whats-new/whats-new-jul-2022-stocked.md
             - name: 2022 жылдың маусым айындағы жаңалықтар - қосалқы/өндіріске негізделген сценарийлерге арналған Project Operations
@@ -1216,13 +1226,17 @@
               href: prod-pma/whats-new/whats-new-nov-2020-production-based.md
     - name: Қосалқы/өндіріске негізделген сценарийлерді орналастыруға арналған Project Operations бағдарламасына шолу
       href: prod-pma/project-operations-prod-order-deployment-overview.md
-    - name: Жобаларды басқару және есепке шолу
-      href: prod-pma/overview-project-management-accounting.md
+    - name: Жоба есебі
+      items:
+        - name: Жобаларды басқару және есепке шолу
+          href: prod-pma/overview-project-management-accounting.md
+        - name: Жоба түзетулері
+          href: project-accounting/project-adjustments.md
     - name: Жобаның сату процесі
       items:
         - name: Жоба ұсыныстары
           href: prod-pma/project-quotations.md
-        - name: 'Жоба ұсыныстарын растау, жаңарту және жіберу'
+        - name: 'Жоба ұсынуларын растау, жаңарту және жіберу'
           href: prod-pma/confirm-update-send-project-quotation.md
         - name: Ұсынысты жобаға тасымалдау
           href: prod-pma/transfer-quote-new-existing-project.md
@@ -1358,7 +1372,7 @@
       items:
         - name: Жоба есеп-шотын ұсыну
           href: /dynamics365/finance/accounts-payable/project-invoicing
-        - name: Жоба есеп-шоты ұсыныстарының өнімділігі
+        - name: Жоба есеп-шоты ұсынуларының өнімділігі
           href: prod-pma/project-invoice-proposal-performance.md
         - name: Орындалу барысы бойынша шот ұсынуға арналған кеңейтілген келісім-шарттарды жасау
           href: prod-pma/project-create-advanced-contracts-for-billing-based-progress.md
@@ -1652,7 +1666,7 @@
               href: psa/basic-business-transactions.md
             - name: Болжамдар
               href: psa/estimates.md
-            - name: Жобаның баға ұсыныстарын талдау
+            - name: Жобаның баға ұсынуларын талдау
               href: psa/basic-analyzing-quotes.md
             - name: Бұрын бекітілген уақыт пен шығыс жазбаларын қайтару
               href: psa/recall-approved.md
