@@ -596,9 +596,9 @@
               href: proforma-invoicing/corrective-invoices.md
         - name: Тұтынушы есеп-шоты
           items:
-            - name: Жоба есеп-шотының ұсынуларын басқару
+            - name: Жоба есеп-шотының ұсыныстарын басқару
               href: invoicing/format-update-project-invoice-proposals.md
-            - name: Нобай жобасы есеп‑шот ұсынуларындағы есепті түзету
+            - name: Нобай жобасы есеп‑шот ұсыныстарындағы есепті түзету
               href: invoicing/correct-project-invoice-proposals.md
         - name: Компанияаралық шот жіберу
           items:
@@ -846,7 +846,7 @@
               items:
                 - name: Аванстар мен қаламақыға негізделген келісім-шарттар
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
-                - name: Қаламақы кестесін орнатуҚаламақы кестесін орнату
+                - name: Қаламақы кестесін орнату
                   href: pro/sales/set-up-schedule-retainers-sales.md
                 - name: Жобалық келісім-шартта арнайы аванс жасау
                   href: pro/sales/create-ad-hoc-advance-sales.md
@@ -1372,7 +1372,7 @@
       items:
         - name: Жоба есеп-шотын ұсыну
           href: /dynamics365/finance/accounts-payable/project-invoicing
-        - name: Жоба есеп-шоты ұсынуларының өнімділігі
+        - name: Жоба есеп-шоты ұсыныстарының өнімділігі
           href: prod-pma/project-invoice-proposal-performance.md
         - name: Орындалу барысы бойынша шот ұсынуға арналған кеңейтілген келісім-шарттарды жасау
           href: prod-pma/project-create-advanced-contracts-for-billing-based-progress.md
@@ -1666,7 +1666,7 @@
               href: psa/basic-business-transactions.md
             - name: Болжамдар
               href: psa/estimates.md
-            - name: Жобаның баға ұсынуларын талдау
+            - name: Жобаның баға ұсыныстарын талдау
               href: psa/basic-analyzing-quotes.md
             - name: Бұрын бекітілген уақыт пен шығыс жазбаларын қайтару
               href: psa/recall-approved.md
